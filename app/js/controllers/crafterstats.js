@@ -15,6 +15,7 @@
     $scope.refreshChar = refreshChar;
     $scope.selectActionsByLevel = selectActionsByLevel;
     $scope.selectActionsGuaranteed = selectActionsGuaranteed;
+    $scope.selectActionsSolverRecommended = selectActionsSolverRecommended;
 
     // Keep list of specialist actions
     var specialistActions = [];
@@ -131,14 +132,18 @@
     }
 
     function selectActionsByLevel(cls) {
-      selectActions(cls, false);
+      selectActions(cls, false, false);
     }
     
     function selectActionsGuaranteed(cls) {
-      selectActions(cls, true);
+      selectActions(cls, true, false);
+    }
+	
+	function selectActionsSolverRecommended(cls) {
+      selectActions(cls, true, true);
     }
 
-    function selectActions(cls, bySuccessRate) {
+    function selectActions(cls, bySuccessRate, solverRecommended) {
       var stats = $scope.crafter.stats[cls];
       var selectedActions = [];
 
@@ -163,6 +168,15 @@
           // If this is one of the base versions and our level is high enough to use the upgraded version, skip it.
           if (action.shortName === "rapidSynthesis" && $scope.crafter.stats[actionClass].level >= 63) continue;
           if (action.shortName === "basicSynth" && $scope.crafter.stats[actionClass].level >= 31) continue;
+          if (action.shortName === "carefulSynthesis" && $scope.crafter.stats[actionClass].level >= 82) continue;
+          if (action.shortName === "groundwork" && $scope.crafter.stats[actionClass].level >= 86) continue;
+		  if (action.shortName === "finalAppraisal" && solverRecommended) continue;
+		  if (action.shortName === "observe" && solverRecommended) continue;
+		  if (action.shortName === "intensiveSynthesis" && solverRecommended) continue;
+		  if (action.shortName === "preciseTouch" && solverRecommended) continue;
+		  if (action.shortName === "tricksOfTheTrade" && solverRecommended) continue;
+		  if (action.shortName === "trainedFinesse" && solverRecommended) continue;
+		  if (action.shortName === "heartAndSoul" && solverRecommended) continue;
 
           selectedActions.push(action.shortName);
         }

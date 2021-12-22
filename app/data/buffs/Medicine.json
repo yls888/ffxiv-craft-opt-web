@@ -1,16 +1,93 @@
 [
   {
+    "cp_percent": 5,
+    "cp_value": 17,
+    "hq": false,
+    "id": "4fe710c87f9",
+    "name": {
+      "cn": "【ilv.554】魔匠药酒",
+      "de": "Fachwissen-Kräuterwein",
+      "en": "Cunning Craftsman's Draught",
+      "fr": "Potion spiritueuse de capacité",
+      "ja": "魔匠の薬酒"
+    }
+  },
+  {
+    "cp_percent": 6,
+    "cp_value": 21,
+    "hq": true,
+    "id": "4fe710c87f9",
+    "name": {
+      "cn": "【ilv.554】魔匠药酒",
+      "de": "Fachwissen-Kräuterwein",
+      "en": "Cunning Craftsman's Draught",
+      "fr": "Potion spiritueuse de capacité",
+      "ja": "魔匠の薬酒"
+    }
+  },
+  {
+    "control_percent": 2,
+    "control_value": 40,
+    "hq": false,
+    "id": "3574f8c53d8",
+    "name": {
+      "cn": "【ilv.540】巨匠药酒",
+      "de": "Fachkenntnis-Kräuterwein",
+      "en": "Commanding Craftsman's Draught",
+      "fr": "Potion spiritueuse de maîtrise",
+      "ja": "巨匠の薬酒"
+    }
+  },
+  {
+    "control_percent": 3,
+    "control_value": 50,
+    "hq": true,
+    "id": "3574f8c53d8",
+    "name": {
+      "cn": "【ilv.540】巨匠药酒",
+      "de": "Fachkenntnis-Kräuterwein",
+      "en": "Commanding Craftsman's Draught",
+      "fr": "Potion spiritueuse de maîtrise",
+      "ja": "巨匠の薬酒"
+    }
+  },
+  {
+    "craftsmanship_percent": 2,
+    "craftsmanship_value": 40,
+    "hq": false,
+    "id": "99c8f8f8de2",
+    "name": {
+      "cn": "【ilv.527】名匠药酒",
+      "de": "Facharbeiter-Kräuterwein",
+      "en": "Competent Craftsman's Draught",
+      "fr": "Potion spiritueuse de virtuosité",
+      "ja": "名匠の薬酒"
+    }
+  },
+  {
+    "craftsmanship_percent": 3,
+    "craftsmanship_value": 50,
+    "hq": true,
+    "id": "99c8f8f8de2",
+    "name": {
+      "cn": "【ilv.527】名匠药酒",
+      "de": "Facharbeiter-Kräuterwein",
+      "en": "Competent Craftsman's Draught",
+      "fr": "Potion spiritueuse de virtuosité",
+      "ja": "名匠の薬酒"
+    }
+  },
+  {
     "control_percent": 2,
     "control_value": 34,
     "hq": false,
     "id": "99c8f8f8de2",
     "name": {
-      "cn": "巨匠药水",
+      "cn": "【ilv.412】巨匠药水",
       "de": "Artisanentrank der Fachkenntnis",
       "en": "Commanding Craftsman's Syrup",
       "fr": "Potion de maîtrise",
-      "ja": "巨匠の水薬",
-      "ko": "Commanding Craftsman's Syrup"
+      "ja": "巨匠の水薬"
     }
   },
   {
@@ -19,12 +96,11 @@
     "hq": true,
     "id": "99c8f8f8de2",
     "name": {
-      "cn": "巨匠药水",
+      "cn": "【ilv.412】巨匠药水",
       "de": "Artisanentrank der Fachkenntnis",
       "en": "Commanding Craftsman's Syrup",
       "fr": "Potion de maîtrise",
-      "ja": "巨匠の水薬",
-      "ko": "Commanding Craftsman's Syrup"
+      "ja": "巨匠の水薬"
     }
   },
   {
@@ -33,12 +109,11 @@
     "hq": false,
     "id": "3574f8c53d8",
     "name": {
-      "cn": "巨匠药茶",
+      "cn": "【ilv.276】巨匠药茶",
       "de": "Handwerkerlegenden-Tee",
       "en": "Commanding Craftsman's Tea",
       "fr": "Infusion de maîtrise",
-      "ja": "巨匠の薬茶",
-      "ko": "거장의 약차"
+      "ja": "巨匠の薬茶"
     }
   },
   {
@@ -47,12 +122,11 @@
     "hq": true,
     "id": "3574f8c53d8",
     "name": {
-      "cn": "巨匠药茶",
+      "cn": "【ilv.276】巨匠药茶",
       "de": "Handwerkerlegenden-Tee",
       "en": "Commanding Craftsman's Tea",
       "fr": "Infusion de maîtrise",
-      "ja": "巨匠の薬茶",
-      "ko": "거장의 약차"
+      "ja": "巨匠の薬茶"
     }
   },
   {
@@ -61,12 +135,11 @@
     "hq": false,
     "id": "92d3ba5a6d6",
     "name": {
-      "cn": "名匠药水",
+      "cn": "【ilv.406】名匠药水",
       "de": "Artisanentrank der Effizienz",
       "en": "Competent Craftsman's Syrup",
       "fr": "Potion de virtuosité",
-      "ja": "名匠の水薬",
-      "ko": "Competent Craftsman's Syrup"
+      "ja": "名匠の水薬"
     }
   },
   {
@@ -75,12 +148,11 @@
     "hq": true,
     "id": "92d3ba5a6d6",
     "name": {
-      "cn": "名匠药水",
+      "cn": "【ilv.406】名匠药水",
       "de": "Artisanentrank der Effizienz",
       "en": "Competent Craftsman's Syrup",
       "fr": "Potion de virtuosité",
-      "ja": "名匠の水薬",
-      "ko": "Competent Craftsman's Syrup"
+      "ja": "名匠の水薬"
     }
   },
   {
@@ -89,12 +161,11 @@
     "hq": false,
     "id": "373c88c80d3",
     "name": {
-      "cn": "名匠药茶",
+      "cn": "【ilv.273】名匠药茶",
       "de": "Handwerkermeister-Tee",
       "en": "Competent Craftsman's Tea",
       "fr": "Infusion de virtuosité",
-      "ja": "名匠の薬茶",
-      "ko": "장인의 약차"
+      "ja": "名匠の薬茶"
     }
   },
   {
@@ -103,12 +174,11 @@
     "hq": true,
     "id": "373c88c80d3",
     "name": {
-      "cn": "名匠药茶",
+      "cn": "【ilv.273】名匠药茶",
       "de": "Handwerkermeister-Tee",
       "en": "Competent Craftsman's Tea",
       "fr": "Infusion de virtuosité",
-      "ja": "名匠の薬茶",
-      "ko": "장인의 약차"
+      "ja": "名匠の薬茶"
     }
   },
   {
@@ -117,12 +187,11 @@
     "hq": false,
     "id": "4fe710c87f9",
     "name": {
-      "cn": "魔匠药水",
+      "cn": "【ilv.412】魔匠药水",
       "de": "Artisanentrank des Fachwissens",
       "en": "Cunning Craftsman's Syrup",
       "fr": "Potion de capacité",
-      "ja": "魔匠の水薬",
-      "ko": "Cunning Craftsman's Syrup"
+      "ja": "魔匠の水薬"
     }
   },
   {
@@ -131,12 +200,11 @@
     "hq": true,
     "id": "4fe710c87f9",
     "name": {
-      "cn": "魔匠药水",
+      "cn": "【ilv.412】魔匠药水",
       "de": "Artisanentrank des Fachwissens",
       "en": "Cunning Craftsman's Syrup",
       "fr": "Potion de capacité",
-      "ja": "魔匠の水薬",
-      "ko": "Cunning Craftsman's Syrup"
+      "ja": "魔匠の水薬"
     }
   },
   {
@@ -145,12 +213,11 @@
     "hq": false,
     "id": "e01fa653061",
     "name": {
-      "cn": "魔匠药茶",
+      "cn": "【ilv.282】魔匠药茶",
       "de": "Handwerkerkoryphäen-Tee",
       "en": "Cunning Craftsman's Tea",
       "fr": "Infusion de capacité",
-      "ja": "魔匠の薬茶",
-      "ko": "명인의 약차"
+      "ja": "魔匠の薬茶"
     }
   },
   {
@@ -159,12 +226,11 @@
     "hq": true,
     "id": "e01fa653061",
     "name": {
-      "cn": "魔匠药茶",
+      "cn": "【ilv.282】魔匠药茶",
       "de": "Handwerkerkoryphäen-Tee",
       "en": "Cunning Craftsman's Tea",
       "fr": "Infusion de capacité",
-      "ja": "魔匠の薬茶",
-      "ko": "명인의 약차"
+      "ja": "魔匠の薬茶"
     }
   }
 ]

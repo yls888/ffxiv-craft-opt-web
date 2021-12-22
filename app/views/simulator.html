@@ -1,8 +1,17 @@
 <div>
-
   <div class="row-fluid ">
     <div class="recipe-search-control" ng-controller="RecipeSearchController">
       <form class="form-inline">
+	   <div class="control-group">
+          <label class="control-label">
+            <h5>
+              {{'Custom Recipe' | translate}} &nbsp;
+              <label class="checkbox">
+                <input type="checkbox" name="customRecipe" ng-model="customRecipeChecked" ng-click="loadRecipe()" id="useCustomRecipe"/>
+              </label>
+            </h5>
+          </label>
+        </div>
         <div class="dropdown">
           <div class="input-append">
             <span class="input-med uneditable-input">{{recipe.cls | translate}}</span>
@@ -16,7 +25,7 @@
           </div>
         </div>
 
-        <div class="my-dropdown" id="recipe-menu-root" >
+        <div class="my-dropdown" id="recipe-menu-root" ng-show="!customRecipeChecked">
           <div class="input-append">
             <span class="span4 uneditable-input my-dropdown-toggle">[{{recipe.baseLevel}}{{'*'.repeat(recipe.stars)}}] {{recipe.name}}</span>
 
@@ -25,7 +34,7 @@
             </div>
           </div>
           <div class="my-dropdown-menu">
-            <input class="input-medium search my-dropdown-focus" type="text" name="name"
+            <input class="input-medium search my-dropdown-focus" type="search" name="name" autocomplete="off"
                    ng-model="recipeSearch.text"
                    placeholder="{{ 'RECIPE_SEARCH' | translate }}" select-on-focus stop-click-propogation
                    ng-keypress="onSearchKeyPress($event)" ng-keydown="onSearchKeyDown($event)"
@@ -43,6 +52,63 @@
               </li>
             </ul>
           </div>
+        </div>
+        <div style="display: inline-block;" ng-show="customRecipeChecked">
+          <label class="control-label">
+            {{'Recipe Level' | translate}}
+            <label class="number">
+              <input type="number" style="width: 3em;" min="1" max="90" id="r-l"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Item Level' | translate}}
+            <label class="number">
+              <input type="number" style="width: 3em;" min="1" max="700" id="i-l"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Max Progress' | translate}}
+            <label class="number">
+              <input type="number" style="width: 4em;" min="1" max="30000" id="dif"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Max Quality' | translate}}
+            <label class="number">
+              <input type="number" style="width: 5em;" min="1" max="300000" id="m-q"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Durability' | translate}}
+            <label class="number">
+              <input type="number" style="width: 3em;" min="1" max="80" id="dur"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Progress Difficulty' | translate}}
+            <label class="number">
+              <input type="number" style="width: 4em;" min="1" max="9999" id="s-pd"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Quality Difficulty' | translate}}
+            <label class="number">
+              <input type="number" style="width: 4em;" min="1" max="9999" id="s-qd"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Extra Progress Difficulty' | translate}}
+            <label class="number">
+              <input type="number" style="width: 4em;" min="1" max="300" id="s-epd"/>
+            </label>
+          </label>
+          <label class="control-label">
+            {{'Extra Quality Difficulty' | translate}}
+            <label class="number">
+              <input type="number" style="width: 4em;" min="1" max="300" id="s-eqd"/>
+            </label>
+          </label>
+		  <button class="btn btn-primary" ng-click="saveRecipe()">{{ 'SAVE' | translate }}</button>
         </div>
       </form>
     </div>

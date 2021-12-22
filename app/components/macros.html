@@ -6,9 +6,14 @@
         <input type="checkbox" ng-model="options.includeMacroLock"/>{{ 'MACRO_INCLUDE_LOCK' | translate }}
       </label>
     </div>
+	<div class="controls">
+      <label class="checkbox">
+        <input type="checkbox" ng-model="options.takeOutDoubleQuotationMarks"/>{{ 'MACRO_TAKE_OUT_DOUBLE_QUOTATION_MARKS' | translate }}
+      </label>
+	</div>
   </div>
 </form>
 <div ng-repeat="macro in macroList track by $index">
-  <h6>Macro #{{$index+1}} <small>({{macro.time}}s)</small></h6>
+  <h6>{{ 'MACRO' | translate }} #{{$index+1}} <small>({{macro.time}}s)</small></h6>
   <textarea style="width:auto" cols="60" rows="16" readonly select-on-click>{{macro.text}}</textarea>
 </div>

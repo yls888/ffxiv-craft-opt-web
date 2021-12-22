@@ -133,6 +133,36 @@
                 </div>
               </div>
 
+              <div class="control-group">
+                <div class="controls">
+                  <label class="checkbox" tooltip="{{ 'SOLVE_FOR_COMPLETION_ONLY_INFO' | translate }}" tooltip-placement="right">
+                    <input type="checkbox" ng-model="solver.solveForCompletion"/>{{ 'SOLVE_FOR_COMPLETION_ONLY' | translate }}
+                  </label>
+                </div>
+              </div>
+
+              <div class="control-group" ng-class="{error: solver.solveForCompletion && solver.remainderCPFitnessValue.$invalid}">
+                <label class="control-label">{{ 'CP_RF_VALUE' | translate }}</label>
+
+                <div class="controls">
+                  <input class="input-small" type="number" name="maxLength" ng-model="solver.remainderCPFitnessValue"
+                         ng-disabled="!solver.solveForCompletion" min="1" ng-required="solver.solveForCompletion"
+                         tooltip="{{ 'CP_RF_VALUE_INFO' | translate }}"
+                         tooltip-placement="right"/>
+                </div>
+              </div>
+
+              <div class="control-group" ng-class="{error: solver.solveForCompletion && solver.remainderDurFitnessValue.$invalid}">
+                <label class="control-label">{{ 'DURABILITY_RF_VALUE' | translate }}</label>
+
+                <div class="controls">
+                  <input class="input-small" type="number" name="maxLength" ng-model="solver.remainderDurFitnessValue"
+                         ng-disabled="!solver.solveForCompletion" min="1" ng-required="solver.solveForCompletion"
+                         tooltip="{{ 'DURABILITY_RF_VALUE_INFO' | translate }}"
+                         tooltip-placement="right"/>
+                </div>
+              </div>
+
             </div>
             <div class="span6">
 
@@ -155,6 +185,26 @@
                 <div class="controls">
                   <input class="input-small" type="number" name="population" ng-model="solver.population" min="1" required
                          tooltip="{{ 'POPULATION_INFO' | translate }}"
+                         tooltip-placement="left"/>
+                </div>
+              </div>
+
+              <div class="control-group" ng-class="{error: solverOptionsForm.subpopulations.$invalid}">
+                <label class="control-label">{{ 'SUBPOPULATIONS' | translate }}</label>
+
+                <div class="controls">
+                  <input class="input-small" type="number" name="subpopulations" ng-model="solver.subPopulations" min="1" required
+                         tooltip="{{ 'SUBPOPULATIONS_INFO' | translate }}"
+                         tooltip-placement="left"/>
+                </div>
+              </div>
+
+              <div class="control-group" ng-class="{error: solverOptionsForm.maxStagnationCounter.$invalid}">
+                <label class="control-label">{{ 'MAX_STAGNATION_COUNTER' | translate }}</label>
+
+                <div class="controls">
+                  <input class="input-small" type="number" name="maxStagnationCounter" ng-model="solver.maxStagnationCounter" min="1" required
+                         tooltip="{{ 'MAX_STAGNATION_COUNTER_INFO' | translate }}"
                          tooltip-placement="left"/>
                 </div>
               </div>

@@ -1,124 +1,218 @@
 <!doctype html>
-<html lang="en" ng-app="ffxivCraftOptWeb">
-
-<head>
-  <meta charset="utf-8">
-  <title>FFXIV Crafting Optimizer</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
-  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css"/>
-  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.css">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/angular-busy/4.1.0/angular-busy.min.css"/>
-  <link rel="stylesheet" href="css/base.css"/>
-  <link rel="stylesheet" href="css/app.css"/>
-  <script src="https://code.angularjs.org/1.2.32/angular.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-router/1.0.0-rc.1/angular-ui-router.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-busy/4.1.0/angular-busy.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.6.1/angular-translate.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.6.1/angular-translate-loader-static-files/angular-translate-loader-static-files.min.js"></script>
-</head>
-
-<body ng-controller="MainController" ng-cloak>
-
-<div cg-busy="cgBusyConfig">
-  <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container-fluid">
-        <button type="button" class="btn btn-navbar" ng-click="pageState.navBarCollapsed = !pageState.navBarCollapsed">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="brand" href="index.html">FFXIV Crafting Optimizer</a>
-        <div class="nav-collapse" collapse="pageState.navBarCollapsed">
-          <ul class="nav">
-            <li ui-sref-active="active"><a ui-sref="simulator">{{ 'NAV_SIMULATOR' | translate }}</a></li>
-            <li ui-sref-active="active"><a ui-sref="solver">{{ 'NAV_SOLVER' | translate}}</a></li>
-            <li ui-sref-active="active"><a ui-sref="crafter-attributes">{{ 'NAV_CRAFTER_ATTRIBUTES' | translate }}</a></li>
-          </ul>
-          <ul class="nav pull-right">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle">{{ 'MORE' | translate}}</a>
-              <ul class="dropdown-menu">
-                <li><a ng-click="showSettingsImportModal()">{{ 'SETTINGS_MANAGEMENT' | translate }}</a></li>
-                <li ui-sref-active="active"><a ui-sref="about">{{ 'ABOUT' | translate}}</a></li>
-                <li ui-sref-active="active"><a ui-sref="instructions">{{ 'INSTRUCTIONS' | translate }}</a></li>
-                <li><a href="blog">Blog</a></li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle">{{ 'LANGUAGE' | translate }} : {{languages[currentLang()]}}</a>
-              <ul class="dropdown-menu">
-                <li ng-repeat="(langCode, langName) in languages"><a ng-click="changeLang(langCode)">{{langName}}</a></li>
-              </ul>
-            </li>
-            <li><a ng-click="showOptionsModal()">
-              <i ng-if="pageState.navBarCollapsed" class="fa fa-cog fa-lg"></i>
-              <span ng-if="!pageState.navBarCollapsed">{{ 'OPTIONS' | translate}}</span>
-            </a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container-fluid">
-    <div class="row-fluid">
-      <noscript>
-        <h1>{{ 'NO_SCRIPT' | translate}}</h1>
-      </noscript>
-      <ng-form name="allForms">
-        <div ui-view></div>
-      </ng-form>
-    </div>
-  </div>
-
-  <footer>
-    <div class="container-fluid">
-      <p class="muted">Copyright &copy; 2014 - 2017 by Rhoda Baker and Gordon Tyler. Sourcecode on <a href="http://github.com/doxxx/ffxiv-craft-opt-web">Github</a>. {{version}}</p>
-      <p class="muted">FINAL FANTASY XIV &copy;2010 - 2017 SQUARE ENIX CO., LTD. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All material used under license.</p>
-    </div>
-  </footer>
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/angular-ui-bootstrap/0.8.0/ui-bootstrap-tpls.min.js"></script>
-<script src="lib/lvl-drag-drop/lvl-uuid.js"></script>
-<script src="lib/lvl-drag-drop/lvl-drag-drop.js"></script>
-<script src="lib/string/String.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/1.3.3/FileSaver.min.js"></script>
-<script src="js/polyfills.js"></script>
-<script src="js/app.js"></script>
-<script src="js/routes.js"></script>
-<script src="js/actions.js"></script>
-<script src="js/services/actions.js"></script>
-<script src="js/services/bonusstats.js"></script>
-<script src="js/services/buffsdb.js"></script>
-<script src="js/services/locale.js"></script>
-<script src="js/services/recipelibrary.js"></script>
-<script src="js/services/profile.js"></script>
-<script src="js/services/simulator.js"></script>
-<script src="js/services/translatelocalstorage.js"></script>
-<script src="js/solver/service.js"></script>
-<script src="js/services/tooltips.js"></script>
-<script src="js/services/localstorage.js"></script>
-<script src="js/controllers/main.js"></script>
-<script src="js/controllers/crafterstats.js"></script>
-<script src="js/controllers/recipesearch.js"></script>
-<script src="js/controllers/simulator.js"></script>
-<script src="js/controllers/solver.js"></script>
-<script src="js/controllers/sequenceeditor.js"></script>
-<script src="js/controllers/options.js"></script>
-<script src="js/controllers/charimport.js"></script>
-<script src="js/controllers/settingsimport.js"></script>
-<script src="js/controllers/macroimport.js"></script>
-<script src="js/directives.js"></script>
-<script src="js/components/simulator-status.js"></script>
-<script src="js/components/action-table.js"></script>
-<script src="js/components/action-sequence.js"></script>
-<script src="js/components/macros.js"></script>
-<script src="js/components/buffs.js"></script>
-<script src="js/components/dropzone.js"></script>
-
-</body>
+<html lang="cn" ng-app="ffxivCraftOptWeb">
+	<head>
+		<meta name="force-rendering" content="webkit" />
+		<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+		<meta charset="utf-8">
+		<meta name="description" content="《最终幻想XIV》中文版生产模拟器，配方已采用国际服6.0、国服5.57最新数据，目前均可通用。本模拟器已汉化大部分内容，版权归原作者所有。">
+		<meta name="keywords" content="生产模拟器,最终幻想XIV,最终幻想14,FF14,FFXIV,FF14生产,FF14模拟器,ff14,FF14生产,FF14生产宏,FFXIV Crafting Optimizer">
+		<title>
+			《最终幻想14》生产模拟器 v6.0 Beta - FFXIV Crafting Optimizer
+		</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+		/>
+        <link rel="stylesheet" href="css/lib/bootstrap-combined.min.css" />
+        <link rel="stylesheet" href="css/lib/font-awesome.css">
+        <link rel="stylesheet" href="css/lib/angular-busy.min.css" />
+		<link rel="stylesheet" href="css/base.css" />
+		<link rel="stylesheet" href="css/app.css" />
+		<script src="js/lib/angular.min.js">
+		</script>
+		<script src="js/lib/angular-ui-router.js">
+		</script>
+		<script src="js/lib/angular-busy.min.js">
+		</script>
+		<script src="js/lib/angular-translate.min.js">
+		</script>
+		<script src="js/lib/angular-translate-loader-static-files.min.js">
+		</script>
+	</head>
+	<body ng-controller="MainController" ng-cloak>
+		<div cg-busy="cgBusyConfig">
+			<div class="navbar navbar-inverse navbar-fixed-top">
+				<div class="navbar-inner">
+					<div class="container-fluid">
+						<button type="button" class="btn btn-navbar" ng-click="pageState.navBarCollapsed = !pageState.navBarCollapsed">
+							<span class="icon-bar">
+							</span>
+							<span class="icon-bar">
+							</span>
+							<span class="icon-bar">
+							</span>
+						</button>
+						<a class="brand" href="index.html">
+							{{'FFXIV Crafting Optimizer' | translate}}
+						</a>
+						<div class="nav-collapse" collapse="pageState.navBarCollapsed">
+							<ul class="nav">
+								<li ui-sref-active="active">
+									<a ui-sref="simulator">
+										{{ 'NAV_SIMULATOR' | translate }}
+									</a>
+								</li>
+								<li ui-sref-active="active">
+									<a ui-sref="solver">
+										{{ 'NAV_SOLVER' | translate}}
+									</a>
+								</li>
+								<li ui-sref-active="active">
+									<a ui-sref="crafter-attributes">
+										{{ 'NAV_CRAFTER_ATTRIBUTES' | translate }}
+									</a>
+								</li>
+								<li ui-sref-active="active">
+									<a href="/crafter" style="color:#ffff00">
+										{{ 'Official Version' | translate }}
+									</a>
+								</li>
+							</ul>
+							<ul class="nav pull-right">
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle">
+										{{ 'MORE' | translate}}
+									</a>
+									<ul class="dropdown-menu">
+										<li>
+											<a ng-click="showSettingsImportModal()">
+												{{ 'SETTINGS_MANAGEMENT' | translate }}
+											</a>
+										</li>
+										<li ui-sref-active="active">
+											<a ui-sref="instructions">
+												{{ 'INSTRUCTIONS' | translate }}
+											</a>
+										</li>
+									</ul>
+								</li>
+								<li class="dropdown">
+									<a href="#" class="dropdown-toggle">
+										{{ 'LANGUAGE' | translate }} : {{languages[currentLang()]}}
+									</a>
+									<ul class="dropdown-menu">
+										<li ng-repeat="(langCode, langName) in languages">
+											<a ng-click="changeLang(langCode)">
+												{{langName}}
+											</a>
+										</li>
+									</ul>
+								</li>
+								<li>
+									<a ng-click="showOptionsModal()">
+										<i ng-if="pageState.navBarCollapsed" class="fa fa-cog fa-lg">
+										</i>
+										<span ng-if="!pageState.navBarCollapsed">
+											{{ 'OPTIONS' | translate}}
+										</span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="container-fluid">
+				<div class="row-fluid">
+					<noscript>
+						<h1>
+							{{ 'NO_SCRIPT' | translate}}
+						</h1>
+					</noscript>
+					<ng-form name="allForms">
+						<div ui-view>
+						</div>
+					</ng-form>
+				</div>
+			</div>
+			<footer>
+                <div class="container-fluid">
+                    <p class="muted">Copyright &copy; 2014 - 2021 by Rhoda Baker and Gordon Tyler. Simplified Chinese version edited by 瑤瑤瑤影@神意之地 & 甜鱼鱼@紫水栈桥 &
+                        <a href="https://github.com/kongspark/">kongspark@Github</a>. Original Sourcecode on
+                        <a href="http://github.com/doxxx/ffxiv-craft-opt-web">Github</a>. {{version}}</p>
+                    <p class="muted">FINAL FANTASY XIV &copy; 2010 - 2021 SQUARE ENIX CO., LTD. FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd. All material used under license.</p>
+                    <p class="muted" style="color:red;font-style:bold;">1、测试版模拟器最后更新时间：2021.12.03【适配版本号：国际服6.0，不可用于国服！！】，如遇各种异常情况，请务必先清空浏览器缓存再尝试。</p>
+                    <p class="muted" style="color:red;font-style:bold;">2、测试版主要对自定义配方、求解器等功能做了添加和优化，适配了6.0版本的新技能，目前仍有许多BUG，请随时关注更新。</p>
+                    <p class="muted" style="color:red;font-style:bold;">3、如页面宕机或对页面有反馈可以给我发送邮件：conan08#vip.qq.com（请把#替换成@），收到邮件会尽快处理。</p>
+                    <p class="muted" style="color:red;font-style:bold;">4、模拟器只支持非IE内核的浏览器，如页面出现乱码，请确认浏览器处在“极速模式”下，或<a href="https://www.google.cn/chrome/" target="_blank">点此</a>下载谷歌浏览器访问。</p>
+                    <div style="color:red; line-height:30px;">如果觉得本站对你有帮助，并愿意帮忙负担一点点服务器费用，请点击这里：<a href="https://afdian.net/@ffxivtk" target="_blank"><img src="img/coffee.png" alt="Buy Me a Coffee" style="height: 20px; text-align:right"></a></div>
+                </div>
+			</footer>
+		</div>
+		<script src="js/lib/ui-bootstrap-tpls.min.js">
+		</script>
+		<script src="lib/lvl-drag-drop/lvl-uuid.js">
+		</script>
+		<script src="lib/lvl-drag-drop/lvl-drag-drop.js">
+		</script>
+		<script src="lib/string/String.js">
+		</script>
+		<script src="js/lib/jszip.min.js">
+		</script>
+		<script src="js/lib/FileSaver.min.js">
+		</script>
+		<script src="js/polyfills.js">
+		</script>
+		<script src="js/app.js">
+		</script>
+		<script src="js/routes.js">
+		</script>
+		<script src="js/actions.js">
+		</script>
+		<script src="js/services/actions.js">
+		</script>
+		<script src="js/services/bonusstats.js">
+		</script>
+		<script src="js/services/buffsdb.js">
+		</script>
+		<script src="js/services/locale.js">
+		</script>
+		<script src="js/services/recipelibrary.js">
+		</script>
+		<script src="js/services/profile.js">
+		</script>
+		<script src="js/services/simulator.js">
+		</script>
+		<script src="js/services/translatelocalstorage.js">
+		</script>
+		<script src="js/solver/service.js">
+		</script>
+		<script src="js/services/tooltips.js">
+		</script>
+		<script src="js/services/localstorage.js">
+		</script>
+		<script src="js/controllers/main.js">
+		</script>
+		<script src="js/controllers/crafterstats.js">
+		</script>
+		<script src="js/controllers/recipesearch.js">
+		</script>
+		<script src="js/controllers/simulator.js">
+		</script>
+		<script src="js/controllers/solver.js">
+		</script>
+		<script src="js/controllers/sequenceeditor.js">
+		</script>
+		<script src="js/controllers/options.js">
+		</script>
+		<script src="js/controllers/charimport.js">
+		</script>
+		<script src="js/controllers/settingsimport.js">
+		</script>
+		<script src="js/controllers/macroimport.js">
+		</script>
+		<script src="js/directives.js">
+		</script>
+		<script src="js/components/simulator-status.js">
+		</script>
+		<script src="js/components/action-table.js">
+		</script>
+		<script src="js/components/action-sequence.js">
+		</script>
+		<script src="js/components/macros.js">
+		</script>
+		<script src="js/components/buffs.js">
+		</script>
+		<script src="js/components/dropzone.js">
+		</script>
+	</body>
 
 </html>

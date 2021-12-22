@@ -1,37 +1,36 @@
 //require('./String.js');
 /* Adding new actions search for STEP_##
-    * Add action to AllActions object STEP_01
-    * Add action effect to ApplySpecialActionEffects STEP_02
-    * Add action counter to UpdateEffectCounters STEP_03
-*/
+ * Add action to AllActions object STEP_01
+ * Add action effect to ApplySpecialActionEffects STEP_02
+ * Add action counter to UpdateEffectCounters STEP_03
+ */
 
 /* ToDo
-    * Implement Heavensward actions
+ * Implement Heavensward actions
  */
 
 function LogOutput() {
-  this.log = '';
+    this.log = '';
 }
 
 LogOutput.prototype.write = function (s) {
-  this.log += s;
+    this.log += s;
 };
 
 LogOutput.prototype.clear = function () {
-  this.log = '';
+    this.log = '';
 };
 
 function Logger(logOutput) {
     this.logOutput = logOutput;
 }
 
-Logger.prototype.log = function(myString) {
+Logger.prototype.log = function (myString) {
     var args = Array.prototype.slice.call(arguments, 1);
     var msg = String.prototype.sprintf.apply(myString, args);
     if (this.logOutput !== undefined && this.logOutput !== null) {
         this.logOutput.write(msg + '\n');
-    }
-    else {
+    } else {
         console.log(msg);
     }
 };
@@ -45,13 +44,12 @@ function Crafter(cls, level, craftsmanship, control, craftPoints, specialist, ac
     this.specialist = specialist;
     if (actions === null) {
         this.actions = [];
-    }
-    else {
+    } else {
         this.actions = actions;
     }
 }
 
-function Recipe(baseLevel, level, difficulty, durability, startQuality, maxQuality, suggestedCraftsmanship, suggestedControl) {
+function Recipe(baseLevel, level, difficulty, durability, startQuality, maxQuality, suggestedCraftsmanship, suggestedControl, progressDivider, progressModifier, qualityDivider, qualityModifier, stars) {
     this.baseLevel = baseLevel;
     this.level = level;
     this.difficulty = difficulty;
@@ -60,25 +58,44 @@ function Recipe(baseLevel, level, difficulty, durability, startQuality, maxQuali
     this.maxQuality = maxQuality;
     this.suggestedCraftsmanship = suggestedCraftsmanship || SuggestedCraftsmanship[this.level];
     this.suggestedControl = suggestedControl || SuggestedControl[this.level];
+    this.progressDivider = progressDivider;
+    this.progressModifier = progressModifier;
+    this.qualityDivider = qualityDivider;
+    this.qualityModifier = qualityModifier;
+    this.stars = stars;
 }
 
-function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, maxLength) {
+// Extra solver vars that the synth needs to take into account
+function SolverVars(solveForCompletion, remainderCPFitnessValue, remainderDurFitnessValue) {
+    this.solveForCompletion = solveForCompletion;
+    this.remainderCPFitnessValue = remainderCPFitnessValue;
+    this.remainderDurFitnessValue = remainderDurFitnessValue;
+}
+
+function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, maxLength, solverVars) {
     this.crafter = crafter;
     this.recipe = recipe;
     this.maxTrickUses = maxTrickUses;
     this.useConditions = useConditions;
     this.reliabilityIndex = reliabilityIndex;
     this.maxLength = maxLength;
+    this.solverVars = solverVars;
 }
 
-Synth.prototype.calculateBaseProgressIncrease = function (levelDifference, craftsmanship) {
-    var levelDifferenceFactor = getLevelDifferenceFactor('craftsmanship', levelDifference);
-    return Math.floor((levelDifferenceFactor * (0.21 * craftsmanship + 2) * (10000 + craftsmanship)) / (10000 + this.recipe.suggestedCraftsmanship))
+Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craftsmanship) {
+    var baseValue = (craftsmanship * 10) / this.recipe.progressDivider + 2;
+    if (effCrafterLevel <= this.recipe.level) {
+        return Math.floor((baseValue * (this.recipe.progressModifier || 100)) / 100);
+    }
+    return baseValue;
 };
 
-Synth.prototype.calculateBaseQualityIncrease = function (levelDifference, control) {
-    var levelDifferenceFactor = getLevelDifferenceFactor('control', levelDifference);
-    return Math.floor((levelDifferenceFactor * (0.35 * control + 35) * (10000 + control)) / (10000 + this.recipe.suggestedControl))
+Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, control) {
+    var baseValue = (control * 10) / this.recipe.qualityDivider + 35;
+    if (effCrafterLevel <= this.recipe.level) {
+        return Math.floor((baseValue * (this.recipe.qualityModifier || 100)) / 100);
+    }
+    return baseValue;
 };
 
 function isActionEq(action1, action2) {
@@ -89,17 +106,38 @@ function isActionNe(action1, action2) {
     return action1.shortName !== action2.shortName;
 }
 
+// Ranged edit -- Combo actions. Poor coding practice but I'm not too experienced with JS and I wouldn't know how to do it otherwise...
+// This returns the action object matching the name
+function getComboAction(comboName) {
+    var returnAction;
+
+    if (comboName == AllActions.observe.shortName) { // Observe
+        returnAction = AllActions.observe;
+    } else if (comboName == AllActions.focusedTouch.shortName) { // Focused Touch
+        returnAction = AllActions.focusedTouch;
+    } else if (comboName == AllActions.focusedSynthesis.shortName) { // Focused Synthesis
+        returnAction = AllActions.focusedSynthesis;
+    } else if (comboName == AllActions.basicTouch.shortName) { // Basic Touch
+        returnAction = AllActions.basicTouch;
+    } else if (comboName == AllActions.standardTouch.shortName) { // Standard Touch
+        returnAction = AllActions.standardTouch;
+    } else if (comboName == AllActions.advancedTouch.shortName) { // Advanced Touch
+        returnAction = AllActions.advancedTouch;
+    }
+    return returnAction;
+}
+
 function EffectTracker() {
     this.countUps = {};
     this.countDowns = {};
     this.indefinites = {};
 }
 
-function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition) {
+function State(synth, step, lastStep, action, durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep) {
     this.synth = synth;
     this.step = step;
     this.lastStep = lastStep;
-    this.action = action;   // the action leading to this State
+    this.action = action; // the action leading to this State
     this.durabilityState = durabilityState;
     this.cpState = cpState;
     this.bonusMaxCp = bonusMaxCp;
@@ -110,7 +148,8 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.nameOfElementUses = nameOfElementUses;
     this.reliability = reliability;
     this.effects = effects;
-    this.condition =  condition;
+    this.condition = condition;
+    this.touchComboStep = touchComboStep;
 
     // Internal state variables set after each step.
     this.iqCnt = 0;
@@ -122,7 +161,7 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
 }
 
 State.prototype.clone = function () {
-    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition);
+    return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep);
 };
 
 State.prototype.checkViolations = function () {
@@ -141,9 +180,21 @@ State.prototype.checkViolations = function () {
         cpOk = true;
     }
 
+    /* Ranged edit - original
     // Consider removing sanity check in UpdateState
     if ((this.durabilityState >= 0) && (this.progressState >= this.synth.recipe.difficulty)) {
-        durabilityOk = true;
+    durabilityOk = true;
+    }
+     */
+
+    // Ranged edit -- 10 cost actions that bring you to -5 are now valid
+    if ((this.durabilityState >= -5) && (this.progressState >= this.synth.recipe.difficulty)) {
+        if (this.action.durabilityCost === 10) {
+            durabilityOk = true;
+        }
+        if (this.durabilityState >= 0) {
+            durabilityOk = true;
+        }
     }
 
     if (this.trickUses <= this.synth.maxTrickUses) {
@@ -153,7 +204,7 @@ State.prototype.checkViolations = function () {
     if (this.reliability >= this.synth.reliabilityIndex) {
         reliabilityOk = true;
     }
-    
+
     return {
         progressOk: progressOk,
         cpOk: cpOk,
@@ -177,8 +228,9 @@ function NewStateFromSynth(synth) {
     var reliability = 1;
     var effects = new EffectTracker();
     var condition = 'Normal';
+    var touchComboStep = 0;
 
-    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition);
+    return new State(synth, step, lastStep, '', durabilityState, cpState, bonusMaxCp, qualityState, progressState, wastedActions, trickUses, nameOfElementUses, reliability, effects, condition, touchComboStep);
 }
 
 function probGoodForSynth(synth) {
@@ -186,20 +238,15 @@ function probGoodForSynth(synth) {
     var qualityAssurance = synth.crafter.level >= 63;
     if (recipeLevel >= 300) { // 70*+
         return qualityAssurance ? 0.11 : 0.10;
-    }
-    else if (recipeLevel >= 276) { // 65+
+    } else if (recipeLevel >= 276) { // 65+
         return qualityAssurance ? 0.17 : 0.15;
-    }
-    else if (recipeLevel >= 255) { // 61+
+    } else if (recipeLevel >= 255) { // 61+
         return qualityAssurance ? 0.22 : 0.20;
-    }
-    else if (recipeLevel >= 150) { // 60+
+    } else if (recipeLevel >= 150) { // 60+
         return qualityAssurance ? 0.11 : 0.10;
-    }
-    else if (recipeLevel >= 136) { // 55+
+    } else if (recipeLevel >= 136) { // 55+
         return qualityAssurance ? 0.17 : 0.15;
-    }
-    else {
+    } else {
         return qualityAssurance ? 0.27 : 0.25;
     }
 }
@@ -208,25 +255,22 @@ function probExcellentForSynth(synth) {
     var recipeLevel = synth.recipe.level;
     if (recipeLevel >= 300) { // 70*+
         return 0.01;
-    }
-    else if (recipeLevel >= 255) { // 61+
+    } else if (recipeLevel >= 255) { // 61+
         return 0.02;
-    }
-    else if (recipeLevel >= 150) { // 60+
+    } else if (recipeLevel >= 150) { // 60+
         return 0.01;
-    }
-    else {
+    } else {
         return 0.02;
     }
 }
 
-function calcNameOfElementsBonus(s) {
-    // Progress is determined by calculating the percentage and rounding down to the nearest percent.
-    var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
-    // Bonus ranges from 0 to 200% based on the inverse of the progress.
-    var bonus = 2 * (100 - percentComplete) / 100;
-    return Math.min(2, Math.max(0, bonus));
-}
+// function calcNameOfElementsBonus(s) {
+// // Progress is determined by calculating the percentage and rounding down to the nearest percent.
+// var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
+// // Bonus ranges from 0 to 200% based on the inverse of the progress.
+// var bonus = 2 * (100 - percentComplete) / 100;
+// return Math.min(2, Math.max(0, bonus));
+// }
 
 function getEffectiveCrafterLevel(synth) {
     var effCrafterLevel = synth.crafter.level;
@@ -237,16 +281,21 @@ function getEffectiveCrafterLevel(synth) {
 }
 
 function ApplyModifiers(s, action, condition) {
-
     // Effect Modifiers
     //=================
     var craftsmanship = s.synth.crafter.craftsmanship;
     var control = s.synth.crafter.control;
     var cpCost = action.cpCost;
+    var innerQuietMultiplier = 1;
+
+    if (!(AllActions.innerQuiet.shortName in s.effects.countUps) && (s.synth.crafter.level >= 11)) {
+        s.effects.countUps[AllActions.innerQuiet.shortName] = 0;
+    }
 
     // Effects modifying control
     if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        control += (0.2 * s.effects.countUps[AllActions.innerQuiet.shortName]) * s.synth.crafter.control;
+        // control += (0.2 * s.effects.countUps[AllActions.innerQuiet.shortName]) * s.synth.crafter.control;
+        innerQuietMultiplier = 1 + 0.1 * s.effects.countUps[AllActions.innerQuiet.shortName];
     }
 
     // Effects modifying level difference
@@ -257,6 +306,7 @@ function ApplyModifiers(s, action, condition) {
     var pureLevelDifference = s.synth.crafter.level - s.synth.recipe.baseLevel;
     var recipeLevel = effRecipeLevel;
     var stars = s.synth.recipe.stars;
+    var durabilityCost = action.durabilityCost;
 
     // Effects modfiying probability
     var successProbability = action.successProbability;
@@ -265,20 +315,50 @@ function ApplyModifiers(s, action, condition) {
             successProbability = 1.0;
         }
     }
+
     successProbability = Math.min(successProbability, 1);
+
+    // Advancted Touch Combo
+    if (isActionEq(action, AllActions.advancedTouch)) {
+        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
+            s.touchComboStep = 0;
+            cpCost = 18;
+        }
+    }
+
+    // Add combo bonus following Basic Touch
+    if (isActionEq(action, AllActions.standardTouch)) {
+        if (s.action === AllActions.basicTouch.shortName) {
+            cpCost = 18;
+        }
+        if (s.action != AllActions.basicTouch.shortName) {
+            s.wastedActions += 0.1;
+        }
+    }
+
+    // Add combo bonus following Standard Touch
+    if (isActionEq(action, AllActions.advancedTouch)) {
+        if (s.action === AllActions.standardTouch.shortName) {
+            cpCost = 18;
+            s.touchComboStep = 1;
+        }
+        if (s.action != AllActions.standardTouch.shortName) {
+            s.wastedActions += 0.2;
+        }
+    }
 
     // Effects modifying progress increase multiplier
     var progressIncreaseMultiplier = 1;
 
-    if ((action.progressIncreaseMultiplier > 0) && (s.effects.countDowns.hasOwnProperty(AllActions.muscleMemory.shortName))){
+    if ((action.progressIncreaseMultiplier > 0) && (s.effects.countDowns.hasOwnProperty(AllActions.muscleMemory.shortName))) {
         progressIncreaseMultiplier += 1;
         delete s.effects.countDowns[AllActions.muscleMemory.shortName];
     }
 
     // Name of the Elements increases Brand of the Element's efficiency by 0-200% based on the inverse of progress.
-    if (isActionEq(action, AllActions.brandOfTheElements) && s.effects.countDowns.hasOwnProperty(AllActions.nameOfTheElements.shortName)) {
-        progressIncreaseMultiplier += calcNameOfElementsBonus(s);
-    }
+    // if (isActionEq(action, AllActions.brandOfTheElements) && s.effects.countDowns.hasOwnProperty(AllActions.nameOfTheElements.shortName)) {
+    // progressIncreaseMultiplier += calcNameOfElementsBonus(s);
+    // }
 
     if (AllActions.veneration.shortName in s.effects.countDowns) {
         progressIncreaseMultiplier += 0.5;
@@ -291,8 +371,11 @@ function ApplyModifiers(s, action, condition) {
             cpCost = 0;
         }
     }
-	if (isActionEq(action, AllActions.groundwork) && s.durabilityState < 20) {
-        progressIncreaseMultiplier *= 0.5;
+
+    if (s.durabilityState < durabilityCost) {
+        if (isActionEq(action, AllActions.groundwork) || isActionEq(action, AllActions.groundwork2)) {
+            progressIncreaseMultiplier *= 0.5;
+        }
     }
 
     // Effects modifying quality increase multiplier
@@ -306,22 +389,26 @@ function ApplyModifiers(s, action, condition) {
         qualityIncreaseMultiplier += 0.5;
     }
 
-    // We can only use Byregot actions when we have at least 2 stacks of inner quiet
+    // We can only use Byregot actions when we have at least 1 stacks of inner quiet
     if (isActionEq(action, AllActions.byregotsBlessing)) {
         if ((AllActions.innerQuiet.shortName in s.effects.countUps) && s.effects.countUps[AllActions.innerQuiet.shortName] >= 1) {
             qualityIncreaseMultiplier *= 1 + (0.2 * s.effects.countUps[AllActions.innerQuiet.shortName]);
+            delete s.effects.countUps[AllActions.innerQuiet.shortName];
         } else {
+            s.wastedActions += 1;
             qualityIncreaseMultiplier = 0;
+            cpCost = 0;
+            durabilityCost = 0;
         }
     }
 
     // Calculate base and modified progress gain
-    var bProgressGain = s.synth.calculateBaseProgressIncrease(levelDifference, craftsmanship);
-    bProgressGain = bProgressGain * action.progressIncreaseMultiplier * progressIncreaseMultiplier;
+    var bProgressGain = s.synth.calculateBaseProgressIncrease(effCrafterLevel, craftsmanship);
+    bProgressGain = Math.floor(bProgressGain * action.progressIncreaseMultiplier * progressIncreaseMultiplier);
 
     // Calculate base and modified quality gain
-    var bQualityGain = s.synth.calculateBaseQualityIncrease(levelDifference, control);
-    bQualityGain = bQualityGain * action.qualityIncreaseMultiplier * qualityIncreaseMultiplier;
+    var bQualityGain = s.synth.calculateBaseQualityIncrease(effCrafterLevel, control);
+    bQualityGain = Math.floor(bQualityGain * action.qualityIncreaseMultiplier * qualityIncreaseMultiplier * innerQuietMultiplier);
 
     // Effects modifying progress gain directly
     if (isActionEq(action, AllActions.flawlessSynthesis)) {
@@ -330,10 +417,9 @@ function ApplyModifiers(s, action, condition) {
 
     // Effects modifying quality gain directly
     if (isActionEq(action, AllActions.trainedEye)) {
-        if ((s.step === 1) && (pureLevelDifference >= 10))  {
+        if ((s.step === 1) && (pureLevelDifference >= 10)) {
             bQualityGain = s.synth.recipe.maxQuality;
-        }
-        else {
+        } else {
             s.wastedActions += 1;
             bQualityGain = 0;
             cpCost = 0;
@@ -342,31 +428,67 @@ function ApplyModifiers(s, action, condition) {
 
     // We can only use Precise Touch when state material condition is Good or Excellent. Default is true for probabilistic method.
     if (isActionEq(action, AllActions.preciseTouch)) {
-        if (condition.checkGoodOrExcellent()) {
+        if (s.effects.countUps[AllActions.heartAndSoul.shortName] >= 1) {
+            action.onGood = null;
+            action.onExcellent = null;
+            bQualityGain *= condition.pGoodOrExcellent();
+            delete s.effects.countUps[AllActions.heartAndSoul.shortName];
+        } else if (condition.checkGoodOrExcellent()) {
+            action.onGood = true;
+            action.onExcellent = true;
             bQualityGain *= condition.pGoodOrExcellent();
         } else {
+            action.onGood = true;
+            action.onExcellent = true;
             s.wastedActions += 1;
             bQualityGain = 0;
             cpCost = 0;
         }
     }
 
-    if (isActionEq(action, AllActions.reflect)) {
-        if (s.step !== 1) {
+    if (isActionEq(action, AllActions.intensiveSynthesis)) {
+        if (s.effects.countUps[AllActions.heartAndSoul.shortName] >= 1) {
+            action.onGood = null;
+            action.onExcellent = null;
+            bQualityGain *= condition.pGoodOrExcellent();
+            delete s.effects.countUps[AllActions.heartAndSoul.shortName];
+        } else {
+            action.onGood = true;
+            action.onExcellent = true;
             s.wastedActions += 1;
-            control = 0;
             bQualityGain = 0;
             cpCost = 0;
         }
+    }
+
+    if (isActionEq(action, AllActions.trainedFinesse) && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10)) {
+        bQualityGain = 0;
+        cpCost = 0;
+        s.wastedActions += 1;
+    }
+
+    if (isActionEq(action, AllActions.reflect) || isActionEq(action, AllActions.trainedEye)) {
+        if (s.step !== 1) {
+            s.wastedActions += 1;
+            bQualityGain = 0;
+            cpCost = 0;
+        }
+    }
+
+    // Penalize use of WasteNot during solveforcompletion runs
+    if ((isActionEq(action, AllActions.wasteNot) || isActionEq(action, AllActions.wasteNot2)) && s.synth.solverVars.solveForCompletion) {
+        s.wastedActions += 50;
     }
 
     // Effects modifying durability cost
-    var durabilityCost = action.durabilityCost;
     if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
-        if (isActionEq(action, AllActions.prudentTouch)) {
+        if ((isActionEq(action, AllActions.prudentTouch)) || isActionEq(action, AllActions.prudentSynthesis)) {
+            bProgressGain = 0;
             bQualityGain = 0;
-        }
-        else {
+            cpCost = 0;
+            s.wastedActions += 1;
+            durabilityCost = 0;
+        } else {
             durabilityCost *= 0.5;
         }
     }
@@ -386,12 +508,11 @@ function ApplyModifiers(s, action, condition) {
     };
 }
 
-function useConditionalAction (s, condition) {
+function useConditionalAction(s, condition) {
     if (s.cpState > 0 && condition.checkGoodOrExcellent()) {
         s.trickUses += 1;
         return true;
-    }
-    else {
+    } else {
         s.wastedActions += 1;
         return false;
     }
@@ -404,18 +525,15 @@ function ApplySpecialActionEffects(s, action, condition) {
     // Special Effect Actions
     if (isActionEq(action, AllActions.mastersMend)) {
         s.durabilityState += 30;
-    }
-
-    if ((AllActions.manipulation.shortName in s.effects.countDowns) && (s.durabilityState > 0) && !isActionEq(action, AllActions.manipulation)) {
-        s.durabilityState += 5;
-    }
-
-    if (isActionEq(action, AllActions.byregotsBlessing)) {
-        if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-            delete s.effects.countUps[AllActions.innerQuiet.shortName];
+        if (s.synth.solverVars.solveForCompletion) {
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
         }
-        else {
-            s.wastedActions += 1;
+    }
+
+    if ((AllActions.manipulation.shortName in s.effects.countDowns) && (s.durabilityState > 0) && !isActionEq(action, AllActions.manipulation) && !isActionEq(action, AllActions.finalAppraisal) && !isActionEq(action, AllActions.heartAndSoul)) {
+        s.durabilityState += 5;
+        if (s.synth.solverVars.solveForCompletion) {
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
         }
     }
 
@@ -455,7 +573,14 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     //===============================
     // Decrement countdowns
     for (var countDown in s.effects.countDowns) {
-        s.effects.countDowns[countDown] -= 1;
+        if ((action.shortName === "finalAppraisal") || (action.shortName === "heartAndSoul") ||
+            ((action.shortName === "prudentTouch") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
+            ((action.shortName === "prudentSynthesis") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
+            ((action.shortName === "trainedFinesse") && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10))) {
+            s.effects.countDowns[countDown] -= 0;
+        } else {
+            s.effects.countDowns[countDown] -= 1;
+        }
 
         if (s.effects.countDowns[countDown] === 0) {
             delete s.effects.countDowns[countDown];
@@ -463,13 +588,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     }
 
     if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        // Increment inner quiet countups that have conditional requirements
-        if (isActionEq(action, AllActions.patientTouch)) {
-            s.effects.countUps[AllActions.innerQuiet.shortName] = //+= 2 * successProbability;
-                ((s.effects.countUps[AllActions.innerQuiet.shortName] * 2) * successProbability) +
-                ((s.effects.countUps[AllActions.innerQuiet.shortName] / 2) * (1 - successProbability));
-        }
-        else if (isActionEq(action, AllActions.preparatoryTouch)) {
+        if (isActionEq(action, AllActions.preparatoryTouch)) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
         }
         // Increment inner quiet countups that have conditional requirements
@@ -477,7 +596,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 2 * successProbability * condition.pGoodOrExcellent();
         }
         // Increment all other inner quiet count ups
-        else if (action.qualityIncreaseMultiplier > 0 && !isActionEq(action, AllActions.reflect)) {
+        else if (action.qualityIncreaseMultiplier > 0 && !isActionEq(action, AllActions.reflect) && !isActionEq(action, AllActions.byregotsBlessing)) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 1 * successProbability;
         }
 
@@ -488,18 +607,19 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     // Initialize new effects after countdowns are managed to reset them properly
     if (action.type === 'countup') {
         s.effects.countUps[action.shortName] = 0;
+        if (isActionEq(action, AllActions.heartAndSoul)) {
+            s.effects.countUps[action.shortName] = 1;
+        }
     }
 
     if (action.type === 'indefinite') {
         if (isActionEq(action, AllActions.initialPreparations)) {
             if (s.step == 1) {
                 s.effects.indefinites[action.shortName] = true;
-            }
-            else {
+            } else {
                 s.wastedActions += 1;
             }
-        }
-        else {
+        } else {
             s.effects.indefinites[action.shortName] = true;
         }
     }
@@ -509,12 +629,12 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
             if (s.nameOfElementUses == 0) {
                 s.effects.countDowns[action.shortName] = action.activeTurns;
                 s.nameOfElementUses += 1;
-            }
-            else {
+            } else {
                 s.wastedActions += 1;
             }
-        }
-        else {
+        } else if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
+            s.wastedActions += 1;
+        } else {
             s.effects.countDowns[action.shortName] = action.activeTurns;
         }
     }
@@ -527,14 +647,20 @@ function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCos
     s.durabilityState -= durabilityCost;
     s.cpState -= cpCost;
     s.lastStep += 1;
-
     ApplySpecialActionEffects(s, action, condition);
     UpdateEffectCounters(s, action, condition, successProbability);
 
+    if ((s.progressState >= s.synth.recipe.difficulty) && (AllActions.finalAppraisal.shortName in s.effects.countDowns)) {
+        s.progressState = s.synth.recipe.difficulty - 1;
+        delete s.effects.countDowns[AllActions.finalAppraisal.shortName];
+    }
+
     // Sanity checks for state variables
+    /* Removing this for solveForCompletion, hopefully it doesn't cause issues! :)*/
     if ((s.durabilityState >= -5) && (s.progressState >= s.synth.recipe.difficulty)) {
         s.durabilityState = 0;
     }
+
     s.durabilityState = Math.min(s.durabilityState, s.synth.recipe.durability);
     s.cpState = Math.min(s.cpState, s.synth.crafter.craftPoints + s.bonusMaxCp);
 }
@@ -567,8 +693,7 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
         pGoodOrExcellent: function () {
             if (ignoreConditionReq) {
                 return 1;
-            }
-            else {
+            } else {
                 return ppGood + ppExcellent;
             }
         }
@@ -582,79 +707,91 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
     if (debug) {
         logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s %-8s %-8s %-5s %-5s %-5s', '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ', 'CTL', 'QINC', 'BPRG', 'BQUA', 'WAC');
         logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, s.synth.crafter.control, 0, 0, 0, 0);
-    }
-    else if (verbose) {
+    } else if (verbose) {
         logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s', '#', 'Action', 'DUR', 'CP', 'EQUA', 'EPRG', 'IQ');
         logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0);
 
     }
-
     for (var i = 0; i < individual.length; i++) {
-        var action = individual[i];
+        // var action = individual[i];
 
-        // Occur regardless of dummy actions
-        //==================================
-        s.step += 1;
+        // Ranged edit -- Combo actions. Basically do everything twice over if there's a combo action. Woo.
+        var actionsArray = [];
 
-        // Condition Calculation
-        var condQualityIncreaseMultiplier = 1;
-        if (!ignoreConditionReq) {
-            condQualityIncreaseMultiplier *= (ppNormal + 1.5 * ppGood * Math.pow(1 - (ppGood + pGood) / 2, s.synth.maxTrickUses) + 4 * ppExcellent + 0.5 * ppPoor);
+        if (individual[i].isCombo) {
+            for (var comboNumber = 0; comboNumber < individual[i].comboActions.length; comboNumber++) {
+                actionsArray.push(getComboAction(individual[i].comboActions[comboNumber]));
+            }
+        } else {
+            actionsArray.push(individual[i]);
         }
+        for (var j = 0; j < actionsArray.length; j++) {
+            var action = actionsArray[j];
 
-        // Calculate Progress, Quality and Durability gains and losses under effect of modifiers
-        var r = ApplyModifiers(s, action, SimCondition);
+            // Occur regardless of dummy actions
+            //==================================
+            s.step += 1;
 
-        // Calculate final gains / losses
-        var successProbability = r.successProbability;
-        if (assumeSuccess) {
-            successProbability = 1;
-        }
-        var progressGain = r.bProgressGain;
-        if (progressGain > 0) {
-            s.reliability = s.reliability * successProbability;
-        }
-
-        var qualityGain = condQualityIncreaseMultiplier * r.bQualityGain;
-
-        // Floor gains at final stage before calculating expected value
-        progressGain = successProbability * Math.floor(progressGain);
-        qualityGain = successProbability * Math.floor(qualityGain);
-
-        // Occur if a wasted action
-        //==================================
-        if (((s.progressState >= s.synth.recipe.difficulty) || (s.durabilityState <= 0) || (s.cpState < 0)) && (action != AllActions.dummyAction)) {
-            s.wastedActions += 1;
-        }
-
-        // Occur if not a wasted action
-        //==================================
-        else {
-
-            UpdateState(s, action, progressGain, qualityGain, r.durabilityCost, r.cpCost, SimCondition, successProbability);
-
-            // Ending condition update
+            // Condition Calculation
+            var condQualityIncreaseMultiplier = 1;
             if (!ignoreConditionReq) {
-                ppPoor = ppExcellent;
-                ppGood = pGood * ppNormal;
-                ppExcellent = pExcellent * ppNormal;
-                ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
+                condQualityIncreaseMultiplier *= (ppNormal + 1.5 * ppGood * Math.pow(1 - (ppGood + pGood) / 2, s.synth.maxTrickUses) + 4 * ppExcellent + 0.5 * ppPoor);
             }
 
+            // Calculate Progress, Quality and Durability gains and losses under effect of modifiers
+            var r = ApplyModifiers(s, action, SimCondition);
+
+            // Calculate final gains / losses
+            var successProbability = r.successProbability;
+            if (assumeSuccess) {
+                successProbability = 1;
+            }
+            var progressGain = r.bProgressGain;
+            if (progressGain > 0) {
+                s.reliability = s.reliability * successProbability;
+            }
+
+            var qualityGain = condQualityIncreaseMultiplier * r.bQualityGain;
+
+            // Floor gains at final stage before calculating expected value
+            progressGain = successProbability * Math.floor(progressGain);
+            qualityGain = successProbability * Math.floor(qualityGain);
+
+            // Occur if a wasted action
+            //==================================
+            if (((s.progressState >= s.synth.recipe.difficulty) || (s.durabilityState <= 0) || (s.cpState < 0)) && (action != AllActions.dummyAction)) {
+                s.wastedActions += 1;
+            }
+
+            // Occur if not a wasted action
+            //==================================
+            else {
+
+                UpdateState(s, action, progressGain, qualityGain, r.durabilityCost, r.cpCost, SimCondition, successProbability);
+
+                // Ending condition update
+                if (!ignoreConditionReq) {
+                    ppPoor = ppExcellent;
+                    ppGood = pGood * ppNormal;
+                    ppExcellent = pExcellent * ppNormal;
+                    ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
+                }
+
+            }
+
+            var iqCnt = 0;
+            if (AllActions.innerQuiet.shortName in s.effects.countUps) {
+                iqCnt = s.effects.countUps[AllActions.innerQuiet.shortName];
+            }
+            if (debug) {
+                logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, r.control, qualityGain, Math.floor(r.bProgressGain), Math.floor(r.bQualityGain), s.wastedActions);
+            } else if (verbose) {
+                logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt);
+            }
+
+            s.action = action.shortName
         }
 
-        var iqCnt = 0;
-        if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-            iqCnt = s.effects.countUps[AllActions.innerQuiet.shortName];
-        }
-        if (debug) {
-            logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f %8.1f %8.1f %5.0f %5.0f %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt, r.control, qualityGain, Math.floor(r.bProgressGain), Math.floor(r.bQualityGain), s.wastedActions);
-        }
-        else if (verbose) {
-            logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt);
-        }
-
-        s.action = action.shortName
     }
 
     // Check for feasibility violations
@@ -662,13 +799,12 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
 
     if (debug) {
         logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
-    }
-    else if (verbose) {
+    } else if (verbose) {
         logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
     }
 
     // Return final state
-    s.action = individual[individual.length-1].shortName;
+    s.action = individual[individual.length - 1].shortName;
     return s;
 
 }
@@ -693,8 +829,7 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
         checkGoodOrExcellent: function () {
             if (ignoreConditionReq) {
                 return true;
-            }
-            else {
+            } else {
                 return (s.condition == 'Good' || s.condition == 'Excellent');
             }
         },
@@ -710,14 +845,11 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     var condQualityIncreaseMultiplier = 1;
     if (s.condition === 'Excellent') {
         condQualityIncreaseMultiplier *= 4.0;
-    }
-    else if (s.condition === 'Good' ) {
+    } else if (s.condition === 'Good') {
         condQualityIncreaseMultiplier *= 1.5;
-    }
-    else if (s.condition === 'Poor' ) {
+    } else if (s.condition === 'Poor') {
         condQualityIncreaseMultiplier *= 0.5;
-    }
-    else {
+    } else {
         condQualityIncreaseMultiplier *= 1.0;
     }
 
@@ -761,24 +893,19 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     // Ending condition update
     if (s.condition === 'Excellent') {
         s.condition = 'Poor';
-    }
-    else if (s.condition === 'Good' || s.condition === 'Poor') {
+    } else if (s.condition === 'Good' || s.condition === 'Poor') {
         s.condition = 'Normal';
-    }
-    else if (s.condition === 'Normal') {
+    } else if (s.condition === 'Normal') {
         if (randomizeConditions) {
             var condRand = Math.random();
             if (0 <= condRand && condRand < pExcellent) {
                 s.condition = 'Excellent';
-            }
-            else if (pExcellent <= condRand && condRand < (pExcellent + pGood)) {
+            } else if (pExcellent <= condRand && condRand < (pExcellent + pGood)) {
                 s.condition = 'Good';
-            }
-            else {
+            } else {
                 s.condition = 'Normal';
             }
-        }
-        else {
+        } else {
             s.condition = 'Normal';
         }
     }
@@ -802,8 +929,7 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
 
     if (debug) {
         logger.log('%2d %30s %5.0f %5.0f %8.0f %8.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %-10s %5.0f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, s.iqCnt, s.control, s.qualityGain, s.bProgressGain, s.bQualityGain, s.wastedActions, s.condition, s.success);
-    }
-    else if (verbose) {
+    } else if (verbose) {
         logger.log('%2d %30s %5.0f %5.0f %8.0f %8.0f %5.0f %-10s %-5s', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, s.iqCnt, s.condition, s.success);
     }
 
@@ -832,7 +958,6 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
     if (individual === null || individual.length === 0) {
         return startState;
     }
-
     // Strip Tricks of the Trade from individual
     if (conditionalActionHandling === 'reposition') {
         var onExcellentOnlyActions = [];
@@ -840,24 +965,20 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
         var onGoodOrExcellentActions = [];
         var onPoorOnlyActions = [];
         var tempIndividual = [];
-        for (var i=0; i < individual.length; i++) {
+        for (var i = 0; i < individual.length; i++) {
             if (individual[i].onExcellent && !individual[i].onGood) {
                 onExcellentOnlyActions.push(individual[i]);
                 maxConditionUses += 1;
-            }
-            else if ((individual[i].onGood && !individual[i].onExcellent) && !individual[i].onPoor) {
+            } else if ((individual[i].onGood && !individual[i].onExcellent) && !individual[i].onPoor) {
                 onGoodOnlyActions.push(individual[i]);
                 maxConditionUses += 1;
-            }
-            else if (individual[i].onGood || individual[i].onExcellent) {
+            } else if (individual[i].onGood || individual[i].onExcellent) {
                 onGoodOrExcellentActions.push(individual[i]);
                 maxConditionUses += 1;
-            }
-            else if (individual[i].onPoor && !(individual[i].onExcellent || individual[i].onGood)) {
+            } else if (individual[i].onPoor && !(individual[i].onExcellent || individual[i].onGood)) {
                 onPoorOnlyActions.push(individual[i]);
                 maxConditionUses += 1;
-            }
-            else {
+            } else {
                 tempIndividual.push(individual[i]);
             }
         }
@@ -867,8 +988,7 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
     if (debug) {
         logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s %-5s %-5s %-5s %-5s %-5s %-10s %-5s', '#', 'Action', 'DUR', 'CP', 'QUA', 'PRG', 'IQ', 'CTL', 'QINC', 'BPRG', 'BQUA', 'WAC', 'Cond', 'S/F');
         logger.log('%2d %30s %5.0f %5.0f %8.0f %8.0f %5.0f %5.0f %5.0f %5.0f %5.0f %5.0f %-10s %5.0f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, s.synth.crafter.control, 0, 0, 0, 0, 'Normal', '');
-    }
-    else if (verbose) {
+    } else if (verbose) {
         logger.log('%-2s %30s %-5s %-5s %-8s %-8s %-5s %-10s %-5s', '#', 'Action', 'DUR', 'CP', 'QUA', 'PRG', 'IQ', 'Cond', 'S/F');
         logger.log('%2d %30s %5.0f %5.0f %8.0f %8.0f %5.0f %-10s %5.0f', s.step, '', s.durabilityState, s.cpState, s.qualityState, s.progressState, 0, 'Normal', 0);
 
@@ -878,66 +998,73 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
 
     states.push(s);
 
-    for (i=0; i < individual.length; i++) {
-        var action = individual[i];
+    for (i = 0; i < individual.length; i++) {
+        var actionsArray = [];
 
-        // Determine if action is usable
-        var usable = action.onExcellent && s.condition === 'Excellent' ||
-                     action.onGood && s.condition === 'Good' ||
-                     action.onPoor && s.condition === 'Poor' ||
-                     (!action.onExcellent && !action.onGood && !action.onPoor);
-
-        if (conditionalActionHandling === 'reposition') {
-            // Manually re-add condition dependent action when conditions are met
-            if (s.condition === 'Excellent' && s.trickUses < maxConditionUses) {
-                if (onExcellentOnlyActions.length > 0) {
-                    s = MonteCarloStep(s, onExcellentOnlyActions.shift(), assumeSuccess, verbose, debug, logOutput);
-                    states.push(s);
-                }
-                else if (onGoodOrExcellentActions.length > 0) {
-                    s = MonteCarloStep(s, onGoodOrExcellentActions.shift(), assumeSuccess, verbose, debug, logOutput);
-                    states.push(s);
-                }
+        if (individual[i].isCombo) {
+            for (var comboNumber = 0; comboNumber < individual[i].comboActions.length; comboNumber++) {
+                actionsArray.push(getComboAction(individual[i].comboActions[comboNumber]));
             }
-            if (s.condition === 'Good' && s.trickUses < maxConditionUses) {
-                if (onGoodOnlyActions.length > 0) {
-                    s = MonteCarloStep(s, onGoodOnlyActions.shift(), assumeSuccess, verbose, debug, logOutput);
-                    states.push(s);
-                }
-                else if (onGoodOrExcellentActions.length > 0) {
-                    s = MonteCarloStep(s, onGoodOrExcellentActions.shift(), assumeSuccess, verbose, debug, logOutput);
-                    states.push(s);
-                }
-            }
-            if (s.condition === 'Poor' && s.trickUses < maxConditionUses) {
-                if (onPoorOnlyActions.length > 0) {
-                    s = MonteCarloStep(s, onPoorOnlyActions.shift(), assumeSuccess, verbose, debug, logOutput);
-                    states.push(s);
-                }
-            }
-
-            // Process the original action as another step
-            s = MonteCarloStep(s, action, assumeSuccess, verbose, debug, logOutput);
-            states.push(s);
+        } else {
+            actionsArray.push(individual[i]);
         }
-        else if (conditionalActionHandling === 'skipUnusable') {
-            // If not usable, record a skipped action without progressing other status counters
-            if (!usable) {
-                s = s.clone();
-                s.action = action.shortName;
-                s.wastedActions += 1;
+        for (var j = 0; j < actionsArray.length; j++) {
+            var action = actionsArray[j];
+
+            // Determine if action is usable
+            var usable = action.onExcellent && s.condition === 'Excellent' ||
+                action.onGood && s.condition === 'Good' ||
+                action.onPoor && s.condition === 'Poor' ||
+                (!action.onExcellent && !action.onGood && !action.onPoor);
+
+            if (conditionalActionHandling === 'reposition') {
+                // Manually re-add condition dependent action when conditions are met
+                if (s.condition === 'Excellent' && s.trickUses < maxConditionUses) {
+                    if (onExcellentOnlyActions.length > 0) {
+                        s = MonteCarloStep(s, onExcellentOnlyActions.shift(), assumeSuccess, verbose, debug, logOutput);
+                        states.push(s);
+                    } else if (onGoodOrExcellentActions.length > 0) {
+                        s = MonteCarloStep(s, onGoodOrExcellentActions.shift(), assumeSuccess, verbose, debug, logOutput);
+                        states.push(s);
+                    }
+                }
+                if (s.condition === 'Good' && s.trickUses < maxConditionUses) {
+                    if (onGoodOnlyActions.length > 0) {
+                        s = MonteCarloStep(s, onGoodOnlyActions.shift(), assumeSuccess, verbose, debug, logOutput);
+                        states.push(s);
+                    } else if (onGoodOrExcellentActions.length > 0) {
+                        s = MonteCarloStep(s, onGoodOrExcellentActions.shift(), assumeSuccess, verbose, debug, logOutput);
+                        states.push(s);
+                    }
+                }
+                if (s.condition === 'Poor' && s.trickUses < maxConditionUses) {
+                    if (onPoorOnlyActions.length > 0) {
+                        s = MonteCarloStep(s, onPoorOnlyActions.shift(), assumeSuccess, verbose, debug, logOutput);
+                        states.push(s);
+                    }
+                }
+
+                // Process the original action as another step
+                s = MonteCarloStep(s, action, assumeSuccess, verbose, debug, logOutput);
                 states.push(s);
-            }
-            // Otherwise, process action as normal
-            else {
+            } else if (conditionalActionHandling === 'skipUnusable') {
+                // If not usable, record a skipped action without progressing other status counters
+                if (!usable) {
+                    s = s.clone();
+                    s.action = action.shortName;
+                    s.wastedActions += 1;
+                    states.push(s);
+                }
+                // Otherwise, process action as normal
+                else {
+                    s = MonteCarloStep(s, action, assumeSuccess, verbose, debug, logOutput);
+                    states.push(s);
+                }
+            } else if (conditionalActionHandling === 'ignoreUnusable') {
+                // If not usable, skip action effect, progress other status counters
                 s = MonteCarloStep(s, action, assumeSuccess, verbose, debug, logOutput);
                 states.push(s);
             }
-        }
-        else if (conditionalActionHandling === 'ignoreUnusable') {
-            // If not usable, skip action effect, progress other status counters
-            s = MonteCarloStep(s, action, assumeSuccess, verbose, debug, logOutput);
-            states.push(s);
         }
     }
 
@@ -946,8 +1073,7 @@ function MonteCarloSequence(individual, startState, assumeSuccess, conditionalAc
 
     if (debug) {
         logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
-    }
-    else if (verbose) {
+    } else if (verbose) {
         logger.log('Progress Check: %s, Durability Check: %s, CP Check: %s, Tricks Check: %s, Reliability Check: %s, Wasted Actions: %d', chk.progressOk, chk.durabilityOk, chk.cpOk, chk.trickOk, chk.reliabilityOk, s.wastedActions);
     }
 
@@ -966,15 +1092,15 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
     var bestSequenceStates;
     var worseSequenceStates;
     var finalStateTracker = [];
-    for (var i=0; i < nRuns; i++) {
+    for (var i = 0; i < nRuns; i++) {
         var states = MonteCarloSequence(individual, startState, assumeSuccess, conditionalActionHandling, false, false, logOutput);
-        var finalState = states[states.length-1];
+        var finalState = states[states.length - 1];
 
-        if (!bestSequenceStates || finalState.qualityState > bestSequenceStates[bestSequenceStates.length-1].qualityState) {
+        if (!bestSequenceStates || finalState.qualityState > bestSequenceStates[bestSequenceStates.length - 1].qualityState) {
             bestSequenceStates = states;
         }
 
-        if (!worseSequenceStates || finalState.qualityState < worseSequenceStates[worseSequenceStates.length-1].qualityState) {
+        if (!worseSequenceStates || finalState.qualityState < worseSequenceStates[worseSequenceStates.length - 1].qualityState) {
             worseSequenceStates = states;
         }
 
@@ -1000,7 +1126,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
 
     var successRate = getSuccessRate(finalStateTracker);
 
-    logger.log('%-2s %20s %-5s %-5s %-8s %-5s %-5s','', '', 'DUR', 'CP', 'QUA', 'PRG', 'HQ%');
+    logger.log('%-2s %20s %-5s %-5s %-8s %-5s %-5s', '', '', 'DUR', 'CP', 'QUA', 'PRG', 'HQ%');
     logger.log('%2s %-20s %5.0f %5.0f %8.1f %5.1f %5.1f', '##', 'Expected Value: ', avgDurability, avgCp, avgQuality, avgProgress, avgHqPercent);
 
     var mdnDurability = getMedianProperty(finalStateTracker, 'durabilityState', nRuns);
@@ -1016,13 +1142,13 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
         hqPercent: mdnHqPercent
     };
 
-    logger.log('%2s %-20s %5.0f %5.0f %8.1f %5.1f %5.1f', '##', 'Median Value: ', mdnDurability, mdnCp, mdnQuality, mdnProgress, mdnHqPercent   );
+    logger.log('%2s %-20s %5.0f %5.0f %8.1f %5.1f %5.1f', '##', 'Median Value: ', mdnDurability, mdnCp, mdnQuality, mdnProgress, mdnHqPercent);
 
     var minDurability = getMinProperty(finalStateTracker, 'durabilityState');
     var minCp = getMinProperty(finalStateTracker, 'cpState');
     var minQuality = getMinProperty(finalStateTracker, 'qualityState');
     var minProgress = getMinProperty(finalStateTracker, 'progressState');
-    var minQualityPercent = Math.min(synth.recipe.maxQuality, minQuality)/synth.recipe.maxQuality * 100;
+    var minQualityPercent = Math.min(synth.recipe.maxQuality, minQuality) / synth.recipe.maxQuality * 100;
     var minHqPercent = hqPercentFromQuality(minQualityPercent);
     var minStats = {
         durability: minDurability,
@@ -1038,7 +1164,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
     var maxCp = getMaxProperty(finalStateTracker, 'cpState');
     var maxQuality = getMaxProperty(finalStateTracker, 'qualityState');
     var maxProgress = getMaxProperty(finalStateTracker, 'progressState');
-    var maxQualityPercent = Math.max(synth.recipe.maxQuality, maxQuality)/synth.recipe.maxQuality * 100;
+    var maxQualityPercent = Math.max(synth.recipe.maxQuality, maxQuality) / synth.recipe.maxQuality * 100;
     var maxHqPercent = hqPercentFromQuality(maxQualityPercent);
     var maxStats = {
         durability: maxDurability,
@@ -1098,7 +1224,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
 function getAverageProperty(stateArray, propName, nRuns) {
     var sumProperty = 0;
     var nSuccesses = 0;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1115,7 +1241,7 @@ function getAverageProperty(stateArray, propName, nRuns) {
 
 function getMedianProperty(stateArray, propName, nRuns) {
     var listProperty = [];
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1126,8 +1252,10 @@ function getMedianProperty(stateArray, propName, nRuns) {
         }
     }
 
-    listProperty.sort(function(a, b){return a-b});
-    var medianPropIdx = Math.ceil(listProperty.length/2);
+    listProperty.sort(function (a, b) {
+        return a - b
+    });
+    var medianPropIdx = Math.ceil(listProperty.length / 2);
 
     return listProperty[medianPropIdx];
 }
@@ -1136,7 +1264,7 @@ function getAverageHqPercent(stateArray) {
     // Because quality can exceed maxQuality, the average will be skewed high and we cannot use average quality as the input to the hqPercentFromQuality function
     var nHQ = 0;
     var nSuccesses = 0;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1160,7 +1288,7 @@ function getAverageHqPercent(stateArray) {
 function getMedianHqPercent(stateArray) {
     // Because quality can exceed maxQuality, the median will be skewed high and we cannot use median quality as the input to the hqPercentFromQuality function
     var hqPercents = [];
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1173,15 +1301,17 @@ function getMedianHqPercent(stateArray) {
         }
     }
 
-    hqPercents.sort(function(a, b){return a-b});
-    var medianPropIdx = Math.ceil(hqPercents.length/2);
+    hqPercents.sort(function (a, b) {
+        return a - b
+    });
+    var medianPropIdx = Math.ceil(hqPercents.length / 2);
 
     return hqPercents[medianPropIdx];
 }
 
 function getSuccessRate(stateArray) {
     var nSuccesses = 0;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         var chk = stateArray[i].checkViolations();
         var progressOk = chk.progressOk;
         var durabilityOk = chk.durabilityOk;
@@ -1197,11 +1327,10 @@ function getSuccessRate(stateArray) {
 
 function getMinProperty(stateArray, propName) {
     var minProperty = null;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         if (minProperty === null) {
             minProperty = stateArray[i][propName];
-        }
-        else {
+        } else {
             if (minProperty > stateArray[i][propName]) {
                 minProperty = stateArray[i][propName];
             }
@@ -1212,11 +1341,10 @@ function getMinProperty(stateArray, propName) {
 
 function getMaxProperty(stateArray, propName) {
     var maxProperty = null;
-    for (var i=0; i < stateArray.length; i++) {
+    for (var i = 0; i < stateArray.length; i++) {
         if (maxProperty === null) {
             maxProperty = stateArray[i][propName];
-        }
-        else {
+        } else {
             if (maxProperty < stateArray[i][propName]) {
                 maxProperty = stateArray[i][propName];
             }
@@ -1234,11 +1362,9 @@ function hqPercentFromQuality(qualityPercent) {
     var hqPercent = 1;
     if (qualityPercent === 0) {
         hqPercent = 1;
-    }
-    else if (qualityPercent >= 100) {
+    } else if (qualityPercent >= 100) {
         hqPercent = 100;
-    }
-    else {
+    } else {
         while (qualityFromHqPercent(hqPercent) < qualityPercent && hqPercent < 100) {
             hqPercent += 1;
         }
@@ -1247,7 +1373,7 @@ function hqPercentFromQuality(qualityPercent) {
 }
 
 function evalSeq(individual, mySynth, penaltyWeight) {
-    penaltyWeight = penaltyWeight!== undefined ? penaltyWeight : 10000;
+    penaltyWeight = penaltyWeight !== undefined ? penaltyWeight : 10000;
 
     var startState = NewStateFromSynth(mySynth);
 
@@ -1257,13 +1383,14 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     var fitnessProg = 0;
 
     // Sum the constraint violations
-    penalties += result.wastedActions / 100;
+    // experiment: wastedactions change
+    penalties += result.wastedActions / 20;
 
     // Check for feasibility violations
     var chk = result.checkViolations();
 
     if (!chk.durabilityOk) {
-       penalties += Math.abs(result.durabilityState);
+        penalties += Math.abs(result.durabilityState);
     }
 
     if (!chk.progressOk) {
@@ -1289,8 +1416,15 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         }
     }
 
-    fitness += result.qualityState;
+    if (mySynth.solverVars.solveForCompletion) {
+        fitness += result.cpState * mySynth.solverVars.remainderCPFitnessValue;
+        fitness += result.durabilityState * mySynth.solverVars.remainderDurFitnessValue;
+    } else {
+        fitness += result.qualityState;
+    }
+
     fitness -= penaltyWeight * penalties;
+    //fitness -= result.cpState*0.5 // Penalizes wasted CP
     fitnessProg += result.progressState;
 
     return [fitness, fitnessProg, result.cpState, individual.length];
@@ -1318,35 +1452,35 @@ function heuristicSequenceBuilder(synth) {
         }
     }
 
-    var hasAction = function(actionName) {
+    var hasAction = function (actionName) {
         return (actionName in actionsByName);
     };
 
-    var tryAction = function(actionName) {
+    var tryAction = function (actionName) {
         return (hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0);
     };
 
-    var useAction = function(actionName) {
+    var useAction = function (actionName) {
         cp -= aa[actionName].cpCost;
         dur -= aa[actionName].durabilityCost;
     };
 
-    var pushAction = function(seq, actionName) {
+    var pushAction = function (seq, actionName) {
         seq.push(aa[actionName]);
         useAction(actionName);
     };
 
-    var unshiftAction = function(seq, actionName) {
+    var unshiftAction = function (seq, actionName) {
         seq.unshift(aa[actionName]);
         useAction(actionName);
     };
 
     /* Progress to completion
-        -- Determine base progress
-        -- Determine best action to use from available list
-        -- Steady hand if CS is not available
-        -- Master's mend if more steps are needed
-    */
+    -- Determine base progress
+    -- Determine best action to use from available list
+    -- Steady hand if CS is not available
+    -- Master's mend if more steps are needed
+     */
 
     var effCrafterLevel = synth.crafter.level;
     if (LevelTable[synth.crafter.level]) {
@@ -1357,14 +1491,17 @@ function heuristicSequenceBuilder(synth) {
     // If Careful Synthesis 1 is available, use it
     var preferredAction = 'basicSynth';
     // TODO: standardSynth AKA Basic Synthesis Level 31
-    if (hasAction('carefulSynthesis')) {
-        preferredAction = 'carefulSynthesis';
+    // if (hasAction('carefulSynthesis')) {
+    // preferredAction = 'carefulSynthesis';
+    // }
+    if (hasAction('basicSynth2')) {
+        preferredAction = 'basicSynth2';
     }
 
     // Determine base progress
     var levelDifference = effCrafterLevel - effRecipeLevel;
-    var bProgressGain = synth.calculateBaseProgressIncrease(levelDifference, synth.crafter.craftsmanship);
-    var progressGain =  bProgressGain;
+    var bProgressGain = synth.calculateBaseProgressIncrease(effCrafterLevel, synth.crafter.craftsmanship);
+    var progressGain = bProgressGain;
     progressGain *= aa[preferredAction].progressIncreaseMultiplier;
     progressGain = Math.floor(progressGain);
 
@@ -1384,16 +1521,13 @@ function heuristicSequenceBuilder(synth) {
             unshiftAction(subSeq2, preferredAction);
             progress += progressGain;
             steps += 1;
-        }
-        else if (tryAction('manipulation')) {
+        } else if (tryAction('manipulation')) {
             unshiftAction(subSeq2, 'manipulation');
             dur += 30;
-        }
-        else if (tryAction('mastersMend')) {
+        } else if (tryAction('mastersMend')) {
             unshiftAction(subSeq2, 'mastersMend');
             dur += 30;
-        }
-        else {
+        } else {
             break;
         }
     }
@@ -1405,8 +1539,7 @@ function heuristicSequenceBuilder(synth) {
         if (tryAction('manipulation')) {
             unshiftAction(sequence, 'manipulation');
             dur += 30;
-        }
-        else if (tryAction('mastersMend')) {
+        } else if (tryAction('mastersMend')) {
             unshiftAction(sequence, 'mastersMend');
             dur += 30;
         }
@@ -1417,17 +1550,21 @@ function heuristicSequenceBuilder(synth) {
     subSeq3 = [];
 
     /* Improve Quality
-     -- Reflect and Inner Quiet at start
-     -- Byregot's at end or other Inner Quiet consumer
-    */
+    -- Reflect and Inner Quiet at start
+    -- Byregot's at end or other Inner Quiet consumer
+     */
+
+    if (tryAction('trainedEye')) {
+        pushAction(subSeq1, 'trainedEye')
+    }
 
     if (tryAction('reflect')) {
         pushAction(subSeq1, 'reflect')
-    } 
-    
-    if (tryAction('innerQuiet')) {
-        pushAction(subSeq1, 'innerQuiet');
     }
+
+    // if (tryAction('innerQuiet')) {
+    // pushAction(subSeq1, 'innerQuiet');
+    // }
 
     preferredAction = 'basicTouch';
 
@@ -1454,21 +1591,17 @@ function heuristicSequenceBuilder(synth) {
     while (cp > 0 && dur > 0) {
         if (tryAction(preferredAction) && dur > 10) {
             pushAction(subSeq2, preferredAction);
-        }
-        else if (dur < 20) {
+        } else if (dur < 20) {
             if (tryAction('manipulation')) {
                 unshiftAction(subSeq2, 'manipulation');
                 dur += 30;
-            }
-            else if (tryAction('mastersMend')) {
+            } else if (tryAction('mastersMend')) {
                 pushAction(subSeq2, 'mastersMend');
                 dur += 30;
-            }
-            else {
+            } else {
                 break;
             }
-        }
-        else {
+        } else {
             break;
         }
     }
@@ -1480,15 +1613,13 @@ function heuristicSequenceBuilder(synth) {
     return sequence;
 }
 
-
 // Helper Functions
 //=================
 
 function _typeof(x) {
     if (Array.isArray(x)) {
         return 'array';
-    }
-    else {
+    } else {
         return typeof x;
     }
 }
@@ -1504,29 +1635,29 @@ function clone(x) {
                 return seen[s];
             }
         }
-        switch(_typeof(x)) {
-            case 'object':
-                var newObject = Object.create(Object.getPrototypeOf(x));
-                seen[x] = newObject;
-                for (var p in x) {
-                    newObject[p] = _clone(x[p]);
-                }
-                return newObject;
-            case 'array':
-                var newArray = [];
-                seen[x] = newArray;
-                for (var pp in x) {
-                    newArray[pp] = _clone(x[pp]);
-                }
-                return newArray;
-            case 'number':
-                return x;
-            case 'string':
-                return x;
-            case 'boolean':
-                return x;
-            default:
-                return x;
+        switch (_typeof(x)) {
+        case 'object':
+            var newObject = Object.create(Object.getPrototypeOf(x));
+            seen[x] = newObject;
+            for (var p in x) {
+                newObject[p] = _clone(x[p]);
+            }
+            return newObject;
+        case 'array':
+            var newArray = [];
+            seen[x] = newArray;
+            for (var pp in x) {
+                newArray[pp] = _clone(x[pp]);
+            }
+            return newArray;
+        case 'number':
+            return x;
+        case 'string':
+            return x;
+        case 'boolean':
+            return x;
+        default:
+            return x;
         }
     }
     return _clone(x);
@@ -1562,7 +1693,17 @@ var LevelTable = {
     77: 412,
     78: 415,
     79: 418,
-    80: 420 
+    80: 420,
+    81: 517,
+    82: 520,
+    83: 525,
+    84: 530,
+    85: 535,
+    86: 540,
+    87: 545,
+    88: 550,
+    89: 555,
+    90: 560
 };
 
 var Ing1RecipeLevelTable = {
@@ -1577,50 +1718,50 @@ var Ing1RecipeLevelTable = {
     48: 43,
     49: 44,
     50: 45,
-    55: 50,     // 50_1star     *** unverified
-    70: 51,     // 50_2star     *** unverified
-    90: 58,     // 50_3star     *** unverified
-    110: 59,    // 50_4star     *** unverified
-    115: 100,   // 51 @ 169/339 difficulty
-    120: 101,   // 51 @ 210/410 difficulty
-    125: 102,   // 52
-    130: 110,   // 53
-    133: 111,   // 54
-    136: 112,   // 55
-    139: 126,   // 56
-    142: 131,   // 57
-    145: 134,   // 58
-    148: 137,   // 59
-    150: 140,   // 60
-    160: 151,   // 60_1star
-    180: 152,   // 60_2star
-    210: 153,   // 60_3star
-    220: 153,   // 60_3star
-    250: 154,   // 60_4star
-    255: 238,   // 61 @ 558/1116 difficulty
-    260: 240,   // 61 @ 700/1400 difficulty
-    265: 242,   // 62
-    270: 250,   // 63
-    273: 251,   // 64
-    276: 252,   // 65
-    279: 266,   // 66
-    282: 271,   // 67
-    285: 274,   // 68
-    288: 277,   // 69
-    290: 280,   // 70
-    300: 291,   // 70_1star
-    320: 292,   // 70_2star
-    350: 293,   // 70_3star
-    390: 365,   // 71
-    395: 375,   // 72
-    400: 385,   // 73 
-    403: 393,   // 74 
-    406: 396,   // 75 
-    409: 399,   // 76 
-    412: 402,   // 77 
-    415: 405,   // 78 
-    418: 408,   // 79 
-    420: 411,   // 80
+    55: 50, // 50_1star     *** unverified
+    70: 51, // 50_2star     *** unverified
+    90: 58, // 50_3star     *** unverified
+    110: 59, // 50_4star     *** unverified
+    115: 100, // 51 @ 169/339 difficulty
+    120: 101, // 51 @ 210/410 difficulty
+    125: 102, // 52
+    130: 110, // 53
+    133: 111, // 54
+    136: 112, // 55
+    139: 126, // 56
+    142: 131, // 57
+    145: 134, // 58
+    148: 137, // 59
+    150: 140, // 60
+    160: 151, // 60_1star
+    180: 152, // 60_2star
+    210: 153, // 60_3star
+    220: 153, // 60_3star
+    250: 154, // 60_4star
+    255: 238, // 61 @ 558/1116 difficulty
+    260: 240, // 61 @ 700/1400 difficulty
+    265: 242, // 62
+    270: 250, // 63
+    273: 251, // 64
+    276: 252, // 65
+    279: 266, // 66
+    282: 271, // 67
+    285: 274, // 68
+    288: 277, // 69
+    290: 280, // 70
+    300: 291, // 70_1star
+    320: 292, // 70_2star
+    350: 293, // 70_3star
+    390: 365, // 71
+    395: 375, // 72
+    400: 385, // 73
+    403: 393, // 74
+    406: 396, // 75
+    409: 399, // 76
+    412: 402, // 77
+    415: 405, // 78
+    418: 408, // 79
+    420: 411, // 80
 };
 
 var ProgressPenaltyTable = {
@@ -2164,7 +2305,141 @@ var SuggestedCraftsmanship = {
     517: 2620,
     518: 2620,
     519: 2620,
-    520: 2620
+    520: 2620,
+    517: 2234,
+    518: 2234,
+    519: 2234,
+    520: 2336,
+    521: 2336,
+    522: 2336,
+    523: 2336,
+    524: 2336,
+    525: 2438,
+    526: 2438,
+    527: 2438,
+    528: 2438,
+    529: 2438,
+    530: 2507,
+    531: 2507,
+    532: 2507,
+    533: 2507,
+    534: 2507,
+    535: 2549,
+    536: 2549,
+    537: 2549,
+    538: 2549,
+    539: 2549,
+    540: 2590,
+    541: 2590,
+    542: 2590,
+    543: 2590,
+    544: 2590,
+    545: 2626,
+    546: 2626,
+    547: 2626,
+    548: 2626,
+    549: 2626,
+    550: 2686,
+    551: 2686,
+    552: 2686,
+    553: 2686,
+    554: 2686,
+    555: 2748,
+    556: 2748,
+    557: 2748,
+    558: 2748,
+    559: 2748,
+    560: 2805,
+    561: 2805,
+    562: 2805,
+    563: 2805,
+    564: 2805,
+    565: 2805,
+    566: 2805,
+    567: 2805,
+    568: 2805,
+    569: 2805,
+    570: 2924,
+    571: 2924,
+    572: 2924,
+    573: 2924,
+    574: 2924,
+    575: 2924,
+    576: 2924,
+    577: 2924,
+    578: 2924,
+    579: 2924,
+    580: 2924,
+    581: 2924,
+    582: 2924,
+    583: 2924,
+    584: 2924,
+    585: 2924,
+    586: 2924,
+    587: 2924,
+    588: 2924,
+    589: 2924,
+    590: 2924,
+    591: 2924,
+    592: 2924,
+    593: 2924,
+    594: 2924,
+    595: 2924,
+    596: 2924,
+    597: 2924,
+    598: 2924,
+    599: 2924,
+    600: 2924,
+    601: 2924,
+    602: 2924,
+    603: 2924,
+    604: 2924,
+    605: 2924,
+    606: 2924,
+    607: 2924,
+    608: 2924,
+    609: 2924,
+    610: 2924,
+    611: 2924,
+    612: 2924,
+    613: 2924,
+    614: 2924,
+    615: 2924,
+    616: 2924,
+    617: 2924,
+    618: 2924,
+    619: 2924,
+    620: 2924,
+    621: 2924,
+    622: 2924,
+    623: 2924,
+    624: 2924,
+    625: 2924,
+    626: 2924,
+    627: 2924,
+    628: 2924,
+    629: 2924,
+    630: 2924,
+    631: 2924,
+    632: 2924,
+    633: 2924,
+    634: 2924,
+    635: 2924,
+    636: 2924,
+    637: 2924,
+    638: 2924,
+    639: 2924,
+    640: 2924,
+    641: 2924,
+    642: 2924,
+    643: 2924,
+    644: 2924,
+    645: 2924,
+    646: 2924,
+    647: 2924,
+    648: 2924,
+    649: 2924,
+    650: 2924
 };
 
 var SuggestedControl = {
@@ -2684,34 +2959,164 @@ var SuggestedControl = {
     514: 2540,
     515: 2540,
     516: 2540,
-    517: 2540,
-    518: 2540,
-    519: 2540,
-    520: 2540
+    517: 2136,
+    518: 2136,
+    519: 2136,
+    520: 2238,
+    521: 2238,
+    522: 2238,
+    523: 2238,
+    524: 2238,
+    525: 2340,
+    526: 2340,
+    527: 2340,
+    528: 2340,
+    529: 2340,
+    530: 2388,
+    531: 2388,
+    532: 2388,
+    533: 2388,
+    534: 2388,
+    535: 2418,
+    536: 2418,
+    537: 2418,
+    538: 2418,
+    539: 2418,
+    540: 2451,
+    541: 2451,
+    542: 2451,
+    543: 2451,
+    544: 2451,
+    545: 2482,
+    546: 2482,
+    547: 2482,
+    548: 2482,
+    549: 2482,
+    550: 2535,
+    551: 2535,
+    552: 2535,
+    553: 2535,
+    554: 2535,
+    555: 2589,
+    556: 2589,
+    557: 2589,
+    558: 2589,
+    559: 2589,
+    560: 2635,
+    561: 2635,
+    562: 2635,
+    563: 2635,
+    564: 2635,
+    565: 2635,
+    566: 2635,
+    567: 2635,
+    568: 2635,
+    569: 2635,
+    570: 2703,
+    571: 2703,
+    572: 2703,
+    573: 2703,
+    574: 2703,
+    575: 2703,
+    576: 2703,
+    577: 2703,
+    578: 2703,
+    579: 2703,
+    580: 2703,
+    581: 2703,
+    582: 2703,
+    583: 2703,
+    584: 2703,
+    585: 2703,
+    586: 2703,
+    587: 2703,
+    588: 2703,
+    589: 2703,
+    590: 2703,
+    591: 2703,
+    592: 2703,
+    593: 2703,
+    594: 2703,
+    595: 2703,
+    596: 2703,
+    597: 2703,
+    598: 2703,
+    599: 2703,
+    600: 2703,
+    601: 2703,
+    602: 2703,
+    603: 2703,
+    604: 2703,
+    605: 2703,
+    606: 2703,
+    607: 2703,
+    608: 2703,
+    609: 2703,
+    610: 2703,
+    611: 2703,
+    612: 2703,
+    613: 2703,
+    614: 2703,
+    615: 2703,
+    616: 2703,
+    617: 2703,
+    618: 2703,
+    619: 2703,
+    620: 2703,
+    621: 2703,
+    622: 2703,
+    623: 2703,
+    624: 2703,
+    625: 2703,
+    626: 2703,
+    627: 2703,
+    628: 2703,
+    629: 2703,
+    630: 2703,
+    631: 2703,
+    632: 2703,
+    633: 2703,
+    634: 2703,
+    635: 2703,
+    636: 2703,
+    637: 2703,
+    638: 2703,
+    639: 2703,
+    640: 2703,
+    641: 2703,
+    642: 2703,
+    643: 2703,
+    644: 2703,
+    645: 2703,
+    646: 2703,
+    647: 2703,
+    648: 2703,
+    649: 2703,
+    650: 2703,
 };
 
 var LevelDifferenceFactors = {
     'craftsmanship': {
-		'-30': 0.8,
-		'-29': 0.82,
-		'-28': 0.84,
-		'-27': 0.86,
-		'-26': 0.88,
-		'-25': 0.90,
-		'-24': 0.92,
-		'-23': 0.94,
-		'-22': 0.96,
-		'-21': 0.98,
-		'-20': 1,
-		'-19': 1,
-		'-18': 1,
-		'-17': 1,
-		'-16': 1,
-		'-15': 1,
-		'-14': 1,
-		'-13': 1,
-		'-12': 1,
-		'-11': 1,
+        '-30': 0.8,
+        '-29': 0.82,
+        '-28': 0.84,
+        '-27': 0.86,
+        '-26': 0.88,
+        '-25': 0.90,
+        '-24': 0.92,
+        '-23': 0.94,
+        '-22': 0.96,
+        '-21': 0.98,
+        '-20': 1,
+        '-19': 1,
+        '-18': 1,
+        '-17': 1,
+        '-16': 1,
+        '-15': 1,
+        '-14': 1,
+        '-13': 1,
+        '-12': 1,
+        '-11': 1,
         '-10': 1,
         '-9': 1,
         '-8': 1,
@@ -2745,26 +3150,26 @@ var LevelDifferenceFactors = {
         20: 1.5
     },
     'control': {
-		'-30': 0.6,
-		'-29': 0.64,
-		'-28': 0.68,
-		'-27': 0.72,
-		'-26': 0.76,
-		'-25': 0.80,
-		'-24': 0.84,
-		'-23': 0.88,
-		'-22': 0.92,
-		'-21': 0.96,
-		'-20': 1,
-		'-19': 1,
-		'-18': 1,
-		'-17': 1,
-		'-16': 1,
-		'-15': 1,
-		'-14': 1,
-		'-13': 1,
-		'-12': 1,
-		'-11': 1,
+        '-30': 0.6,
+        '-29': 0.64,
+        '-28': 0.68,
+        '-27': 0.72,
+        '-26': 0.76,
+        '-25': 0.80,
+        '-24': 0.84,
+        '-23': 0.88,
+        '-22': 0.92,
+        '-21': 0.96,
+        '-20': 1,
+        '-19': 1,
+        '-18': 1,
+        '-17': 1,
+        '-16': 1,
+        '-15': 1,
+        '-14': 1,
+        '-13': 1,
+        '-12': 1,
+        '-11': 1,
         '-10': 1,
         '-9': 1,
         '-8': 1,
@@ -2800,8 +3205,10 @@ var LevelDifferenceFactors = {
 };
 
 function getLevelDifferenceFactor(kind, levelDiff) {
-    if (levelDiff < -30) levelDiff = -30;
-    else if (levelDiff > 20) levelDiff = 20;
+    if (levelDiff < -30)
+        levelDiff = -30;
+    else if (levelDiff > 20)
+        levelDiff = 20;
 
     var factors = LevelDifferenceFactors[kind];
     if (!factors) {

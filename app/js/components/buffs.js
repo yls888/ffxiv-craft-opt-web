@@ -35,7 +35,7 @@
           $scope.buffs.push({name: name, count: ''});
         }
         for (var name in effects.countUps) {
-          $scope.buffs.push({name: name, count: effects.countUps[name] + 1});
+          $scope.buffs.push({name: name, count: effects.countUps[name]});
         }
         for (var name in effects.countDowns) {
           $scope.buffs.push({name: name, count: effects.countDowns[name]});

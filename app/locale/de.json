@@ -11,6 +11,7 @@
   "Basic Synthesis": "Bearbeiten",
 
   "Byregot's Blessing": "Byregots Benediktion",
+  "Groundwork": "Vorarbeit",
 
   "Rapid Synthesis": "Schnelle Bearbeitung",
 
@@ -43,6 +44,8 @@
   "Delicate Synthesis": "Akribische Bearbeitung",
   "Intensive Synthesis": "Fokussierte Bearbeitung",
   "Trained Eye": "Flinke Hand",
+
+  "Veneration": "Ehrfurcht",
 
   "Carpenter": "Zimmerer",
   "Blacksmith": "Grobschmied",
@@ -127,6 +130,8 @@
   "MACRO_CROSS_ACTION_SETUP": "Cross-class Action Setup Macro",
   "MACRO_INCLUDE_CLASS": "Include current class' actions in cross-class action activation macro",
   "MACRO_INCLUDE_LOCK": "Include macro lock at the start of each macro",
+  "MACRO_INCLUDE_TITLE": "Include recipe name at the start of the first macro",
+  "MACRO_TAKE_OUT_DOUBLE_QUOTATION_MARKS": "Remove the double quotation marks in the macro.",
 
   "INITIAL_GUESS": "Initial Guess",
   "WORKING_IN_PROGRESS": "Working...",
@@ -145,6 +150,7 @@
 
   "RECIPE_SEARCH": "Search...",
   "AVAILABLE_ACTIONS": "Available Actions",
+  "CUSTOM_RECIPE":"Custom Recipe",
 
   "OPTIONS_MONTE_CARLO_RUNS": "Montecarlo Runs:",
   "MONTE_CARLO_RUNS_INFO": "The number of iterations used to generate output in the Monte Carlo Sim tab. Increasing this number will give results that are closer to the average result over the long term, but will be slower.",
@@ -195,6 +201,17 @@
   "SPECIFY_SEED_INFO": "Enable to override the random seed used for Monte Carlo simulations.",
   "DEBUG": "Debug",
   "DEBUG_INFO": "Enable extra information in the simulator and solver logs.",
+
+  "SUBPOPULATIONS":"Subpopulations",
+  "SUBPOPULATIONS_INFO":"Amount of groups to divide the population within the solver into.",
+  "MAX_STAGNATION_COUNTER":"Max Stagnation Counter",
+  "MAX_STAGNATION_COUNTER_INFO":"After this many generations pass, the subpopulation gets wiped back to the initial guess state. This number is multiplied by 3 for the current leading subpopulation, so it has a chance to roll rare mutations. You can hit F12 and view console to view stats about the current subpopulations while the solver is running.",
+  "SOLVE_FOR_COMPLETION_ONLY":"Solve for Completion only",
+  "SOLVE_FOR_COMPLETION_ONLY_INFO":"Ticking this option makes the solver ignore quality, and instead tried to optimize for finishing progress with as much durability and CP remaining as possible. Actions that normally regenerate or preserve durability (e.g. MM, manipulation) are practically disabled.",
+  "CP_RF_VALUE":"CP remainder fitness value",
+  "CP_RF_VALUE_INFO":"The fitness value reward for each remaining point of CP after the craft is completed. Balance this with the fitness reward for remaining durability to optimize for your desired result.",
+  "DURABILITY_RF_VALUE":"Durability remainder fitness value",
+  "DURABILITY_RF_VALUE_INFO":"The fitness value reward for each remaining point of durability after the craft is completed. Balance this with the fitness reward for remaining CP to optimize for your desired result.",
 
   "SETTINGS": "Settings",
   "SETTINGS_EXPORT": "Export",

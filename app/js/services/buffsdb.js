@@ -26,8 +26,8 @@
         function (r) {
           var result = r.data.map(buffForLang.bind(this, lang));
           result.sort(function (a, b) {
-            if (a.name < b.name) return -1;
-            else if (a.name > b.name) return 1;
+            if (a.name < b.name) return 1;
+            else if (a.name > b.name) return -1;
             if (!a.hq && b.hq) return -1;
             else if (a.hq && !b.hq) return 1;
             return 0;

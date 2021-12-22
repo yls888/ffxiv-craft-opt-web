@@ -14,7 +14,7 @@
       scope: {
         sequence: '=',
         cls: '=',
-        options: '='
+        options: '=',
       },
       controller: controller
     }
@@ -71,12 +71,39 @@
 
       for (var i = 0; i < sequence.length; i++) {
         var action = sequence[i];
-        var info = _actionsByName[action];
-        if (info) {
-          var actionName = $translate.instant(info.name);
-          var line = '/ac "' + actionName + '" ';
+        var info = _actionsByName[action]; // This is the 'action' object
+        var infoList = [];
+
+
+        if (!info) {
+          lines.push({text: '/echo Error: Unknown action ' + action, time: 0});
+          continue
+        }
+
+        // Ranged edit -- Because combos are 2 actions in one, they need special code for building the macro
+        // I've put the line building in a for loop, to deal with combos
+        if (info.isCombo) {
+          for (var comboNumber = 0; comboNumber < info.comboActions.length; comboNumber++) {
+            infoList.push(_actionsByName[info.comboActions[comboNumber]]);
+          } 
+        } else {
+          infoList.push(info);
+        }
+
+        for (var j = 0; j < infoList.length; j++) {
+          var infoFromList = infoList[j];
+          var actionFromList = infoFromList.shortName;
+          var actionName = $translate.instant(infoFromList.name);
+		  
+          if (options.takeOutDoubleQuotationMarks) {
+			var line = '/ac ' + actionName + ' ';
+		  }
+		  else {									 
+			var line = '/ac "' + actionName + '" ';
+		  }
+		  
           var time;
-          if (buffs[action]) {
+          if (buffs[actionFromList]) {
             line += buffWaitString;
             time = options.buffWaitTime;
           }
@@ -85,9 +112,6 @@
             time = options.waitTime
           }
           lines.push({text: line, time: time});
-        }
-        else {
-          lines.push({text: '/echo Error: Unknown action ' + action, time: 0});
         }
       }
 
@@ -115,7 +139,7 @@
 
         if (macroLineCount === MAX_LINES - 1) {
           if (lines.length - (j + 1) > 1) {
-            macroString += '/echo Macro #' + macroIndex + ' complete ' + soundEffect(options.stepSoundEffect, options.stepSoundEnabled) + '\n';
+            macroString += '/echo 宏 #' + macroIndex + ' 已完成！' + soundEffect(options.stepSoundEffect, options.stepSoundEnabled) + '\n';
             macroList.push({text: macroString, time: macroTime});
 
             macroString = '';
@@ -133,7 +157,7 @@
 
       if (macroLineCount > 0) {
         if (macroLineCount < MAX_LINES) {
-          macroString += '/echo Macro #' + macroIndex + ' complete ' + soundEffect(options.finishSoundEffect, options.stepSoundEnabled) + '\n';
+          macroString += '/echo 宏 #' + macroIndex + ' 已完成！' + soundEffect(options.finishSoundEffect, options.stepSoundEnabled) + '\n';
         }
         macroList.push({text: macroString, time: macroTime});
       }

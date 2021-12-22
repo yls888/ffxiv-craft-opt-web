@@ -38,6 +38,8 @@ var yagal_tools = (function() {
     Array.prototype.splice.apply(array, args);    
   }
 
+  //function setStart()
+
   function selRandom(k, individuals) {
     var r = [];
     for (var i = 0; i < k; i++) {
@@ -137,6 +139,18 @@ var yagal_tools = (function() {
     return [individual];
   }
 
+  // Reverses a small subselection of actions
+  function mutReverse(individual) {
+    if (individual.length >= 6) {
+      var i = randInt(individual.length / 2); // Where to start reversing
+      var j = randInt(individual.length - i); // How many elements to reverse
+      var subSeq = individual.splice(i, j);
+      subSeq.reverse();
+      individual.splice(i, 0, ...subSeq);
+    }
+    return [individual];
+  }
+
   function randomMutation(mutations, individual) {
     return mutations[randInt(mutations.length)].call(undefined, individual);
   }
@@ -220,6 +234,7 @@ var yagal_tools = (function() {
     mutRandomSubSeq: mutRandomSubSeq,
     randomMutation: randomMutation,
     mutSwap: mutSwap,
+    mutReverse: mutReverse,
     sanityCheck: sanityCheck,
     HallOfFame: HallOfFame,
   };

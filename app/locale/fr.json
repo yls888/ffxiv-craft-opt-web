@@ -11,6 +11,7 @@
   "Basic Synthesis": "Travail de base",
 
   "Byregot's Blessing": "Bénédiction de Byregot",
+  "Groundwork": "Travail préparatoire",
 
   "Rapid Synthesis": "Travail rapide",
 
@@ -127,6 +128,8 @@
   "MACRO_CROSS_ACTION_SETUP": "Macro setup des actions cross-class",
   "MACRO_INCLUDE_CLASS": "Inclure les cross-actions de la classe actuelle dans la génération",
   "MACRO_INCLUDE_LOCK": "Inclure le verrou de macro au début de chaque macro",
+  "MACRO_INCLUDE_TITLE": "Include recipe name at the start of the first macro",
+  "MACRO_TAKE_OUT_DOUBLE_QUOTATION_MARKS": "Remove the double quotation marks in the macro.",
 
   "INITIAL_GUESS": "Départ renseigné",
   "WORKING_IN_PROGRESS": "Calcul en cours...",
@@ -145,6 +148,7 @@
 
   "RECIPE_SEARCH": "Rechercher...",
   "AVAILABLE_ACTIONS": "Actions disponibles",
+  "CUSTOM_RECIPE":"Custom Recipe",
 
   "OPTIONS_MONTE_CARLO_RUNS": "Essais Monte Carlo :",
   "MONTE_CARLO_RUNS_INFO": "Le nombre d'itérations utilisées pour générer les résultats de sortie du simulateur Monte Carlo. Augmenter ce nombre vous permettra d'obtenir des résultats plus proches du résultat moyen, mais la simulation sera plus lente.",
@@ -195,6 +199,17 @@
   "SPECIFY_SEED_INFO": "Permet de modifier la valeur de base aléatoire utilisée dans les simulations Monte Carlo.",
   "DEBUG": "Déboguer",
   "DEBUG_INFO": "Permet l'affichage d'informations supplémentaires dans le simulateur et dans les logs.",
+  
+  "SUBPOPULATIONS":"Subpopulations",
+  "SUBPOPULATIONS_INFO":"Amount of groups to divide the population within the solver into.",
+  "MAX_STAGNATION_COUNTER":"Max Stagnation Counter",
+  "MAX_STAGNATION_COUNTER_INFO":"After this many generations pass, the subpopulation gets wiped back to the initial guess state. This number is multiplied by 3 for the current leading subpopulation, so it has a chance to roll rare mutations. You can hit F12 and view console to view stats about the current subpopulations while the solver is running.",
+  "SOLVE_FOR_COMPLETION_ONLY":"Solve for Completion only",
+  "SOLVE_FOR_COMPLETION_ONLY_INFO":"Ticking this option makes the solver ignore quality, and instead tried to optimize for finishing progress with as much durability and CP remaining as possible. Actions that normally regenerate or preserve durability (e.g. MM, manipulation) are practically disabled.",
+  "CP_RF_VALUE":"CP remainder fitness value",
+  "CP_RF_VALUE_INFO":"The fitness value reward for each remaining point of CP after the craft is completed. Balance this with the fitness reward for remaining durability to optimize for your desired result.",
+  "DURABILITY_RF_VALUE":"Durability remainder fitness value",
+  "DURABILITY_RF_VALUE_INFO":"The fitness value reward for each remaining point of durability after the craft is completed. Balance this with the fitness reward for remaining CP to optimize for your desired result.",
 
   "SETTINGS": "Paramètres",
   "SETTINGS_EXPORT": "Exporter",
