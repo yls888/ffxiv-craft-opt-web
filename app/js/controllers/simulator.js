@@ -165,10 +165,10 @@
                 theRecipe.difficulty = Number(document.getElementById('dif').value);
                 theRecipe.durability = Number(document.getElementById('dur').value);
                 theRecipe.maxQuality = Number(document.getElementById('m-q').value);
-                theRecipe.progressDifficulty = Number(document.getElementById('s-pd').value);
-                theRecipe.qualityDifficulty = Number(document.getElementById('s-qd').value);
-                theRecipe.extraProgressDifficulty = Number(document.getElementById('s-epd').value);
-                theRecipe.extraQualityDifficulty = Number(document.getElementById('s-eqd').value);
+                theRecipe.progressDivider = Number(document.getElementById('s-pd').value);
+                theRecipe.qualityDivider = Number(document.getElementById('s-qd').value);
+                theRecipe.progressModifier = Number(document.getElementById('s-epd').value);
+                theRecipe.qualityModifier = Number(document.getElementById('s-eqd').value);
                 theRecipe.id = "customizedRecipe";
                 theRecipe.name = getCustomizedRecipeName();
 
@@ -187,10 +187,10 @@
             document.getElementById('dif').value = r.difficulty;
             document.getElementById('dur').value = r.durability;
             document.getElementById('m-q').value = r.maxQuality;
-            document.getElementById('s-pd').value = r.progressDifficulty;
-            document.getElementById('s-qd').value = r.qualityDifficulty;
-            document.getElementById('s-epd').value = r.extraProgressDifficulty;
-            document.getElementById('s-eqd').value = r.extraQualityDifficulty;
+            document.getElementById('s-pd').value = r.progressDivider;
+            document.getElementById('s-qd').value = r.qualityDivider;
+            document.getElementById('s-epd').value = r.progressModifier;
+            document.getElementById('s-eqd').value = r.qualityModifier;
         }
 
         function updateBaseValues() {
