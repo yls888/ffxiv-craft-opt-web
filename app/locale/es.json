@@ -130,6 +130,8 @@
 "STATS_CONTROL": "Control",
 "STATS_CP": "CP",
 "STATS_START_QUALITY": "Start Quality",
+  "STATS_SAFETY_MARGIN": "HQ% Margin",
+  "STATS_SAFETY_MARGIN_TOOLTIPS": "The extra percentage of Quality that the solver tries to reach before looking for shorter solutions. For example, at a HQ margin of 10% on a 6000 Quality recipe, it will try to reach a Quality of 6600 and then prefer shorter solutions. Min 0%, max 50%. Recommended 0% for hard recipes.",
 
 "EDIT_SIMULATOR": "Edit...",
 "LOADING": "Loading...",

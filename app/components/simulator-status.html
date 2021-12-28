@@ -122,6 +122,20 @@
           <td class="col5 value">=&nbsp;{{bonusStats.startQuality}}</td>
           <td class="col6">&nbsp;</td>
         </tr>
+        <tr>
+          <td class="col1 stats-label">{{ 'STATS_SAFETY_MARGIN' | translate }}</td>
+          <td class="col2 value">0%</td>
+          <td class="col3 value">+&nbsp;0%</td>
+          <td class="col4">
+            +&nbsp;
+            <input class="input-mini" type="number" min="0" max="50" required force-numeric
+                   ng-model="bonusStats.safetyMargin"
+                   tooltip="{{'STATS_SAFETY_MARGIN_TOOLTIPS' | translate}}"
+                   tooltip-placement="right"/>
+          </td>
+          <td class="col5 value">=&nbsp;{{bonusStats.safetyMargin}}%</td>
+          <td class="col6">&nbsp;</td>
+        </tr>
       </table>
     </form>
   </div>

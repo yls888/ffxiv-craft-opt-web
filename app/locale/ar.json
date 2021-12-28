@@ -47,6 +47,8 @@
     "STATS_CONTROL": "التحكم",
     "STATS_CP": "سى بى",
     "STATS_START_QUALITY": "ابدأ الجودة",
+    "STATS_SAFETY_MARGIN": "HQ% Margin",
+	"STATS_SAFETY_MARGIN_TOOLTIPS": "在寻找更短的解决方案之前，求解器试图达到的额外品质百分比。例如：针对品质上限为6000的配方，当这个值设为10%时，求解器会先尝试将品质推进到6600，再试图寻找更短的解决方案。对于高难度配方，建议此项设置为0%。（最小值：0%，最大值：50%）",
   
     "NAV_SIMULATOR" : "محاكاة",
     "NAV_SOLVER" : "المجيب",
