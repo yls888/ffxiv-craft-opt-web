@@ -279,9 +279,6 @@ function probExcellentForSynth(synth) {
 
 function getEffectiveCrafterLevel(synth) {
     var effCrafterLevel = synth.crafter.level;
-    if (LevelTable[synth.crafter.level]) {
-        effCrafterLevel = LevelTable[synth.crafter.level];
-    }
     return effCrafterLevel;
 }
 
@@ -307,9 +304,7 @@ function ApplyModifiers(s, action, condition) {
     var effCrafterLevel = getEffectiveCrafterLevel(s.synth);
     var effRecipeLevel = s.synth.recipe.level;
     var levelDifference = effCrafterLevel - effRecipeLevel;
-    var originalLevelDifference = effCrafterLevel - effRecipeLevel;
     var pureLevelDifference = s.synth.crafter.level - s.synth.recipe.baseLevel;
-    var recipeLevel = effRecipeLevel;
     var stars = s.synth.recipe.stars;
     var durabilityCost = action.durabilityCost;
 
@@ -337,7 +332,7 @@ function ApplyModifiers(s, action, condition) {
             cpCost = 18;
         }
         if (s.action != AllActions.basicTouch.shortName) {
-            s.wastedActions += 0.1;
+            s.wastedActions += 5;
         }
     }
 
@@ -348,7 +343,7 @@ function ApplyModifiers(s, action, condition) {
             s.touchComboStep = 1;
         }
         if (s.action != AllActions.standardTouch.shortName) {
-            s.wastedActions += 0.2;
+            s.wastedActions += 10;
         }
     }
 
@@ -371,7 +366,7 @@ function ApplyModifiers(s, action, condition) {
 
     if (isActionEq(action, AllActions.muscleMemory)) {
         if (s.step !== 1) {
-            s.wastedActions += 1;
+            s.wastedActions += 100;
             progressIncreaseMultiplier = 0;
             cpCost = 0;
         }
@@ -400,7 +395,7 @@ function ApplyModifiers(s, action, condition) {
             qualityIncreaseMultiplier *= 1 + (0.2 * s.effects.countUps[AllActions.innerQuiet.shortName]);
             delete s.effects.countUps[AllActions.innerQuiet.shortName];
         } else {
-            s.wastedActions += 1;
+            s.wastedActions += 500;
             qualityIncreaseMultiplier = 0;
             cpCost = 0;
             durabilityCost = 0;
@@ -425,7 +420,7 @@ function ApplyModifiers(s, action, condition) {
         if ((s.step === 1) && (pureLevelDifference >= 10)) {
             bQualityGain = s.synth.recipe.maxQuality;
         } else {
-            s.wastedActions += 1;
+            s.wastedActions += 500;
             bQualityGain = 0;
             cpCost = 0;
         }
@@ -445,7 +440,7 @@ function ApplyModifiers(s, action, condition) {
         } else {
             action.onGood = true;
             action.onExcellent = true;
-            s.wastedActions += 1;
+            s.wastedActions += 10;
             bQualityGain = 0;
             cpCost = 0;
         }
@@ -460,7 +455,7 @@ function ApplyModifiers(s, action, condition) {
         } else {
             action.onGood = true;
             action.onExcellent = true;
-            s.wastedActions += 1;
+            s.wastedActions += 10;
             bQualityGain = 0;
             cpCost = 0;
         }
@@ -469,12 +464,12 @@ function ApplyModifiers(s, action, condition) {
     if (isActionEq(action, AllActions.trainedFinesse) && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10)) {
         bQualityGain = 0;
         cpCost = 0;
-        s.wastedActions += 1;
+        s.wastedActions += 500;
     }
 
     if (isActionEq(action, AllActions.reflect) || isActionEq(action, AllActions.trainedEye)) {
         if (s.step !== 1) {
-            s.wastedActions += 1;
+            s.wastedActions += 1000;
             bQualityGain = 0;
             cpCost = 0;
         }
@@ -482,7 +477,7 @@ function ApplyModifiers(s, action, condition) {
 
     // Penalize use of WasteNot during solveforcompletion runs
     if ((isActionEq(action, AllActions.wasteNot) || isActionEq(action, AllActions.wasteNot2)) && s.synth.solverVars.solveForCompletion) {
-        s.wastedActions += 50;
+        s.wastedActions += 100;
     }
 
     // Effects modifying durability cost
@@ -491,7 +486,7 @@ function ApplyModifiers(s, action, condition) {
             bProgressGain = 0;
             bQualityGain = 0;
             cpCost = 0;
-            s.wastedActions += 1;
+            s.wastedActions += 1000;
             durabilityCost = 0;
         } else {
             durabilityCost *= 0.5;
@@ -546,7 +541,7 @@ function ApplySpecialActionEffects(s, action, condition) {
         if (s.step == 1) {
             s.effects.countUps[AllActions.innerQuiet.shortName] = 2;
         } else {
-            s.wastedActions += 1;
+            s.wastedActions += 1000;
         }
     }
 
@@ -564,10 +559,10 @@ function ApplySpecialActionEffects(s, action, condition) {
     }
 
     if (isActionEq(action, AllActions.veneration.shortName) && (AllActions.veneration.shortName in s.effects.countDowns)) {
-        s.wastedActions += 1
+        s.wastedActions += 1;
     }
     if (isActionEq(action, AllActions.innovation.shortName) && (AllActions.innovation.shortName in s.effects.countDowns)) {
-        s.wastedActions += 1
+        s.wastedActions += 1;
     }
 
 }
@@ -616,35 +611,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
             s.effects.countUps[action.shortName] = 1;
         }
     }
-
-    if (action.type === 'indefinite') {
-        if (isActionEq(action, AllActions.initialPreparations)) {
-            if (s.step == 1) {
-                s.effects.indefinites[action.shortName] = true;
-            } else {
-                s.wastedActions += 1;
-            }
-        } else {
-            s.effects.indefinites[action.shortName] = true;
-        }
-    }
-
-    if (action.type === 'countdown') {
-        if (action.shortName.indexOf('nameOf') >= 0) {
-            if (s.nameOfElementUses == 0) {
-                s.effects.countDowns[action.shortName] = action.activeTurns;
-                s.nameOfElementUses += 1;
-            } else {
-                s.wastedActions += 1;
-            }
-        } else if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
-            s.wastedActions += 1;
-        } else {
-            s.effects.countDowns[action.shortName] = action.activeTurns;
-        }
-    }
 }
-
 function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCost, condition, successProbability) {
     // State tracking
     s.progressState += progressGain;
@@ -795,7 +762,7 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
                 logger.log('%2d %30s %5.0f %5.0f %8.1f %8.1f %5.1f', s.step, action.name, s.durabilityState, s.cpState, s.qualityState, s.progressState, iqCnt);
             }
 
-            s.action = action.shortName
+            s.action = action.shortName;
         }
 
     }
@@ -1224,7 +1191,7 @@ function MonteCarloSim(individual, synth, nRuns, assumeSuccess, conditionalActio
         median: mdnStats,
         min: minStats,
         max: maxStats,
-    }
+    };
 }
 
 function getAverageProperty(stateArray, propName, nRuns) {
@@ -1359,11 +1326,6 @@ function getMaxProperty(stateArray, propName) {
     return maxProperty;
 }
 
-function qualityFromHqPercent(hqPercent) {
-    var x = hqPercent;
-    return -5.6604E-6 * Math.pow(x, 4) + 0.0015369705 * Math.pow(x, 3) - 0.1426469573 * Math.pow(x, 2) + 5.6122722959 * x - 5.5950384565;
-}
-
 function hqPercentFromQuality(qualityPercent) {
     var hqPercent = 1;
     if (qualityPercent === 0) {
@@ -1371,9 +1333,11 @@ function hqPercentFromQuality(qualityPercent) {
     } else if (qualityPercent >= 100) {
         hqPercent = 100;
     } else {
-        while (qualityFromHqPercent(hqPercent) < qualityPercent && hqPercent < 100) {
-            hqPercent += 1;
-        }
+		while (!hqPercentDictionary[Math.floor(qualityPercent) / 100]) {
+			qualityPercent -= 1;
+		}
+		var t = Math.floor(qualityPercent) / 100;
+		hqPercent = hqPercentDictionary[t];
     }
     return hqPercent;
 }
@@ -1494,9 +1458,6 @@ function heuristicSequenceBuilder(synth) {
      */
 
     var effCrafterLevel = synth.crafter.level;
-    if (LevelTable[synth.crafter.level]) {
-        effCrafterLevel = LevelTable[synth.crafter.level];
-    }
     var effRecipeLevel = synth.recipe.level;
 
     // If Careful Synthesis 1 is available, use it
@@ -1673,128 +1634,6 @@ function clone(x) {
     }
     return _clone(x);
 }
-
-var LevelTable = {
-    51: 120, // 120
-    52: 125, // 125
-    53: 130, // 130
-    54: 133, // 133
-    55: 136, // 136
-    56: 139, // 139
-    57: 142, // 142
-    58: 145, // 145
-    59: 148, // 148
-    60: 150, // 150
-    61: 260,
-    62: 265,
-    63: 270,
-    64: 273,
-    65: 276,
-    66: 279,
-    67: 282,
-    68: 285,
-    69: 288,
-    70: 290,
-    71: 390,
-    72: 395,
-    73: 400,
-    74: 403,
-    75: 406,
-    76: 409,
-    77: 412,
-    78: 415,
-    79: 418,
-    80: 420,
-    81: 517,
-    82: 520,
-    83: 525,
-    84: 530,
-    85: 535,
-    86: 540,
-    87: 545,
-    88: 550,
-    89: 555,
-    90: 560
-};
-
-var Ing1RecipeLevelTable = {
-    40: 36,
-    41: 36,
-    42: 37,
-    43: 38,
-    44: 39,
-    45: 40,
-    46: 41,
-    47: 42,
-    48: 43,
-    49: 44,
-    50: 45,
-    55: 50, // 50_1star     *** unverified
-    70: 51, // 50_2star     *** unverified
-    90: 58, // 50_3star     *** unverified
-    110: 59, // 50_4star     *** unverified
-    115: 100, // 51 @ 169/339 difficulty
-    120: 101, // 51 @ 210/410 difficulty
-    125: 102, // 52
-    130: 110, // 53
-    133: 111, // 54
-    136: 112, // 55
-    139: 126, // 56
-    142: 131, // 57
-    145: 134, // 58
-    148: 137, // 59
-    150: 140, // 60
-    160: 151, // 60_1star
-    180: 152, // 60_2star
-    210: 153, // 60_3star
-    220: 153, // 60_3star
-    250: 154, // 60_4star
-    255: 238, // 61 @ 558/1116 difficulty
-    260: 240, // 61 @ 700/1400 difficulty
-    265: 242, // 62
-    270: 250, // 63
-    273: 251, // 64
-    276: 252, // 65
-    279: 266, // 66
-    282: 271, // 67
-    285: 274, // 68
-    288: 277, // 69
-    290: 280, // 70
-    300: 291, // 70_1star
-    320: 292, // 70_2star
-    350: 293, // 70_3star
-    390: 365, // 71
-    395: 375, // 72
-    400: 385, // 73
-    403: 393, // 74
-    406: 396, // 75
-    409: 399, // 76
-    412: 402, // 77
-    415: 405, // 78
-    418: 408, // 79
-    420: 411, // 80
-};
-
-var ProgressPenaltyTable = {
-    180: -0.02,
-    210: -0.035,
-    220: -0.035,
-    250: -0.04,
-    320: -0.02,
-    350: -0.035,
-};
-
-var QualityPenaltyTable = {
-    0: -0.02,
-    90: -0.03,
-    160: -0.05,
-    180: -0.06,
-    200: -0.07,
-    245: -0.08,
-    300: -0.09,
-    310: -0.10,
-    340: -0.11,
-};
 
 var SuggestedCraftsmanship = {
     1: 22,
@@ -2317,10 +2156,6 @@ var SuggestedCraftsmanship = {
     518: 2620,
     519: 2620,
     520: 2620,
-    517: 2234,
-    518: 2234,
-    519: 2234,
-    520: 2336,
     521: 2336,
     522: 2336,
     523: 2336,
@@ -3106,140 +2941,61 @@ var SuggestedControl = {
     650: 2703,
 };
 
-var LevelDifferenceFactors = {
-    'craftsmanship': {
-        '-30': 0.8,
-        '-29': 0.82,
-        '-28': 0.84,
-        '-27': 0.86,
-        '-26': 0.88,
-        '-25': 0.90,
-        '-24': 0.92,
-        '-23': 0.94,
-        '-22': 0.96,
-        '-21': 0.98,
-        '-20': 1,
-        '-19': 1,
-        '-18': 1,
-        '-17': 1,
-        '-16': 1,
-        '-15': 1,
-        '-14': 1,
-        '-13': 1,
-        '-12': 1,
-        '-11': 1,
-        '-10': 1,
-        '-9': 1,
-        '-8': 1,
-        '-7': 1,
-        '-6': 1,
-        '-5': 1,
-        '-4': 1,
-        '-3': 1,
-        '-2': 1,
-        '-1': 1,
-        0: 1,
-        1: 1.05,
-        2: 1.1,
-        3: 1.15,
-        4: 1.2,
-        5: 1.25,
-        6: 1.27,
-        7: 1.29,
-        8: 1.31,
-        9: 1.33,
-        10: 1.35,
-        11: 1.37,
-        12: 1.39,
-        13: 1.41,
-        14: 1.43,
-        15: 1.45,
-        16: 1.46,
-        17: 1.47,
-        18: 1.48,
-        19: 1.49,
-        20: 1.5
-    },
-    'control': {
-        '-30': 0.6,
-        '-29': 0.64,
-        '-28': 0.68,
-        '-27': 0.72,
-        '-26': 0.76,
-        '-25': 0.80,
-        '-24': 0.84,
-        '-23': 0.88,
-        '-22': 0.92,
-        '-21': 0.96,
-        '-20': 1,
-        '-19': 1,
-        '-18': 1,
-        '-17': 1,
-        '-16': 1,
-        '-15': 1,
-        '-14': 1,
-        '-13': 1,
-        '-12': 1,
-        '-11': 1,
-        '-10': 1,
-        '-9': 1,
-        '-8': 1,
-        '-7': 1,
-        '-6': 1,
-        '-5': 1,
-        '-4': 1,
-        '-3': 1,
-        '-2': 1,
-        '-1': 1,
-        0: 1,
-        1: 1,
-        2: 1,
-        3: 1,
-        4: 1,
-        5: 1,
-        6: 1,
-        7: 1,
-        8: 1,
-        9: 1,
-        10: 1,
-        11: 1,
-        12: 1,
-        13: 1,
-        14: 1,
-        15: 1,
-        16: 1,
-        17: 1,
-        18: 1,
-        19: 1,
-        20: 1
-    }
+var hqPercentDictionary = {
+	0.00: 1,
+	0.05: 2,
+	0.09: 3,
+	0.13: 4,
+	0.17: 5,
+	0.21: 6,
+	0.25: 7,
+	0.29: 8,
+	0.32: 9,
+	0.35: 10,
+	0.38: 11,
+	0.41: 12,
+	0.44: 13,
+	0.47: 14,
+	0.50: 15,
+	0.53: 16,
+	0.55: 17,
+	0.58: 18,
+	0.61: 19,
+	0.63: 20,
+	0.65: 21,
+	0.66: 22,
+	0.67: 23,
+	0.68: 24,
+	0.69: 26,
+	0.70: 28,
+	0.71: 31,
+	0.72: 34,
+	0.73: 38,
+	0.74: 42,
+	0.75: 47,
+	0.76: 52,
+	0.77: 58,
+	0.78: 64,
+	0.79: 68,
+	0.80: 71,
+	0.81: 74,
+	0.82: 76,
+	0.83: 78,
+	0.84: 80,
+	0.85: 81,
+	0.86: 82,
+	0.87: 83,
+	0.88: 84,
+	0.89: 85,
+	0.90: 86,
+	0.91: 87,
+	0.92: 88,
+	0.93: 89,
+	0.94: 90,
+	0.95: 91,
+	0.96: 92,
+	0.97: 94,
+	0.98: 96,
+	0.99: 98,
+	1.00: 100,
 };
-
-function getLevelDifferenceFactor(kind, levelDiff) {
-    if (levelDiff < -30)
-        levelDiff = -30;
-    else if (levelDiff > 20)
-        levelDiff = 20;
-
-    var factors = LevelDifferenceFactors[kind];
-    if (!factors) {
-        throw "unrecognized level difference factor kind";
-    }
-
-    return factors[levelDiff];
-}
-
-// Test objects
-//cls, level, craftsmanship, control, craftPoints, actions
-/*
-var myWeaverActions = [basicSynth];
-var myWeaver = new Crafter('Weaver', 20, 119, 117, 243, false, myWeaverActions);
-var initiatesSlops = new Recipe(20,74,70,0,1053);
-var mySynth = new Synth(myWeaver, initiatesSlops, maxTrickUses=1, useConditions=true);
-var actionSequence = [innerQuiet, steadyHand, wasteNot, basicSynth, hastyTouch, hastyTouch, hastyTouch, steadyHand, hastyTouch, tricksOfTheTrade, standardTouch, standardTouch, standardTouch, tricksOfTheTrade, rumination, mastersMend, hastyTouch, basicSynth, basicTouch, basicSynth];
-
-simSynth(actionSequence, mySynth, false, true);
-MonteCarloSynth(actionSequence, mySynth, false, true);
-MonteCarloSim(actionSequence, mySynth, 500);
-evalSeq(actionSequence, mySynth);
-*/
