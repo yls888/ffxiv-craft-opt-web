@@ -55,7 +55,7 @@ function Recipe(baseLevel, level, difficulty, durability, startQuality, safetyMa
     this.difficulty = difficulty;
     this.durability = durability;
     this.startQuality = startQuality;
-	this.safetyMargin = safetyMargin || 0;
+    this.safetyMargin = safetyMargin || 0;
     this.maxQuality = maxQuality;
     this.suggestedCraftsmanship = suggestedCraftsmanship || SuggestedCraftsmanship[this.level];
     this.suggestedControl = suggestedControl || SuggestedControl[this.level];
@@ -159,7 +159,7 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.bProgressGain = 0;
     this.bQualityGain = 0;
     this.success = 0;
-	this.lastDurabilityCost = 0;
+    this.lastDurabilityCost = 0;
 }
 
 State.prototype.clone = function () {
@@ -194,7 +194,7 @@ State.prototype.checkViolations = function () {
         if (this.lastDurabilityCost === 10 && this.durabilityState === -5) {
             durabilityOk = true;
         }
-		if (this.lastDurabilityCost === 20 && (this.durabilityState === -5 || this.durabilityState === -10 || this.durabilityState === -15)) {
+        if (this.lastDurabilityCost === 20 && (this.durabilityState === -5 || this.durabilityState === -10 || this.durabilityState === -15)) {
             durabilityOk = true;
         }
         if (this.durabilityState >= 0) {
@@ -286,12 +286,6 @@ function ApplyModifiers(s, action, condition) {
         s.effects.countUps[AllActions.innerQuiet.shortName] = 0;
     }
 
-    // Effects modifying control
-    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
-        // control += (0.2 * s.effects.countUps[AllActions.innerQuiet.shortName]) * s.synth.crafter.control;
-        innerQuietMultiplier = 1 + 0.1 * s.effects.countUps[AllActions.innerQuiet.shortName];
-    }
-
     // Effects modifying level difference
     var effCrafterLevel = getEffectiveCrafterLevel(s.synth);
     var effRecipeLevel = s.synth.recipe.level;
@@ -307,7 +301,6 @@ function ApplyModifiers(s, action, condition) {
             successProbability = 1.0;
         }
     }
-
     successProbability = Math.min(successProbability, 1);
 
     // Advancted Touch Combo
@@ -339,6 +332,11 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
+    // Penalize use of WasteNot during solveforcompletion runs
+    if ((isActionEq(action, AllActions.wasteNot) || isActionEq(action, AllActions.wasteNot2)) && s.synth.solverVars.solveForCompletion) {
+        s.wastedActions += 100;
+    }
+
     // Effects modifying progress increase multiplier
     var progressIncreaseMultiplier = 1;
 
@@ -346,11 +344,6 @@ function ApplyModifiers(s, action, condition) {
         progressIncreaseMultiplier += 1;
         delete s.effects.countDowns[AllActions.muscleMemory.shortName];
     }
-
-    // Name of the Elements increases Brand of the Element's efficiency by 0-200% based on the inverse of progress.
-    // if (isActionEq(action, AllActions.brandOfTheElements) && s.effects.countDowns.hasOwnProperty(AllActions.nameOfTheElements.shortName)) {
-    // progressIncreaseMultiplier += calcNameOfElementsBonus(s);
-    // }
 
     if (AllActions.veneration.shortName in s.effects.countDowns) {
         progressIncreaseMultiplier += 0.5;
@@ -361,6 +354,26 @@ function ApplyModifiers(s, action, condition) {
             s.wastedActions += 100;
             progressIncreaseMultiplier = 0;
             cpCost = 0;
+        }
+    }
+
+    // Effects modifying durability cost
+    var durabilityCost = action.durabilityCost;
+    if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
+        if (isActionEq(action, AllActions.prudentTouch)) {
+            bProgressGain = 0;
+            bQualityGain = 0;
+            cpCost = 0;
+            s.wastedActions += 1000;
+            durabilityCost = 0;
+        } else if (isActionEq(action, AllActions.prudentSynthesis)) {
+            bProgressGain = 0;
+            bQualityGain = 0;
+            cpCost = 0;
+            s.wastedActions += 1000;
+            durabilityCost = 0;
+        } else {
+            durabilityCost *= 0.5;
         }
     }
 
@@ -379,6 +392,12 @@ function ApplyModifiers(s, action, condition) {
 
     if (AllActions.innovation.shortName in s.effects.countDowns) {
         qualityIncreaseMultiplier += 0.5;
+    }
+
+    // Effects modifying control
+    if (AllActions.innerQuiet.shortName in s.effects.countUps) {
+        // control += (0.2 * s.effects.countUps[AllActions.innerQuiet.shortName]) * s.synth.crafter.control;
+        innerQuietMultiplier = 1 + 0.1 * s.effects.countUps[AllActions.innerQuiet.shortName];
     }
 
     // We can only use Byregot actions when we have at least 1 stacks of inner quiet
@@ -402,9 +421,10 @@ function ApplyModifiers(s, action, condition) {
     var bQualityGain = s.synth.calculateBaseQualityIncrease(effCrafterLevel, control);
     bQualityGain = Math.floor(bQualityGain * action.qualityIncreaseMultiplier * qualityIncreaseMultiplier * innerQuietMultiplier);
 
-    // Effects modifying progress gain directly
-    if (isActionEq(action, AllActions.flawlessSynthesis)) {
-        bProgressGain = 40;
+    if (isActionEq(action, AllActions.trainedFinesse) && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10)) {
+        bQualityGain = 0;
+        cpCost = 0;
+        s.wastedActions += 500;
     }
 
     // Effects modifying quality gain directly
@@ -453,35 +473,11 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
-    if (isActionEq(action, AllActions.trainedFinesse) && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10)) {
-        bQualityGain = 0;
-        cpCost = 0;
-        s.wastedActions += 500;
-    }
-
-    if (isActionEq(action, AllActions.reflect) || isActionEq(action, AllActions.trainedEye)) {
+    if (isActionEq(action, AllActions.reflect)) {
         if (s.step !== 1) {
             s.wastedActions += 1000;
             bQualityGain = 0;
             cpCost = 0;
-        }
-    }
-
-    // Penalize use of WasteNot during solveforcompletion runs
-    if ((isActionEq(action, AllActions.wasteNot) || isActionEq(action, AllActions.wasteNot2)) && s.synth.solverVars.solveForCompletion) {
-        s.wastedActions += 100;
-    }
-
-    // Effects modifying durability cost
-    if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
-        if ((isActionEq(action, AllActions.prudentTouch)) || isActionEq(action, AllActions.prudentSynthesis)) {
-            bProgressGain = 0;
-            bQualityGain = 0;
-            cpCost = 0;
-            s.wastedActions += 1000;
-            durabilityCost = 0;
-        } else {
-            durabilityCost *= 0.5;
         }
     }
 
@@ -603,8 +599,8 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
             s.effects.countUps[action.shortName] = 1;
         }
     }
-	
-	if (action.type === 'indefinite') {
+
+    if (action.type === 'indefinite') {
         if (isActionEq(action, AllActions.initialPreparations)) {
             if (s.step == 1) {
                 s.effects.indefinites[action.shortName] = true;
@@ -636,7 +632,7 @@ function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCos
     s.progressState += progressGain;
     s.qualityState += qualityGain;
     s.durabilityState -= durabilityCost;
-	s.lastDurabilityCost = durabilityCost;
+    s.lastDurabilityCost = durabilityCost;
     s.cpState -= cpCost;
     s.lastStep += 1;
     ApplySpecialActionEffects(s, action, condition);
@@ -1352,11 +1348,11 @@ function hqPercentFromQuality(qualityPercent) {
     } else if (qualityPercent >= 100) {
         hqPercent = 100;
     } else {
-		while (!hqPercentDictionary[Math.floor(qualityPercent) / 100]) {
-			qualityPercent -= 1;
-		}
-		var t = Math.floor(qualityPercent) / 100;
-		hqPercent = hqPercentDictionary[t];
+        while (!hqPercentDictionary[Math.floor(qualityPercent) / 100]) {
+            qualityPercent -= 1;
+        }
+        var t = Math.floor(qualityPercent) / 100;
+        hqPercent = hqPercentDictionary[t];
     }
     return hqPercent;
 }
@@ -1370,7 +1366,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
     var penalties = 0;
     var fitness = 0;
     var fitnessProg = 0;
-	var safetyMarginFactor = 1 + mySynth.recipe.safetyMargin * 0.01;
+    var safetyMarginFactor = 1 + mySynth.recipe.safetyMargin * 0.01;
 
     // Sum the constraint violations
     // experiment: wastedactions change
@@ -1410,15 +1406,15 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         fitness += result.cpState * mySynth.solverVars.remainderCPFitnessValue;
         fitness += result.durabilityState * mySynth.solverVars.remainderDurFitnessValue;
     } else {
-        fitness += Math.min(mySynth.recipe.maxQuality*safetyMarginFactor, result.qualityState);
+        fitness += Math.min(mySynth.recipe.maxQuality * safetyMarginFactor, result.qualityState);
     }
 
     fitness -= penaltyWeight * penalties;
-	
-    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality*safetyMarginFactor) {
+
+    if (chk.progressOk && result.qualityState >= mySynth.recipe.maxQuality * safetyMarginFactor) {
         fitness *= (1 + 4 / result.step);
     }
-	
+
     fitnessProg += result.progressState;
 
     return [fitness, fitnessProg, result.cpState, individual.length];
@@ -2961,60 +2957,60 @@ var SuggestedControl = {
 };
 
 var hqPercentDictionary = {
-	0.00: 1,
-	0.05: 2,
-	0.09: 3,
-	0.13: 4,
-	0.17: 5,
-	0.21: 6,
-	0.25: 7,
-	0.29: 8,
-	0.32: 9,
-	0.35: 10,
-	0.38: 11,
-	0.41: 12,
-	0.44: 13,
-	0.47: 14,
-	0.50: 15,
-	0.53: 16,
-	0.55: 17,
-	0.58: 18,
-	0.61: 19,
-	0.63: 20,
-	0.65: 21,
-	0.66: 22,
-	0.67: 23,
-	0.68: 24,
-	0.69: 26,
-	0.70: 28,
-	0.71: 31,
-	0.72: 34,
-	0.73: 38,
-	0.74: 42,
-	0.75: 47,
-	0.76: 52,
-	0.77: 58,
-	0.78: 64,
-	0.79: 68,
-	0.80: 71,
-	0.81: 74,
-	0.82: 76,
-	0.83: 78,
-	0.84: 80,
-	0.85: 81,
-	0.86: 82,
-	0.87: 83,
-	0.88: 84,
-	0.89: 85,
-	0.90: 86,
-	0.91: 87,
-	0.92: 88,
-	0.93: 89,
-	0.94: 90,
-	0.95: 91,
-	0.96: 92,
-	0.97: 94,
-	0.98: 96,
-	0.99: 98,
-	1.00: 100,
+    0.00: 1,
+    0.05: 2,
+    0.09: 3,
+    0.13: 4,
+    0.17: 5,
+    0.21: 6,
+    0.25: 7,
+    0.29: 8,
+    0.32: 9,
+    0.35: 10,
+    0.38: 11,
+    0.41: 12,
+    0.44: 13,
+    0.47: 14,
+    0.50: 15,
+    0.53: 16,
+    0.55: 17,
+    0.58: 18,
+    0.61: 19,
+    0.63: 20,
+    0.65: 21,
+    0.66: 22,
+    0.67: 23,
+    0.68: 24,
+    0.69: 26,
+    0.70: 28,
+    0.71: 31,
+    0.72: 34,
+    0.73: 38,
+    0.74: 42,
+    0.75: 47,
+    0.76: 52,
+    0.77: 58,
+    0.78: 64,
+    0.79: 68,
+    0.80: 71,
+    0.81: 74,
+    0.82: 76,
+    0.83: 78,
+    0.84: 80,
+    0.85: 81,
+    0.86: 82,
+    0.87: 83,
+    0.88: 84,
+    0.89: 85,
+    0.90: 86,
+    0.91: 87,
+    0.92: 88,
+    0.93: 89,
+    0.94: 90,
+    0.95: 91,
+    0.96: 92,
+    0.97: 94,
+    0.98: 96,
+    0.99: 98,
+    1.00: 100,
 };
