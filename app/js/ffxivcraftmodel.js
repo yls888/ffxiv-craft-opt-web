@@ -269,14 +269,6 @@ function probExcellentForSynth(synth) {
     }
 }
 
-// function calcNameOfElementsBonus(s) {
-// // Progress is determined by calculating the percentage and rounding down to the nearest percent.
-// var percentComplete = Math.floor(s.progressState / s.synth.recipe.difficulty * 100);
-// // Bonus ranges from 0 to 200% based on the inverse of the progress.
-// var bonus = 2 * (100 - percentComplete) / 100;
-// return Math.min(2, Math.max(0, bonus));
-// }
-
 function getEffectiveCrafterLevel(synth) {
     var effCrafterLevel = synth.crafter.level;
     return effCrafterLevel;
@@ -609,6 +601,33 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
         s.effects.countUps[action.shortName] = 0;
         if (isActionEq(action, AllActions.heartAndSoul)) {
             s.effects.countUps[action.shortName] = 1;
+        }
+    }
+	
+	if (action.type === 'indefinite') {
+        if (isActionEq(action, AllActions.initialPreparations)) {
+            if (s.step == 1) {
+                s.effects.indefinites[action.shortName] = true;
+            } else {
+                s.wastedActions += 1;
+            }
+        } else {
+            s.effects.indefinites[action.shortName] = true;
+        }
+    }
+
+    if (action.type === 'countdown') {
+        if (action.shortName.indexOf('nameOf') >= 0) {
+            if (s.nameOfElementUses == 0) {
+                s.effects.countDowns[action.shortName] = action.activeTurns;
+                s.nameOfElementUses += 1;
+            } else {
+                s.wastedActions += 1;
+            }
+        } else if (action.shortName === AllActions.muscleMemory.shortName && s.step != 1) {
+            s.wastedActions += 1;
+        } else {
+            s.effects.countDowns[action.shortName] = action.activeTurns;
         }
     }
 }
