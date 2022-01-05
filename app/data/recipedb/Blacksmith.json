@@ -7685,7 +7685,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金羊角锤",
-      "de": "Adamantium-Klauenhammer",
+      "de": "Adamantit-Klauenhammer",
       "en": "Adamantite Claw Hammer",
       "fr": "Marteau arrache-clou en adamantium",
       "ja": "アダマンクローハンマー"
@@ -7751,7 +7751,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金锉刀",
-      "de": "Adamantium-Feile",
+      "de": "Adamantit-Feile",
       "en": "Adamantite File",
       "fr": "Lime en adamantium",
       "ja": "アダマンファイル"
@@ -7817,7 +7817,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金手钳",
-      "de": "Adamantiumzange",
+      "de": "Adamantitzange",
       "en": "Adamantite Pliers",
       "fr": "Tenailles en adamantium",
       "ja": "アダマンプライヤー"
@@ -7883,7 +7883,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金平斩",
-      "de": "Adamantium-Ahle",
+      "de": "Adamantit-Ahle",
       "en": "Adamantite Awl",
       "fr": "Alêne en adamantium",
       "ja": "アダマンアウル"
@@ -7949,7 +7949,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金研钵",
-      "de": "Adamantium-Mörser",
+      "de": "Adamantit-Mörser",
       "en": "Adamantite Mortar",
       "fr": "Mortier en adamantium",
       "ja": "アダマンモーター"
@@ -8015,7 +8015,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金厨刀",
-      "de": "Adamantium-Küchenmesser",
+      "de": "Adamantit-Küchenmesser",
       "en": "Adamantite Culinary Knife",
       "fr": "Couteau de cuisine en adamantium",
       "ja": "アダマンクリナリーナイフ"
@@ -8081,7 +8081,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金碎石锤",
-      "de": "Adamantium-Vorschlaghammer",
+      "de": "Adamantit-Vorschlaghammer",
       "en": "Adamantite Sledgehammer",
       "fr": "Maillet en adamantium",
       "ja": "アダマンモール"
@@ -8147,7 +8147,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "精金镰刀",
-      "de": "Adamantium-Sense",
+      "de": "Adamantit-Sense",
       "en": "Adamantite Scythe",
       "fr": "Faux en adamantium",
       "ja": "アダマンサイズ"
@@ -8257,7 +8257,7 @@
     "maxQuality": 2048,
     "name": {
       "cn": "精金块",
-      "de": "Adamantium-Nugget",
+      "de": "Adamantit-Nugget",
       "en": "Adamantite Nugget",
       "fr": "Pépite d'adamant",
       "ja": "アダマンナゲット"
@@ -8323,7 +8323,7 @@
     "maxQuality": 2048,
     "name": {
       "cn": "精金铆钉",
-      "de": "Adamantium-Nieten",
+      "de": "Adamantit-Nieten",
       "en": "Adamantite Rivets",
       "fr": "Rivets en adamantium",
       "ja": "アダマンリベット"
@@ -16434,6 +16434,28 @@
     "suggestedCraftsmanship": 2590
   },
   {
+    "baseLevel": 86,
+    "difficulty": 3100,
+    "durability": 80,
+    "level": 540,
+    "maxQuality": 6800,
+    "name": {
+      "cn": "Miniature Antique Clock Tower",
+      "de": "Antiker Uhrturm",
+      "en": "Miniature Antique Clock Tower",
+      "fr": "Petite tour d'horloge antique",
+      "ja": "アンティーク・リトルクロックタワー"
+    },
+    "progressDivider": 126,
+    "progressModifier": 100,
+    "qualityDivider": 110,
+    "qualityModifier": 100,
+    "recipeId": 5375,
+    "stars": 0,
+    "suggestedControl": 2451,
+    "suggestedCraftsmanship": 2590
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -18861,7 +18883,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金手锯",
-      "de": "Adamantium-Säge",
+      "de": "Adamantit-Säge",
       "en": "Adamantite Saw",
       "fr": "Scie ronde en adamantium",
       "ja": "アダマンソー"
@@ -18883,7 +18905,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金横头锤",
-      "de": "Adamantium-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Adamantit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Adamantite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en adamantium",
       "ja": "アダマン・クロスペインハンマー"
@@ -18905,7 +18927,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金球顶锤",
-      "de": "Adamantium-Schlosserhammer",
+      "de": "Adamantit-Schlosserhammer",
       "en": "Adamantite Ball-pein Hammer",
       "fr": "Marteau à panne ronde en adamantium",
       "ja": "アダマンアーモラーハンマー"
@@ -18971,7 +18993,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金鹤嘴镐",
-      "de": "Adamantium-Dolabra",
+      "de": "Adamantit-Dolabra",
       "en": "Adamantite Dolabra",
       "fr": "Dolabre en adamantium",
       "ja": "アダマンドラブラ"
@@ -18993,7 +19015,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金手斧",
-      "de": "Adamantium-Handbeil",
+      "de": "Adamantit-Handbeil",
       "en": "Adamantite Hatchet",
       "fr": "Hachette en adamantium",
       "ja": "アダマンハチェット"
@@ -19037,7 +19059,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固锉刀",
-      "de": "Polierte Adamantium-Feile",
+      "de": "Polierte Adamantit-Feile",
       "en": "Polished Adamantite File",
       "fr": "Lime en adamantium renforcée",
       "ja": "アダマンファイルDX"
@@ -19059,7 +19081,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固手钳",
-      "de": "Verstärkte Adamantiumzange",
+      "de": "Verstärkte Adamantitzange",
       "en": "Double-jointed Adamantite Pliers",
       "fr": "Tenailles en adamantium renforcées",
       "ja": "アダマンプライヤーDX"
@@ -19081,7 +19103,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固平斩",
-      "de": "Spitze Adamantium-Ahle",
+      "de": "Spitze Adamantit-Ahle",
       "en": "Sharpened Adamantite Awl",
       "fr": "Alêne en adamantium renforcée",
       "ja": "アダマンアウルDX"
@@ -19103,7 +19125,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固研钵",
-      "de": "Schwerer Adamantium-Mörser",
+      "de": "Schwerer Adamantit-Mörser",
       "en": "Heavy Adamantite Mortar",
       "fr": "Mortier en adamantium renforcé",
       "ja": "アダマンモーターDX"
@@ -19125,7 +19147,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固厨刀",
-      "de": "Umwickeltes Adamantium-Küchenmesser",
+      "de": "Umwickeltes Adamantit-Küchenmesser",
       "en": "Wrapped Adamantite Culinary Knife",
       "fr": "Couteau de cuisine en adamantium renforcé",
       "ja": "アダマンクリナリーナイフDX"
@@ -19147,7 +19169,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固碎石锤",
-      "de": "Schwerer Adamantium-Vorschlaghammer",
+      "de": "Schwerer Adamantit-Vorschlaghammer",
       "en": "Weighted Adamantite Sledgehammer",
       "fr": "Maillet en adamantium renforcé",
       "ja": "アダマンモールDX"
@@ -19169,7 +19191,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金加固镰刀",
-      "de": "Ausbalancierte Adamantium-Sense",
+      "de": "Ausbalancierte Adamantit-Sense",
       "en": "Balanced Adamantite Scythe",
       "fr": "Faux en adamantium renforcée",
       "ja": "アダマンサイズDX"
@@ -19191,7 +19213,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "精金锭",
-      "de": "Adamantium-Barren",
+      "de": "Adamantit-Barren",
       "en": "Adamantite Ingot",
       "fr": "Lingot d'adamant",
       "ja": "アダマンインゴット"
@@ -19345,7 +19367,7 @@
     "maxQuality": 2800,
     "name": {
       "cn": "精金投斧",
-      "de": "Adamantium-Franziska",
+      "de": "Adamantit-Franziska",
       "en": "Adamantite Francesca",
       "fr": "Francisque en adamantium",
       "ja": "アダマンフランシスカ"
@@ -27573,7 +27595,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "收藏用精金钩斧",
-      "de": "Adamantium-Hippe (Sammlerstück)",
+      "de": "Adamantit-Hippe (Sammlerstück)",
       "en": "Rarefied Adamantite Bill",
       "fr": "Vouge en adamantium collectionnable",
       "ja": "収集用のアダマンビル"
@@ -29698,6 +29720,248 @@
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Longsword",
+      "de": "Klassisches Langschwert",
+      "en": "Classical Longsword",
+      "fr": "Épée longue classique",
+      "ja": "クラシカル・ロングソード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34800,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Tonfa",
+      "de": "Klassische Tonfa",
+      "en": "Classical Tonfa",
+      "fr": "Tonfas classiques",
+      "ja": "クラシカル・トンファー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34801,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Battleaxe",
+      "de": "Klassische Kriegsaxt",
+      "en": "Classical Battleaxe",
+      "fr": "Hache de combat classique",
+      "ja": "クラシカル・バトルアクス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34802,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Daggers",
+      "de": "Klassische Dolche",
+      "en": "Classical Daggers",
+      "fr": "Dagues classiques",
+      "ja": "クラシカル・ダガー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34805,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Greatsword",
+      "de": "Klassisches Großschwert",
+      "en": "Classical Greatsword",
+      "fr": "Grande épée classique",
+      "ja": "クラシカル・グレートソード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34806,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Handgonne",
+      "de": "Klassische Donnerbüchse",
+      "en": "Classical Handgonne",
+      "fr": "Haquebute classique",
+      "ja": "クラシカル・ハンドゴンネ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34807,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Samurai Blade",
+      "de": "Klassische Samuraiklinge",
+      "en": "Classical Samurai Blade",
+      "fr": "Lame de samouraï classique",
+      "ja": "クラシカル・サムライブレード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34813,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Gunblade",
+      "de": "Klassische Revolver<SoftHyphen/>klinge",
+      "en": "Classical Gunblade",
+      "fr": "Pistolame classique",
+      "ja": "クラシカル・ガンブレード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34815,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical Chakrams",
+      "de": "Klassische Chakrams",
+      "en": "Classical Chakrams",
+      "fr": "Chakrams classiques",
+      "ja": "クラシカル・チャクラム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34816,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3900,
+    "durability": 70,
+    "level": 580,
+    "maxQuality": 10920,
+    "name": {
+      "cn": "Classical War Scythe",
+      "de": "Klassische Kriegssense",
+      "en": "Classical War Scythe",
+      "fr": "Faux de guerre classique",
+      "ja": "クラシカル・ウォーサイズ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34818,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 2925,
+    "durability": 35,
+    "level": 580,
+    "maxQuality": 7800,
+    "name": {
+      "cn": "Lunar Adamantite Ingot",
+      "de": "Lunarer Adamantitbarren",
+      "en": "Lunar Adamantite Ingot",
+      "fr": "Lingot d'adamantium sélénien",
+      "ja": "ルナアダマンインゴット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34890,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
   },
   {
     "baseLevel": 90,
