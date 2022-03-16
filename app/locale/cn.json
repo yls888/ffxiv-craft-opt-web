@@ -4,7 +4,7 @@
     "Official Version": "返回正式版",
     "Beta Version": "访问测试版",
 
-    "FFXIV Crafting Optimizer": "《最终幻想14》生产模拟器 v6.05 Beta",
+    "FFXIV Crafting Optimizer": "《最终幻想14》生产模拟器 v6.08",
 
     "Basic Synthesis": "制作",
     "Basic Touch": "加工",
@@ -36,12 +36,14 @@
     "Intensive Synthesis": "集中制作",
     "Trained Eye": "工匠的神速技巧",
 	
-	"Advanced Touch": "上级加工",
-	"Heart and Soul": "一心不乱",
+    "Advanced Touch": "上级加工",
+    "Heart and Soul": "专心致志",
     "Prudent Synthesis": "俭约制作",
-    "Trained Finesse": "匠の神業",
+    "Trained Finesse": "工匠的神技",
 
     "Patient Touch": "专心加工",
+    "Brand of the Elements": "元素之印记",
+    "Name of the Elements": "元素之美名",
     "Focused Synthesis Combo": "观察 + 注视制作",
     "Focused Touch Combo": "观察 + 注视加工",
 
@@ -258,7 +260,7 @@
     "INSTRUCTIONS_STEP_7": "跳转至 ",
     "INSTRUCTIONS_STEP_8": "选择您想模拟的配方所对应的工匠职业。",
     "INSTRUCTIONS_STEP_9": "在配方下拉菜单中选择对应的配方。",
-    "INSTRUCTIONS_STEP_10": "如果下拉菜单中没有对应的配方，你可以手动输入配方的信息。",
+    "INSTRUCTIONS_STEP_10": "如果下拉菜单中没有对应的配方，你可以手动输入配方的信息。（此功能不再提供）",
     "INSTRUCTIONS_STEP_11": "跳转至“状态参数”模块。",
     "INSTRUCTIONS_STEP_12": "添加额外的食品、药品加成信息",
     "INSTRUCTIONS_STEP_13": "跳转至 ",
@@ -279,7 +281,7 @@
     "USING_SOLVER": "求解器使用说明",
     "USING_SOLVER_INFO": "您也可以尝试使用“求解器”来查看您的工序是否有值得改进的地方。",
     "USING_SOLVER_STEP_1": "在运行模拟器之后，跳转至“求解器”模块。",
-    "USING_SOLVER_STEP_2": "点击“开始”按钮，计算机将对您的“初步猜测”进行随机改良并检查是否有改善空间。此步骤不能保证每一次都返回相同的结果，因此当发现“优化结果”没有变化时，您可以多尝试几次。",
+    "USING_SOLVER_STEP_2": "点击“开始”按钮，计算机将对您的“初步猜测”进行随机改良并检查是否有改善空间。此步骤不能保证每一次都返回相同的结果，因此当发现“优化结果”“没有变化”时，您可以多尝试几次。",
     "USING_SOLVER_STEP_3": "最佳结果会显示在“优化结果”模块中。",
     "USING_SOLVER_STEP_4": "如果“优化结果”优于“初步猜测”，您可以单击“在模拟器中编辑结果”来将您的原始工序替换掉。",
     "USING_SOLVER_STEP_5": "在运行日志中可以查看“求解器”返回的模拟结果。",

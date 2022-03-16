@@ -4582,7 +4582,7 @@
     "level": 70,
     "maxQuality": 2500,
     "name": {
-      "cn": "1级不屈以太转轮",
+      "cn": "1级疾风以太转轮",
       "de": "Rad des Wirbelwinds I",
       "en": "Grade 1 Wheel of Swiftness",
       "fr": "Tour de la vélocité I",
@@ -10874,7 +10874,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Gaja Grimoire",
+      "cn": "伽迦象革魔导书",
       "de": "Gaja-Grimoire",
       "en": "Gaja Grimoire",
       "fr": "Grimoire en cuir de gaja",
@@ -10896,7 +10896,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Gaja Codex",
+      "cn": "伽迦象革魔导典",
       "de": "Gaja-Kodex",
       "en": "Gaja Codex",
       "fr": "Codex en cuir de gaja",
@@ -10918,7 +10918,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Luncheon Toadskin Grimoire",
+      "cn": "山鸡革魔导书",
       "de": "Bergkrötenleder-Grimoire",
       "en": "Luncheon Toadskin Grimoire",
       "fr": "Grimoire en cuir de poulet des montagnes",
@@ -10940,7 +10940,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Luncheon Toadskin Codex",
+      "cn": "山鸡革魔导典",
       "de": "Bergkrötenleder-Kodex",
       "en": "Luncheon Toadskin Codex",
       "fr": "Codex en cuir de poulet des montagnes",
@@ -10962,7 +10962,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Saigaskin Grimoire",
+      "cn": "赛加羚羊革魔导书",
       "de": "Saigaleder-Grimoire",
       "en": "Saigaskin Grimoire",
       "fr": "Grimoire en cuir de saïga",
@@ -10984,7 +10984,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Saigaskin Codex",
+      "cn": "赛加羚羊革魔导典",
       "de": "Saigaleder-Kodex",
       "en": "Saigaskin Codex",
       "fr": "Codex en cuir de saïga",
@@ -11006,7 +11006,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Kumbhiraskin Grimoire",
+      "cn": "金毗罗鳄革魔导书",
       "de": "Kumbhilaleder-Grimoire",
       "en": "Kumbhiraskin Grimoire",
       "fr": "Grimoire en cuir de kumbhira",
@@ -11028,7 +11028,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Kumbhiraskin Codex",
+      "cn": "金毗罗鳄革魔导典",
       "de": "Kumbhilaleder-Kodex",
       "en": "Kumbhiraskin Codex",
       "fr": "Codex en cuir de kumbhira",
@@ -11050,7 +11050,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Ophiotauroskin Magitek Index",
+      "cn": "蛇牛革魔导魔导书",
       "de": "Ophiotaurosleder-Magitek-Index",
       "en": "Ophiotauroskin Magitek Index",
       "fr": "Index magitek en cuir d'ophiotauros",
@@ -11072,7 +11072,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Ophiotauroskin Magitek Codex",
+      "cn": "蛇牛革魔导魔导典",
       "de": "Ophiotaurosleder-Magitek-Kodex",
       "en": "Ophiotauroskin Magitek Codex",
       "fr": "Codex magitek en cuir d'ophiotauros",
@@ -11094,7 +11094,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Grade 5 Tincture of Strength",
+      "cn": "5级刚力之幻药",
       "de": "Visionsremedium der Stärke V",
       "en": "Grade 5 Tincture of Strength",
       "fr": "Philtre chimérique de force V",
@@ -11116,7 +11116,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Grade 5 Tincture of Dexterity",
+      "cn": "5级巧力之幻药",
       "de": "Visionsremedium der Geschicklichkeit V",
       "en": "Grade 5 Tincture of Dexterity",
       "fr": "Philtre chimérique de dextérité V",
@@ -11138,7 +11138,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Grade 5 Tincture of Vitality",
+      "cn": "5级耐力之幻药",
       "de": "Visionsremedium der Konstitution V",
       "en": "Grade 5 Tincture of Vitality",
       "fr": "Philtre chimérique de vitalité V",
@@ -11160,7 +11160,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Grade 5 Tincture of Intelligence",
+      "cn": "5级智力之幻药",
       "de": "Visionsremedium der Intelligenz V",
       "en": "Grade 5 Tincture of Intelligence",
       "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence V",
@@ -11182,7 +11182,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Grade 5 Tincture of Mind",
+      "cn": "5级意力之幻药",
       "de": "Visionsremedium der Willenskraft V",
       "en": "Grade 5 Tincture of Mind",
       "fr": "Philtre chimérique d'esprit V",
@@ -11204,7 +11204,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Competent Craftsman's Draught",
+      "cn": "名匠药酒",
       "de": "Facharbeiter-Kräuterwein",
       "en": "Competent Craftsman's Draught",
       "fr": "Potion spiritueuse de virtuosité",
@@ -11226,7 +11226,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Commanding Craftsman's Draught",
+      "cn": "巨匠药酒",
       "de": "Fachkenntnis-Kräuterwein",
       "en": "Commanding Craftsman's Draught",
       "fr": "Potion spiritueuse de maîtrise",
@@ -11248,7 +11248,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Cunning Craftsman's Draught",
+      "cn": "魔匠药酒",
       "de": "Fachwissen-Kräuterwein",
       "en": "Cunning Craftsman's Draught",
       "fr": "Potion spiritueuse de capacité",
@@ -11270,7 +11270,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Grade 5 Strength Alkahest",
+      "cn": "5级刚力之幻水",
       "de": "Visionslösung der Stärke V",
       "en": "Grade 5 Strength Alkahest",
       "fr": "Eau chimérique de force V",
@@ -11292,7 +11292,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Grade 5 Dexterity Alkahest",
+      "cn": "5级巧力之幻水",
       "de": "Visionslösung der Geschicklichkeit V",
       "en": "Grade 5 Dexterity Alkahest",
       "fr": "Eau chimérique de dextérité V",
@@ -11314,7 +11314,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Grade 5 Vitality Alkahest",
+      "cn": "5级耐力之幻水",
       "de": "Visionslösung der Konstitution V",
       "en": "Grade 5 Vitality Alkahest",
       "fr": "Eau chimérique de vitalité V",
@@ -11336,7 +11336,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Grade 5 Intelligence Alkahest",
+      "cn": "5级智力之幻水",
       "de": "Visionslösung der Intelligenz V",
       "en": "Grade 5 Intelligence Alkahest",
       "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence V",
@@ -11358,7 +11358,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Grade 5 Mind Alkahest",
+      "cn": "5级意力之幻水",
       "de": "Visionslösung der Willenskraft V",
       "en": "Grade 5 Mind Alkahest",
       "fr": "Eau chimérique d'esprit V",
@@ -11380,7 +11380,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Enchanted High Durium Ink",
+      "cn": "辉翠银附魔墨水",
       "de": "Magische Edeldurium-Tinte",
       "en": "Enchanted High Durium Ink",
       "fr": "Encre de durium noble enchantée",
@@ -11402,7 +11402,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Enchanted Manganese Ink",
+      "cn": "锰钢附魔墨水",
       "de": "Magische Mangan-Tinte",
       "en": "Enchanted Manganese Ink",
       "fr": "Encre de manganèse enchantée",
@@ -11424,7 +11424,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Moon Gel",
+      "cn": "月凝胶",
       "de": "Mondgel",
       "en": "Moon Gel",
       "fr": "Glu sélénienne",
@@ -11446,7 +11446,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Sungold Firesand",
+      "cn": "黄色火药",
       "de": "Gelber Feuersand",
       "en": "Sungold Firesand",
       "fr": "Sable noir flavescent",
@@ -11468,7 +11468,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Red Triteleia Earring",
+      "cn": "红色紫灯花耳环",
       "de": "Roter Triteleia-Ohrring",
       "en": "Red Triteleia Earring",
       "fr": "Boucle d'oreille triteleia rouge",
@@ -11490,7 +11490,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Blue Triteleia Earring",
+      "cn": "蓝色紫灯花耳环",
       "de": "Blauer Triteleia-Ohrring",
       "en": "Blue Triteleia Earring",
       "fr": "Boucle d'oreille triteleia bleu",
@@ -11512,7 +11512,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Yellow Triteleia Earring",
+      "cn": "黄色紫灯花耳环",
       "de": "Gelber Triteleia-Ohrring",
       "en": "Yellow Triteleia Earring",
       "fr": "Boucle d'oreille triteleia jaune",
@@ -11534,7 +11534,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Green Triteleia Earring",
+      "cn": "绿色紫灯花耳环",
       "de": "Grüner Triteleia-Ohrring",
       "en": "Green Triteleia Earring",
       "fr": "Boucle d'oreille triteleia vert",
@@ -11556,7 +11556,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Orange Triteleia Earring",
+      "cn": "橙色紫灯花耳环",
       "de": "Oranger Triteleia-Ohrring",
       "en": "Orange Triteleia Earring",
       "fr": "Boucle d'oreille triteleia orange",
@@ -11578,7 +11578,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Purple Triteleia Earring",
+      "cn": "紫色紫灯花耳环",
       "de": "Violetter Triteleia-Ohrring",
       "en": "Purple Triteleia Earring",
       "fr": "Boucle d'oreille triteleia violet",
@@ -11600,7 +11600,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "White Triteleia Earring",
+      "cn": "白色紫灯花耳环",
       "de": "Weißer Triteleia-Ohrring",
       "en": "White Triteleia Earring",
       "fr": "Boucle d'oreille triteleia blanc",
@@ -11622,7 +11622,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Black Triteleia Earring",
+      "cn": "黑色紫灯花耳环",
       "de": "Schwarzer Triteleia-Ohrring",
       "en": "Black Triteleia Earring",
       "fr": "Boucle d'oreille triteleia noir",
@@ -11644,7 +11644,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Rainbow Triteleia Earring",
+      "cn": "混色紫灯花耳环",
       "de": "Bunter Triteleia-Ohrring",
       "en": "Rainbow Triteleia Earring",
       "fr": "Boucle d'oreille triteleia multicolore",
@@ -11666,7 +11666,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Leafy Ceiling Lamp",
+      "cn": "浓翠吊灯",
       "de": "Laubkronenlampe",
       "en": "Leafy Ceiling Lamp",
       "fr": "Lustre feuillu",
@@ -11688,7 +11688,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Heavenly Ornamental Array",
+      "cn": "群星壁挂",
       "de": "Hängendes Himmelsornament",
       "en": "Heavenly Ornamental Array",
       "fr": "Guirlande étoilée",
@@ -11710,7 +11710,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Candlelit Sundries",
+      "cn": "花样蜡烛套装",
       "de": "Dekoarrangement mit Kerze",
       "en": "Candlelit Sundries",
       "fr": "Articles mignons",
@@ -11732,7 +11732,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Restaurant Showcase",
+      "cn": "餐厅木制展示柜",
       "de": "Restaurantschaukasten",
       "en": "Restaurant Showcase",
       "fr": "Vitrine de restaurant",
@@ -23612,7 +23612,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Rarefied Gajaskin Codex",
+      "cn": "收藏用伽迦象革魔导典",
       "de": "Gaja-Kodex (Sammlerstück)",
       "en": "Rarefied Gajaskin Codex",
       "fr": "Codex en cuir de gaja collectionnable",
@@ -23634,7 +23634,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Rarefied Luncheon Toadskin Grimoire",
+      "cn": "收藏用山鸡革魔导书",
       "de": "Bergkrötenleder-Grimoire (Sammlerstück)",
       "en": "Rarefied Luncheon Toadskin Grimoire",
       "fr": "Grimoire en cuir de poulet des montagnes collectionnable",
@@ -23656,7 +23656,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Rarefied Moon Gel",
+      "cn": "收藏用月凝胶",
       "de": "Mondgel (Sammlerstück)",
       "en": "Rarefied Moon Gel",
       "fr": "Glu sélénienne collectionnable",
@@ -23678,7 +23678,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Rarefied Enchanted Manganese Ink",
+      "cn": "收藏用锰钢附魔墨水",
       "de": "Magische Mangan-Tinte (Sammlerstück)",
       "en": "Rarefied Enchanted Manganese Ink",
       "fr": "Encre de manganèse enchantée collectionnable",
@@ -23700,7 +23700,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Rarefied Draught",
+      "cn": "收藏用药酒",
       "de": "Kräuterwein (Sammlerstück)",
       "en": "Rarefied Draught",
       "fr": "Potion spiritueuse collectionnable",
@@ -23722,7 +23722,7 @@
     "level": 430,
     "maxQuality": 2760,
     "name": {
-      "cn": "Panaloaf Sweetener",
+      "cn": "特制甜味素",
       "de": "Süßstoff",
       "en": "Panaloaf Sweetener",
       "fr": "Édulcorant truculent",
@@ -23744,7 +23744,7 @@
     "level": 525,
     "maxQuality": 3720,
     "name": {
-      "cn": "Panaloaf Yeast",
+      "cn": "特制酵母",
       "de": "Hefe",
       "en": "Panaloaf Yeast",
       "fr": "Levure boulangère",
@@ -23766,7 +23766,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Panaloaf Oil",
+      "cn": "特制油脂",
       "de": "Ätherisches Öl",
       "en": "Panaloaf Oil",
       "fr": "Huile aromatisée",
@@ -23788,7 +23788,7 @@
     "level": 550,
     "maxQuality": 4200,
     "name": {
-      "cn": "Ascorbic Additive",
+      "cn": "特制添加剂",
       "de": "Ascorbinsäure",
       "en": "Ascorbic Additive",
       "fr": "Additif vitaminé",
@@ -23810,7 +23810,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Golden Spice",
+      "cn": "黄金香料",
       "de": "Goldenes Gewürz",
       "en": "Golden Spice",
       "fr": "Mélange d'épices pour curry éorzéen",
@@ -23832,7 +23832,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Sharlayan Fishcake Ingredient",
+      "cn": "炸鱼饼必需品",
       "de": "Zutat für Fischkuchen",
       "en": "Sharlayan Fishcake Ingredient",
       "fr": "Kit pour boulettes de poisson",
@@ -24118,7 +24118,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rarefied Ophiotauroskin Magitek Codex",
+      "cn": "收藏用蛇牛革魔导魔导典",
       "de": "Ophiotaurosleder-Magitek-Kodex (Sammlerstück)",
       "en": "Rarefied Ophiotauroskin Magitek Codex",
       "fr": "Codex magitek en cuir d'ophiotauros collectionnable",
@@ -24140,7 +24140,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Endcaller Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：呼唤终结之神",
       "de": "Notenrolle von „Endcaller“",
       "en": "Endcaller Orchestrion Roll",
       "fr": "Rouleau “Endcaller”",
@@ -24162,7 +24162,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Your Answer Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：你的答问",
       "de": "Notenrolle von „Your Answer“",
       "en": "Your Answer Orchestrion Roll",
       "fr": "Rouleau “Your Answer”",

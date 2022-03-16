@@ -6518,7 +6518,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Archon Loaf",
+      "cn": "贤人面包",
       "de": "Exegetenbrot",
       "en": "Archon Loaf",
       "fr": "Sagepain",
@@ -6540,7 +6540,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Zurek",
+      "cn": "裸麦酸汤",
       "de": "Zurek",
       "en": "Zurek",
       "fr": "Zurek",
@@ -6562,7 +6562,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Amra Salad",
+      "cn": "庵摩罗果沙拉",
       "de": "Amrasalat",
       "en": "Amra Salad",
       "fr": "Salade d'amra",
@@ -6584,7 +6584,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Amra Lassi",
+      "cn": "庵摩罗果酸奶昔",
       "de": "Amra-Lassi",
       "en": "Amra Lassi",
       "fr": "Lassi d'amra",
@@ -6606,7 +6606,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Island Miq'abob",
+      "cn": "猫魅风味岛萃烤串",
       "de": "Hühnchen-Miqo'Kebab",
       "en": "Island Miq'abob",
       "fr": "Miqo-brochette insulaire",
@@ -6628,7 +6628,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "King Crab Cake",
+      "cn": "炸帝王蟹饼",
       "de": "Königskrabbenkuchen",
       "en": "King Crab Cake",
       "fr": "Gâteau de crabe géant",
@@ -6650,7 +6650,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Ukha",
+      "cn": "鱼蔬清汤",
       "de": "Ucha",
       "en": "Ukha",
       "fr": "Oukha",
@@ -6672,7 +6672,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Borscht",
+      "cn": "红菜汤",
       "de": "Borschtsch",
       "en": "Borscht",
       "fr": "Bortsch",
@@ -6694,7 +6694,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Wine-dark Soup",
+      "cn": "奶油紫汤",
       "de": "Rote-Bete-Suppe",
       "en": "Wine-dark Soup",
       "fr": "Soupe de betterave",
@@ -6716,7 +6716,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Glory Be Soup",
+      "cn": "皇帝浓汤",
       "de": "Kaisersuppe",
       "en": "Glory Be Soup",
       "fr": "Soupe de l'Empereur",
@@ -6738,7 +6738,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Happiness Juice",
+      "cn": "开心汁",
       "de": "Glückskarottensaft",
       "en": "Happiness Juice",
       "fr": "Jus de bonheur",
@@ -6760,7 +6760,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Carrot Nibbles",
+      "cn": "胡萝卜丝",
       "de": "Karottenraspel",
       "en": "Carrot Nibbles",
       "fr": "Carottes râpées",
@@ -6782,7 +6782,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Hamsa Curry",
+      "cn": "桓娑咖喱",
       "de": "Hamsa-Curry",
       "en": "Hamsa Curry",
       "fr": "Curry de hamsa",
@@ -6804,7 +6804,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Karniyarik",
+      "cn": "茄子镶桓娑肉",
       "de": "Karniyarik",
       "en": "Karniyarik",
       "fr": "Karni yarik",
@@ -6826,7 +6826,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Spicy Shakshouka",
+      "cn": "辣味茄汁焗蛋",
       "de": "Gewürzshakshouka",
       "en": "Spicy Shakshouka",
       "fr": "Chakchouka épicé",
@@ -6848,7 +6848,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Lentil Curry",
+      "cn": "小扁豆咖喱",
       "de": "Linsencurry",
       "en": "Lentil Curry",
       "fr": "Curry aux lentilles",
@@ -6870,7 +6870,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Skyr",
+      "cn": "北洋酸奶",
       "de": "Skyr",
       "en": "Skyr",
       "fr": "Skyr",
@@ -6892,7 +6892,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Giant Haddock Dip",
+      "cn": "巨人鱼子泥沙拉",
       "de": "Riesentaramosalata",
       "en": "Giant Haddock Dip",
       "fr": "Tarama géant",
@@ -6914,7 +6914,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Yakow Moussaka",
+      "cn": "亚考牛慕沙卡",
       "de": "Yakuh-Moussaka",
       "en": "Yakow Moussaka",
       "fr": "Moussaka au dzo",
@@ -6936,7 +6936,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Philosopher's Sandwich",
+      "cn": "贤人三明治",
       "de": "Exegetenstulle",
       "en": "Philosopher's Sandwich",
       "fr": "Sagewich",
@@ -6958,7 +6958,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Salted Thavnairian Cod",
+      "cn": "盐烤浅滩鳕鱼",
       "de": "Flachküstendorsch in Salz",
       "en": "Salted Thavnairian Cod",
       "fr": "Morue des hauts-fonds salée",
@@ -6980,7 +6980,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Coconut Cod Chowder",
+      "cn": "椰香鱼羹",
       "de": "Dorsch-Chowder",
       "en": "Coconut Cod Chowder",
       "fr": "Chaudrée de morue des hauts-fonds au lait de coco",
@@ -7002,7 +7002,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "The Noodles of Elpis",
+      "cn": "厄尔庇斯之面",
       "de": "Elpisnudeln",
       "en": "The Noodles of Elpis",
       "fr": "Pâtes d'Elpis",
@@ -7024,7 +7024,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Giant Popoto Pancakes",
+      "cn": "巨人新薯煎饼",
       "de": " Riesentoffelpuffer",
       "en": "Giant Popoto Pancakes",
       "fr": "Crique géante",
@@ -7046,7 +7046,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Tsai tou Vounou",
+      "cn": "高山茶",
       "de": "Tsai Tou Vounou",
       "en": "Tsai tou Vounou",
       "fr": "Chai tou vounou",
@@ -7068,7 +7068,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Sideritis Cookie",
+      "cn": "高山茶饼干",
       "de": "Sideritiskeks",
       "en": "Sideritis Cookie",
       "fr": "Biscuit à la sidéritis",
@@ -7090,7 +7090,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Elpis Deipnon",
+      "cn": "厄尔庇斯佳肴",
       "de": "Elpisfrikadellen",
       "en": "Elpis Deipnon",
       "fr": "Assiette elpissienne",
@@ -7112,7 +7112,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Baked Alien Soup",
+      "cn": "星外洋葱汤",
       "de": "Aliensuppe",
       "en": "Baked Alien Soup",
       "fr": "Soupe gratinée extraterrestre",
@@ -7134,7 +7134,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Sykon Salad",
+      "cn": "无花果沙拉",
       "de": "Lykon-Salat",
       "en": "Sykon Salad",
       "fr": "Salade de sycon",
@@ -7156,7 +7156,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Sykon Compote",
+      "cn": "无花果蜜饯",
       "de": "Lykon-Kompott",
       "en": "Sykon Compote",
       "fr": "Sycon glacés",
@@ -7178,7 +7178,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Sykon Bavarois",
+      "cn": "无花果冻糕",
       "de": "Lykon à la Barvarois",
       "en": "Sykon Bavarois",
       "fr": "Bavarois aux sycon",
@@ -7200,7 +7200,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Dark Rye Flour",
+      "cn": "裸麦粉",
       "de": "Schwarzmehl",
       "en": "Dark Rye Flour",
       "fr": "Farine de seigle noir",
@@ -7222,7 +7222,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Northern Sea Salt",
+      "cn": "北洋食盐",
       "de": "Nordsalz",
       "en": "Northern Sea Salt",
       "fr": "Sel de table des mers du Nord",
@@ -7244,7 +7244,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Perilla Oil",
+      "cn": "紫苏油",
       "de": "Perilla-Öl",
       "en": "Perilla Oil",
       "fr": "Huile de périlla",
@@ -7266,7 +7266,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Sugar",
+      "cn": "棕榈糖",
       "de": "Palmzucker",
       "en": "Palm Sugar",
       "fr": "Sucre de palme",
@@ -7288,7 +7288,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Garlean Cheese",
+      "cn": "加雷马奶酪",
       "de": "Garleischer Käse",
       "en": "Garlean Cheese",
       "fr": "Fromage garlemaldais",
@@ -7310,7 +7310,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Coconut Milk",
+      "cn": "椰奶",
       "de": "Kokosnussmilch",
       "en": "Coconut Milk",
       "fr": "Lait de coco",
@@ -7332,7 +7332,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Fluffy Pancakes",
+      "cn": "松软煎饼套餐",
       "de": "Fluffige Pfannkuchen",
       "en": "Fluffy Pancakes",
       "fr": "Pancakes moelleux",
@@ -15142,7 +15142,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Rarefied Archon Loaf",
+      "cn": "收藏用贤人面包",
       "de": "Exegetenbrot (Sammlerstück)",
       "en": "Rarefied Archon Loaf",
       "fr": "Sagepain collectionnable",
@@ -15164,7 +15164,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Rarefied King Crab Cake",
+      "cn": "收藏用炸帝王蟹饼",
       "de": "Königskrabbenkuchen (Sammlerstück)",
       "en": "Rarefied King Crab Cake",
       "fr": "Gâteau de crabe géant collectionnable",
@@ -15186,7 +15186,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Rarefied Happiness Juice",
+      "cn": "收藏用开心汁",
       "de": "Glückskarottensaft (Sammlerstück)",
       "en": "Rarefied Happiness Juice",
       "fr": "Jus de bonheur collectionnable",
@@ -15208,7 +15208,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Rarefied Giant Haddock Dip",
+      "cn": "收藏用巨人鱼子泥沙拉",
       "de": "Riesentaramosalat (Sammlerstück)",
       "en": "Rarefied Giant Haddock Dip",
       "fr": "Tarama géant collectionnable",
@@ -15230,7 +15230,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Rarefied Giant Popoto Pancakes",
+      "cn": "收藏用巨人新薯煎饼",
       "de": "Riesentoffelpuffer (Sammlerstück)",
       "en": "Rarefied Giant Popoto Pancakes",
       "fr": "Crique géante collectionnable",
@@ -15252,7 +15252,7 @@
     "level": 430,
     "maxQuality": 2760,
     "name": {
-      "cn": "Panaloaf Sweetener",
+      "cn": "特制甜味素",
       "de": "Süßstoff",
       "en": "Panaloaf Sweetener",
       "fr": "Édulcorant truculent",
@@ -15274,7 +15274,7 @@
     "level": 525,
     "maxQuality": 3720,
     "name": {
-      "cn": "Panaloaf Yeast",
+      "cn": "特制酵母",
       "de": "Hefe",
       "en": "Panaloaf Yeast",
       "fr": "Levure boulangère",
@@ -15296,7 +15296,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Panaloaf Oil",
+      "cn": "特制油脂",
       "de": "Ätherisches Öl",
       "en": "Panaloaf Oil",
       "fr": "Huile aromatisée",
@@ -15318,7 +15318,7 @@
     "level": 550,
     "maxQuality": 4200,
     "name": {
-      "cn": "Ascorbic Additive",
+      "cn": "特制添加剂",
       "de": "Ascorbinsäure",
       "en": "Ascorbic Additive",
       "fr": "Additif vitaminé",
@@ -15340,7 +15340,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Golden Spice",
+      "cn": "黄金香料",
       "de": "Goldenes Gewürz",
       "en": "Golden Spice",
       "fr": "Mélange d'épices pour curry éorzéen",
@@ -15362,7 +15362,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Sharlayan Fishcake Ingredient",
+      "cn": "炸鱼饼必需品",
       "de": "Zutat für Fischkuchen",
       "en": "Sharlayan Fishcake Ingredient",
       "fr": "Kit pour boulettes de poisson",
@@ -15604,7 +15604,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rarefied Sykon Bavarois",
+      "cn": "收藏用无花果冻糕",
       "de": "Lykon à la Barvarois (Sammlerstück)",
       "en": "Rarefied Sykon Bavarois",
       "fr": "Bavarois aux sycon collectionnable",

@@ -16440,7 +16440,7 @@
     "level": 390,
     "maxQuality": 3010,
     "name": {
-      "cn": "硬泥岩砥石",
+      "cn": "硬泥岩磨刀石",
       "de": "Mergelwetzstein",
       "en": "Hard Mudstone Whetstone",
       "fr": "Pierre à aiguiser en mudstone solide",
@@ -16462,7 +16462,7 @@
     "level": 409,
     "maxQuality": 3360,
     "name": {
-      "cn": "凝灰岩砥石",
+      "cn": "凝灰岩磨刀石",
       "de": "Tuffwetzstein",
       "en": "Tuff Whetstone",
       "fr": "Pierre à aiguiser en tuf volcanique",
@@ -19432,7 +19432,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Planisphere",
+      "cn": "辉翠银天星盘",
       "de": "Edeldurium-Planisphäre",
       "en": "High Durium Planisphere",
       "fr": "Planisphère en durium noble",
@@ -19454,7 +19454,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Rapier",
+      "cn": "辉翠银刺剑",
       "de": "Edeldurium-Rapier",
       "en": "High Durium Rapier",
       "fr": "Rapière en durium noble",
@@ -19476,7 +19476,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Milpreves",
+      "cn": "辉翠银蛇石针",
       "de": "Edeldurium-Hascherlite",
       "en": "High Durium Milpreves",
       "fr": "Mein gwrac'h en durium noble",
@@ -19498,7 +19498,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Visor of Maiming",
+      "cn": "辉翠银制敌面罩",
       "de": "Edeldurium-Visier des Verstümmelns",
       "en": "High Durium Visor of Maiming",
       "fr": "Visière d'abatteur en durium noble",
@@ -19520,7 +19520,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Visor of Striking",
+      "cn": "辉翠银强袭面罩",
       "de": "Edeldurium-Visier des Schlagens",
       "en": "High Durium Visor of Striking",
       "fr": "Visière d'agresseur en durium noble",
@@ -19542,7 +19542,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Visor of Aiming",
+      "cn": "辉翠银精准面罩",
       "de": "Edeldurium-Visier des Zielens",
       "en": "High Durium Visor of Aiming",
       "fr": "Visière de pisteur en durium noble",
@@ -19564,7 +19564,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Earrings of Fending",
+      "cn": "紫黄晶御敌耳坠",
       "de": "Ametrin-Ohrringe der Verteidigung",
       "en": "Ametrine Earrings of Fending",
       "fr": "Boucles d'oreilles de protecteur en amétrine",
@@ -19586,7 +19586,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Earrings of Slaying",
+      "cn": "紫黄晶强攻耳坠",
       "de": "Ametrin-Ohrringe des Schlachtens",
       "en": "Ametrine Earrings of Slaying",
       "fr": "Boucles d'oreilles d'attaquant en amétrine",
@@ -19608,7 +19608,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Earrings of Aiming",
+      "cn": "紫黄晶精准耳坠",
       "de": "Ametrin-Ohrringe des Zielens",
       "en": "Ametrine Earrings of Aiming",
       "fr": "Boucles d'oreilles de pisteur en amétrine",
@@ -19630,7 +19630,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Earrings of Healing",
+      "cn": "紫黄晶治愈耳坠",
       "de": "Ametrin-Ohrringe der Heilung",
       "en": "Ametrine Earrings of Healing",
       "fr": "Boucles d'oreilles de soigneur en amétrine",
@@ -19652,7 +19652,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Earrings of Casting",
+      "cn": "紫黄晶咏咒耳坠",
       "de": "Ametrin-Ohrringe der Magie",
       "en": "Ametrine Earrings of Casting",
       "fr": "Boucles d'oreilles d'incantateur en amétrine",
@@ -19674,7 +19674,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Choker of Fending",
+      "cn": "紫黄晶御敌项环",
       "de": "Ametrin-Halsberge der Verteidigung",
       "en": "Ametrine Choker of Fending",
       "fr": "Ras de cou de protecteur en amétrine",
@@ -19696,7 +19696,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Choker of Slaying",
+      "cn": "紫黄晶强攻项环",
       "de": "Ametrin-Halsberge des Schlachtens",
       "en": "Ametrine Choker of Slaying",
       "fr": "Ras de cou d'attaquant en amétrine",
@@ -19718,7 +19718,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Choker of Aiming",
+      "cn": "紫黄晶精准项环",
       "de": "Ametrin-Halsberge des Zielens",
       "en": "Ametrine Choker of Aiming",
       "fr": "Ras de cou de pisteur en amétrine",
@@ -19740,7 +19740,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Choker of Healing",
+      "cn": "紫黄晶治愈项环",
       "de": "Ametrin-Halsberge der Heilung",
       "en": "Ametrine Choker of Healing",
       "fr": "Ras de cou de soigneur en amétrine",
@@ -19762,7 +19762,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Choker of Casting",
+      "cn": "紫黄晶咏咒项环",
       "de": "Ametrin-Halsberge der Magie",
       "en": "Ametrine Choker of Casting",
       "fr": "Ras de cou d'incantateur en amétrine",
@@ -19784,7 +19784,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Bracelet of Fending",
+      "cn": "紫黄晶御敌手环",
       "de": "Ametrin-Armreif der Verteidigung",
       "en": "Ametrine Bracelet of Fending",
       "fr": "Bracelet de protecteur en amétrine",
@@ -19806,7 +19806,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Bracelet of Slaying",
+      "cn": "紫黄晶强攻手环",
       "de": "Ametrin-Armreif des Schlachtens",
       "en": "Ametrine Bracelet of Slaying",
       "fr": "Bracelet d'attaquant en amétrine",
@@ -19828,7 +19828,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Bracelet of Aiming",
+      "cn": "紫黄晶精准手环",
       "de": "Ametrin-Armreif des Zielens",
       "en": "Ametrine Bracelet of Aiming",
       "fr": "Bracelet de pisteur en amétrine",
@@ -19850,7 +19850,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Bracelet of Healing",
+      "cn": "紫黄晶治愈手环",
       "de": "Ametrin-Armreif der Heilung",
       "en": "Ametrine Bracelet of Healing",
       "fr": "Bracelet de soigneur en amétrine",
@@ -19872,7 +19872,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Bracelet of Casting",
+      "cn": "紫黄晶咏咒手环",
       "de": "Ametrin-Armreif der Magie",
       "en": "Ametrine Bracelet of Casting",
       "fr": "Bracelet d'incantateur en amétrine",
@@ -19894,7 +19894,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ring of Fending",
+      "cn": "紫黄晶御敌指环",
       "de": "Ametrin-Ring der Verteidigung",
       "en": "Ametrine Ring of Fending",
       "fr": "Bague de protecteur en amétrine",
@@ -19916,7 +19916,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ring of Slaying",
+      "cn": "紫黄晶强攻指环",
       "de": "Ametrin-Ring des Schlachtens",
       "en": "Ametrine Ring of Slaying",
       "fr": "Bague d'attaquant en amétrine",
@@ -19938,7 +19938,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ring of Aiming",
+      "cn": "紫黄晶精准指环",
       "de": "Ametrin-Ring des Zielens",
       "en": "Ametrine Ring of Aiming",
       "fr": "Bague de pisteur en amétrine",
@@ -19960,7 +19960,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ring of Healing",
+      "cn": "紫黄晶治愈指环",
       "de": "Ametrin-Ring der Heilung",
       "en": "Ametrine Ring of Healing",
       "fr": "Bague de soigneur en amétrine",
@@ -19982,7 +19982,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ring of Casting",
+      "cn": "紫黄晶咏咒指环",
       "de": "Ametrin-Ring der Magie",
       "en": "Ametrine Ring of Casting",
       "fr": "Bague d'incantateur en amétrine",
@@ -20004,7 +20004,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Rod",
+      "cn": "白镴咒杖",
       "de": "Hartzinn-Stab",
       "en": "Pewter Rod",
       "fr": "Sceptre en plomb-étain",
@@ -20026,7 +20026,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Astrometer",
+      "cn": "白镴量天仪",
       "de": "Hartzinn-Astrometer",
       "en": "Pewter Astrometer",
       "fr": "Planisphère en plomb-étain",
@@ -20048,7 +20048,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Rapier",
+      "cn": "白镴刺剑",
       "de": "Hartzinn-Rapier",
       "en": "Pewter Rapier",
       "fr": "Rapière en plomb-étain",
@@ -20070,7 +20070,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Pendulums",
+      "cn": "白镴振空摆",
       "de": "Hartzinn-Perpendikel",
       "en": "Pewter Pendulums",
       "fr": "Pendules en plomb-étain",
@@ -20092,7 +20092,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Circlet of Fending",
+      "cn": "白镴御敌头冠",
       "de": "Hartzinn-Stirnreif der Verteidigung",
       "en": "Pewter Circlet of Fending",
       "fr": "Diadème de protecteur en plomb-étain",
@@ -20114,7 +20114,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Circlet of Maiming",
+      "cn": "白镴制敌头冠",
       "de": "Hartzinn-Stirnreif des Verstümmelns",
       "en": "Pewter Circlet of Maiming",
       "fr": "Diadème d'abatteur en plomb-étain",
@@ -20136,7 +20136,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Pewter Choker of Fending",
+      "cn": "白镴御敌项环",
       "de": "Hartzinn-Halsberge der Verteidigung",
       "en": "Pewter Choker of Fending",
       "fr": "Ras de cou de protecteur en plomb-étain",
@@ -20158,7 +20158,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Pewter Choker of Slaying",
+      "cn": "白镴强攻项环",
       "de": "Hartzinn-Halsberge des Schlachtens",
       "en": "Pewter Choker of Slaying",
       "fr": "Ras de cou d'attaquant en plomb-étain",
@@ -20180,7 +20180,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Pewter Choker of Aiming",
+      "cn": "白镴精准项环",
       "de": "Hartzinn-Halsberge des Zielens",
       "en": "Pewter Choker of Aiming",
       "fr": "Ras de cou de pisteur en plomb-étain",
@@ -20202,7 +20202,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Pewter Choker of Healing",
+      "cn": "白镴治愈项环",
       "de": "Hartzinn-Halsberge der Heilung",
       "en": "Pewter Choker of Healing",
       "fr": "Ras de cou de soigneur en plomb-étain",
@@ -20224,7 +20224,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Pewter Choker of Casting",
+      "cn": "白镴咏咒项环",
       "de": "Hartzinn-Halsberge der Magie",
       "en": "Pewter Choker of Casting",
       "fr": "Ras de cou d'incantateur en plomb-étain",
@@ -20246,7 +20246,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Ring of Fending",
+      "cn": "白镴御敌指环",
       "de": "Hartzinn-Ring der Verteidigung",
       "en": "Pewter Ring of Fending",
       "fr": "Bague de protecteur en plomb-étain",
@@ -20268,7 +20268,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Ring of Slaying",
+      "cn": "白镴强攻指环",
       "de": "Hartzinn-Ring des Schlachtens",
       "en": "Pewter Ring of Slaying",
       "fr": "Bague d'attaquant en plomb-étain",
@@ -20290,7 +20290,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Ring of Aiming",
+      "cn": "白镴精准指环",
       "de": "Hartzinn-Ring des Zielens",
       "en": "Pewter Ring of Aiming",
       "fr": "Bague de pisteur en plomb-étain",
@@ -20312,7 +20312,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Ring of Healing",
+      "cn": "白镴治愈指环",
       "de": "Hartzinn-Ring der Heilung",
       "en": "Pewter Ring of Healing",
       "fr": "Bague de soigneur en plomb-étain",
@@ -20334,7 +20334,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Ring of Casting",
+      "cn": "白镴咏咒指环",
       "de": "Hartzinn-Ring der Magie",
       "en": "Pewter Ring of Casting",
       "fr": "Bague d'incantateur en plomb-étain",
@@ -20356,7 +20356,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Rod",
+      "cn": "弗里金咒杖",
       "de": "Phrygien-Stab",
       "en": "Phrygian Rod",
       "fr": "Sceptre en or phrygien",
@@ -20378,7 +20378,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Orrery",
+      "cn": "弗里金太阳仪",
       "de": "Phrygien-Orrery",
       "en": "Phrygian Orrery",
       "fr": "Planétaire en or phrygien",
@@ -20400,7 +20400,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Hanger",
+      "cn": "弗里金重刺剑",
       "de": "Phrygien-Degen",
       "en": "Phrygian Hanger",
       "fr": "Ballante en or phrygien",
@@ -20422,7 +20422,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Wings",
+      "cn": "弗里金飞翼",
       "de": "Phrygien-Schwingen",
       "en": "Phrygian Wings",
       "fr": "Ailes en or phrygien",
@@ -20444,7 +20444,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Phrygian Ear Cuffs of Fending",
+      "cn": "弗里金御敌耳夹",
       "de": "Phrygien-Kreolen der Verteidigung",
       "en": "Phrygian Ear Cuffs of Fending",
       "fr": "Bagues d'oreilles de protecteur en or phrygien",
@@ -20466,7 +20466,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Phrygian Ear Cuffs of Slaying",
+      "cn": "弗里金强攻耳夹",
       "de": "Phrygien-Kreolen des Schlachtens",
       "en": "Phrygian Ear Cuffs of Slaying",
       "fr": "Bagues d'oreilles d'attaquant en or phrygien",
@@ -20488,7 +20488,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Phrygian Ear Cuffs of Aiming",
+      "cn": "弗里金精准耳夹",
       "de": "Phrygien-Kreolen des Zielens",
       "en": "Phrygian Ear Cuffs of Aiming",
       "fr": "Bagues d'oreilles de pisteur en or phrygien",
@@ -20510,7 +20510,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Phrygian Ear Cuffs of Healing",
+      "cn": "弗里金治愈耳夹",
       "de": "Phrygien-Kreolen der Heilung",
       "en": "Phrygian Ear Cuffs of Healing",
       "fr": "Bagues d'oreilles de soigneur en or phrygien",
@@ -20532,7 +20532,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Phrygian Ear Cuffs of Casting",
+      "cn": "弗里金咏咒耳夹",
       "de": "Phrygien-Kreolen der Magie",
       "en": "Phrygian Ear Cuffs of Casting",
       "fr": "Bagues d'oreilles d'incantateur en or phrygien",
@@ -20554,7 +20554,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Choker of Fending",
+      "cn": "弗里金御敌项环",
       "de": "Phrygien-Halsberge der Verteidigung",
       "en": "Phrygian Choker of Fending",
       "fr": "Ras de cou de protecteur en or phrygien",
@@ -20576,7 +20576,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Choker of Slaying",
+      "cn": "弗里金强攻项环",
       "de": "Phrygien-Halsberge des Schlachtens",
       "en": "Phrygian Choker of Slaying",
       "fr": "Ras de cou d'attaquant en or phrygien",
@@ -20598,7 +20598,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Choker of Aiming",
+      "cn": "弗里金精准项环",
       "de": "Phrygien-Halsberge des Zielens",
       "en": "Phrygian Choker of Aiming",
       "fr": "Ras de cou de pisteur en or phrygien",
@@ -20620,7 +20620,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Choker of Healing",
+      "cn": "弗里金治愈项环",
       "de": "Phrygien-Halsberge der Heilung",
       "en": "Phrygian Choker of Healing",
       "fr": "Ras de cou de soigneur en or phrygien",
@@ -20642,7 +20642,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Choker of Casting",
+      "cn": "弗里金咏咒项环",
       "de": "Phrygien-Halsberge der Magie",
       "en": "Phrygian Choker of Casting",
       "fr": "Ras de cou d'incantateur en or phrygien",
@@ -20664,7 +20664,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Orrery",
+      "cn": "锰钢太阳仪",
       "de": "Mangan-Orrery",
       "en": "Manganese Orrery",
       "fr": "Planétaire en manganèse",
@@ -20686,7 +20686,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Rapier",
+      "cn": "锰钢刺剑",
       "de": "Mangan-Rapier",
       "en": "Manganese Rapier",
       "fr": "Rapière en manganèse",
@@ -20708,7 +20708,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Syrinxi",
+      "cn": "锰钢注射管",
       "de": "Mangan-Syrinxi",
       "en": "Manganese Syrinxi",
       "fr": "Syringes en manganèse",
@@ -20730,7 +20730,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Manganese Horn of the Last Unicorn",
+      "cn": "锰钢最后的独角兽之角",
       "de": "Mangan-Horn des Letzten Einhorns",
       "en": "Manganese Horn of the Last Unicorn",
       "fr": "Corne de la dernière licorne en manganèse",
@@ -20752,7 +20752,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Blue Zircon Earrings of Fending ",
+      "cn": "蓝锆石御敌耳坠",
       "de": "Blauzirkon-Ohrringe der Verteidigung",
       "en": "Blue Zircon Earrings of Fending ",
       "fr": "Boucles d'oreilles de protecteur en zircon bleu",
@@ -20774,7 +20774,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Blue Zircon Earrings of Slaying",
+      "cn": "蓝锆石强攻耳坠",
       "de": "Blauzirkon-Ohrringe des Schlachtens",
       "en": "Blue Zircon Earrings of Slaying",
       "fr": "Boucles d'oreilles d'attaquant en zircon bleu",
@@ -20796,7 +20796,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Blue Zircon Earrings of Aiming",
+      "cn": "蓝锆石精准耳坠",
       "de": "Blauzirkon-Ohrringe des Zielens",
       "en": "Blue Zircon Earrings of Aiming",
       "fr": "Boucles d'oreilles de pisteur en zircon bleu",
@@ -20818,7 +20818,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Blue Zircon Earrings of Healing",
+      "cn": "蓝锆石治愈耳坠",
       "de": "Blauzirkon-Ohrringe der Heilung",
       "en": "Blue Zircon Earrings of Healing",
       "fr": "Boucles d'oreilles de soigneur en zircon bleu",
@@ -20840,7 +20840,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Blue Zircon Earrings of Casting",
+      "cn": "蓝锆石咏咒耳坠",
       "de": "Blauzirkon-Ohrringe der Magie",
       "en": "Blue Zircon Earrings of Casting",
       "fr": "Boucles d'oreilles d'incantateur en zircon bleu",
@@ -20862,7 +20862,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Bracelet of Fending",
+      "cn": "蓝锆石御敌手环",
       "de": "Blauzirkon-Armreif der Verteidigung",
       "en": "Blue Zircon Bracelet of Fending",
       "fr": "Bracelet de protecteur en zircon bleu",
@@ -20884,7 +20884,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Bracelet of Slaying",
+      "cn": "蓝锆石强攻手环",
       "de": "Blauzirkon-Armreif des Schlachtens",
       "en": "Blue Zircon Bracelet of Slaying",
       "fr": "Bracelet d'attaquant en zircon bleu",
@@ -20906,7 +20906,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Bracelet of Aiming",
+      "cn": "蓝锆石精准手环",
       "de": "Blauzirkon-Armreif des Zielens",
       "en": "Blue Zircon Bracelet of Aiming",
       "fr": "Bracelet de pisteur en zircon bleu",
@@ -20928,7 +20928,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Bracelet of Healing",
+      "cn": "蓝锆石治愈手环",
       "de": "Blauzirkon-Armreif der Heilung",
       "en": "Blue Zircon Bracelet of Healing",
       "fr": "Bracelet de soigneur en zircon bleu",
@@ -20950,7 +20950,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Bracelet of Casting",
+      "cn": "蓝锆石咏咒手环",
       "de": "Blauzirkon-Armreif der Magie",
       "en": "Blue Zircon Bracelet of Casting",
       "fr": "Bracelet d'incantateur en zircon bleu",
@@ -20972,7 +20972,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Ring of Fending",
+      "cn": "蓝锆石御敌指环",
       "de": "Blauzirkon-Ring der Verteidigung",
       "en": "Blue Zircon Ring of Fending",
       "fr": "Bague de protecteur en zircon bleu",
@@ -20994,7 +20994,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Ring of Slaying",
+      "cn": "蓝锆石强攻指环",
       "de": "Blauzirkon-Ring des Schlachtens",
       "en": "Blue Zircon Ring of Slaying",
       "fr": "Bague d'attaquant en zircon bleu",
@@ -21016,7 +21016,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Ring of Aiming",
+      "cn": "蓝锆石精准指环",
       "de": "Blauzirkon-Ring des Zielens",
       "en": "Blue Zircon Ring of Aiming",
       "fr": "Bague de pisteur en zircon bleu",
@@ -21038,7 +21038,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Ring of Healing",
+      "cn": "蓝锆石治愈指环",
       "de": "Blauzirkon-Ring der Heilung",
       "en": "Blue Zircon Ring of Healing",
       "fr": "Bague de soigneur en zircon bleu",
@@ -21060,7 +21060,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon Ring of Casting",
+      "cn": "蓝锆石咏咒指环",
       "de": "Blauzirkon-Ring der Magie",
       "en": "Blue Zircon Ring of Casting",
       "fr": "Bague d'incantateur en zircon bleu",
@@ -21082,7 +21082,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Magitek Planisphere",
+      "cn": "球粒陨石魔导天星盘",
       "de": "Chondrit-Magitek-Planisphäre",
       "en": "Chondrite Magitek Planisphere",
       "fr": "Planisphère magitek en chondrite",
@@ -21104,7 +21104,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Magitek Tuck",
+      "cn": "球粒陨石魔导刺剑",
       "de": "Chondrit-Magitek-Estoc",
       "en": "Chondrite Magitek Tuck",
       "fr": "Estoc magitek en chondrite",
@@ -21126,7 +21126,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Magitek Wings",
+      "cn": "球粒陨石魔导飞翼",
       "de": "Chondrit-Magitek-Schwingen",
       "en": "Chondrite Magitek Wings",
       "fr": "Ailes magitek en chondrite",
@@ -21148,7 +21148,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Earrings of Fending",
+      "cn": "星点石英御敌耳坠",
       "de": "Sternenquarz-Ohrringe der Verteidigung",
       "en": "Star Quartz Earrings of Fending",
       "fr": "Boucles d'oreilles de protecteur en quartz étoilé",
@@ -21170,7 +21170,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Earrings of Slaying",
+      "cn": "星点石英强攻耳坠",
       "de": "Sternenquarz-Ohrringe des Schlachtens",
       "en": "Star Quartz Earrings of Slaying",
       "fr": "Boucles d'oreilles d'attaquant en quartz étoilé",
@@ -21192,7 +21192,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Earrings of Aiming",
+      "cn": "星点石英精准耳坠",
       "de": "Sternenquarz-Ohrringe des Zielens",
       "en": "Star Quartz Earrings of Aiming",
       "fr": "Boucles d'oreilles de pisteur en quartz étoilé",
@@ -21214,7 +21214,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Earrings of Healing",
+      "cn": "星点石英治愈耳坠",
       "de": "Sternenquarz-Ohrringe der Heilung",
       "en": "Star Quartz Earrings of Healing",
       "fr": "Boucles d'oreilles de soigneur en quartz étoilé",
@@ -21236,7 +21236,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Earrings of Casting",
+      "cn": "星点石英咏咒耳坠",
       "de": "Sternenquarz-Ohrringe der Magie",
       "en": "Star Quartz Earrings of Casting",
       "fr": "Boucles d'oreilles d'incantateur en quartz étoilé",
@@ -21258,7 +21258,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Choker of Fending",
+      "cn": "星点石英御敌项环",
       "de": "Sternenquarz-Halsberge der Verteidigung",
       "en": "Star Quartz Choker of Fending",
       "fr": "Ras de cou de protecteur en quartz étoilé",
@@ -21280,7 +21280,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Choker of Slaying",
+      "cn": "星点石英强攻项环",
       "de": "Sternenquarz-Halsberge des Schlachtens",
       "en": "Star Quartz Choker of Slaying",
       "fr": "Ras de cou d'attaquant en quartz étoilé",
@@ -21302,7 +21302,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Choker of Aiming",
+      "cn": "星点石英精准项环",
       "de": "Sternenquarz-Halsberge des Zielens",
       "en": "Star Quartz Choker of Aiming",
       "fr": "Ras de cou de pisteur en quartz étoilé",
@@ -21324,7 +21324,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Choker of Healing",
+      "cn": "星点石英治愈项环",
       "de": "Sternenquarz-Halsberge der Heilung",
       "en": "Star Quartz Choker of Healing",
       "fr": "Ras de cou de soigneur en quartz étoilé",
@@ -21346,7 +21346,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Choker of Casting",
+      "cn": "星点石英咏咒项环",
       "de": "Sternenquarz-Halsberge der Magie",
       "en": "Star Quartz Choker of Casting",
       "fr": "Ras de cou d'incantateur en quartz étoilé",
@@ -21368,7 +21368,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Wristband of Fending",
+      "cn": "星点石英御敌腕带",
       "de": "Sternenquarz-Armband der Verteidigung",
       "en": "Star Quartz Wristband of Fending",
       "fr": "Poignet de protecteur en quartz étoilé",
@@ -21390,7 +21390,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Wristband of Slaying",
+      "cn": "星点石英强攻腕带",
       "de": "Sternenquarz-Armband des Schlachtens",
       "en": "Star Quartz Wristband of Slaying",
       "fr": "Poignet d'attaquant en quartz étoilé",
@@ -21412,7 +21412,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Wristband of Aiming",
+      "cn": "星点石英精准腕带",
       "de": "Sternenquarz-Armband des Zielens",
       "en": "Star Quartz Wristband of Aiming",
       "fr": "Poignet de pisteur en quartz étoilé",
@@ -21434,7 +21434,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Wristband of Healing",
+      "cn": "星点石英治愈腕带",
       "de": "Sternenquarz-Armband der Heilung",
       "en": "Star Quartz Wristband of Healing",
       "fr": "Poignet de soigneur en quartz étoilé",
@@ -21456,7 +21456,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Star Quartz Wristband of Casting",
+      "cn": "星点石英咏咒腕带",
       "de": "Sternenquarz-Armband der Magie",
       "en": "Star Quartz Wristband of Casting",
       "fr": "Poignet d'incantateur en quartz étoilé",
@@ -21478,7 +21478,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Ring of Fending",
+      "cn": "星点石英御敌指环",
       "de": "Sternenquarz-Ring der Verteidigung",
       "en": "Star Quartz Ring of Fending",
       "fr": "Bague de protecteur en quartz étoilé",
@@ -21500,7 +21500,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Ring of Slaying",
+      "cn": "星点石英强攻指环",
       "de": "Sternenquarz-Ring des Schlachtens",
       "en": "Star Quartz Ring of Slaying",
       "fr": "Bague d'attaquant en quartz étoilé",
@@ -21522,7 +21522,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Ring of Aiming",
+      "cn": "星点石英精准指环",
       "de": "Sternenquarz-Ring des Zielens",
       "en": "Star Quartz Ring of Aiming",
       "fr": "Bague de pisteur en quartz étoilé",
@@ -21544,7 +21544,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Ring of Healing",
+      "cn": "星点石英治愈指环",
       "de": "Sternenquarz-Ring der Heilung",
       "en": "Star Quartz Ring of Healing",
       "fr": "Bague de soigneur en quartz étoilé",
@@ -21566,7 +21566,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz Ring of Casting",
+      "cn": "星点石英咏咒指环",
       "de": "Sternenquarz-Ring der Magie",
       "en": "Star Quartz Ring of Casting",
       "fr": "Bague d'incantateur en quartz étoilé",
@@ -21588,7 +21588,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Needle",
+      "cn": "辉翠银缝针",
       "de": "Edeldurium-Nadel",
       "en": "High Durium Needle",
       "fr": "Aiguille en durium noble",
@@ -21610,7 +21610,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Phrygian Needle",
+      "cn": "弗里金缝针",
       "de": "Phrygien-Nadel",
       "en": "Phrygian Needle",
       "fr": "Aiguille en or phrygien",
@@ -21632,7 +21632,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Manganese Needle",
+      "cn": "锰钢缝针",
       "de": "Mangan-Nadel",
       "en": "Manganese Needle",
       "fr": "Aiguille en manganèse",
@@ -21654,7 +21654,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Chondrite Needle",
+      "cn": "球粒陨石缝针",
       "de": "Chondrit-Nadel",
       "en": "Chondrite Needle",
       "fr": "Aiguille en chondrite",
@@ -21676,7 +21676,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ear Cuffs of Crafting",
+      "cn": "紫黄晶巧匠耳夹",
       "de": "Ametrin-Ohrringe des Handwerks",
       "en": "Ametrine Ear Cuffs of Crafting",
       "fr": "Bagues d'oreilles des créations en amétrine",
@@ -21698,7 +21698,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Necklace of Crafting",
+      "cn": "紫黄晶巧匠项链",
       "de": "Ametrin-Halsband des Handwerks",
       "en": "Ametrine Necklace of Crafting",
       "fr": "Collier des créations en amétrine",
@@ -21720,7 +21720,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Armillae of Crafting",
+      "cn": "紫黄晶巧匠腕环",
       "de": "Ametrin-Armbänder des Handwerks",
       "en": "Ametrine Armillae of Crafting",
       "fr": "Armilles des créations en amétrine",
@@ -21742,7 +21742,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine Ring of Crafting",
+      "cn": "紫黄晶巧匠指环",
       "de": "Ametrin-Ring des Handwerks",
       "en": "Ametrine Ring of Crafting",
       "fr": "Bague des créations en amétrine",
@@ -21764,7 +21764,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Ametrine",
+      "cn": "紫黄晶",
       "de": "Ametrin",
       "en": "Ametrine",
       "fr": "Amétrine",
@@ -21786,7 +21786,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Pewter Ingot",
+      "cn": "白镴锭",
       "de": "Hartzinnbarren",
       "en": "Pewter Ingot",
       "fr": "Lingot de plomb-étain",
@@ -21808,7 +21808,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Phrygian Gold Ingot",
+      "cn": "弗里金锭",
       "de": "Phrygien-Goldbarren",
       "en": "Phrygian Gold Ingot",
       "fr": "Lingot d'or phrygien",
@@ -21830,7 +21830,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Blue Zircon",
+      "cn": "蓝锆石",
       "de": "Blauzirkon",
       "en": "Blue Zircon",
       "fr": "Zircon bleu",
@@ -21852,7 +21852,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Star Quartz",
+      "cn": "星点石英",
       "de": "Sternenquarz",
       "en": "Star Quartz",
       "fr": "Quartz étoilé",
@@ -21874,7 +21874,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Chloroschist Whetstone",
+      "cn": "绿片岩磨刀石",
       "de": "Grünschieferwetzstein",
       "en": "Chloroschist Whetstone",
       "fr": "Pierre à aiguiser en schiste vert",
@@ -21896,7 +21896,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Annite Whetstone",
+      "cn": "铁云母磨刀石",
       "de": "Glimmereisenwetzstein",
       "en": "Annite Whetstone",
       "fr": "Pierre à aiguiser en annite",
@@ -21918,7 +21918,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "Stonegold Milpreves",
+      "cn": "石金蛇石针",
       "de": "Steingold-Hascherlite",
       "en": "Stonegold Milpreves",
       "fr": "Mein gwrac'h en or pétré",
@@ -21940,7 +21940,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "Stonegold Syrinxi",
+      "cn": "石金注射管",
       "de": "Steingold-Syrinxi",
       "en": "Stonegold Syrinxi",
       "fr": "Syringes en or pétré",
@@ -21962,7 +21962,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Bluespirit Wings",
+      "cn": "灵青飞翼",
       "de": "Seelenazurit-Schwingen",
       "en": "Bluespirit Wings",
       "fr": "Ailes en azuresprit",
@@ -21984,7 +21984,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Titanbronze Pendulums",
+      "cn": "钛铜振空摆",
       "de": "Titanbronze-Perpendikel",
       "en": "Titanbronze Pendulums",
       "fr": "Pendules en bronze titané",
@@ -22006,7 +22006,7 @@
     "level": 415,
     "maxQuality": 4400,
     "name": {
-      "cn": "Dwarven Mythril Milpreves",
+      "cn": "矮人银蛇石针",
       "de": "Edelmithril-Hascherlite",
       "en": "Dwarven Mythril Milpreves",
       "fr": "Mein gwrac'h en mithril noble",
@@ -22028,7 +22028,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Indoor Oriental Waterfall",
+      "cn": "东方室内喷泉",
       "de": "Fernöstlicher Wasserfall",
       "en": "Indoor Oriental Waterfall",
       "fr": "Cascade d'intérieur orientale",
@@ -22050,7 +22050,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Il Mheg Garden Fountain",
+      "cn": "伊尔美格花园喷泉",
       "de": "Gartenbrunnen aus Il Mheg",
       "en": "Il Mheg Garden Fountain",
       "fr": "Fontaine de jardin d'Il Mheg",
@@ -22072,7 +22072,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Square Niche Partition",
+      "cn": "方孔隔离墙",
       "de": "Trennwand mit Regalnischen",
       "en": "Square Niche Partition",
       "fr": "Cloison à niches carrées",
@@ -36196,7 +36196,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Rarefied High Durium Milpreves",
+      "cn": "收藏用辉翠银蛇石针",
       "de": "Edeldurium-Hascherlite (Sammlerstück)",
       "en": "Rarefied High Durium Milpreves",
       "fr": "Mein gwrac'h en durium noble collectionnables",
@@ -36218,7 +36218,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Rarefied Pewter Choker",
+      "cn": "收藏用白镴项环",
       "de": "Hartzinn-Halsberge (Sammlerstück)",
       "en": "Rarefied Pewter Choker",
       "fr": "Ras de cou en plomb-étain collectionnable",
@@ -36240,7 +36240,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Rarefied Phrygian Earring",
+      "cn": "收藏用弗里金耳环",
       "de": "Phrygien-Kreolen (Sammlerstück)",
       "en": "Rarefied Phrygian Earring",
       "fr": "Boucles d'oreilles en or phrygien collectionnables",
@@ -36262,7 +36262,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Rarefied Manganese Horn of the Last Unicorn",
+      "cn": "收藏用锰钢最后的独角兽之角",
       "de": "Mangan-Horn des Letzten Einhorns (Sammlerstück)",
       "en": "Rarefied Manganese Horn of the Last Unicorn",
       "fr": "Corne de la dernière licorne en manganèse collectionnable",
@@ -36284,7 +36284,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Rarefied Star Quartz Choker",
+      "cn": "收藏用星点石英项环",
       "de": "Sternenquarz-Halsberge (Sammlerstück)",
       "en": "Rarefied Star Quartz Choker",
       "fr": "Ras de cou en quartz étoilé collectionnable",
@@ -36306,7 +36306,7 @@
     "level": 430,
     "maxQuality": 2760,
     "name": {
-      "cn": "Set of Gold Plating",
+      "cn": "黄金外壳零件",
       "de": "Vergoldete Metallplatte",
       "en": "Set of Gold Plating",
       "fr": "Pièce d'armature dorée",
@@ -36328,7 +36328,7 @@
     "level": 525,
     "maxQuality": 3720,
     "name": {
-      "cn": "Gold Cog",
+      "cn": "黄金精密齿轮",
       "de": "Vergoldetes Präzisionszahnrad",
       "en": "Gold Cog",
       "fr": "Rouage de précision doré",
@@ -36350,7 +36350,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Gold Motor Component",
+      "cn": "黄金动力零件",
       "de": "Vergoldetes Antriebsbauteil",
       "en": "Gold Motor Component",
       "fr": "Pièce de moteur dorée",
@@ -36372,7 +36372,7 @@
     "level": 550,
     "maxQuality": 4200,
     "name": {
-      "cn": "Gold Mechanical Voice Box",
+      "cn": "黄金发声零件",
       "de": "Vergoldetes Stimmgenerator-Bauteil",
       "en": "Gold Mechanical Voice Box",
       "fr": "Pièce du système de communication dorée",
@@ -36394,7 +36394,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Gold Core",
+      "cn": "黄金核心",
       "de": "Vergoldeter Energiekern",
       "en": "Gold Core",
       "fr": "Noyau doré",
@@ -36416,7 +36416,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Gold Connector",
+      "cn": "黄金联结零件",
       "de": "Vergoldetes Verbindungsstück",
       "en": "Gold Connector",
       "fr": "Connecteur doré",
@@ -36812,7 +36812,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rarefied Chondrite Needle",
+      "cn": "收藏用球粒陨石缝针",
       "de": "Chondrit-Nadel (Sammlerstück)",
       "en": "Rarefied Chondrite Needle",
       "fr": "Aiguille en chondrite collectionnable",

@@ -358,7 +358,7 @@
     "level": 11,
     "maxQuality": 270,
     "name": {
-      "cn": "青铜护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -776,7 +776,7 @@
     "level": 19,
     "maxQuality": 480,
     "name": {
-      "cn": "黑铁护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -1128,7 +1128,7 @@
     "level": 24,
     "maxQuality": 630,
     "name": {
-      "cn": "强化黑铁护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -1370,7 +1370,7 @@
     "level": 28,
     "maxQuality": 760,
     "name": {
-      "cn": "白钢腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -1612,7 +1612,7 @@
     "level": 31,
     "maxQuality": 900,
     "name": {
-      "cn": "白钢护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -1810,7 +1810,7 @@
     "level": 34,
     "maxQuality": 1050,
     "name": {
-      "cn": "强化白钢护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -2888,7 +2888,7 @@
     "level": 50,
     "maxQuality": 2000,
     "name": {
-      "cn": "钴铁护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -2998,7 +2998,7 @@
     "level": 38,
     "maxQuality": 1280,
     "name": {
-      "cn": "秘银护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -3174,7 +3174,7 @@
     "level": 43,
     "maxQuality": 1580,
     "name": {
-      "cn": "秘银重腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -3922,7 +3922,7 @@
     "level": 70,
     "maxQuality": 2500,
     "name": {
-      "cn": "玄钢腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5484,7 +5484,7 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "cn": "灵银御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5506,7 +5506,7 @@
     "level": 130,
     "maxQuality": 2210,
     "name": {
-      "cn": "白钛御敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5528,7 +5528,7 @@
     "level": 139,
     "maxQuality": 2420,
     "name": {
-      "cn": "白钛御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5550,7 +5550,7 @@
     "level": 145,
     "maxQuality": 2560,
     "name": {
-      "cn": "精金御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5946,7 +5946,7 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "cn": "灵银制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5968,7 +5968,7 @@
     "level": 130,
     "maxQuality": 2210,
     "name": {
-      "cn": "白钛制敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -5990,7 +5990,7 @@
     "level": 145,
     "maxQuality": 2560,
     "name": {
-      "cn": "精金制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -6958,7 +6958,7 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
-      "cn": "硬钢御敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7068,7 +7068,7 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
-      "cn": "硬钢制敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7178,7 +7178,7 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
-      "cn": "卸铁御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7266,7 +7266,7 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
-      "cn": "卸铁制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7640,7 +7640,7 @@
     "level": 285,
     "maxQuality": 3420,
     "name": {
-      "cn": "钼钢御敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7706,7 +7706,7 @@
     "level": 285,
     "maxQuality": 3420,
     "name": {
-      "cn": "钼钢制敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7772,7 +7772,7 @@
     "level": 290,
     "maxQuality": 3600,
     "name": {
-      "cn": "钼钢御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -7794,7 +7794,7 @@
     "level": 290,
     "maxQuality": 3600,
     "name": {
-      "cn": "钼钢制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8586,7 +8586,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金御敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8608,7 +8608,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金制敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8630,7 +8630,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金强袭护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8652,7 +8652,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金精准护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8696,7 +8696,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金游击护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8718,7 +8718,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金治愈护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8740,7 +8740,7 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "深金咏咒护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8850,7 +8850,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8938,7 +8938,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8960,7 +8960,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金强袭腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -8982,7 +8982,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金精准腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9004,7 +9004,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金游击护腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9026,7 +9026,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金治愈护腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9048,7 +9048,7 @@
     "level": 395,
     "maxQuality": 3800,
     "name": {
-      "cn": "深金咏咒护腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9180,7 +9180,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青御敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9290,7 +9290,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青制敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9312,7 +9312,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青强袭腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9334,7 +9334,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青精准腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9356,7 +9356,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青游击腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9378,7 +9378,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青治愈护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9444,7 +9444,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "灵青咏咒护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9488,7 +9488,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜御敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9510,7 +9510,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9532,7 +9532,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜强袭腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9554,7 +9554,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜精准腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9598,7 +9598,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜游击腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9620,7 +9620,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜治愈腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9642,7 +9642,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "钛铜咏咒腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9752,7 +9752,7 @@
     "level": 415,
     "maxQuality": 4400,
     "name": {
-      "cn": "矮人银御敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9840,7 +9840,7 @@
     "level": 415,
     "maxQuality": 4400,
     "name": {
-      "cn": "矮人银制敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9906,7 +9906,7 @@
     "level": 418,
     "maxQuality": 4500,
     "name": {
-      "cn": "矮人银强袭护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9950,7 +9950,7 @@
     "level": 418,
     "maxQuality": 4500,
     "name": {
-      "cn": "矮人银精准护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -9994,7 +9994,7 @@
     "level": 418,
     "maxQuality": 4500,
     "name": {
-      "cn": "矮人银游击护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -10016,7 +10016,7 @@
     "level": 418,
     "maxQuality": 4500,
     "name": {
-      "cn": "矮人银治愈护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -10038,7 +10038,7 @@
     "level": 418,
     "maxQuality": 4500,
     "name": {
-      "cn": "矮人银咏咒护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -10830,7 +10830,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Knuckles",
+      "cn": "辉翠银拳套",
       "de": "Edeldurium-Schlagringe",
       "en": "High Durium Knuckles",
       "fr": "Poings en durium noble",
@@ -10852,7 +10852,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Shield",
+      "cn": "辉翠银盾",
       "de": "Edeldurium-Schild",
       "en": "High Durium Shield",
       "fr": "Bouclier en durium noble",
@@ -10874,7 +10874,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Helm of Fending",
+      "cn": "辉翠银御敌头盔",
       "de": "Edeldurium-Helm der Verteidigung",
       "en": "High Durium Helm of Fending",
       "fr": "Casque de protecteur en durium noble",
@@ -10896,7 +10896,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Armguards of Fending",
+      "cn": "辉翠银御敌护臂",
       "de": "Edeldurium-Armschützer der Verteidigung",
       "en": "High Durium Armguards of Fending",
       "fr": "Garde-bras de protecteur en durium noble",
@@ -10918,7 +10918,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Armguards of Maiming",
+      "cn": "辉翠银制敌护臂",
       "de": "Edeldurium-Armschützer des Verstümmelns",
       "en": "High Durium Armguards of Maiming",
       "fr": "Garde-bras d'abatteur en durium noble",
@@ -10940,7 +10940,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Armguards of Aiming",
+      "cn": "辉翠银精准护臂",
       "de": "Edeldurium-Armschützer des Zielens",
       "en": "High Durium Armguards of Aiming",
       "fr": "Garde-bras de pisteur en durium noble",
@@ -10962,7 +10962,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Helm of Scouting",
+      "cn": "辉翠银游击头盔",
       "de": "Edeldurium-Helm des Spähens",
       "en": "High Durium Helm of Scouting",
       "fr": "Casque d'éclaireur en durium noble",
@@ -10984,7 +10984,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "High Durium Kite Shield",
+      "cn": "辉翠银鸢盾",
       "de": "Edeldurium-Drachenschild",
       "en": "High Durium Kite Shield",
       "fr": "Écu mandorle en durium noble",
@@ -11006,7 +11006,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "High Durium Armor of Fending",
+      "cn": "辉翠银御敌战甲",
       "de": "Edeldurium-Rüstung der Verteidigung",
       "en": "High Durium Armor of Fending",
       "fr": "Armure de protecteur en durium noble",
@@ -11028,7 +11028,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "High Durium Gauntlets of Fending",
+      "cn": "辉翠银御敌手铠",
       "de": "Edeldurium-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
       "en": "High Durium Gauntlets of Fending",
       "fr": "Gantelets de protecteur en durium noble",
@@ -11050,7 +11050,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "High Durium Sollerets of Fending",
+      "cn": "辉翠银御敌锁甲靴",
       "de": "Edeldurium-Sollerets der Verteidigung",
       "en": "High Durium Sollerets of Fending",
       "fr": "Solerets de protecteur en durium noble",
@@ -11072,7 +11072,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "High Durium Armor of Maiming",
+      "cn": "辉翠银制敌战甲",
       "de": "Edeldurium-Rüstung des Verstümmelns",
       "en": "High Durium Armor of Maiming",
       "fr": "Armure d'abatteur en durium noble",
@@ -11094,7 +11094,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "High Durium Gauntlets of Maiming",
+      "cn": "辉翠银制敌手铠",
       "de": "Edeldurium-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
       "en": "High Durium Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en durium noble",
@@ -11116,7 +11116,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "High Durium Sollerets of Maiming",
+      "cn": "辉翠银制敌锁甲靴",
       "de": "Edeldurium-Sollerets des Verstümmelns",
       "en": "High Durium Sollerets of Maiming",
       "fr": "Solerets d'abatteur en durium noble",
@@ -11138,7 +11138,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Bismuth Shield",
+      "cn": "铋金盾",
       "de": "Bismut-Schild",
       "en": "Bismuth Shield",
       "fr": "Bouclier en bismuth",
@@ -11160,7 +11160,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Bismuth Goggles of Fending",
+      "cn": "铋金御敌护目镜",
       "de": "Bismut-Brille der Verteidigung",
       "en": "Bismuth Goggles of Fending",
       "fr": "Lunettes de protecteur en bismuth",
@@ -11182,7 +11182,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Bismuth Headgear of Maiming",
+      "cn": "铋金制敌头甲",
       "de": "Bismut-Kopfbedeckung des Verstümmelns",
       "en": "Bismuth Headgear of Maiming",
       "fr": "Protège-tête d'abatteur en bismuth",
@@ -11204,7 +11204,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Bracelet of Fending",
+      "cn": "铋金御敌手环",
       "de": "Bismut-Armreif der Verteidigung",
       "en": "Bismuth Bracelet of Fending",
       "fr": "Bracelet de protecteur en bismuth",
@@ -11226,7 +11226,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Bracelet of Slaying",
+      "cn": "铋金强攻手环",
       "de": "Bismut-Armreif des Schlachtens",
       "en": "Bismuth Bracelet of Slaying",
       "fr": "Bracelet d'attaquant en bismuth",
@@ -11248,7 +11248,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Bracelet of Aiming",
+      "cn": "铋金精准手环",
       "de": "Bismut-Armreif des Zielens",
       "en": "Bismuth Bracelet of Aiming",
       "fr": "Bracelet de pisteur en bismuth",
@@ -11270,7 +11270,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Bracelet of Healing",
+      "cn": "铋金治愈手环",
       "de": "Bismut-Armreif der Heilung",
       "en": "Bismuth Bracelet of Healing",
       "fr": "Bracelet de soigneur en bismuth",
@@ -11292,7 +11292,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Bracelet of Casting",
+      "cn": "铋金咏咒手环",
       "de": "Bismut-Armreif der Magie",
       "en": "Bismuth Bracelet of Casting",
       "fr": "Bracelet d'incantateur en bismuth",
@@ -11314,7 +11314,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Ring of Fending",
+      "cn": "铋金御敌指环",
       "de": "Bismut-Ring der Verteidigung",
       "en": "Bismuth Ring of Fending",
       "fr": "Bague de protecteur en bismuth",
@@ -11336,7 +11336,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Ring of Slaying",
+      "cn": "铋金强攻指环",
       "de": "Bismut-Ring des Schlachtens",
       "en": "Bismuth Ring of Slaying",
       "fr": "Bague d'attaquant en bismuth",
@@ -11358,7 +11358,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Ring of Aiming",
+      "cn": "铋金精准指环",
       "de": "Bismut-Ring des Zielens",
       "en": "Bismuth Ring of Aiming",
       "fr": "Bague de pisteur en bismuth",
@@ -11380,7 +11380,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Ring of Healing",
+      "cn": "铋金治愈指环",
       "de": "Bismut-Ring der Heilung",
       "en": "Bismuth Ring of Healing",
       "fr": "Bague de soigneur en bismuth",
@@ -11402,7 +11402,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Ring of Casting",
+      "cn": "铋金咏咒指环",
       "de": "Bismut-Ring der Magie",
       "en": "Bismuth Ring of Casting",
       "fr": "Bague d'incantateur en bismuth",
@@ -11424,7 +11424,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Kite Shield",
+      "cn": "锰钢鸢盾",
       "de": "Mangan-Drachenschild",
       "en": "Manganese Kite Shield",
       "fr": "Écu mandorle en manganèse",
@@ -11446,7 +11446,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Helm of the Behemoth King",
+      "cn": "锰钢贝希摩斯王战盔",
       "de": "König-Behemoth-Mangan-Helm",
       "en": "Manganese Helm of the Behemoth King",
       "fr": "Casque du roi béhémoth en manganèse",
@@ -11468,7 +11468,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Manganese Armor of the Behemoth King",
+      "cn": "锰钢贝希摩斯王战甲",
       "de": "König-Behemoth-Mangan-Rüstung",
       "en": "Manganese Armor of the Behemoth King",
       "fr": "Armure du roi béhémoth en manganèse",
@@ -11490,7 +11490,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Gauntlets of the Behemoth King",
+      "cn": "锰钢贝希摩斯王手铠",
       "de": "König-Behemoth-Mangan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
       "en": "Manganese Gauntlets of the Behemoth King",
       "fr": "Gantelets du roi béhémoth en manganèse",
@@ -11512,7 +11512,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Sabatons of the Behemoth King",
+      "cn": "锰钢贝希摩斯王铠靴",
       "de": "König-Behemoth-Mangan-Bärlatschen",
       "en": "Manganese Sabatons of the Behemoth King",
       "fr": "Sabatons du roi béhémoth en manganèse",
@@ -11534,7 +11534,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Helm of the Behemoth Queen",
+      "cn": "锰钢贝希摩斯女王战盔",
       "de": "Königin-Behemoth-Mangan-Helm",
       "en": "Manganese Helm of the Behemoth Queen",
       "fr": "Casque de la reine béhémoth en manganèse",
@@ -11556,7 +11556,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Manganese Armor of the Behemoth Queen",
+      "cn": "锰钢贝希摩斯女王战甲",
       "de": "Königin-Behemoth-Mangan-Rüstung",
       "en": "Manganese Armor of the Behemoth Queen",
       "fr": "Armure de la reine béhémoth en manganèse",
@@ -11578,7 +11578,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Gauntlets of the Behemoth Queen",
+      "cn": "锰钢贝希摩斯女王手铠",
       "de": "Königin-Behemoth-Mangan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
       "en": "Manganese Gauntlets of the Behemoth Queen",
       "fr": "Gantelets de la reine béhémoth en manganèse",
@@ -11600,7 +11600,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Sabatons of the Behemoth Queen",
+      "cn": "锰钢贝希摩斯女王铠靴",
       "de": "Königin-Behemoth-Mangan-Bärlatschen",
       "en": "Manganese Sabatons of the Behemoth Queen",
       "fr": "Sabatons de la reine béhémoth en manganèse",
@@ -11622,7 +11622,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Helm of the Rising Dragon",
+      "cn": "锰钢升龙战盔",
       "de": "Mangan-Helm des Aufsteigenden Drachen",
       "en": "Manganese Helm of the Rising Dragon",
       "fr": "Casque du dragon du firmament en manganèse",
@@ -11644,7 +11644,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Gloves of the Rising Dragon",
+      "cn": "锰钢升龙手套",
       "de": "Mangan-Handschuhe des Aufsteigenden Drachen",
       "en": "Manganese Gloves of the Rising Dragon",
       "fr": "Gants du dragon du firmament en manganèse",
@@ -11666,7 +11666,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Gaiters of the Rising Dragon",
+      "cn": "锰钢升龙斗鞋",
       "de": "Mangan-Spangenschuhe des Aufsteigenden Drachen",
       "en": "Manganese Gaiters of the Rising Dragon",
       "fr": "Guêtres du dragon du firmament en manganèse",
@@ -11688,7 +11688,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Helm of the Falling Dragon",
+      "cn": "锰钢堕龙战盔",
       "de": "Mangan-Helm des Stürzenden Drachen",
       "en": "Manganese Helm of the Falling Dragon",
       "fr": "Casque du dragon des abysses en manganèse",
@@ -11710,7 +11710,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Gloves of the Falling Dragon",
+      "cn": "锰钢堕龙手套",
       "de": "Mangan-Handschuhe des Stürzenden Drachen",
       "en": "Manganese Gloves of the Falling Dragon",
       "fr": "Gants du dragon des abysses en manganèse",
@@ -11732,7 +11732,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Gaiters of the Falling Dragon",
+      "cn": "锰钢堕龙斗鞋",
       "de": "Mangan-Spangenschuhe des Stürzenden Drachen",
       "en": "Manganese Gaiters of the Falling Dragon",
       "fr": "Guêtres du dragon des abysses en manganèse",
@@ -11754,7 +11754,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Boots of the White Griffin",
+      "cn": "锰钢白狮鹫筒靴",
       "de": "Mangan-Stiefel des Weißen Griffons",
       "en": "Manganese Boots of the White Griffin",
       "fr": "Bottes du griffon blanc en manganèse",
@@ -11776,7 +11776,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Boots of the Black Griffin",
+      "cn": "锰钢黑狮鹫筒靴",
       "de": "Mangan-Stiefel des Schwarzen Griffons",
       "en": "Manganese Boots of the Black Griffin",
       "fr": "Bottes du griffon noir en manganèse",
@@ -11798,7 +11798,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Chondrite Magitek Shield",
+      "cn": "球粒陨石魔导盾",
       "de": "Chondrit-Magitek-Schild",
       "en": "Chondrite Magitek Shield",
       "fr": "Bouclier magitek en chondrite",
@@ -11820,7 +11820,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Chondrite Top of Fending",
+      "cn": "球粒陨石御敌上装",
       "de": "Chondrit-Oberteil der Verteidigung",
       "en": "Chondrite Top of Fending",
       "fr": "Haut-de-corps de protecteur en chondrite",
@@ -11842,7 +11842,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gauntlets of Fending",
+      "cn": "球粒陨石御敌手铠",
       "de": "Chondrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
       "en": "Chondrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en chondrite",
@@ -11864,7 +11864,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Chondrite Sollerets of Fending",
+      "cn": "球粒陨石御敌锁甲靴",
       "de": "Chondrit-Sollerets der Verteidigung",
       "en": "Chondrite Sollerets of Fending",
       "fr": "Solerets de protecteur en chondrite",
@@ -11886,7 +11886,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Chondrite Top of Maiming",
+      "cn": "球粒陨石制敌上装",
       "de": "Chondrit-Oberteil des Verstümmelns",
       "en": "Chondrite Top of Maiming",
       "fr": "Haut-de-corps d'abatteur en chondrite",
@@ -11908,7 +11908,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gloves of Maiming",
+      "cn": "球粒陨石制敌手套",
       "de": "Chondrit-Handschuhe des Verstümmelns",
       "en": "Chondrite Gloves of Maiming",
       "fr": "Gants d'abatteur en chondrite",
@@ -11930,7 +11930,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gloves of Striking",
+      "cn": "球粒陨石强袭手套",
       "de": "Chondrit-Handschuhe des Schlagens",
       "en": "Chondrite Gloves of Striking",
       "fr": "Gants d'agresseur en chondrite",
@@ -11952,7 +11952,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gloves of Aiming",
+      "cn": "球粒陨石精准手套",
       "de": "Chondrit-Handschuhe des Zielens",
       "en": "Chondrite Gloves of Aiming",
       "fr": "Gants de pisteur en chondrite",
@@ -11974,7 +11974,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gloves of Scouting",
+      "cn": "球粒陨石游击手套",
       "de": "Chondrit-Handschuhe des Spähens",
       "en": "Chondrite Gloves of Scouting",
       "fr": "Gants d'éclaireur en chondrite",
@@ -11996,7 +11996,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Chondrite Sollerets of Scouting",
+      "cn": "球粒陨石游击锁甲靴",
       "de": "Chondrit-Sollerets des Spähens",
       "en": "Chondrite Sollerets of Scouting",
       "fr": "Solerets d'éclaireur en chondrite",
@@ -12018,7 +12018,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gloves of Healing",
+      "cn": "球粒陨石治愈手套",
       "de": "Chondrit-Handschuhe der Heilung",
       "en": "Chondrite Gloves of Healing",
       "fr": "Gants de soigneur en chondrite",
@@ -12040,7 +12040,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Gloves of Casting",
+      "cn": "球粒陨石咏咒手套",
       "de": "Chondrit-Handschuhe der Magie",
       "en": "Chondrite Gloves of Casting",
       "fr": "Gants d'incantateur en chondrite",
@@ -12062,7 +12062,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Alembic",
+      "cn": "辉翠银蒸馏器",
       "de": "Edeldurium-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "High Durium Alembic",
       "fr": "Alambic en durium noble",
@@ -12084,7 +12084,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Namazu Frypan",
+      "cn": "辉翠银鲶鱼精煎锅",
       "de": "Edeldurium-Bratpfanne",
       "en": "High Durium Namazu Frypan",
       "fr": "Poêle à frire namazu en durium noble",
@@ -12106,7 +12106,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Bismuth Alembic",
+      "cn": "铋金蒸馏器",
       "de": "Bismut-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Bismuth Alembic",
       "fr": "Alambic en bismuth",
@@ -12128,7 +12128,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Bismuth Fat Cat Frypan",
+      "cn": "铋金猫小胖煎锅",
       "de": "Bismut-Bratpfanne",
       "en": "Bismuth Fat Cat Frypan",
       "fr": "Poêle à frire gros minou en bismuth",
@@ -12150,7 +12150,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Manganese Alembic",
+      "cn": "锰钢蒸馏器",
       "de": "Mangan-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Manganese Alembic",
       "fr": "Alambic en manganèse",
@@ -12172,7 +12172,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Manganese Chocobo Frypan",
+      "cn": "锰钢陆行鸟煎锅",
       "de": "Mangan-Bratpfanne",
       "en": "Manganese Chocobo Frypan",
       "fr": "Poêle à frire chocobo en manganèse",
@@ -12194,7 +12194,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Chondrite Alembic",
+      "cn": "球粒陨石蒸馏器",
       "de": "Chondrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Chondrite Alembic",
       "fr": "Alambic en chondrite",
@@ -12216,7 +12216,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Chondrite Bomb Frypan",
+      "cn": "球粒陨石爆弹怪煎锅",
       "de": "Chondrit-Bratpfanne",
       "en": "Chondrite Bomb Frypan",
       "fr": "Poêle à frire bombo en chondrite",
@@ -12238,7 +12238,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "High Durium Nugget",
+      "cn": "辉翠银块",
       "de": "Edeldurium-Nugget",
       "en": "High Durium Nugget",
       "fr": "Pépite de durium noble",
@@ -12260,7 +12260,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "High Durium Ingot",
+      "cn": "辉翠银锭",
       "de": "Edelduriumbarren",
       "en": "High Durium Ingot",
       "fr": "Lingot de durium noble",
@@ -12282,7 +12282,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Ingot",
+      "cn": "铋金锭",
       "de": "Bismutbarren",
       "en": "Bismuth Ingot",
       "fr": "Lingot de bismuth",
@@ -12304,7 +12304,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Ingot",
+      "cn": "锰钢锭",
       "de": "Manganbarren",
       "en": "Manganese Ingot",
       "fr": "Lingot de manganèse",
@@ -12326,7 +12326,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Ingot",
+      "cn": "球粒陨石锭",
       "de": "Chondritbarren",
       "en": "Chondrite Ingot",
       "fr": "Lingot de chondrite",
@@ -12348,7 +12348,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Garlean Concrete Inner Wall",
+      "cn": "加雷马混凝土内墙",
       "de": "Garleische Innenwand",
       "en": "Garlean Concrete Inner Wall",
       "fr": "Revêtement mural en béton garlemaldais",
@@ -12898,7 +12898,7 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "cn": "钨钢重腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -13008,7 +13008,7 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "cn": "钨钢腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -14240,7 +14240,7 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
-      "cn": "乌兹护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -14614,7 +14614,7 @@
     "level": 148,
     "maxQuality": 2630,
     "name": {
-      "cn": "精金御敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -15428,7 +15428,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "cn": "亚拉戈重足铠（复制品）",
+      "cn": "亚拉戈重锁甲靴（复制品）",
       "de": "Schwere allagische Sollerets (Replik)",
       "en": "Replica Heavy Allagan Sollerets",
       "fr": "Répliques de solerets allagois lourds",
@@ -16132,7 +16132,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "光银御敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -16154,7 +16154,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "光银制敌腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -16176,7 +16176,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "光银强袭腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -17056,7 +17056,7 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
-      "cn": "惊雷云砧",
+      "cn": "惊雷骑士武具",
       "de": "Paladin-Rüstzeug des mächtigen Donners",
       "en": "Paladin's Levin Arms",
       "fr": "Attirail du Patriarche pour paladin",
@@ -17078,7 +17078,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "cn": "无尽云神盾",
+      "cn": "无尽云神骑士武具",
       "de": "Paladin-Rüstzeug der endlosen Weiten",
       "en": "Paladin's Endless Expanse Arms",
       "fr": "Attirail du Migrateur pour paladin",
@@ -17210,7 +17210,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "cn": "重合金御敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -17320,7 +17320,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "cn": "重合金制敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -17342,7 +17342,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "cn": "重合金强袭腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -17364,7 +17364,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "cn": "重合金精准腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -17386,7 +17386,7 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "cn": "重合金游击腰甲",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -17474,7 +17474,7 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "cn": "偃武盾",
+      "cn": "偃武骑士武具",
       "de": "Paladin-Rüstzeug der Kolonie",
       "en": "Paladin's Dead Hive Arms",
       "fr": "Attirail du Maître des lames pour paladin ",
@@ -17496,7 +17496,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "圆桌之盾",
+      "cn": "圆桌之骑士武具",
       "de": "Rüstzeug der Runde",
       "en": "Paladin's Arms of the Round",
       "fr": "Coffre d'arme de chevalier de la Table ronde",
@@ -17562,7 +17562,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "生命之盾",
+      "cn": "生命骑士武具",
       "de": "Paladin-Rüstzeug des Baumgottes",
       "en": "Paladin's Fiend Arms",
       "fr": "Attirail du Fiélon pour paladin ",
@@ -19960,7 +19960,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "邪龙怨影盾",
+      "cn": "邪龙怨影骑士武具",
       "de": "Paladin-Rüstzeug der Horde",
       "en": "Paladin's Horde Arms",
       "fr": "Attirail de Dravanien pour paladin ",
@@ -20070,7 +20070,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "神圣女神之盾",
+      "cn": "神圣女神骑士武具",
       "de": "Paladin-Rüstzeug der Göttin",
       "en": "Paladin's Goddess Arms",
       "fr": "Attirail de la Déesse pour paladin ",
@@ -20092,7 +20092,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "无限鬼神之盾",
+      "cn": "无限鬼神骑士武具",
       "de": "Paladin-Rüstzeug des Dämons",
       "en": "Paladin's Demon Arms",
       "fr": "Attirail du Démon pour paladin ",
@@ -20444,7 +20444,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸御敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -20554,7 +20554,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸制敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -20576,7 +20576,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸强袭护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -20598,7 +20598,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸精准护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -20620,7 +20620,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸游击护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -20642,7 +20642,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸治愈护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -20664,7 +20664,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "中庸咏咒护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -21676,7 +21676,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "神龙梦幻大盾",
+      "cn": "神龙梦幻骑士武具",
       "de": "Paladin-Rüstzeug des Drachengottes",
       "en": "Shinryu's Ephemeral Arms",
       "fr": "Attirail de Shinryu flamboyant pour paladin ",
@@ -21830,7 +21830,7 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "cn": "伊修加德新型御敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -21896,7 +21896,7 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "cn": "伊修加德新型制敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -22248,7 +22248,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "月读命幽夜之盾",
+      "cn": "月读命幽夜骑士武具",
       "de": "Paladin-Rüstzeug des Mondlichts",
       "en": "Tsukuyomi's Moonlit Arms",
       "fr": "Attirail de Tsukuyomi flamboyant pour paladin ",
@@ -22270,7 +22270,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "朱焰大盾",
+      "cn": "朱焰骑士武具",
       "de": "Paladin-Rüstzeug des Feuervogels",
       "en": "Suzaku's Flame-kissed Arms",
       "fr": "Attirail de Suzaku flamboyant pour paladin ",
@@ -22292,7 +22292,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "青君大盾",
+      "cn": "青君骑士武具",
       "de": "Paladin-Rüstzeug des Schlangengottes",
       "en": "Seiryu's Sanctified Arms",
       "fr": "Attirail de Seiryû flamboyant pour paladin ",
@@ -23612,7 +23612,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "总督御敌手甲",
+      "cn": "总督御敌手铠",
       "de": "Exarchen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
       "en": "Exarchic Gauntlets of Fending",
       "fr": "Gantelets de protecteur de l'exarchat",
@@ -23656,7 +23656,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "总督御敌护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -23722,7 +23722,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "总督制敌手甲",
+      "cn": "总督制敌手铠",
       "de": "Exarchen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
       "en": "Exarchic Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de l'exarchat",
@@ -23766,7 +23766,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "总督制敌腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -23788,7 +23788,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "总督治愈护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -23810,7 +23810,7 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "总督咏咒护腰带",
+      "cn": "",
       "de": "",
       "en": "",
       "fr": "",
@@ -24096,7 +24096,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "白帝大盾",
+      "cn": "白帝骑士武具",
       "de": "Paladin-Rüstzeug des weißen Tigers",
       "en": "Byakko's Enspirited Arms",
       "fr": "Attirail de Byakko flamboyant pour paladin",
@@ -24162,7 +24162,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "再审虔诚敬畏之慎",
+      "cn": "哈迪斯骑士武具",
       "de": "Paladin-Rüstzeug des Hades",
       "en": "Paladin's Hades Arms",
       "fr": "Attirail d'Hadès pour paladin ",
@@ -24184,7 +24184,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Rarefied High Durium Knuckles",
+      "cn": "收藏用辉翠银拳套",
       "de": "Edeldurium-Schlagringe (Sammlerstück)",
       "en": "Rarefied High Durium Knuckles",
       "fr": "Poings en durium noble collectionnables",
@@ -24206,7 +24206,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Rarefied High Durium Kite Shield",
+      "cn": "收藏用辉翠银鸢盾",
       "de": "Edeldurium-Drachenschild (Sammlerstück)",
       "en": "Rarefied High Durium Kite Shield",
       "fr": "Écu mandorle en durium noble collectionnable",
@@ -24228,7 +24228,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Rarefied Bismuth Fat Cat Frypan",
+      "cn": "收藏用铋金猫小胖煎锅",
       "de": "Bismut-Bratpfanne (Sammlerstück)",
       "en": "Rarefied Bismuth Fat Cat Frypan",
       "fr": "Poêle à frire gros minou en bismuth collectionnable",
@@ -24250,7 +24250,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Rarefied Manganese Armor of the Behemoth King",
+      "cn": "收藏用锰钢贝希摩斯王战甲",
       "de": "König-Behemoth-Mangan-Rüstung (Sammlerstück)",
       "en": "Rarefied Manganese Armor of the Behemoth King",
       "fr": "Armure du roi béhémoth en manganèse collectionnable",
@@ -24272,7 +24272,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Rarefied Chondrite Sollerets",
+      "cn": "收藏用球粒陨石锁甲靴",
       "de": "Chondrit-Sollerets (Sammlerstück)",
       "en": "Rarefied Chondrite Sollerets",
       "fr": "Solerets en chondrite collectionnables",
@@ -24294,7 +24294,7 @@
     "level": 430,
     "maxQuality": 2760,
     "name": {
-      "cn": "Set of Gold Plating",
+      "cn": "黄金外壳零件",
       "de": "Vergoldete Metallplatte",
       "en": "Set of Gold Plating",
       "fr": "Pièce d'armature dorée",
@@ -24316,7 +24316,7 @@
     "level": 525,
     "maxQuality": 3720,
     "name": {
-      "cn": "Gold Cog",
+      "cn": "黄金精密齿轮",
       "de": "Vergoldetes Präzisionszahnrad",
       "en": "Gold Cog",
       "fr": "Rouage de précision doré",
@@ -24338,7 +24338,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Gold Motor Component",
+      "cn": "黄金动力零件",
       "de": "Vergoldetes Antriebsbauteil",
       "en": "Gold Motor Component",
       "fr": "Pièce de moteur dorée",
@@ -24360,7 +24360,7 @@
     "level": 550,
     "maxQuality": 4200,
     "name": {
-      "cn": "Gold Mechanical Voice Box",
+      "cn": "黄金发声零件",
       "de": "Vergoldetes Stimmgenerator-Bauteil",
       "en": "Gold Mechanical Voice Box",
       "fr": "Pièce du système de communication dorée",
@@ -24382,7 +24382,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Gold Core",
+      "cn": "黄金核心",
       "de": "Vergoldeter Energiekern",
       "en": "Gold Core",
       "fr": "Noyau doré",
@@ -24404,7 +24404,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Gold Connector",
+      "cn": "黄金联结零件",
       "de": "Vergoldetes Verbindungsstück",
       "en": "Gold Connector",
       "fr": "Connecteur doré",
@@ -24734,7 +24734,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rarefied Chondrite Alembic",
+      "cn": "收藏用球粒陨石蒸馏器",
       "de": "Chondrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
       "en": "Rarefied Chondrite Alembic",
       "fr": "Alambic en chondrite collectionnable",
@@ -24756,7 +24756,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Trophy of Eternal Darkness",
+      "cn": "永暗奖杯",
       "de": "Trophäe der Ewigen Dunkelheit",
       "en": "Trophy of Eternal Darkness",
       "fr": "Trophée des Ténèbres infinies",
@@ -24778,7 +24778,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Trophy of Divine Light",
+      "cn": "圣光奖杯",
       "de": "Trophäe des göttlichen Lichts",
       "en": "Trophy of Divine Light",
       "fr": "Trophée de la Lumière divine",
@@ -24800,7 +24800,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Barding of Eternal Darkness",
+      "cn": "永暗装甲",
       "de": "Rossharnisch der ewigen Dunkelheit",
       "en": "Barding of Eternal Darkness",
       "fr": "Barde des Ténèbres éternelles",

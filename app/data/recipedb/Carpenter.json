@@ -11138,7 +11138,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Spear",
+      "cn": "马栗木长枪",
       "de": "Rosskastanien-Speer",
       "en": "Horse Chestnut Spear",
       "fr": "Hast en châtaignier des chevaux",
@@ -11160,7 +11160,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Longbow",
+      "cn": "马栗木长弓",
       "de": "Rosskastanien-Langbogen",
       "en": "Horse Chestnut Longbow",
       "fr": "Arc long en châtaignier des chevaux",
@@ -11182,7 +11182,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Cane",
+      "cn": "马栗木牧杖",
       "de": "Rosskastanien-Stock",
       "en": "Horse Chestnut Cane",
       "fr": "Canne en châtaignier des chevaux",
@@ -11204,7 +11204,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Rod",
+      "cn": "马栗木咒杖",
       "de": "Rosskastanien-Stab",
       "en": "Horse Chestnut Rod",
       "fr": "Sceptre en châtaignier des chevaux",
@@ -11226,7 +11226,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Halberd",
+      "cn": "棕榈战戟",
       "de": "Palmen-Hellebarde",
       "en": "Palm Halberd",
       "fr": "Hallebarde en palmier",
@@ -11248,7 +11248,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Longbow",
+      "cn": "棕榈长弓",
       "de": "Palmen-Langbogen",
       "en": "Palm Longbow",
       "fr": "Arc long en palmier",
@@ -11270,7 +11270,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Crook",
+      "cn": "棕榈手杖",
       "de": "Palmen-Stock",
       "en": "Palm Crook",
       "fr": "Crosse en palmier",
@@ -11292,7 +11292,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Ear Cuffs of Fending",
+      "cn": "棕榈御敌耳夹",
       "de": "Palmen-Kreolen der Verteidigung",
       "en": "Palm Ear Cuffs of Fending",
       "fr": "Bagues d'oreilles de protecteur en palmier",
@@ -11314,7 +11314,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Ear Cuffs of Slaying",
+      "cn": "棕榈强攻耳夹",
       "de": "Palmen-Kreolen des Schlachtens",
       "en": "Palm Ear Cuffs of Slaying",
       "fr": "Bagues d'oreilles d'attaquant en palmier",
@@ -11336,7 +11336,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Ear Cuffs of Aiming",
+      "cn": "棕榈精准耳夹",
       "de": "Palmen-Kreolen des Zielens",
       "en": "Palm Ear Cuffs of Aiming",
       "fr": "Bagues d'oreilles de pisteur en palmier",
@@ -11358,7 +11358,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Ear Cuffs of Healing",
+      "cn": "棕榈治愈耳夹",
       "de": "Palmen-Kreolen der Heilung",
       "en": "Palm Ear Cuffs of Healing",
       "fr": "Bagues d'oreilles de soigneur en palmier",
@@ -11380,7 +11380,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Ear Cuffs of Casting",
+      "cn": "棕榈咏咒耳夹",
       "de": "Palmen-Kreolen der Magie",
       "en": "Palm Ear Cuffs of Casting",
       "fr": "Bagues d'oreilles d'incantateur en palmier",
@@ -11402,7 +11402,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Palm Bracelets of Fending",
+      "cn": "棕榈御敌手环",
       "de": "Palmen-Armreife der Verteidigung",
       "en": "Palm Bracelets of Fending",
       "fr": "Bracelets de protecteur en palmier",
@@ -11424,7 +11424,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Palm Bracelets of Slaying",
+      "cn": "棕榈强攻手环",
       "de": "Palmen-Armreife des Schlachtens",
       "en": "Palm Bracelets of Slaying",
       "fr": "Bracelets d'attaquant en palmier",
@@ -11446,7 +11446,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Palm Bracelets of Aiming",
+      "cn": "棕榈精准手环",
       "de": "Palmen-Armreife des Zielens",
       "en": "Palm Bracelets of Aiming",
       "fr": "Bracelets de pisteur en palmier",
@@ -11468,7 +11468,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Palm Bracelets of Healing",
+      "cn": "棕榈治愈手环",
       "de": "Palmen-Armreife der Heilung",
       "en": "Palm Bracelets of Healing",
       "fr": "Bracelets de soigneur en palmier",
@@ -11490,7 +11490,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Palm Bracelets of Casting",
+      "cn": "棕榈咏咒手环",
       "de": "Palmen-Armreife der Magie",
       "en": "Palm Bracelets of Casting",
       "fr": "Bracelets d'incantateur en palmier",
@@ -11512,7 +11512,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Red Pine Spear",
+      "cn": "红松木长枪",
       "de": "Rotkiefer-Speer",
       "en": "Red Pine Spear",
       "fr": "Hast en pin sylvestre",
@@ -11534,7 +11534,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Red Pine Cane",
+      "cn": "红松木牧杖",
       "de": "Rotkiefer-Stock",
       "en": "Red Pine Cane",
       "fr": "Canne en pin sylvestre",
@@ -11556,7 +11556,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Spear",
+      "cn": "铁木长枪",
       "de": "Eisenholz-Speer",
       "en": "Ironwood Spear",
       "fr": "Hast en bois de fer",
@@ -11578,7 +11578,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Longbow",
+      "cn": "铁木长弓",
       "de": "Eisenholz-Langbogen",
       "en": "Ironwood Longbow",
       "fr": "Arc long en bois de fer",
@@ -11600,7 +11600,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Cane",
+      "cn": "铁木牧杖",
       "de": "Eisenholz-Stock",
       "en": "Ironwood Cane",
       "fr": "Canne en bois de fer",
@@ -11622,7 +11622,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Staff",
+      "cn": "铁木法杖",
       "de": "Eisenholz-Stab",
       "en": "Ironwood Staff",
       "fr": "Bâton en bois de fer",
@@ -11644,7 +11644,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Choker of Fending",
+      "cn": "铁木御敌项环",
       "de": "Eisenholz-Halsberge der Verteidigung",
       "en": "Ironwood Choker of Fending",
       "fr": "Ras de cou de protecteur en bois de fer",
@@ -11666,7 +11666,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Choker of Slaying",
+      "cn": "铁木强攻项环",
       "de": "Eisenholz-Halsberge des Schlachtens",
       "en": "Ironwood Choker of Slaying",
       "fr": "Ras de cou d'attaquant en bois de fer",
@@ -11688,7 +11688,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Choker of Aiming",
+      "cn": "铁木精准项环",
       "de": "Eisenholz-Halsberge des Zielens",
       "en": "Ironwood Choker of Aiming",
       "fr": "Ras de cou de pisteur en bois de fer",
@@ -11710,7 +11710,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Choker of Healing",
+      "cn": "铁木治愈项环",
       "de": "Eisenholz-Halsberge der Heilung",
       "en": "Ironwood Choker of Healing",
       "fr": "Ras de cou de soigneur en bois de fer",
@@ -11732,7 +11732,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Choker of Casting",
+      "cn": "铁木咏咒项环",
       "de": "Eisenholz-Halsberge der Magie",
       "en": "Ironwood Choker of Casting",
       "fr": "Ras de cou d'incantateur en bois de fer",
@@ -11754,7 +11754,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Integral Magitek Spear",
+      "cn": "完满木魔导长枪",
       "de": "Integraler Magitek-Speer",
       "en": "Integral Magitek Spear",
       "fr": "Hast magitek en bois d'intégral",
@@ -11776,7 +11776,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Integral Magitek Bow",
+      "cn": "完满木魔导弓",
       "de": "Integraler Magitek-Bogen",
       "en": "Integral Magitek Bow",
       "fr": "Arc magitek en bois d'intégral",
@@ -11798,7 +11798,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Integral Magitek Cane",
+      "cn": "完满木魔导牧杖",
       "de": "Integraler Magitek-Stock",
       "en": "Integral Magitek Cane",
       "fr": "Canne magitek en bois d'intégral",
@@ -11820,7 +11820,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Integral Magitek Rod",
+      "cn": "完满木魔导咒杖",
       "de": "Integraler Magitek-Stab",
       "en": "Integral Magitek Rod",
       "fr": "Sceptre magitek en bois d'intégral",
@@ -11842,7 +11842,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Fishing Rod",
+      "cn": "马栗木钓竿",
       "de": "Rosskastanien-Angelrute",
       "en": "Horse Chestnut Fishing Rod",
       "fr": "Canne à pêche en châtaignier des chevaux",
@@ -11864,7 +11864,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Grinding Wheel",
+      "cn": "马栗木泥岩砂轮机",
       "de": "Rosskastanien-Schleifrad",
       "en": "Horse Chestnut Grinding Wheel",
       "fr": "Meule en châtaignier des chevaux",
@@ -11886,7 +11886,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Spinning Wheel",
+      "cn": "马栗木纺车",
       "de": "Rosskastanien-Spinnrad",
       "en": "Horse Chestnut Spinning Wheel",
       "fr": "Rouet en châtaignier des chevaux",
@@ -11908,7 +11908,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Red Pine Fishing Rod",
+      "cn": "红松木钓竿",
       "de": "Rotkiefer-Angelrute",
       "en": "Red Pine Fishing Rod",
       "fr": "Canne à pêche en pin sylvestre",
@@ -11930,7 +11930,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Red Pine Grinding Wheel",
+      "cn": "红松木泥岩砂轮机",
       "de": "Rotkiefer-Schleifrad",
       "en": "Red Pine Grinding Wheel",
       "fr": "Meule en pin sylvestre",
@@ -11952,7 +11952,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Red Pine Spinning Wheel",
+      "cn": "红松木纺车",
       "de": "Rotkiefer-Spinnrad",
       "en": "Red Pine Spinning Wheel",
       "fr": "Rouet en pin sylvestre",
@@ -11974,7 +11974,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Ironwood Fishing Rod",
+      "cn": "铁木钓竿",
       "de": "Eisenholz-Angelrute",
       "en": "Ironwood Fishing Rod",
       "fr": "Canne à pêche en manganèse",
@@ -11996,7 +11996,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Ironwood Grinding Wheel",
+      "cn": "铁木泥岩砂轮机",
       "de": "Eisenholz-Schleifrad",
       "en": "Ironwood Grinding Wheel",
       "fr": "Meule en manganèse",
@@ -12018,7 +12018,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Ironwood Spinning Wheel",
+      "cn": "铁木纺车",
       "de": "Eisenholz-Spinnrad",
       "en": "Ironwood Spinning Wheel",
       "fr": "Rouet en manganèse",
@@ -12040,7 +12040,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Integral Fishing Rod",
+      "cn": "完满木钓竿",
       "de": "Integrale Angelrute",
       "en": "Integral Fishing Rod",
       "fr": "Canne à pêche en bois d'intégral",
@@ -12062,7 +12062,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Integral Grinding Wheel",
+      "cn": "完满木泥岩砂轮机",
       "de": "Integrales Schleifrad",
       "en": "Integral Grinding Wheel",
       "fr": "Meule en bois d'intégral",
@@ -12084,7 +12084,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Integral Spinning Wheel",
+      "cn": "完满木纺车",
       "de": "Integrales Spinnrad",
       "en": "Integral Spinning Wheel",
       "fr": "Rouet en bois d'intégral",
@@ -12106,7 +12106,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Kasa",
+      "cn": "马栗木笠",
       "de": "Rosskastanien-Kasa",
       "en": "Horse Chestnut Kasa",
       "fr": "Kasa en châtaignier des chevaux",
@@ -12128,7 +12128,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Earrings of Gathering",
+      "cn": "马栗木大地耳坠",
       "de": "Rosskastanien-Ohrringe des Eifers",
       "en": "Horse Chestnut Earrings of Gathering",
       "fr": "Boucles d'oreilles des ressources en châtaignier des chevaux",
@@ -12150,7 +12150,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Necklace of Gathering",
+      "cn": "马栗木大地项链",
       "de": "Rosskastanien-Halsband des Eifers",
       "en": "Horse Chestnut Necklace of Gathering",
       "fr": "Collier des ressources en châtaignier des chevaux",
@@ -12172,7 +12172,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Bracelet of Gathering",
+      "cn": "马栗木大地手镯",
       "de": "Rosskastanien-Armreife des Eifers",
       "en": "Horse Chestnut Bracelet of Gathering",
       "fr": "Bracelet des ressources en châtaignier des chevaux",
@@ -12194,7 +12194,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Ring of Gathering",
+      "cn": "马栗木大地指环",
       "de": "Rosskastanien-Ring des Eifers",
       "en": "Horse Chestnut Ring of Gathering",
       "fr": "Bague des ressources en châtaignier des chevaux",
@@ -12216,7 +12216,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Earrings of Crafting",
+      "cn": "铁木巧匠耳坠",
       "de": "Eisenholz-Ohrringe des Handwerks",
       "en": "Ironwood Earrings of Crafting",
       "fr": "Boucles d'oreilles des créations en manganèse",
@@ -12238,7 +12238,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Necklace of Crafting",
+      "cn": "铁木巧匠项链",
       "de": "Eisenholz-Halsband des Handwerks",
       "en": "Ironwood Necklace of Crafting",
       "fr": "Collier des créations en manganèse",
@@ -12260,7 +12260,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Bracelet of Crafting",
+      "cn": "铁木巧匠手镯",
       "de": "Eisenholz-Armreif des Handwerks",
       "en": "Ironwood Bracelet of Crafting",
       "fr": "Bracelet des créations en manganèse",
@@ -12282,7 +12282,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Ring of Crafting",
+      "cn": "铁木巧匠指环",
       "de": "Eisenholz-Ring des Handwerks",
       "en": "Ironwood Ring of Crafting",
       "fr": "Bague des créations en manganèse",
@@ -12304,7 +12304,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Integral Earrings of Crafting",
+      "cn": "完满木巧匠耳坠",
       "de": "Integrale Ohrringe des Handwerks",
       "en": "Integral Earrings of Crafting",
       "fr": "Boucles d'oreilles des créations en bois d'intégral",
@@ -12326,7 +12326,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Integral Necklace of Crafting",
+      "cn": "完满木巧匠项链",
       "de": "Integrales Halsband des Handwerks",
       "en": "Integral Necklace of Crafting",
       "fr": "Collier des créations en bois d'intégral",
@@ -12348,7 +12348,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Integral Bracelet of Crafting",
+      "cn": "完满木巧匠手镯",
       "de": "Integrales Armband des Handwerks",
       "en": "Integral Bracelet of Crafting",
       "fr": "Bracelet des créations en bois d'intégral",
@@ -12370,7 +12370,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Integral Ring of Crafting",
+      "cn": "完满木巧匠指环",
       "de": "Integraler Ring des Handwerks",
       "en": "Integral Ring of Crafting",
       "fr": "Bague des créations en bois d'intégral",
@@ -12392,7 +12392,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Horse Chestnut Lumber",
+      "cn": "马栗木材",
       "de": "Rosskastanien-Bauholz",
       "en": "Horse Chestnut Lumber",
       "fr": "Madrier de châtaignier des chevaux",
@@ -12414,7 +12414,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Lumber",
+      "cn": "棕榈木材",
       "de": "Palmen-Bauholz",
       "en": "Palm Lumber",
       "fr": "Madrier de palmier",
@@ -12436,7 +12436,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Red Pine Lumber",
+      "cn": "红松木材",
       "de": "Rotkiefern-Bauholz",
       "en": "Red Pine Lumber",
       "fr": "Madrier de pin sylvestre",
@@ -12458,7 +12458,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Lumber",
+      "cn": "铁木材",
       "de": "Eisenbauholz",
       "en": "Ironwood Lumber",
       "fr": "Madrier de bois de fer",
@@ -12480,7 +12480,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Integral Lumber",
+      "cn": "完满木材",
       "de": "Integrales Bauholz",
       "en": "Integral Lumber",
       "fr": "Madrier d'arbre intégral",
@@ -12502,7 +12502,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Varied Wood Flooring",
+      "cn": "撞色木纹地板",
       "de": "Schiffsbodenparkett",
       "en": "Varied Wood Flooring",
       "fr": "Parquet bigarré en bois",
@@ -12524,7 +12524,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Marimba",
+      "cn": "马林巴琴",
       "de": "Marimba",
       "en": "Marimba",
       "fr": "Marimba",
@@ -12546,7 +12546,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Woodland Chair",
+      "cn": "森林旧椅子",
       "de": "Waldstuhl",
       "en": "Woodland Chair",
       "fr": "Chaise forestière",
@@ -12568,7 +12568,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Apothecary's Workbench",
+      "cn": "配药工作台",
       "de": "Apothekertisch",
       "en": "Apothecary's Workbench",
       "fr": "Plan de travail d'apothicaire",
@@ -12590,7 +12590,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Hanging Bench",
+      "cn": "秋千椅",
       "de": "Hängende Gartenbank",
       "en": "Hanging Bench",
       "fr": "Balancelle suspendue",
@@ -12612,7 +12612,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Wooden Blinds",
+      "cn": "木制百叶帘",
       "de": "Braunes Holzrollo",
       "en": "Wooden Blinds",
       "fr": "Store en bois",
@@ -12634,7 +12634,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Wooden Bin",
+      "cn": "木制垃圾桶",
       "de": "Hölzerner Papierkorb",
       "en": "Wooden Bin",
       "fr": "Corbeille en bois",
@@ -23656,7 +23656,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "Rarefied Horse Chestnut Kasa",
+      "cn": "收藏用马栗木笠",
       "de": "Rosskastanien-Kasa (Sammlerstück)",
       "en": "Rarefied Horse Chestnut Kasa",
       "fr": "Kasa en châtaignier des chevaux collectionnable",
@@ -23678,7 +23678,7 @@
     "level": 525,
     "maxQuality": 6200,
     "name": {
-      "cn": "Rarefied Palm Bracelet",
+      "cn": "收藏用棕榈木手镯",
       "de": "Palmen-Armreife (Sammlerstück)",
       "en": "Rarefied Palm Bracelet",
       "fr": "Bracelets en palmier collectionnables",
@@ -23700,7 +23700,7 @@
     "level": 535,
     "maxQuality": 6700,
     "name": {
-      "cn": "Rarefied Red Pine Spinning Wheel",
+      "cn": "收藏用红松木纺车",
       "de": "Rotkiefer-Spinnrad (Sammlerstück)",
       "en": "Rarefied Red Pine Spinning Wheel",
       "fr": "Rouet en pin sylvestre collectionnable",
@@ -23722,7 +23722,7 @@
     "level": 545,
     "maxQuality": 6900,
     "name": {
-      "cn": "Rarefied Ironwood Grinding Wheel",
+      "cn": "收藏用铁木泥岩砂轮机",
       "de": "Eisenholz-Schleifrad (Sammlerstück)",
       "en": "Rarefied Ironwood Grinding Wheel",
       "fr": "Meule en manganèse collectionnable",
@@ -23744,7 +23744,7 @@
     "level": 555,
     "maxQuality": 7100,
     "name": {
-      "cn": "Rarefied Integral Armillae",
+      "cn": "收藏用完满木腕环",
       "de": "Integrale Armbänder (Sammlerstück)",
       "en": "Rarefied Integral Armillae",
       "fr": "Armilles des créations en bois d'intégral collectionnables",
@@ -23766,7 +23766,7 @@
     "level": 430,
     "maxQuality": 2760,
     "name": {
-      "cn": "Starlens Brace",
+      "cn": "观星镜的支架",
       "de": "Stützbalken",
       "en": "Starlens Brace",
       "fr": "Support à lunette astronomique",
@@ -23788,7 +23788,7 @@
     "level": 525,
     "maxQuality": 3720,
     "name": {
-      "cn": "Aetherial Lens",
+      "cn": "以太观测部件",
       "de": "Ätherlinse",
       "en": "Aetherial Lens",
       "fr": "Composant d'éthéromètre",
@@ -23810,7 +23810,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Aetherial Amplifier",
+      "cn": "以太增幅部件",
       "de": "Ätherverstärker",
       "en": "Aetherial Amplifier",
       "fr": "Amplificateur d'éther",
@@ -23832,7 +23832,7 @@
     "level": 550,
     "maxQuality": 4200,
     "name": {
-      "cn": "Aetherial Conductor",
+      "cn": "以太传导部件",
       "de": "Ätherkonduktor",
       "en": "Aetherial Conductor",
       "fr": "Conducteur d'éther",
@@ -23854,7 +23854,7 @@
     "level": 535,
     "maxQuality": 4020,
     "name": {
-      "cn": "Writing Utensils",
+      "cn": "有型的文具套装",
       "de": "Schickes Schreibset",
       "en": "Writing Utensils",
       "fr": "Set d'écriture branché",
@@ -23876,7 +23876,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Starlens Wand",
+      "cn": "观星镜操作杖",
       "de": "Bedienstab für den Sternenbeobachtungsspiegel",
       "en": "Starlens Wand",
       "fr": "Baguette d'astromancien",
@@ -24118,7 +24118,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rarefied Integral Fishing Rod",
+      "cn": "收藏用完满木钓竿",
       "de": "Integrale Angelrute (Sammlerstück)",
       "en": "Rarefied Integral Fishing Rod",
       "fr": "Canne à pêche en bois d'intégral collectionnable",
