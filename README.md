@@ -1,8 +1,7 @@
-# 《最终幻想14》生产模拟器 v6.0 Beta
+# 《最终幻想14》生产模拟器 v6.08
 本项目是一个分支项目，主要针对《最终幻想14》中国服和国际服的内容，对生产模拟器进行汉化、优化和修改。
 
-国服项目（适配游戏客户端 v5.58）：[国内访问](https://yyyy.games/crafter/) / [国外访问](http://ffxiv.tk/crafter/)\
-国际服项目（适配游戏客户端 v6.0）：[国内访问](https://yyyy.games/crafterbeta/) / [国外访问](http://ffxiv.tk/crafterbeta/)
+国服、国际服通用项目（适配游戏客户端 国服 v6.0 / 国际服 v6.08）：[国内访问](https://yyyy.games/crafter/) / [国外访问](http://ffxiv.tk/crafter/)\
 
 # FFXIV Crafting Optimizer Website
 
