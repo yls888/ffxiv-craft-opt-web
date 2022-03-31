@@ -94,28 +94,6 @@
     "level": 3,
     "maxQuality": 120,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 306,
-    "stars": 0,
-    "suggestedControl": 11,
-    "suggestedCraftsmanship": 22
-  },
-  {
-    "baseLevel": 3,
-    "difficulty": 20,
-    "durability": 60,
-    "level": 3,
-    "maxQuality": 120,
-    "name": {
       "cn": "鞣革大地鸭嘴靴",
       "de": "Leder-Schnabelschuhe des Eifers",
       "en": "Leather Duckbills of Gathering",
@@ -127,28 +105,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 307,
-    "stars": 0,
-    "suggestedControl": 11,
-    "suggestedCraftsmanship": 22
-  },
-  {
-    "baseLevel": 3,
-    "difficulty": 20,
-    "durability": 60,
-    "level": 3,
-    "maxQuality": 120,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 308,
     "stars": 0,
     "suggestedControl": 11,
     "suggestedCraftsmanship": 22
@@ -215,28 +171,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 311,
-    "stars": 0,
-    "suggestedControl": 11,
-    "suggestedCraftsmanship": 22
-  },
-  {
-    "baseLevel": 4,
-    "difficulty": 21,
-    "durability": 60,
-    "level": 4,
-    "maxQuality": 130,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 312,
     "stars": 0,
     "suggestedControl": 11,
     "suggestedCraftsmanship": 22
@@ -622,28 +556,6 @@
     "level": 10,
     "maxQuality": 250,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 330,
-    "stars": 0,
-    "suggestedControl": 29,
-    "suggestedCraftsmanship": 59
-  },
-  {
-    "baseLevel": 10,
-    "difficulty": 45,
-    "durability": 60,
-    "level": 10,
-    "maxQuality": 250,
-    "name": {
       "cn": "硬革护腕",
       "de": "Juchleder-Handgelenkschützer",
       "en": "Hard Leather Wristguards",
@@ -658,28 +570,6 @@
     "stars": 0,
     "suggestedControl": 29,
     "suggestedCraftsmanship": 59
-  },
-  {
-    "baseLevel": 11,
-    "difficulty": 48,
-    "durability": 60,
-    "level": 11,
-    "maxQuality": 270,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 332,
-    "stars": 0,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
   },
   {
     "baseLevel": 11,
@@ -770,28 +660,6 @@
     "suggestedCraftsmanship": 67
   },
   {
-    "baseLevel": 12,
-    "difficulty": 53,
-    "durability": 60,
-    "level": 12,
-    "maxQuality": 290,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 337,
-    "stars": 0,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
-  },
-  {
     "baseLevel": 13,
     "difficulty": 54,
     "durability": 60,
@@ -809,28 +677,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 338,
-    "stars": 0,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
-  },
-  {
-    "baseLevel": 13,
-    "difficulty": 54,
-    "durability": 60,
-    "level": 13,
-    "maxQuality": 310,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 339,
     "stars": 0,
     "suggestedControl": 33,
     "suggestedCraftsmanship": 67
@@ -952,28 +798,6 @@
     "level": 14,
     "maxQuality": 330,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 345,
-    "stars": 0,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
-  },
-  {
-    "baseLevel": 14,
-    "difficulty": 54,
-    "durability": 60,
-    "level": 14,
-    "maxQuality": 330,
-    "name": {
       "cn": "硬革连指轻手套",
       "de": "Juchleder-Federfäustlinge",
       "en": "Hard Leather Lightmitts",
@@ -1073,50 +897,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 350,
-    "stars": 0,
-    "suggestedControl": 39,
-    "suggestedCraftsmanship": 78
-  },
-  {
-    "baseLevel": 16,
-    "difficulty": 63,
-    "durability": 70,
-    "level": 16,
-    "maxQuality": 390,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 351,
-    "stars": 0,
-    "suggestedControl": 39,
-    "suggestedCraftsmanship": 78
-  },
-  {
-    "baseLevel": 16,
-    "difficulty": 63,
-    "durability": 70,
-    "level": 16,
-    "maxQuality": 390,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 352,
     "stars": 0,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
@@ -1315,28 +1095,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 361,
-    "stars": 0,
-    "suggestedControl": 41,
-    "suggestedCraftsmanship": 82
-  },
-  {
-    "baseLevel": 19,
-    "difficulty": 68,
-    "durability": 70,
-    "level": 19,
-    "maxQuality": 480,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 362,
     "stars": 0,
     "suggestedControl": 41,
     "suggestedCraftsmanship": 82
@@ -1612,28 +1370,6 @@
     "level": 23,
     "maxQuality": 600,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 375,
-    "stars": 0,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 23,
-    "difficulty": 79,
-    "durability": 70,
-    "level": 23,
-    "maxQuality": 600,
-    "name": {
       "cn": "山羊革连指轻手套",
       "de": "Steinbockleder-Federfäustlinge",
       "en": "Goatskin Lightmitts",
@@ -1656,28 +1392,6 @@
     "level": 24,
     "maxQuality": 630,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 377,
-    "stars": 0,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 24,
-    "difficulty": 85,
-    "durability": 70,
-    "level": 24,
-    "maxQuality": 630,
-    "name": {
       "cn": "山羊革马裤",
       "de": "Steinbockleder-Reiterhose",
       "en": "Goatskin Breeches",
@@ -1689,28 +1403,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 378,
-    "stars": 0,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 24,
-    "difficulty": 85,
-    "durability": 70,
-    "level": 24,
-    "maxQuality": 630,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 379,
     "stars": 0,
     "suggestedControl": 49,
     "suggestedCraftsmanship": 99
@@ -1936,28 +1628,6 @@
     "suggestedCraftsmanship": 99
   },
   {
-    "baseLevel": 27,
-    "difficulty": 91,
-    "durability": 70,
-    "level": 27,
-    "maxQuality": 720,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 390,
-    "stars": 0,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
     "baseLevel": 28,
     "difficulty": 100,
     "durability": 70,
@@ -1975,28 +1645,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 391,
-    "stars": 0,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 28,
-    "difficulty": 100,
-    "durability": 70,
-    "level": 28,
-    "maxQuality": 760,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 392,
     "stars": 0,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
@@ -2162,28 +1810,6 @@
     "level": 31,
     "maxQuality": 900,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 400,
-    "stars": 0,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
-  },
-  {
-    "baseLevel": 31,
-    "difficulty": 106,
-    "durability": 80,
-    "level": 31,
-    "maxQuality": 900,
-    "name": {
       "cn": "巨蟾蜍革腿甲靴",
       "de": "Krötenleder-Beinschützer",
       "en": "Toadskin Leg Guards",
@@ -2266,28 +1892,6 @@
     "suggestedCraftsmanship": 121
   },
   {
-    "baseLevel": 32,
-    "difficulty": 110,
-    "durability": 80,
-    "level": 32,
-    "maxQuality": 950,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 405,
-    "stars": 0,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
-  },
-  {
     "baseLevel": 33,
     "difficulty": 55,
     "durability": 40,
@@ -2327,28 +1931,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 407,
-    "stars": 0,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
-  },
-  {
-    "baseLevel": 33,
-    "difficulty": 111,
-    "durability": 80,
-    "level": 33,
-    "maxQuality": 1000,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 408,
     "stars": 0,
     "suggestedControl": 60,
     "suggestedCraftsmanship": 121
@@ -2794,72 +2376,6 @@
     "suggestedCraftsmanship": 136
   },
   {
-    "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
-    "level": 40,
-    "maxQuality": 1400,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 429,
-    "stars": 0,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
-    "level": 40,
-    "maxQuality": 1400,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 430,
-    "stars": 0,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 40,
-    "difficulty": 138,
-    "durability": 80,
-    "level": 40,
-    "maxQuality": 1400,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 431,
-    "stars": 0,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
     "baseLevel": 41,
     "difficulty": 143,
     "durability": 80,
@@ -2899,28 +2415,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 433,
-    "stars": 0,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
-  },
-  {
-    "baseLevel": 41,
-    "difficulty": 143,
-    "durability": 80,
-    "level": 41,
-    "maxQuality": 1460,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 434,
     "stars": 0,
     "suggestedControl": 68,
     "suggestedCraftsmanship": 136
@@ -3053,28 +2547,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 440,
-    "stars": 0,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 43,
-    "difficulty": 155,
-    "durability": 80,
-    "level": 43,
-    "maxQuality": 1580,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 441,
     "stars": 0,
     "suggestedControl": 75,
     "suggestedCraftsmanship": 150
@@ -3306,28 +2778,6 @@
     "level": 44,
     "maxQuality": 1640,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 452,
-    "stars": 0,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 44,
-    "difficulty": 156,
-    "durability": 80,
-    "level": 44,
-    "maxQuality": 1640,
-    "name": {
       "cn": "盗龙革三角裤",
       "de": "Raptorleder-Lendenschurz",
       "en": "Raptorskin Subligar",
@@ -3498,28 +2948,6 @@
     "suggestedCraftsmanship": 150
   },
   {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 1700,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 461,
-    "stars": 0,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
     "baseLevel": 47,
     "difficulty": 167,
     "durability": 80,
@@ -3564,28 +2992,6 @@
     "suggestedCraftsmanship": 150
   },
   {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 1110,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1281,
-    "stars": 0,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
     "baseLevel": 36,
     "difficulty": 124,
     "durability": 80,
@@ -3603,50 +3009,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 1282,
-    "stars": 0,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 37,
-    "difficulty": 128,
-    "durability": 80,
-    "level": 37,
-    "maxQuality": 1220,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1283,
-    "stars": 0,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 37,
-    "difficulty": 128,
-    "durability": 80,
-    "level": 37,
-    "maxQuality": 1220,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1284,
     "stars": 0,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
@@ -3790,28 +3152,6 @@
     "level": 44,
     "maxQuality": 1640,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1291,
-    "stars": 0,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
-  },
-  {
-    "baseLevel": 44,
-    "difficulty": 156,
-    "durability": 80,
-    "level": 44,
-    "maxQuality": 1640,
-    "name": {
       "cn": "盗龙革马裤",
       "de": "Raptorleder-Reiterhose",
       "en": "Raptorskin Breeches",
@@ -3892,28 +3232,6 @@
     "stars": 0,
     "suggestedControl": 80,
     "suggestedCraftsmanship": 161
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 1700,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1296,
-    "stars": 0,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 47,
@@ -4021,28 +3339,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 1301,
-    "stars": 0,
-    "suggestedControl": 80,
-    "suggestedCraftsmanship": 161
-  },
-  {
-    "baseLevel": 49,
-    "difficulty": 174,
-    "durability": 80,
-    "level": 49,
-    "maxQuality": 1940,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1302,
     "stars": 0,
     "suggestedControl": 80,
     "suggestedCraftsmanship": 161
@@ -4395,28 +3691,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 1318,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2200,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1319,
     "stars": 1,
     "suggestedControl": 325,
     "suggestedCraftsmanship": 325
@@ -5231,50 +4505,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 1356,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 1357,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 1358,
     "stars": 2,
     "suggestedControl": 325,
     "suggestedCraftsmanship": 325
@@ -6314,28 +5544,6 @@
     "suggestedCraftsmanship": 502
   },
   {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2547,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
     "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
@@ -6466,50 +5674,6 @@
     "stars": 0,
     "suggestedControl": 462,
     "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2554,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "recipeId": 2555,
-    "stars": 0,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
   },
   {
     "baseLevel": 51,
@@ -6727,116 +5891,6 @@
     "qualityDivider": 48,
     "qualityModifier": 100,
     "recipeId": 2565,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "recipeId": 2566,
-    "stars": 0,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2567,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2568,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "recipeId": 2569,
-    "stars": 0,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2570,
     "stars": 0,
     "suggestedControl": 535,
     "suggestedCraftsmanship": 570
@@ -7084,72 +6138,6 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2582,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2583,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2584,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
@@ -7348,94 +6336,6 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2594,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2595,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "recipeId": 2596,
-    "stars": 0,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2597,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
     "baseLevel": 57,
     "difficulty": 460,
     "durability": 70,
@@ -7610,50 +6510,6 @@
     "stars": 0,
     "suggestedControl": 513,
     "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2606,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2607,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 51,
@@ -7898,50 +6754,6 @@
     "suggestedCraftsmanship": 570
   },
   {
-    "baseLevel": 52,
-    "difficulty": 260,
-    "durability": 80,
-    "level": 125,
-    "maxQuality": 2140,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 62,
-    "progressModifier": 100,
-    "qualityDivider": 43,
-    "qualityModifier": 100,
-    "recipeId": 2619,
-    "stars": 0,
-    "suggestedControl": 462,
-    "suggestedCraftsmanship": 502
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2620,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
     "baseLevel": 51,
     "difficulty": 220,
     "durability": 80,
@@ -8116,28 +6928,6 @@
     "stars": 0,
     "suggestedControl": 502,
     "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2629,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 52,
@@ -8336,50 +7126,6 @@
     "stars": 0,
     "suggestedControl": 502,
     "suggestedCraftsmanship": 539
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2639,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2640,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 52,
@@ -9312,28 +8058,6 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 2977,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
       "cn": "迦迦纳怪鸟革制敌骑兵裤",
       "de": "Gaganaleder-Hose des Verstümmelns",
       "en": "Gaganaskin Hose of Maiming",
@@ -9378,28 +8102,6 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 2983,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
       "cn": "迦迦纳怪鸟革强袭凉鞋",
       "de": "Gaganaleder-Sandalen des Schlagens",
       "en": "Gaganaskin Sandals of Striking",
@@ -9411,28 +8113,6 @@
     "qualityDivider": 58,
     "qualityModifier": 100,
     "recipeId": 2988,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 2989,
     "stars": 0,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
@@ -9554,28 +8234,6 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 2995,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
       "cn": "迦迦纳怪鸟革游击凉鞋",
       "de": "Gaganaleder-Sandalen des Spähens",
       "en": "Gaganaskin Sandals of Scouting",
@@ -9587,28 +8245,6 @@
     "qualityDivider": 58,
     "qualityModifier": 100,
     "recipeId": 3000,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 3001,
     "stars": 0,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
@@ -9642,28 +8278,6 @@
     "level": 255,
     "maxQuality": 2790,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 3007,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
       "cn": "迦迦纳怪鸟革咏咒凉鞋",
       "de": "Gaganaleder-Sandalen der Magie",
       "en": "Gaganaskin Sandals of Casting",
@@ -9675,28 +8289,6 @@
     "qualityDivider": 58,
     "qualityModifier": 100,
     "recipeId": 3012,
-    "stars": 0,
-    "suggestedControl": 968,
-    "suggestedCraftsmanship": 1006
-  },
-  {
-    "baseLevel": 61,
-    "difficulty": 630,
-    "durability": 80,
-    "level": 255,
-    "maxQuality": 2790,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 81,
-    "progressModifier": 100,
-    "qualityDivider": 58,
-    "qualityModifier": 100,
-    "recipeId": 3013,
     "stars": 0,
     "suggestedControl": 968,
     "suggestedCraftsmanship": 1006
@@ -9796,28 +8388,6 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3067,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
       "cn": "牛鬼革盔帽",
       "de": "Gyukileder-Kaskett des Zielens",
       "en": "Gyuki Leather Pot Helm",
@@ -9884,28 +8454,6 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3073,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
       "cn": "牛鬼革游击半指手套",
       "de": "Gyukileder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Spähens",
       "en": "Gyuki Leather Halfgloves of Scouting",
@@ -9942,28 +8490,6 @@
     "stars": 0,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3079,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 62,
@@ -10098,28 +8624,6 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "recipeId": 3145,
-    "stars": 0,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
     "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
@@ -10186,28 +8690,6 @@
     "suggestedCraftsmanship": 1050
   },
   {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "recipeId": 3151,
-    "stars": 0,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
     "baseLevel": 65,
     "difficulty": 830,
     "durability": 80,
@@ -10272,28 +8754,6 @@
     "stars": 0,
     "suggestedControl": 1020,
     "suggestedCraftsmanship": 1050
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "recipeId": 3157,
-    "stars": 0,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
   },
   {
     "baseLevel": 64,
@@ -10406,28 +8866,6 @@
     "suggestedCraftsmanship": 1063
   },
   {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3211,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
@@ -10448,28 +8886,6 @@
     "stars": 0,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3217,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 66,
@@ -10577,28 +8993,6 @@
     "qualityDivider": 66,
     "qualityModifier": 100,
     "recipeId": 3228,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3229,
     "stars": 0,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
@@ -10720,28 +9114,6 @@
     "level": 279,
     "maxQuality": 3240,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3241,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
       "cn": "魔象革咏咒手套",
       "de": "Maridenleder-Handschuhe der Magie",
       "en": "Marid Leather Gloves of Casting",
@@ -10775,28 +9147,6 @@
     "qualityDivider": 66,
     "qualityModifier": 100,
     "recipeId": 3246,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3247,
     "stars": 0,
     "suggestedControl": 1028,
     "suggestedCraftsmanship": 1056
@@ -10978,28 +9328,6 @@
     "suggestedCraftsmanship": 1069
   },
   {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3301,
-    "stars": 0,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
     "baseLevel": 69,
     "difficulty": 1030,
     "durability": 80,
@@ -11039,28 +9367,6 @@
     "qualityDivider": 68,
     "qualityModifier": 100,
     "recipeId": 3306,
-    "stars": 0,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3307,
     "stars": 0,
     "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
@@ -11127,28 +9433,6 @@
     "qualityDivider": 68,
     "qualityModifier": 100,
     "recipeId": 3312,
-    "stars": 0,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3313,
     "stars": 0,
     "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
@@ -11262,72 +9546,6 @@
     "stars": 0,
     "suggestedControl": 1043,
     "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "recipeId": 3348,
-    "stars": 0,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "recipeId": 3349,
-    "stars": 0,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "recipeId": 3350,
-    "stars": 0,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
   },
   {
     "baseLevel": 61,
@@ -11902,28 +10120,6 @@
     "suggestedCraftsmanship": 1079
   },
   {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3512,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
     "baseLevel": 63,
     "difficulty": 730,
     "durability": 80,
@@ -12012,28 +10208,6 @@
     "suggestedCraftsmanship": 1037
   },
   {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3522,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
     "baseLevel": 67,
     "difficulty": 930,
     "durability": 80,
@@ -12120,28 +10294,6 @@
     "stars": 0,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1080,
-    "durability": 80,
-    "level": 290,
-    "maxQuality": 3600,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 100,
-    "qualityDivider": 70,
-    "qualityModifier": 100,
-    "recipeId": 3532,
-    "stars": 0,
-    "suggestedControl": 1055,
-    "suggestedCraftsmanship": 1079
   },
   {
     "baseLevel": 70,
@@ -14702,50 +12854,6 @@
     "level": 390,
     "maxQuality": 3763,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "recipeId": 4437,
-    "stars": 0,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 101,
-    "progressModifier": 100,
-    "qualityDivider": 81,
-    "qualityModifier": 100,
-    "recipeId": 4442,
-    "stars": 0,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 71,
-    "difficulty": 1195,
-    "durability": 80,
-    "level": 390,
-    "maxQuality": 3763,
-    "name": {
       "cn": "斯剑虎革耳坠",
       "de": "Smilodonleder-Ohrringe",
       "en": "Smilodonskin Earrings",
@@ -14826,72 +12934,6 @@
     "stars": 0,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 75,
-    "difficulty": 1430,
-    "durability": 80,
-    "level": 406,
-    "maxQuality": 4100,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "recipeId": 4452,
-    "stars": 0,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "recipeId": 4457,
-    "stars": 0,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
-  },
-  {
-    "baseLevel": 79,
-    "difficulty": 1710,
-    "durability": 80,
-    "level": 418,
-    "maxQuality": 4500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 109,
-    "progressModifier": 100,
-    "qualityDivider": 89,
-    "qualityModifier": 100,
-    "recipeId": 4462,
-    "stars": 0,
-    "suggestedControl": 1579,
-    "suggestedCraftsmanship": 1702
   },
   {
     "baseLevel": 5,
@@ -18024,28 +16066,6 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30258,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
-    "name": {
       "cn": "蛟蜥精准罩衣",
       "de": "Echsen-Wappenrock des Zielens",
       "en": "Saurian Tabard of Aiming",
@@ -18112,28 +16132,6 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30264,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
-    "name": {
       "cn": "蛟蜥治愈手套",
       "de": "Echsen-Handschuhe der Heilung",
       "en": "Saurian Gloves of Healing",
@@ -18178,28 +16176,6 @@
     "level": 90,
     "maxQuality": 2750,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30270,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
-    "name": {
       "cn": "蛟蜥咏咒手套",
       "de": "Echsen-Handschuhe der Magie",
       "en": "Saurian Gloves of Casting",
@@ -18233,28 +16209,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 30275,
-    "stars": 3,
-    "suggestedControl": 374,
-    "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 420,
-    "durability": 80,
-    "level": 90,
-    "maxQuality": 2750,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30276,
     "stars": 3,
     "suggestedControl": 374,
     "suggestedCraftsmanship": 391
@@ -18500,50 +16454,6 @@
     "stars": 3,
     "suggestedControl": 374,
     "suggestedCraftsmanship": 391
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2200,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 30485,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 210,
-    "durability": 80,
-    "level": 55,
-    "maxQuality": 2200,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 30486,
-    "stars": 1,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
   },
   {
     "baseLevel": 50,
@@ -19762,28 +17672,6 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30879,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
       "cn": "奇蜥强袭凉鞋",
       "de": "Kirimu-Sandalen des Schlagens",
       "en": "Kirimu Sandals of Striking",
@@ -19795,28 +17683,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 30884,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30885,
     "stars": 4,
     "suggestedControl": 407,
     "suggestedCraftsmanship": 451
@@ -19982,28 +17848,6 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30897,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
       "cn": "奇蜥咏咒手套",
       "de": "Kirimu-Handschuhe der Magie",
       "en": "Kirimu Gloves of Casting",
@@ -20037,28 +17881,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 30902,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30903,
     "stars": 4,
     "suggestedControl": 407,
     "suggestedCraftsmanship": 451
@@ -20147,28 +17969,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 30915,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30916,
     "stars": 4,
     "suggestedControl": 407,
     "suggestedCraftsmanship": 451
@@ -20378,28 +18178,6 @@
     "level": 180,
     "maxQuality": 2900,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31100,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
       "cn": "狮鹫革御敌长裙",
       "de": "Greifenleder-Rock der Verteidigung",
       "en": "Griffin Leather Skirt of Fending",
@@ -20458,50 +18236,6 @@
     "stars": 0,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "recipeId": 31104,
-    "stars": 0,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31105,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -20634,28 +18368,6 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "recipeId": 31112,
-    "stars": 0,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -20988,28 +18700,6 @@
     "suggestedCraftsmanship": 718
   },
   {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "recipeId": 31128,
-    "stars": 0,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
     "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
@@ -21120,50 +18810,6 @@
     "suggestedCraftsmanship": 580
   },
   {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "recipeId": 31134,
-    "stars": 0,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31135,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
     "baseLevel": 60,
     "difficulty": 740,
     "durability": 70,
@@ -21206,28 +18852,6 @@
     "stars": 0,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31138,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -21319,28 +18943,6 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31143,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
     "level": 150,
@@ -21426,28 +19028,6 @@
     "stars": 0,
     "suggestedControl": 546,
     "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31148,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -23348,50 +20928,6 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31569,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31570,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
       "cn": "远征外套",
       "de": "Forschermantel",
       "en": "Expeditioner's Coat",
@@ -24748,50 +22284,6 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 900,
-    "durability": 70,
-    "level": 220,
-    "maxQuality": 3390,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31889,
-    "stars": 3,
-    "suggestedControl": 835,
-    "suggestedCraftsmanship": 870
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 900,
-    "durability": 70,
-    "level": 220,
-    "maxQuality": 3390,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31894,
-    "stars": 3,
-    "suggestedControl": 835,
-    "suggestedCraftsmanship": 870
   },
   {
     "baseLevel": 60,
@@ -26648,50 +24140,6 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32576,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32582,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
       "cn": "地懒革强袭高筒靴",
       "de": "Faultierleder-Stiefel des Schlagens",
       "en": "Slothskin Boots of Striking",
@@ -26703,28 +24151,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32587,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32588,
     "stars": 3,
     "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
@@ -26780,28 +24206,6 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32594,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
       "cn": "地懒革游击手套",
       "de": "Faultierleder-Handschuhe des Spähens",
       "en": "Slothskin Gloves of Scouting",
@@ -26846,28 +24250,6 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32600,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
       "cn": "地懒革治愈高筒靴",
       "de": "Faultierleder-Stiefel der Heilung",
       "en": "Slothskin Boots of Healing",
@@ -26890,28 +24272,6 @@
     "level": 350,
     "maxQuality": 5200,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32606,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
       "cn": "地懒革咏咒高筒靴",
       "de": "Faultierleder-Stiefel der Magie",
       "en": "Slothskin Boots of Casting",
@@ -26923,28 +24283,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32611,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32612,
     "stars": 3,
     "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
@@ -28078,50 +25416,6 @@
     "level": 380,
     "maxQuality": 6100,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33094,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33100,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
       "cn": "罗刹拳士手甲",
       "de": "Rakshasa-Tekko des Schlagens",
       "en": "Rakshasa Tekko of Striking",
@@ -28155,28 +25449,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 33105,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33106,
     "stars": 4,
     "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
@@ -28232,28 +25504,6 @@
     "level": 380,
     "maxQuality": 6100,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33112,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
       "cn": "罗刹间士手甲",
       "de": "Rakshasa-Tekko des Spähens",
       "en": "Rakshasa Tekko of Scouting",
@@ -28287,28 +25537,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 33117,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33118,
     "stars": 4,
     "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
@@ -28364,28 +25592,6 @@
     "level": 380,
     "maxQuality": 6100,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33124,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
       "cn": "罗刹术士手甲",
       "de": "Rakshasa-Tekko der Magie",
       "en": "Rakshasa Tekko of Casting",
@@ -28419,28 +25625,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 33129,
-    "stars": 4,
-    "suggestedControl": 1600,
-    "suggestedCraftsmanship": 1650
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1500,
-    "durability": 70,
-    "level": 380,
-    "maxQuality": 6100,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33130,
     "stars": 4,
     "suggestedControl": 1600,
     "suggestedCraftsmanship": 1650
@@ -30454,28 +27638,6 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33836,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
       "cn": "伊修加德新型精准上装",
       "de": "Neo-Ishgarder Oberteil des Zielens",
       "en": "Neo-Ishgardian Top of Aiming",
@@ -30520,28 +27682,6 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33842,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
       "cn": "伊修加德新型游击上装",
       "de": "Neo-Ishgarder Oberteil des Spähens",
       "en": "Neo-Ishgardian Top of Scouting",
@@ -30553,28 +27693,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "recipeId": 33844,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33848,
     "stars": 3,
     "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
@@ -30630,28 +27748,6 @@
     "level": 480,
     "maxQuality": 8500,
     "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33854,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
       "cn": "伊修加德新型咏咒上装",
       "de": "Neo-Ishgarder Oberteil der Magie",
       "en": "Neo-Ishgardian Top of Casting",
@@ -30685,28 +27781,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "recipeId": 33859,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33860,
     "stars": 3,
     "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
@@ -30839,50 +27913,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "recipeId": 33938,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33939,
-    "stars": 3,
-    "suggestedControl": 2195,
-    "suggestedCraftsmanship": 2480
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 2800,
-    "durability": 70,
-    "level": 480,
-    "maxQuality": 8500,
-    "name": {
-      "cn": "",
-      "de": "",
-      "en": "",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 33944,
     "stars": 3,
     "suggestedControl": 2195,
     "suggestedCraftsmanship": 2480
