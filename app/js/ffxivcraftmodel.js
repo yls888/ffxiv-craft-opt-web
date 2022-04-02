@@ -88,7 +88,7 @@ Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craft
     if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.progressModifier || 100)) / 100);
     }
-    return baseValue;
+    return Math.floor(baseValue);
 };
 
 Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, control) {
@@ -96,7 +96,7 @@ Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, contro
     if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.qualityModifier || 100)) / 100);
     }
-    return baseValue;
+    return Math.floor(baseValue);
 };
 
 function isActionEq(action1, action2) {
