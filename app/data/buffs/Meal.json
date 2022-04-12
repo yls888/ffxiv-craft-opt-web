@@ -1195,5 +1195,35 @@
       "fr": "Chai tou vounou",
       "ja": "チャイ・トゥ・ヴヌー"
     }
+  },
+  {
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 96,
+    "cp_percent": 21,
+    "cp_value": 66,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.590】Calamari Ripieni",
+      "de": "Calamari Ripieni",
+      "en": "Calamari Ripieni",
+      "fr": "Khalamar ripieni",
+      "ja": "カラマリ・リピエーニ"
+    }
+  },
+  {
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 120,
+    "cp_percent": 26,
+    "cp_value": 82,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.590】Calamari Ripieni",
+      "de": "Calamari Ripieni",
+      "en": "Calamari Ripieni",
+      "fr": "Khalamar ripieni",
+      "ja": "カラマリ・リピエーニ"
+    }
   }
 ]
