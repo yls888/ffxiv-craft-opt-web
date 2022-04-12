@@ -1064,7 +1064,7 @@
     "name": {
       "cn": "硬革钢拳",
       "de": "Leder-Caesti",
-      "en": "Hard Leather Cesti",
+      "en": "Goatskin Cesti",
       "fr": "Cestes",
       "ja": "セスタス"
     },
@@ -30191,7 +30191,7 @@
     "maxQuality": 10920,
     "name": {
       "cn": "Classical Eques's Caligae",
-      "de": "Klassische Laquearii-Caligae ",
+      "de": "Klassische Laquearii-Caligae",
       "en": "Classical Eques's Caligae",
       "fr": "Caligae d'eques classiques",
       "ja": "クラシカルエクエス・カリガ"
@@ -30553,6 +30553,138 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 34915,
+    "stars": 1,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Pactmaker's Halfgloves of Crafting",
+      "de": "Paktschließer-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "en": "Pactmaker's Halfgloves of Crafting",
+      "fr": "Mitaines des créations des associés",
+      "ja": "パクトメーカー・クラフターハーフグローブ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34984,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Pactmaker's Pumps of Crafting",
+      "de": "Paktschließer-Pumps des Handwerks",
+      "en": "Pactmaker's Pumps of Crafting",
+      "fr": "Escarpins des créations des associés",
+      "ja": "パクトメーカー・クラフターパンプス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34986,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Pactmaker's Gloves of Gathering",
+      "de": "Paktschließer-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "en": "Pactmaker's Gloves of Gathering",
+      "fr": "Gants des ressources des associés",
+      "ja": "パクトメーカー・ギャザラーグローブ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34989,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Pactmaker's Breeches of Gathering",
+      "de": "Paktschließer-Reiterhose des Eifers",
+      "en": "Pactmaker's Breeches of Gathering",
+      "fr": "Braies des ressources des associés",
+      "ja": "パクトメーカー・ギャザラーブリーチ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34990,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Pactmaker's Boots of Gathering",
+      "de": "Paktschließer-Stiefel des Eifers",
+      "en": "Pactmaker's Boots of Gathering",
+      "fr": "Bottes des ressources des associés",
+      "ja": "パクトメーカー・ギャザラーブーツ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34991,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3700,
+    "durability": 80,
+    "level": 570,
+    "maxQuality": 7400,
+    "name": {
+      "cn": "Varsity Shoes",
+      "de": "Universitäts-Schuhe",
+      "en": "Varsity Shoes",
+      "fr": "Chaussures uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
+      "ja": "ヴァーシティ・シューズ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 35023,
     "stars": 1,
     "suggestedControl": 2703,
     "suggestedCraftsmanship": 2924

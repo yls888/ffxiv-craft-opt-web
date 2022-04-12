@@ -5773,7 +5773,7 @@
       "cn": "菌蒸巨型水虎鱼",
       "de": "Gebackener Megapiranha",
       "en": "Baked Megapiranha",
-      "fr": "Megapiranha au four",
+      "fr": "Méga piranha au four",
       "ja": "ベイクド・メガピラニア"
     },
     "progressDivider": 106,
@@ -6829,7 +6829,7 @@
       "cn": "辣味茄汁焗蛋",
       "de": "Gewürzshakshouka",
       "en": "Spicy Shakshouka",
-      "fr": "Chakchouka épicé",
+      "fr": "Chakchouka épicée",
       "ja": "スパイシーシャクシュカ"
     },
     "progressDivider": 126,
@@ -7025,7 +7025,7 @@
     "maxQuality": 7000,
     "name": {
       "cn": "巨人新薯煎饼",
-      "de": " Riesentoffelpuffer",
+      "de": "Riesentoffelpuffer",
       "en": "Giant Popoto Pancakes",
       "fr": "Crique géante",
       "ja": "ジャイアントポポトパンケーキ"
@@ -7368,6 +7368,28 @@
     "stars": 0,
     "suggestedControl": 2451,
     "suggestedCraftsmanship": 2590
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Wondrous Parfait",
+      "de": "Wunderparfait",
+      "en": "Wondrous Parfait",
+      "fr": "Parfait des merveilles",
+      "ja": "ワンダーパフェ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5435,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
   },
   {
     "baseLevel": 30,
@@ -10613,7 +10635,7 @@
       "cn": "草原奶茶",
       "de": "Steppen-Tee",
       "en": "Steppe Tea",
-      "fr": "Thé de la Steppe",
+      "fr": "Thé de la steppe",
       "ja": "ステップティー"
     },
     "progressDivider": 90,
@@ -15618,5 +15640,49 @@
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Calamari Ripieni",
+      "de": "Calamari Ripieni",
+      "en": "Calamari Ripieni",
+      "fr": "Khalamar ripieni",
+      "ja": "カラマリ・リピエーニ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34992,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 12800,
+    "name": {
+      "cn": "Kalamarakia Tiganita",
+      "de": "Kalamarakia Tiganita",
+      "en": "Kalamarakia Tiganita",
+      "fr": "Khalamarkia tiganita",
+      "ja": "カラマラキア・ティガニタ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 34993,
+    "stars": 2,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
   }
 ]
