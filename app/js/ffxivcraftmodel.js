@@ -587,7 +587,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 2 * successProbability * condition.pGoodOrExcellent();
         }
         // Increment all other inner quiet count ups
-        else if (action.qualityIncreaseMultiplier > 0 && !isActionEq(action, AllActions.reflect) && !isActionEq(action, AllActions.byregotsBlessing)) {
+        else if (action.qualityIncreaseMultiplier > 0 && !isActionEq(action, AllActions.reflect) && !isActionEq(action, AllActions.byregotsBlessing) && !isActionEq(action, AllActions.trainedFinesse)) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 1 * successProbability;
         }
 
