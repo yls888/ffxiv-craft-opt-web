@@ -1,189 +1,183 @@
-(function () {
-  'use strict';
+(function() {
+    'use strict';
 
-  angular
-    .module('ffxivCraftOptWeb.controllers')
-    .controller('CrafterStatsController', controller);
+    angular
+        .module('ffxivCraftOptWeb.controllers')
+        .controller('CrafterStatsController', controller);
 
-  function controller($scope, $modal, _actionGroups, _allClasses, _actionsByName, _profile) {
-    $scope.crafterActionClasses = crafterActionClasses;
-    $scope.toggleAction = toggleAction;
-    $scope.onTabSelect = onTabSelect;
-    $scope.selectNoActions = selectNoActions;
-    $scope.selectAllActions = selectAllActions;
-    $scope.showCharImportModal = showCharImportModal;
-    $scope.refreshChar = refreshChar;
-    $scope.selectActionsByLevel = selectActionsByLevel;
-    $scope.selectActionsGuaranteed = selectActionsGuaranteed;
-    $scope.selectActionsSolverRecommended = selectActionsSolverRecommended;
+    function controller($scope, $modal, _actionGroups, _allClasses, _actionsByName, _profile) {
+        $scope.crafterActionClasses = crafterActionClasses;
+        $scope.toggleAction = toggleAction;
+        $scope.onTabSelect = onTabSelect;
+        $scope.selectNoActions = selectNoActions;
+        $scope.selectAllActions = selectAllActions;
+        $scope.showCharImportModal = showCharImportModal;
+        $scope.refreshChar = refreshChar;
+        $scope.selectActionsByLevel = selectActionsByLevel;
+        $scope.selectActionsGuaranteed = selectActionsGuaranteed;
 
-    // Keep list of specialist actions
-    var specialistActions = [];
-    for (var i = 0; i < _actionGroups.length; i++) {
-      var group = _actionGroups[i];
-      if (group.name === "Specialist") {
-        specialistActions = group.actions;
-        break;
-      }
-    }
-
-    // Initialize tab names and initial active state
-    $scope.tabs = [];
-    for (var i = 0; i < _allClasses.length; i++) {
-      var cls = _allClasses[i];
-      $scope.tabs.push({name: cls, active: cls === $scope.recipe.cls});
-    }
-
-    $scope.$on('profile.loaded', onProfileLoaded);
-    if (_profile.isLoaded()) {
-      onProfileLoaded();
-    }
-
-    //////////////////////////////////////////////////////////////////////////
-
-    function onProfileLoaded() {
-      $scope.character = _profile.getCharacter();
-    }
-
-    function crafterActionClasses(action, cls) {
-      return {
-        'faded': !$scope.isActionSelected(action, cls),
-      }
-    }
-
-    function toggleAction(action, cls) {
-      var i = $scope.crafter.stats[cls].actions.indexOf(action);
-      if (i >= 0) {
-        $scope.crafter.stats[cls].actions.splice(i, 1);
-      }
-      else {
-        $scope.crafter.stats[cls].actions.push(action);
-      }
-    }
-
-    function onTabSelect(tab) {
-      $scope.currentClass = tab.name;
-    }
-
-    function selectNoActions(cls) {
-      var clsActions = $scope.crafter.stats[cls].actions;
-      clsActions.splice(0, clsActions.length);
-    }
-
-    function selectAllActions(cls) {
-      var clsActions = $scope.crafter.stats[cls].actions;
-      clsActions.splice(0, clsActions.length);
-      for (var i = 0; i < _actionGroups.length; i++) {
-        var actions = _actionGroups[i].actions;
-        for (var j = 0; j < actions.length; j++) {
-          var action = _actionsByName[actions[j]];
-          clsActions.push(action.shortName);
+        // Keep list of specialist actions
+        var specialistActions = [];
+        for (var i = 0; i < _actionGroups.length; i++) {
+            var group = _actionGroups[i];
+            if (group.name === "Specialist") {
+                specialistActions = group.actions;
+                break;
+            }
         }
-      }
-    }
 
-    function showCharImportModal() {
-      var modalInstance = $modal.open({
-        templateUrl: 'modals/charimport.html',
-        controller: 'CharImportController',
-        windowClass: 'charimport-modal',
-        resolve: {
-          server: function () {
-            return $scope.character && $scope.character.server || undefined;
-          }
+        // Initialize tab names and initial active state
+        $scope.tabs = [];
+        for (var i = 0; i < _allClasses.length; i++) {
+            var cls = _allClasses[i];
+            $scope.tabs.push({ name: cls, active: cls === $scope.recipe.cls });
         }
-      });
-      modalInstance.result.then(function (result) {
-        console.log("import character:", result);
-        importCharacter(result);
-      });
-    }
 
-    function importCharacter(char) {
-      for (var className in char.classes) {
-        if (char.classes.hasOwnProperty(className)) {
-          var stats = $scope.crafter.stats[className];
-          var newStats = char.classes[className];
-          stats.level = newStats.level > 0 ? newStats.level : stats.level;
-          stats.craftsmanship = newStats.craftsmanship > 0 ? newStats.craftsmanship : stats.craftsmanship;
-          stats.control = newStats.control > 0 ? newStats.control : stats.control;
-          stats.cp = newStats.cp > 0 ? newStats.cp : stats.cp;
+        $scope.$on('profile.loaded', onProfileLoaded);
+        if (_profile.isLoaded()) {
+            onProfileLoaded();
         }
-      }
 
-      for (var i = 0; i < _allClasses.length; i++) {
-        var cls = _allClasses[i];
-        selectActionsByLevel(cls);
-      }
+        //////////////////////////////////////////////////////////////////////////
 
-      $scope.character = {
-        id: char.id,
-        name: char.name,
-        server: char.server
-      };
-
-      $scope.profile.setCharacter($scope.character);
-    }
-
-    function refreshChar() {
-      if (!$scope.character) return;
-
-      $scope.character.refreshing = true;
-    }
-
-    function selectActionsByLevel(cls) {
-      selectActions(cls, false, false);
-    }
-    
-    function selectActionsGuaranteed(cls) {
-      selectActions(cls, true, false);
-    }
-	
-	function selectActionsSolverRecommended(cls) {
-      selectActions(cls, true, true);
-    }
-
-    function selectActions(cls, bySuccessRate, solverRecommended) {
-      var stats = $scope.crafter.stats[cls];
-      var selectedActions = [];
-
-      for (var i = 0; i < _actionGroups.length; i++) {
-        var actions = _actionGroups[i].actions;
-        for (var j = 0; j < actions.length; j++) {
-          var action = _actionsByName[actions[j]];
-          var actionClass = action.cls === "All" ? cls : action.cls;
-
-          // Skip specialist actions if the class is not marked as a specialist
-          if (specialistActions.indexOf(action.shortName) >= 0 && !$scope.crafter.stats[actionClass].specialist) {
-            continue;
-          }
-
-          // If we care about level and the action's level is too high, skip it.
-          if (action.level > $scope.crafter.stats[actionClass].level) continue;
-          
-          // If we care about successRate and the successRate is too low, skip it.
-          if (bySuccessRate && action.successProbability < 1) continue;
-
-          // Some actions are upgraded versions of others.  
-          // If this is one of the base versions and our level is high enough to use the upgraded version, skip it.
-          if (action.shortName === "rapidSynthesis" && $scope.crafter.stats[actionClass].level >= 63) continue;
-          if (action.shortName === "basicSynth" && $scope.crafter.stats[actionClass].level >= 31) continue;
-          if (action.shortName === "carefulSynthesis" && $scope.crafter.stats[actionClass].level >= 82) continue;
-          if (action.shortName === "groundwork" && $scope.crafter.stats[actionClass].level >= 86) continue;
-		  if (action.shortName === "finalAppraisal" && solverRecommended) continue;
-		  if (action.shortName === "observe" && solverRecommended) continue;
-		  if (action.shortName === "intensiveSynthesis" && solverRecommended) continue;
-		  if (action.shortName === "preciseTouch" && solverRecommended) continue;
-		  if (action.shortName === "tricksOfTheTrade" && solverRecommended) continue;
-		  if (action.shortName === "trainedFinesse" && solverRecommended) continue;
-		  if (action.shortName === "heartAndSoul" && solverRecommended) continue;
-
-          selectedActions.push(action.shortName);
+        function onProfileLoaded() {
+            $scope.character = _profile.getCharacter();
         }
-      }
 
-      stats.actions = selectedActions;
+        function crafterActionClasses(action, cls) {
+            return {
+                'faded': !$scope.isActionSelected(action, cls),
+            }
+        }
+
+        function toggleAction(action, cls) {
+            var i = $scope.crafter.stats[cls].actions.indexOf(action);
+            if (i >= 0) {
+                $scope.crafter.stats[cls].actions.splice(i, 1);
+            } else {
+                $scope.crafter.stats[cls].actions.push(action);
+            }
+        }
+
+        function onTabSelect(tab) {
+            $scope.currentClass = tab.name;
+        }
+
+        function selectNoActions(cls) {
+            var clsActions = $scope.crafter.stats[cls].actions;
+            clsActions.splice(0, clsActions.length);
+        }
+
+        function selectAllActions(cls) {
+            var clsActions = $scope.crafter.stats[cls].actions;
+            clsActions.splice(0, clsActions.length);
+            for (var i = 0; i < _actionGroups.length; i++) {
+                var actions = _actionGroups[i].actions;
+                for (var j = 0; j < actions.length; j++) {
+                    var action = _actionsByName[actions[j]];
+                    clsActions.push(action.shortName);
+                }
+            }
+        }
+
+        function showCharImportModal() {
+            var modalInstance = $modal.open({
+                templateUrl: 'modals/charimport.html',
+                controller: 'CharImportController',
+                windowClass: 'charimport-modal',
+                resolve: {
+                    server: function() {
+                        return $scope.character && $scope.character.server || undefined;
+                    }
+                }
+            });
+            modalInstance.result.then(function(result) {
+                console.log("import character:", result);
+                importCharacter(result);
+            });
+        }
+
+        function importCharacter(char) {
+            for (var className in char.classes) {
+                if (char.classes.hasOwnProperty(className)) {
+                    var stats = $scope.crafter.stats[className];
+                    var newStats = char.classes[className];
+                    stats.level = newStats.level > 0 ? newStats.level : stats.level;
+                    stats.craftsmanship = newStats.craftsmanship > 0 ? newStats.craftsmanship : stats.craftsmanship;
+                    stats.control = newStats.control > 0 ? newStats.control : stats.control;
+                    stats.cp = newStats.cp > 0 ? newStats.cp : stats.cp;
+                }
+            }
+
+            for (var i = 0; i < _allClasses.length; i++) {
+                var cls = _allClasses[i];
+                selectActionsByLevel(cls);
+            }
+
+            $scope.character = {
+                id: char.id,
+                name: char.name,
+                server: char.server
+            };
+
+            $scope.profile.setCharacter($scope.character);
+        }
+
+        function refreshChar() {
+            if (!$scope.character) return;
+
+            $scope.character.refreshing = true;
+        }
+
+        function selectActionsByLevel(cls) {
+            selectActions(cls, false, false);
+        }
+
+        function selectActionsGuaranteed(cls) {
+            selectActions(cls, true, false);
+        }
+
+        function selectActions(cls, bySuccessRate) {
+            var stats = $scope.crafter.stats[cls];
+            var selectedActions = [];
+
+            for (var i = 0; i < _actionGroups.length; i++) {
+                var actions = _actionGroups[i].actions;
+                for (var j = 0; j < actions.length; j++) {
+                    var action = _actionsByName[actions[j]];
+                    var actionClass = action.cls === "All" ? cls : action.cls;
+
+                    // Skip specialist actions if the class is not marked as a specialist
+                    if (specialistActions.indexOf(action.shortName) >= 0 && !$scope.crafter.stats[actionClass].specialist) {
+                        continue;
+                    }
+
+                    // If we care about level and the action's level is too high, skip it.
+                    if (action.level > $scope.crafter.stats[actionClass].level) continue;
+
+                    // If we care about successRate and the successRate is too low, skip it.
+                    if (bySuccessRate && action.successProbability < 1) continue;
+
+                    // Some actions are upgraded versions of others.  
+                    // If this is one of the base versions and our level is high enough to use the upgraded version, skip it.
+                    if (action.shortName === "rapidSynthesis" && $scope.crafter.stats[actionClass].level >= 63) continue;
+                    if (action.shortName === "basicSynth" && $scope.crafter.stats[actionClass].level >= 31) continue;
+                    if (action.shortName === "carefulSynthesis" && $scope.crafter.stats[actionClass].level >= 82) continue;
+                    if (action.shortName === "groundwork" && $scope.crafter.stats[actionClass].level >= 86) continue;
+                    if (action.shortName === "finalAppraisal") continue;
+                    if (action.shortName === "observe") continue;
+                    if (action.shortName === "intensiveSynthesis") continue;
+                    if (action.shortName === "preciseTouch") continue;
+                    if (action.shortName === "tricksOfTheTrade") continue;
+                    if (action.shortName === "trainedFinesse") continue;
+                    if (action.shortName === "heartAndSoul") continue;
+
+                    selectedActions.push(action.shortName);
+                }
+            }
+
+            stats.actions = selectedActions;
+        }
+
     }
-
-  }
 })();

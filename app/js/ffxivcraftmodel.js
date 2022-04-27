@@ -13,11 +13,11 @@ function LogOutput() {
     this.log = '';
 }
 
-LogOutput.prototype.write = function (s) {
+LogOutput.prototype.write = function(s) {
     this.log += s;
 };
 
-LogOutput.prototype.clear = function () {
+LogOutput.prototype.clear = function() {
     this.log = '';
 };
 
@@ -25,7 +25,7 @@ function Logger(logOutput) {
     this.logOutput = logOutput;
 }
 
-Logger.prototype.log = function (myString) {
+Logger.prototype.log = function(myString) {
     var args = Array.prototype.slice.call(arguments, 1);
     var msg = String.prototype.sprintf.apply(myString, args);
     if (this.logOutput !== undefined && this.logOutput !== null) {
@@ -66,24 +66,16 @@ function Recipe(baseLevel, level, difficulty, durability, startQuality, safetyMa
     this.stars = stars;
 }
 
-// Extra solver vars that the synth needs to take into account
-function SolverVars(solveForCompletion, remainderCPFitnessValue, remainderDurFitnessValue) {
-    this.solveForCompletion = solveForCompletion;
-    this.remainderCPFitnessValue = remainderCPFitnessValue;
-    this.remainderDurFitnessValue = remainderDurFitnessValue;
-}
-
-function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, maxLength, solverVars) {
+function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, maxLength) {
     this.crafter = crafter;
     this.recipe = recipe;
     this.maxTrickUses = maxTrickUses;
     this.useConditions = useConditions;
     this.reliabilityIndex = reliabilityIndex;
     this.maxLength = maxLength;
-    this.solverVars = solverVars;
 }
 
-Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craftsmanship) {
+Synth.prototype.calculateBaseProgressIncrease = function(effCrafterLevel, craftsmanship) {
     var baseValue = (craftsmanship * 10) / this.recipe.progressDivider + 2;
     if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.progressModifier || 100)) / 100);
@@ -91,7 +83,7 @@ Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craft
     return Math.floor(baseValue);
 };
 
-Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, control) {
+Synth.prototype.calculateBaseQualityIncrease = function(effCrafterLevel, control) {
     var baseValue = (control * 10) / this.recipe.qualityDivider + 35;
     if (effCrafterLevel <= this.recipe.level) {
         return Math.floor((baseValue * (this.recipe.qualityModifier || 100)) / 100);
@@ -162,11 +154,11 @@ function State(synth, step, lastStep, action, durabilityState, cpState, bonusMax
     this.lastDurabilityCost = 0;
 }
 
-State.prototype.clone = function () {
+State.prototype.clone = function() {
     return new State(this.synth, this.step, this.lastStep, this.action, this.durabilityState, this.cpState, this.bonusMaxCp, this.qualityState, this.progressState, this.wastedActions, this.trickUses, this.nameOfElementUses, this.reliability, clone(this.effects), this.condition, this.touchComboStep);
 };
 
-State.prototype.checkViolations = function () {
+State.prototype.checkViolations = function() {
     // Check for feasibility violations
     var progressOk = false;
     var cpOk = false;
@@ -333,11 +325,6 @@ function ApplyModifiers(s, action, condition) {
         if (s.action != AllActions.standardTouch.shortName) {
             s.wastedActions += 10;
         }
-    }
-
-    // Penalize use of WasteNot during solveforcompletion runs
-    if ((isActionEq(action, AllActions.wasteNot) || isActionEq(action, AllActions.wasteNot2)) && s.synth.solverVars.solveForCompletion) {
-        s.wastedActions += 100;
     }
 
     // Effects modifying progress increase multiplier
@@ -516,16 +503,10 @@ function ApplySpecialActionEffects(s, action, condition) {
     // Special Effect Actions
     if (isActionEq(action, AllActions.mastersMend)) {
         s.durabilityState += 30;
-        if (s.synth.solverVars.solveForCompletion) {
-            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
-        }
     }
 
     if ((AllActions.manipulation.shortName in s.effects.countDowns) && (s.durabilityState > 0) && !isActionEq(action, AllActions.manipulation) && !isActionEq(action, AllActions.finalAppraisal) && !isActionEq(action, AllActions.heartAndSoul)) {
         s.durabilityState += 5;
-        if (s.synth.solverVars.solveForCompletion) {
-            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
-        }
     }
 
     if (isActionEq(action, AllActions.reflect)) {
@@ -630,6 +611,7 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
         }
     }
 }
+
 function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCost, condition, successProbability) {
     // State tracking
     s.progressState += progressGain;
@@ -678,10 +660,10 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
     var ppNormal = 1 - (ppGood + ppExcellent + ppPoor);
 
     var SimCondition = {
-        checkGoodOrExcellent: function () {
+        checkGoodOrExcellent: function() {
             return true;
         },
-        pGoodOrExcellent: function () {
+        pGoodOrExcellent: function() {
             if (ignoreConditionReq) {
                 return 1;
             } else {
@@ -817,14 +799,14 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     var randomizeConditions = !ignoreConditionReq;
 
     var MonteCarloCondition = {
-        checkGoodOrExcellent: function () {
+        checkGoodOrExcellent: function() {
             if (ignoreConditionReq) {
                 return true;
             } else {
                 return (s.condition == 'Good' || s.condition == 'Excellent');
             }
         },
-        pGoodOrExcellent: function () {
+        pGoodOrExcellent: function() {
             return 1;
         }
     };
@@ -1243,7 +1225,7 @@ function getMedianProperty(stateArray, propName, nRuns) {
         }
     }
 
-    listProperty.sort(function (a, b) {
+    listProperty.sort(function(a, b) {
         return a - b
     });
     var medianPropIdx = Math.ceil(listProperty.length / 2);
@@ -1292,7 +1274,7 @@ function getMedianHqPercent(stateArray) {
         }
     }
 
-    hqPercents.sort(function (a, b) {
+    hqPercents.sort(function(a, b) {
         return a - b
     });
     var medianPropIdx = Math.ceil(hqPercents.length / 2);
@@ -1405,12 +1387,7 @@ function evalSeq(individual, mySynth, penaltyWeight) {
         }
     }
 
-    if (mySynth.solverVars.solveForCompletion) {
-        fitness += result.cpState * mySynth.solverVars.remainderCPFitnessValue;
-        fitness += result.durabilityState * mySynth.solverVars.remainderDurFitnessValue;
-    } else {
-        fitness += Math.min(mySynth.recipe.maxQuality * safetyMarginFactor, result.qualityState);
-    }
+    fitness += Math.min(mySynth.recipe.maxQuality * safetyMarginFactor, result.qualityState);
 
     fitness -= penaltyWeight * penalties;
 
@@ -1445,25 +1422,25 @@ function heuristicSequenceBuilder(synth) {
         }
     }
 
-    var hasAction = function (actionName) {
+    var hasAction = function(actionName) {
         return (actionName in actionsByName);
     };
 
-    var tryAction = function (actionName) {
+    var tryAction = function(actionName) {
         return (hasAction(actionName) && cp >= aa[actionName].cpCost && dur - aa[actionName].durabilityCost >= 0);
     };
 
-    var useAction = function (actionName) {
+    var useAction = function(actionName) {
         cp -= aa[actionName].cpCost;
         dur -= aa[actionName].durabilityCost;
     };
 
-    var pushAction = function (seq, actionName) {
+    var pushAction = function(seq, actionName) {
         seq.push(aa[actionName]);
         useAction(actionName);
     };
 
-    var unshiftAction = function (seq, actionName) {
+    var unshiftAction = function(seq, actionName) {
         seq.unshift(aa[actionName]);
         useAction(actionName);
     };
@@ -1616,6 +1593,7 @@ function _typeof(x) {
 
 function clone(x) {
     var seen = {};
+
     function _clone(x) {
         if (x === null) {
             return null;
@@ -1626,28 +1604,28 @@ function clone(x) {
             }
         }
         switch (_typeof(x)) {
-        case 'object':
-            var newObject = Object.create(Object.getPrototypeOf(x));
-            seen[x] = newObject;
-            for (var p in x) {
-                newObject[p] = _clone(x[p]);
-            }
-            return newObject;
-        case 'array':
-            var newArray = [];
-            seen[x] = newArray;
-            for (var pp in x) {
-                newArray[pp] = _clone(x[pp]);
-            }
-            return newArray;
-        case 'number':
-            return x;
-        case 'string':
-            return x;
-        case 'boolean':
-            return x;
-        default:
-            return x;
+            case 'object':
+                var newObject = Object.create(Object.getPrototypeOf(x));
+                seen[x] = newObject;
+                for (var p in x) {
+                    newObject[p] = _clone(x[p]);
+                }
+                return newObject;
+            case 'array':
+                var newArray = [];
+                seen[x] = newArray;
+                for (var pp in x) {
+                    newArray[pp] = _clone(x[pp]);
+                }
+                return newArray;
+            case 'number':
+                return x;
+            case 'string':
+                return x;
+            case 'boolean':
+                return x;
+            default:
+                return x;
         }
     }
     return _clone(x);

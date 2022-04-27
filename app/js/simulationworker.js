@@ -3,20 +3,20 @@ importScripts('actions.js');
 importScripts('ffxivcraftmodel.js');
 importScripts('seededrandom.js');
 
-self.onmessage = function (e) {
+self.onmessage = function(e) {
     try {
         switch (e.data.type) {
-        case 'prob':
-            runProbablisticSim(e.data.id, e.data.settings);
-            break;
-        case 'montecarlo':
-            runMonteCarloSim(e.data.id, e.data.settings);
-            break;
-        case 'baseValues':
-            calculateBaseValues(e.data.id, e.data.settings);
-            break;
-        default:
-            console.error("unexpected message: %O", e.data);
+            case 'prob':
+                runProbablisticSim(e.data.id, e.data.settings);
+                break;
+            case 'montecarlo':
+                runMonteCarloSim(e.data.id, e.data.settings);
+                break;
+            case 'baseValues':
+                calculateBaseValues(e.data.id, e.data.settings);
+                break;
+            default:
+                console.error("unexpected message: %O", e.data);
 
         }
     } catch (ex) {
@@ -44,21 +44,20 @@ function setupSim(settings) {
     }
 
     var crafter = new Crafter(settings.recipe.cls,
-            settings.crafter.level,
-            settings.crafter.craftsmanship,
-            settings.crafter.control,
-            settings.crafter.cp,
-            settings.crafter.specialist,
-            crafterActions);
+        settings.crafter.level,
+        settings.crafter.craftsmanship,
+        settings.crafter.control,
+        settings.crafter.cp,
+        settings.crafter.specialist,
+        crafterActions);
     var recipe = new Recipe(settings.recipe.baseLevel, settings.recipe.level, settings.recipe.difficulty,
-            settings.recipe.durability, settings.recipe.startQuality, settings.recipe.safetyMargin, settings.recipe.maxQuality,
-            settings.recipe.suggestedCraftsmanship, settings.recipe.suggestedControl,
-            settings.recipe.progressDivider, settings.recipe.progressModifier, settings.recipe.qualityDivider, settings.recipe.qualityModifier, settings.recipe.stars);
-    var solverVars = new SolverVars(false, 0, 0);
+        settings.recipe.durability, settings.recipe.startQuality, settings.recipe.safetyMargin, settings.recipe.maxQuality,
+        settings.recipe.suggestedCraftsmanship, settings.recipe.suggestedControl,
+        settings.recipe.progressDivider, settings.recipe.progressModifier, settings.recipe.qualityDivider, settings.recipe.qualityModifier, settings.recipe.stars);
     var synth = new Synth(crafter, recipe, settings.maxTricksUses, settings.reliabilityPercent / 100.0,
-            settings.useConditions, 0, solverVars);
+        settings.useConditions, 0);
     var synthNoConditions = new Synth(crafter, recipe, settings.maxTricksUses, settings.reliabilityPercent / 100.0,
-            false, 0, solverVars);
+        false, 0);
 
     var startState = NewStateFromSynth(synth);
     var startStateNoConditions = NewStateFromSynth(synthNoConditions);

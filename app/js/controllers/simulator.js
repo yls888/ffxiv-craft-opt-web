@@ -1,9 +1,9 @@
-(function () {
+(function() {
     'use strict';
 
     angular
-    .module('ffxivCraftOptWeb.controllers')
-    .controller('SimulatorController', controller);
+        .module('ffxivCraftOptWeb.controllers')
+        .controller('SimulatorController', controller);
 
     function controller($scope, $filter, $modal, $rootScope, $translate, $timeout, $state, _recipeLibrary, _simulator,
         _actionsByName, _bonusStats) {
@@ -237,21 +237,9 @@
 
         function editSequenceInline() {
             $scope.editingSequence = true;
-            $timeout(function () {
+            $timeout(function() {
                 $scope.$broadcast('sequence.editor.init', $scope.sequence, $scope.recipe,
                     $scope.crafter.stats[$scope.recipe.cls], $scope.bonusStats, $scope.sequenceSettings);
-            });
-        }
-
-        //
-        // State Transitions
-        //
-
-        $scope.goToSolver = goToSolver;
-
-        function goToSolver() {
-            $state.go('solver', {
-                autoStart: true
             });
         }
     }
