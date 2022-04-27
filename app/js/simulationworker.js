@@ -158,7 +158,6 @@ function calculateBaseValues(id, settings) {
             baseValues: {
                 progress: baseProgress,
                 quality: baseQuality,
-
             },
         },
     });
