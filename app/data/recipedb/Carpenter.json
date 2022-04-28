@@ -12392,7 +12392,7 @@
     "level": 517,
     "maxQuality": 5200,
     "name": {
-      "cn": "马栗木材",
+      "cn": "马栗木木材",
       "de": "Rosskastanien-Bauholz",
       "en": "Horse Chestnut Lumber",
       "fr": "Madrier de châtaignier des chevaux",
@@ -12458,7 +12458,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "铁木材",
+      "cn": "铁木木材",
       "de": "Eisenbauholz",
       "en": "Ironwood Lumber",
       "fr": "Madrier de bois de fer",
@@ -12480,7 +12480,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "完满木材",
+      "cn": "完满木木材",
       "de": "Integrales Bauholz",
       "en": "Integral Lumber",
       "fr": "Madrier d'arbre intégral",
@@ -12656,7 +12656,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Poroggo Lawn Ornament",
+      "cn": "庭院智蛙摆饰",
       "de": "Garten-Poroggo",
       "en": "Poroggo Lawn Ornament",
       "fr": "Statuette de poroggo",
@@ -12678,7 +12678,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Loft Bed",
+      "cn": "高架床",
       "de": "Hochbett mit Schreibtisch",
       "en": "Loft Bed",
       "fr": "Lit mezzanine",
@@ -12700,7 +12700,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Imitation Wooden Skylight",
+      "cn": "仿制木屋阁楼天窗",
       "de": "Dachfenster-Imitation",
       "en": "Imitation Wooden Skylight",
       "fr": "Imitation de fenêtre à tabatière en bois",
@@ -24294,7 +24294,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Spear",
+      "cn": "古典风格长枪",
       "de": "Klassischer Speer",
       "en": "Classical Spear",
       "fr": "Hast classique",
@@ -24316,7 +24316,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Cavalry Bow",
+      "cn": "古典风格骑兵弓",
       "de": "Klassischer Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
       "en": "Classical Cavalry Bow",
       "fr": "Arc de cavalerie classique",
@@ -24338,7 +24338,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Cane",
+      "cn": "古典风格牧杖",
       "de": "Klassischer Stock",
       "en": "Classical Cane",
       "fr": "Canne classique",
@@ -24360,7 +24360,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Longpole",
+      "cn": "古典风格长玉杖",
       "de": "Klassischer Langstab",
       "en": "Classical Longpole",
       "fr": "Échalas classique",
@@ -24382,7 +24382,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Wristband of Fending",
+      "cn": "古典风格御敌手环",
       "de": "Klassisches Armband der Verteidigung",
       "en": "Classical Wristband of Fending",
       "fr": "Poignet de protecteur classique",
@@ -24404,7 +24404,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Wristband of Slaying",
+      "cn": "古典风格强攻手环",
       "de": "Klassisches Armband des Schlachtens",
       "en": "Classical Wristband of Slaying",
       "fr": "Poignet d'attaquant classique",
@@ -24426,7 +24426,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Wristband of Aiming",
+      "cn": "古典风格精准手环",
       "de": "Klassisches Armband des Zielens",
       "en": "Classical Wristband of Aiming",
       "fr": "Poignet de pisteur classique",
@@ -24448,7 +24448,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Wristband of Healing",
+      "cn": "古典风格治愈手环",
       "de": "Klassisches Armband der Heilung",
       "en": "Classical Wristband of Healing",
       "fr": "Poignet de soigneur classique",
@@ -24470,7 +24470,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Wristband of Casting",
+      "cn": "古典风格咏咒手环",
       "de": "Klassisches Armband der Magie",
       "en": "Classical Wristband of Casting",
       "fr": "Poignet d'incantateur classique",
@@ -24492,7 +24492,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "cn": "Mempisang Lumber",
+      "cn": "藤春木木材",
       "de": "Mempisang-Bauholz",
       "en": "Mempisang Lumber",
       "fr": "Madrier de mempisang",

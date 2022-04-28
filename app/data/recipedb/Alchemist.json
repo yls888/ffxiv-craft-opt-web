@@ -11050,7 +11050,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "蛇牛革魔导魔导书",
+      "cn": "蛇牛革魔导书",
       "de": "Ophiotaurosleder-Magitek-Index",
       "en": "Ophiotauroskin Magitek Index",
       "fr": "Index magitek en cuir d'ophiotauros",
@@ -11072,7 +11072,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "蛇牛革魔导魔导典",
+      "cn": "蛇牛革魔导典",
       "de": "Ophiotaurosleder-Magitek-Kodex",
       "en": "Ophiotauroskin Magitek Codex",
       "fr": "Codex magitek en cuir d'ophiotauros",
@@ -11754,7 +11754,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Walnut Flower Vases",
+      "cn": "胡桃木立架花瓶",
       "de": "Vasenset aus Walnussholz",
       "en": "Walnut Flower Vases",
       "fr": "Vases de fleurs en noyer",
@@ -24294,7 +24294,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Index",
+      "cn": "古典风格魔导书",
       "de": "Klassischer Index",
       "en": "Classical Index",
       "fr": "Index classique",
@@ -24316,7 +24316,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Classical Codex",
+      "cn": "古典风格魔导典",
       "de": "Klassischer Kodex",
       "en": "Classical Codex",
       "fr": "Codex classique",
@@ -24338,7 +24338,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Grade 6 Tincture of Strength",
+      "cn": "6级刚力之幻药",
       "de": "Visionsremedium der Stärke VI",
       "en": "Grade 6 Tincture of Strength",
       "fr": "Philtre chimérique de force VI",
@@ -24360,7 +24360,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Grade 6 Tincture of Dexterity",
+      "cn": "6级巧力之幻药",
       "de": "Visionsremedium der Geschicklichkeit VI",
       "en": "Grade 6 Tincture of Dexterity",
       "fr": "Philtre chimérique de dextérité VI",
@@ -24382,7 +24382,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Grade 6 Tincture of Vitality",
+      "cn": "6级耐力之幻药",
       "de": "Visionsremedium der Konstitution VI",
       "en": "Grade 6 Tincture of Vitality",
       "fr": "Philtre chimérique de vitalité VI",
@@ -24404,7 +24404,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Grade 6 Tincture of Intelligence",
+      "cn": "6级智力之幻药",
       "de": "Visionsremedium der Intelligenz VI",
       "en": "Grade 6 Tincture of Intelligence",
       "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VI",
@@ -24426,7 +24426,7 @@
     "level": 580,
     "maxQuality": 10920,
     "name": {
-      "cn": "Grade 6 Tincture of Mind",
+      "cn": "6级意力之幻药",
       "de": "Visionsremedium der Willenskraft VI",
       "en": "Grade 6 Tincture of Mind",
       "fr": "Philtre chimérique d'esprit VI",
@@ -24448,7 +24448,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "cn": "Grade 6 Strength Alkahest",
+      "cn": "6级刚力之幻水",
       "de": "Visionslösung der Stärke VI",
       "en": "Grade 6 Strength Alkahest",
       "fr": "Eau chimérique de force VI",
@@ -24470,7 +24470,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "cn": "Grade 6 Dexterity Alkahest",
+      "cn": "6级巧力之幻水",
       "de": "Visionslösung der Geschicklichkeit VI",
       "en": "Grade 6 Dexterity Alkahest",
       "fr": "Eau chimérique de dextérité VI",
@@ -24492,7 +24492,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "cn": "Grade 6 Vitality Alkahest",
+      "cn": "6级耐力之幻水",
       "de": "Visionslösung der Konstitution VI",
       "en": "Grade 6 Vitality Alkahest",
       "fr": "Eau chimérique de vitalité VI",
@@ -24514,7 +24514,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "cn": "Grade 6 Intelligence Alkahest",
+      "cn": "6级智力之幻水",
       "de": "Visionslösung der Intelligenz VI",
       "en": "Grade 6 Intelligence Alkahest",
       "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VI",
@@ -24536,7 +24536,7 @@
     "level": 580,
     "maxQuality": 7800,
     "name": {
-      "cn": "Grade 6 Mind Alkahest",
+      "cn": "6级意力之幻水",
       "de": "Visionslösung der Willenskraft VI",
       "en": "Grade 6 Mind Alkahest",
       "fr": "Eau chimérique d'esprit VI",
@@ -24558,7 +24558,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "收藏用蛇牛革魔导魔导典",
+      "cn": "收藏用蛇牛革魔导典",
       "de": "Ophiotaurosleder-Magitek-Kodex (Sammlerstück)",
       "en": "Rarefied Ophiotauroskin Magitek Codex",
       "fr": "Codex magitek en cuir d'ophiotauros collectionnable",
@@ -24602,7 +24602,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "管弦乐琴乐谱：你的答问",
+      "cn": "管弦乐琴乐谱：你的答案",
       "de": "Notenrolle von „Your Answer“",
       "en": "Your Answer Orchestrion Roll",
       "fr": "Rouleau “Your Answer”",
