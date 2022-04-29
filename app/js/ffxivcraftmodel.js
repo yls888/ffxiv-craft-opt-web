@@ -86,7 +86,7 @@ function Synth(crafter, recipe, maxTrickUses, reliabilityIndex, useConditions, m
 Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craftsmanship) {
     var baseValue = (craftsmanship * 10) / this.recipe.progressDivider + 2;
     if (effCrafterLevel <= this.recipe.level) {
-        return Math.floor((baseValue * (this.recipe.progressModifier || 100)) / 100);
+        baseValue *= (this.recipe.progressModifier || 100) * Math.fround(0.01);
     }
     return Math.floor(baseValue);
 };
@@ -94,7 +94,7 @@ Synth.prototype.calculateBaseProgressIncrease = function (effCrafterLevel, craft
 Synth.prototype.calculateBaseQualityIncrease = function (effCrafterLevel, control) {
     var baseValue = (control * 10) / this.recipe.qualityDivider + 35;
     if (effCrafterLevel <= this.recipe.level) {
-        return Math.floor((baseValue * (this.recipe.qualityModifier || 100)) / 100);
+        baseValue *= (this.recipe.qualityModifier || 100) * Math.fround(0.01);
     }
     return Math.floor(baseValue);
 };
