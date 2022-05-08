@@ -638,13 +638,14 @@ function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCos
     s.lastDurabilityCost = durabilityCost;
     s.cpState -= cpCost;
     s.lastStep += 1;
-    ApplySpecialActionEffects(s, action, condition);
-    UpdateEffectCounters(s, action, condition, successProbability);
 
     if ((s.progressState >= s.synth.recipe.difficulty) && (AllActions.finalAppraisal.shortName in s.effects.countDowns)) {
         s.progressState = s.synth.recipe.difficulty - 1;
         delete s.effects.countDowns[AllActions.finalAppraisal.shortName];
     }
+
+    ApplySpecialActionEffects(s, action, condition);
+    UpdateEffectCounters(s, action, condition, successProbability);
 
     // Sanity checks for state variables
     /* Removing this for solveForCompletion, hopefully it doesn't cause issues! :)*/
