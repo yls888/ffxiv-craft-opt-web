@@ -564,13 +564,19 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     //===============================
     // Decrement countdowns
     for (var countDown in s.effects.countDowns) {
-        if ((action.shortName === "finalAppraisal") || (action.shortName === "heartAndSoul") ||
-            ((action.shortName === "prudentTouch") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
-            ((action.shortName === "prudentSynthesis") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
-            ((action.shortName === "trainedFinesse") && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10))) {
-            s.effects.countDowns[countDown] -= 0;
+        // if ((action.shortName === "finalAppraisal") || (action.shortName === "heartAndSoul") ||
+        //     ((action.shortName === "prudentTouch") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
+        //     ((action.shortName === "prudentSynthesis") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
+        //     ((action.shortName === "trainedFinesse") && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10))) {
+        //     s.effects.countDowns[countDown] -= 0;
+        // } else {
+        //     s.effects.countDowns[countDown] -= 1;
+        // }
+
+        if (action.noCountDowns) {
+          s.effects.countDowns[countDown] -= 0;
         } else {
-            s.effects.countDowns[countDown] -= 1;
+          s.effects.countDowns[countDown] -= 1;
         }
 
         if (s.effects.countDowns[countDown] === 0) {

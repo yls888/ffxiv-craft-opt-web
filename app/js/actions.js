@@ -22,13 +22,18 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
     // Ranged edit - Comboactions experimental
     this.isCombo = isCombo;
     this.comboActions = comboActions;
+
+    this.noCountDowns = [
+      "finalAppraisal",
+      "heartAndSoul",
+      "prudentTouch",
+    ].includes(shortName);
 }
 
 // Actions Table
 //==============
 //parameters: shortName,  name, durabilityCost, cpCost, successProbability, qualityIncreaseMultiplier, progressIncreaseMultiplier, aType, activeTurns, cls, level,onGood, onExcl, onPoor
 var AllActions = {
-    //                              shortName,              fullName,              dur,     cp, Prob, QIM, PIM, Type,          t,  cls,           lvl,  onGood,     onExcl,      onPoor,    isCombo,    [comboActions]
     observe: new Action('observe', 'Observe', 0, 7, 1.0, 0.0, 0.0, 'immediate', 1, 'All', 13),
 
     basicSynth: new Action('basicSynth', 'Basic Synthesis', 10, 0, 1.0, 0.0, 1.0, 'immediate', 1, 'All', 1),
