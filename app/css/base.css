@@ -45,3 +45,13 @@ footer p {
     visibility: hidden;
   }
 }
+
+.isDisabled {
+  opacity: 0.4;
+  pointer-events: none
+}
+
+.isDisabled::after {
+  opacity: 0.4;
+  pointer-events: none
+}
