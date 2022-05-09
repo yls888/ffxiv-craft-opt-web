@@ -29,9 +29,11 @@
     $scope.iActionClassSpecific = _iActionClassSpecific;
 
     $scope.actionTooltips = {};
+    $scope.effects = {}
 
     $scope.$on("tooltipCacheUpdated", updateActionTooltips);
     $scope.$watch("cls", updateActionTooltips);
+    $scope.$on("allStatus", actionDisable);
 
     updateActionTooltips();
 
@@ -62,5 +64,27 @@
       return _actionsByName[name];
     }
 
+    function actionDisable(e ,s) {
+      if(!s) $scope.effects = {}
+      if(s.effects.countUps[AllActions.innerQuiet.shortName] < 10){
+        $scope.effects.trainedFinesse = false
+      }
+      if((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)){
+        $scope.effects.wasteNot = true
+      }
+    }
+
+    function isDisabled (action){
+      console.log($scope.effects)
+      if(action === "trainedFinesse" && $scope.effects.trainedFinesse === false) {
+        return true
+      } else if ((action === "prudentSynthesis"|| action === "prudentTouch") && $scope.effects.wasteNot === true){
+        return true
+      } else {
+        return false
+      }
+    }
+    
+    $scope.isDisabled = isDisabled
   }
 })();

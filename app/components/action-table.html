@@ -2,7 +2,7 @@
   <label class="action-group-label">{{actionGroup.name | translate }}</label>
   <div class="action-group-actions">
     <div ng-repeat="action in actionGroup.actions track by $index"
-          ng-click="onClick(action, cls)"
+          ng-click="isDisabled(action) ? false : onClick(action, cls)"
           class="image-wrap glossy icon"
           ng-class="cssClassesForAction(action)"
           lvl-draggable="{{draggable}}"
@@ -10,7 +10,7 @@
           tooltip-html-unsafe="{{actionTooltips[action]}}"
           tooltip-placement="{{tooltipPlacement}}"
           tooltip-append-to-body="true">
-      <img ng-src="{{getActionImagePath(action, cls)}}"/>
+      <img ng-src="{{getActionImagePath(action, cls)}}" ng-class="{isDisabled: isDisabled(action)}"/>
       <span ng-if="actionForName(action).cpCost" class="cp">{{actionForName(action).cpCost}}</span>
       <span ng-if="iActionClassSpecific(action)" class="class-icon">
         <img ng-src="img/classes/{{actionForName(action).cls}}.png"/>

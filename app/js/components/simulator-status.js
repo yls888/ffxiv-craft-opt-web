@@ -101,7 +101,7 @@
 
       $scope.hqPercent = $scope.status.state && $scope.status.state.hqPercent || 0;
       $scope.successPercent = $scope.status.state && $scope.status.state.successPercent || 0;
-
+      $rootScope.$broadcast("allStatus", $scope.status.state);
     }
 
     function buffName(buff) {

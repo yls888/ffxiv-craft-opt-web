@@ -564,13 +564,10 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     //===============================
     // Decrement countdowns
     for (var countDown in s.effects.countDowns) {
-        if ((action.shortName === "finalAppraisal") || (action.shortName === "heartAndSoul") ||
-            ((action.shortName === "prudentTouch") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
-            ((action.shortName === "prudentSynthesis") && ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns))) ||
-            ((action.shortName === "trainedFinesse") && (s.effects.countUps[AllActions.innerQuiet.shortName] < 10))) {
-            s.effects.countDowns[countDown] -= 0;
+        if (action.noCountDowns) {
+          s.effects.countDowns[countDown] -= 0;
         } else {
-            s.effects.countDowns[countDown] -= 1;
+          s.effects.countDowns[countDown] -= 1;
         }
 
         if (s.effects.countDowns[countDown] === 0) {
@@ -638,13 +635,14 @@ function UpdateState(s, action, progressGain, qualityGain, durabilityCost, cpCos
     s.lastDurabilityCost = durabilityCost;
     s.cpState -= cpCost;
     s.lastStep += 1;
-    ApplySpecialActionEffects(s, action, condition);
-    UpdateEffectCounters(s, action, condition, successProbability);
 
     if ((s.progressState >= s.synth.recipe.difficulty) && (AllActions.finalAppraisal.shortName in s.effects.countDowns)) {
         s.progressState = s.synth.recipe.difficulty - 1;
         delete s.effects.countDowns[AllActions.finalAppraisal.shortName];
     }
+
+    ApplySpecialActionEffects(s, action, condition);
+    UpdateEffectCounters(s, action, condition, successProbability);
 
     // Sanity checks for state variables
     /* Removing this for solveForCompletion, hopefully it doesn't cause issues! :)*/
