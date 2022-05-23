@@ -5,7 +5,7 @@
     .module('ffxivCraftOptWeb.controllers')
     .controller('SequenceEditorController', controller);
 
-  function controller($scope, $http, $state, _actionGroups, _actionsByName, _simulator, _getActionImagePath, _iActionClassSpecific, $translate) {
+  function controller($scope, $http, $state, _actionGroups, _actionsByName, _simulator, _getActionImagePath, _iActionClassSpecific, $translate, $rootScope) {
     $scope.actionGroups = _actionGroups;
     $scope.allActions = _actionsByName;
     $scope.getActionImagePath = _getActionImagePath;
@@ -28,6 +28,8 @@
     $scope.revert = revert;
     $scope.save = save;
     $scope.cancel = cancel;
+
+    $rootScope.disableClass = disableClass
 
     $scope.$on('sequence.editor.init', onSequenceEditorInit);
     $scope.$on('$stateChangeStart', onStateChangeStart);
@@ -65,12 +67,31 @@
       };
     }
 
+    function disableClass(action, index){
+      var prudentAction =
+        action === 'prudentSynthesis' || action === 'prudentTouch';
+      var sequence = $scope.simulatorStatus.sequence;
+      if (!sequence) return
+      var indexWasteNot2 = sequence.indexOf('wasteNot2');
+      var indexWasteNot = sequence.indexOf('wasteNot');
+      var WasteNotAction = false;
+
+      if (~indexWasteNot2) {
+        WasteNotAction = prudentAction && ( index > indexWasteNot2 && indexWasteNot2 + 8 > index);
+      }
+      if (~indexWasteNot) {
+        WasteNotAction = prudentAction && indexWasteNot + 4 >= index;
+      }
+      return WasteNotAction
+    }
+
     function actionClasses(action, cls, index) {
       var wastedAction = $scope.simulatorStatus.state && (index + 1 > $scope.simulatorStatus.state.lastStep);
       var cpExceeded = $scope.simulatorStatus.state && _actionsByName[action].cpCost > $scope.simulatorStatus.state.cp;
+
       return {
         'faded-icon': !isActionSelected(action, cls),
-        'wasted-action': wastedAction,
+        'wasted-action': wastedAction || disableClass(action, index),
         'action-no-cp': wastedAction && cpExceeded
       };
     }
