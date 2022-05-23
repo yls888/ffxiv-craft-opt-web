@@ -230,7 +230,7 @@
             var cpExceeded = wastedAction && _actionsByName[action].cpCost > $scope.simulatorStatus.state.cp;
 
             return {
-                'faded-icon': !$scope.isActionSelected(action, cls) || $rootScope.disableClass(action,index, $scope.sequence),
+                'faded-icon': !$scope.isActionSelected(action, cls) || $rootScope.prudentActionInWasteNot(action,index, $scope.sequence),
                 'wasted-action': wastedAction,
                 'action-no-cp': cpExceeded
             };
