@@ -23,11 +23,7 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
     this.isCombo = isCombo;
     this.comboActions = comboActions;
 
-    this.noCountDowns = [
-      "finalAppraisal",
-      "heartAndSoul",
-      "prudentTouch",
-    ].includes(shortName);
+    this.noCountDowns = ['finalAppraisal', 'heartAndSoul'].includes(shortName);
 }
 
 // Actions Table
