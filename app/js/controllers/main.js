@@ -34,6 +34,7 @@
     $scope.showSettingsImportModal = showSettingsImportModal;
 
     $scope.version = getApplicationVersion();
+    $rootScope.prudentActionInWasteNot = prudentActionInWasteNot
 
     $scope.languages = _languages;
 
@@ -355,29 +356,27 @@
 
     function isValidSequence(sequence, cls) {
       return !sequence || sequence.every(function (action, index) {
-          return isActionSelected(action, cls) && !isValidActionPrudent(sequence, action, index);
+          return isActionSelected(action, cls) && !prudentActionInWasteNot(action, index, sequence);
         });
     }
 
-    function isValidActionPrudent(sequence, action, index) {
+    function prudentActionInWasteNot(action, index, sequence){
+      if (!sequence) return
+      
       var prudentAction =
-        action === 'prudentSynthesis' || action === 'prudentTouch';
-
-      if (!sequence) return;
+        action === 'prudentSynthesis' || action === 'prudentTouch';      
       var indexWasteNot2 = sequence.indexOf('wasteNot2');
       var indexWasteNot = sequence.indexOf('wasteNot');
       var WasteNotAction = false;
 
       if (~indexWasteNot2) {
-        WasteNotAction =
-          prudentAction && index > indexWasteNot2 && indexWasteNot2 + 8 > index;
+        WasteNotAction = prudentAction && ( index > indexWasteNot2 && indexWasteNot2 + 8 >= index);
       }
       if (~indexWasteNot) {
-        WasteNotAction = prudentAction && indexWasteNot + 4 >= index;
+        WasteNotAction = prudentAction && ( index > indexWasteNot && indexWasteNot + 4 >= index); 
       }
-      return WasteNotAction;
+      return WasteNotAction
     }
-
 
     function showOptionsModal() {
       var modalInstance = $modal.open({
