@@ -354,10 +354,30 @@
     }
 
     function isValidSequence(sequence, cls) {
-      return !sequence || sequence.every(function (action) {
-          return isActionSelected(action, cls);
+      return !sequence || sequence.every(function (action, index) {
+          return isActionSelected(action, cls) && !isValidActionPrudent(sequence, action, index);
         });
     }
+
+    function isValidActionPrudent(sequence, action, index) {
+      var prudentAction =
+        action === 'prudentSynthesis' || action === 'prudentTouch';
+
+      if (!sequence) return;
+      var indexWasteNot2 = sequence.indexOf('wasteNot2');
+      var indexWasteNot = sequence.indexOf('wasteNot');
+      var WasteNotAction = false;
+
+      if (~indexWasteNot2) {
+        WasteNotAction =
+          prudentAction && index > indexWasteNot2 && indexWasteNot2 + 8 > index;
+      }
+      if (~indexWasteNot) {
+        WasteNotAction = prudentAction && indexWasteNot + 4 >= index;
+      }
+      return WasteNotAction;
+    }
+
 
     function showOptionsModal() {
       var modalInstance = $modal.open({

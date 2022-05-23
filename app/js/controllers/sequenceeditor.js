@@ -67,11 +67,11 @@
       };
     }
 
-    function disableClass(action, index){
+    function disableClass(action, index, sequence){
+      if (!sequence) return 
+      
       var prudentAction =
-        action === 'prudentSynthesis' || action === 'prudentTouch';
-      var sequence = $scope.simulatorStatus.sequence;
-      if (!sequence) return
+        action === 'prudentSynthesis' || action === 'prudentTouch';      
       var indexWasteNot2 = sequence.indexOf('wasteNot2');
       var indexWasteNot = sequence.indexOf('wasteNot');
       var WasteNotAction = false;
@@ -90,8 +90,8 @@
       var cpExceeded = $scope.simulatorStatus.state && _actionsByName[action].cpCost > $scope.simulatorStatus.state.cp;
 
       return {
-        'faded-icon': !isActionSelected(action, cls),
-        'wasted-action': wastedAction || disableClass(action, index),
+        'faded-icon': !isActionSelected(action, cls) || disableClass(action, index, $scope.editSequence),
+        'wasted-action': wastedAction,
         'action-no-cp': wastedAction && cpExceeded
       };
     }
