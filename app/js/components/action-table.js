@@ -64,11 +64,11 @@
         }
 
         function actionDisable(e, s) {
-            if (!s)
-                $scope.effects = {countUps: {}}
-
-            if (!(AllActions.innerQuiet.shortName in s.effects.countUps) || s.effects.countUps[AllActions.innerQuiet.shortName] < 10) {
-                $scope.effects.trainedFinesse = false
+            $scope.effects = {}
+            if (!s) return;
+                
+            if (!(s.effects.countUps && s.effects.countUps[AllActions.innerQuiet.shortName]) || s.effects.countUps[AllActions.innerQuiet.shortName] < 10) {
+                $scope.effects.trainedFinesseNot = true
             }
             if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
                 $scope.effects.wasteNot = true
@@ -76,7 +76,7 @@
         }
 
         function isDisabled(action) {
-            if (action === "trainedFinesse" && $scope.effects.trainedFinesse === false) {
+            if (action === "trainedFinesse" && $scope.effects.trainedFinesseNot === true) {
                 return true
             } else if ((action === "prudentSynthesis" || action === "prudentTouch") && $scope.effects.wasteNot === true) {
                 return true
