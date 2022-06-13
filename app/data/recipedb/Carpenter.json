@@ -13112,6 +13112,50 @@
     "suggestedCraftsmanship": 2805
   },
   {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Simple Arched Window",
+      "de": "Schlichtes Bogenfenster",
+      "en": "Simple Arched Window",
+      "fr": "Fenêtre en plein cintre simple",
+      "ja": "シンプルアーチウィンドウ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5447,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Raised Wooden Deck",
+      "de": "Hölzernes Hochdeck",
+      "en": "Raised Wooden Deck",
+      "fr": "Terrasse en bois surélevée",
+      "ja": "レイズド・ウッドデッキ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5453,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -24528,6 +24572,116 @@
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1780,
+    "durability": 60,
+    "level": 430,
+    "maxQuality": 3680,
+    "name": {
+      "cn": "Aetheroconductive Quill",
+      "de": "Akademisches Schreibset",
+      "en": "Aetheroconductive Quill",
+      "fr": "Matériel d'écriture scolaire",
+      "ja": "留学生用の筆記具"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 34921,
+    "stars": 0,
+    "suggestedControl": 1733,
+    "suggestedCraftsmanship": 1866
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 1900,
+    "durability": 60,
+    "level": 440,
+    "maxQuality": 3960,
+    "name": {
+      "cn": "Aetheroconductive Focus",
+      "de": "Akademisches Magie-Rüstzeug",
+      "en": "Aetheroconductive Focus",
+      "fr": "Fournitures scolaires magiques",
+      "ja": "留学生用の魔器"
+    },
+    "progressDivider": 110,
+    "progressModifier": 100,
+    "qualityDivider": 90,
+    "qualityModifier": 100,
+    "recipeId": 34922,
+    "stars": 1,
+    "suggestedControl": 1860,
+    "suggestedCraftsmanship": 2000
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Luncheon Coffer",
+      "de": "Ätherothermosdose",
+      "en": "Luncheon Coffer",
+      "fr": "Boîte à déjeuner magique",
+      "ja": "魔法のランチボックス"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 34923,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Aetheroconductive Mammet",
+      "de": "Ätherionette",
+      "en": "Aetheroconductive Mammet",
+      "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
+      "ja": "特訓用の魔法人形"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 34924,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "School Supplies",
+      "de": "Akademische Ausstattung",
+      "en": "School Supplies",
+      "fr": "Affaires de soutien scolaire",
+      "ja": "学習支援用の支給品"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 34925,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
   },
   {
     "baseLevel": 90,
