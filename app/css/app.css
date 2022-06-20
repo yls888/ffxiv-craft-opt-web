@@ -952,3 +952,14 @@ label.disabled {
     -moz-box-sizing: border-box;    /* For Firefox                          */
     -webkit-box-sizing: border-box; /* For Safari                           */
 }
+@media screen and (max-width: 767px) {
+  .helps-bottom {
+    display: none !important;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .helps-top {
+    display: none !important;
+  }
+}
