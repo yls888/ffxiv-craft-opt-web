@@ -39,7 +39,7 @@
         return undefined;
       }
 
-      var regex = /\/ac(tion)?\s+"(.*?)"\s*<wait\.\d+>/g;
+      var regex = /\/ac(tion)?\s+"?(.*?)"?\s*<wait\.\d+.?\d?>/g;
       var newSequence = [];
       var result;
       while (result = regex.exec(macroString)) {
