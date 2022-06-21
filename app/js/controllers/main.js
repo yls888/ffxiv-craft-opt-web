@@ -437,28 +437,28 @@
 
       $scope.sequenceSettings = {
         maxTricksUses: 0,
-        maxMontecarloRuns: 400,
+        maxMontecarloRuns: 500,
         reliabilityPercent: 100,
         maxLengthEnabled: false,
         maxLength: 50,
         specifySeed: false,
         seed: 1337,
         monteCarloMode: 'advanced',
-        useConditions: false,
+        useConditions: true,
         conditionalActionHandling: 'skipUnusable',
-        debug: true
+        debug: false
       };
 
       $scope.solver = {
         algorithm: 'eaComplex',
         penaltyWeight: 10000,
-        population: 12000,
+        population: 300,
         subPopulations: 6,
         solveForCompletion: false,
         remainderCPFitnessValue: 10,
         remainderDurFitnessValue: 100,
         maxStagnationCounter: 20,
-        generations: 750
+        generations: 100
       };
 
       $scope.macroOptions = {
