@@ -16462,7 +16462,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Pendant Lamp",
+      "cn": "雪峰吊灯",
       "de": "Coerthas-Deckenleuchte",
       "en": "Highland Pendant Lamp",
       "fr": "Suspension coerthienne",
@@ -16484,7 +16484,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Deluxe Highland Pendant Lamp",
+      "cn": "雪峰豪华吊灯",
       "de": "Coerthas-Prachtdeckenleuchte",
       "en": "Deluxe Highland Pendant Lamp",
       "fr": "Plafonnier coerthien",
@@ -16506,7 +16506,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Chandelier",
+      "cn": "雪峰枝形吊灯",
       "de": "Coerthas-Kronleuchter",
       "en": "Highland Chandelier",
       "fr": "Lustre coerthien",
@@ -16528,7 +16528,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Rounded Chimney",
+      "cn": "雪峰圆形烟囱",
       "de": "Coerthas-Rundschornstein",
       "en": "Highland Rounded Chimney",
       "fr": "Cheminée cylindrique coerthienne",
@@ -16550,7 +16550,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Placard",
+      "cn": "雪峰门牌",
       "de": "Coerthas-Wappenplakette",
       "en": "Highland Placard",
       "fr": "Enseigne murale coerthienne",
@@ -16572,7 +16572,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Hanging Placard",
+      "cn": "雪峰悬挂门牌",
       "de": "Coerthas-Aushängeschild",
       "en": "Highland Hanging Placard",
       "fr": "Enseigne à potence coerthienne",
@@ -16594,7 +16594,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Banner",
+      "cn": "雪峰标旗",
       "de": "Coerthas-Wappenbanner",
       "en": "Highland Banner",
       "fr": "Bannière sur mât coerthienne",
@@ -16616,7 +16616,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Amaurotine Spire Chandelier",
+      "cn": "亚马乌罗提枝形吊灯",
       "de": "Amaurot-Deckenbeleuchtung",
       "en": "Amaurotine Spire Chandelier",
       "fr": "Lustre amaurotain",
@@ -16638,7 +16638,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Log Rack",
+      "cn": "木柴架",
       "de": "Feuerholzregal",
       "en": "Log Rack",
       "fr": "Porte-bûches",
@@ -16660,7 +16660,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Ironworks Tool Set",
+      "cn": "加隆德工具套装",
       "de": "Garlond-Werkzeugbrett",
       "en": "Ironworks Tool Set",
       "fr": "Outils des Forges",
@@ -16682,7 +16682,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Factory Pillar",
+      "cn": "复制立柱",
       "de": "Fabrikpfeiler",
       "en": "Factory Pillar",
       "fr": "Pilier usine désaffectée",
@@ -16704,7 +16704,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "House Fortemps Fireplace",
+      "cn": "福尔唐府邸壁炉",
       "de": "Fortemps-Kamin",
       "en": "House Fortemps Fireplace",
       "fr": "Cheminée du manoir des Fortemps",
@@ -16748,7 +16748,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Garden Gate",
+      "cn": "花园大门",
       "de": "Gartentor",
       "en": "Garden Gate",
       "fr": "Portail de jardin",
@@ -30410,7 +30410,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Halfheart Saw",
+      "cn": "条约圆手锯",
       "de": "Paktschließer-Rundsäge",
       "en": "Pactmaker's Halfheart Saw",
       "fr": "Scie ronde des associés",
@@ -30432,7 +30432,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Cross-pein Hammer",
+      "cn": "条约横头锤",
       "de": "Paktschließer-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Pactmaker's Cross-pein Hammer",
       "fr": "Marteau à panne croisée des associés",
@@ -30454,7 +30454,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Raising Hammer",
+      "cn": "条约圆头锤",
       "de": "Paktschließer-Schlichthammer",
       "en": "Pactmaker's Raising Hammer",
       "fr": "Marteau de batteur des associés",
@@ -30476,7 +30476,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Lapidary Hammer",
+      "cn": "条约工艺锤",
       "de": "Paktschließer-Juwelierhammer",
       "en": "Pactmaker's Lapidary Hammer",
       "fr": "Marteau de lapidaire des associés",
@@ -30498,7 +30498,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Creasing Knife",
+      "cn": "条约制革刀",
       "de": "Paktschließer-Rillmesser",
       "en": "Pactmaker's Creasing Knife",
       "fr": "Couteau de tanneur des associés",
@@ -30520,7 +30520,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Pickaxe",
+      "cn": "条约鹤嘴锄",
       "de": "Paktschließer-Spitzhacke",
       "en": "Pactmaker's Pickaxe",
       "fr": "Pioche des associés",
@@ -30542,7 +30542,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Hatchet",
+      "cn": "条约手斧",
       "de": "Paktschließer-Handbeil",
       "en": "Pactmaker's Hatchet",
       "fr": "Hachette des associés",
@@ -30564,7 +30564,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Claw Hammer",
+      "cn": "条约羊角锤",
       "de": "Paktschließer-Klauenhammer",
       "en": "Pactmaker's Claw Hammer",
       "fr": "Marteau arrache-clou des associés",
@@ -30586,7 +30586,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's File",
+      "cn": "条约锉刀",
       "de": "Paktschließer-Feile",
       "en": "Pactmaker's File",
       "fr": "Lime des associés",
@@ -30608,7 +30608,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Pliers",
+      "cn": "条约手钳",
       "de": "Paktschließer-Zange",
       "en": "Pactmaker's Pliers",
       "fr": "Tenailles des associés",
@@ -30630,7 +30630,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Awl",
+      "cn": "条约平斩",
       "de": "Paktschließer-Ahle",
       "en": "Pactmaker's Awl",
       "fr": "Alêne des associés",
@@ -30652,7 +30652,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Mortar",
+      "cn": "条约研钵",
       "de": "Paktschließer-Mörser",
       "en": "Pactmaker's Mortar",
       "fr": "Mortier des associés",
@@ -30674,7 +30674,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Culinary Knife",
+      "cn": "条约厨刀",
       "de": "Paktschließer-Küchenmesser",
       "en": "Pactmaker's Culinary Knife",
       "fr": "Couteau de cuisine des associés",
@@ -30696,7 +30696,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Sledgehammer",
+      "cn": "条约碎石锤",
       "de": "Paktschließer-Vorschlaghammer",
       "en": "Pactmaker's Sledgehammer",
       "fr": "Maillet des associés",
@@ -30718,7 +30718,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Garden Scythe",
+      "cn": "条约园艺镰",
       "de": "Paktschließer-Gartensense",
       "en": "Pactmaker's Garden Scythe",
       "fr": "Faux de jardinage des associés",
@@ -30740,7 +30740,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "Gunblade of the Round",
+      "cn": "圆桌之枪刃",
       "de": "Revolver<SoftHyphen/>klinge der Runde",
       "en": "Gunblade of the Round",
       "fr": "Pistolame de la Table ronde",
@@ -30762,7 +30762,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "War Quoits of the Round",
+      "cn": "圆桌之战轮",
       "de": "Wurfringe der Runde",
       "en": "War Quoits of the Round",
       "fr": "Quoits de la Table ronde",
@@ -30784,7 +30784,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "Sickle of the Round",
+      "cn": "圆桌之夺命镰",
       "de": "Sense der Runde",
       "en": "Sickle of the Round",
       "fr": "Faucille de la Table ronde",
@@ -30806,7 +30806,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Knuckles",
+      "cn": "豪勇铁甲",
       "de": "Schlagringe des Meeresgottes",
       "en": "Susano's Rapturous Knuckles",
       "fr": "Poings-de-fer de Susano flamboyants",
@@ -30828,7 +30828,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous War Axe",
+      "cn": "豪勇战斧",
       "de": "Kriegsaxt des Meeresgottes",
       "en": "Susano's Rapturous War Axe",
       "fr": "Hache de guerre de Susano flamboyante",
@@ -30850,7 +30850,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Kunai",
+      "cn": "豪勇苦无",
       "de": "Kunai des Meeresgottes",
       "en": "Susano's Rapturous Kunai",
       "fr": "Kunai de Susano flamboyants",
@@ -30872,7 +30872,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Greatsword",
+      "cn": "豪勇大剑",
       "de": "Großschwert des Meeresgottes",
       "en": "Susano's Rapturous Greatsword",
       "fr": "Grande épée de Susano flamboyante",
@@ -30894,7 +30894,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Revolver",
+      "cn": "豪勇短铳",
       "de": "Revolver des Meeresgottes",
       "en": "Susano's Rapturous Revolver",
       "fr": "Mousqueton de Susano flamboyant",
@@ -30916,7 +30916,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Tachi",
+      "cn": "豪勇太刀",
       "de": "Tachi des Meeresgottes",
       "en": "Susano's Rapturous Tachi",
       "fr": "Tachi de Susano flamboyant",
@@ -30938,7 +30938,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Arms",
+      "cn": "豪勇骑士武具",
       "de": "Paladin-Rüstzeug des Meeresgottes",
       "en": "Susano's Rapturous Arms",
       "fr": "Attirail de Susano flamboyant pour paladin",
@@ -30960,7 +30960,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Bluefeather Astrolabos",
+      "cn": "蓝羽星盘",
       "de": "Blaufeder-Astrolabos",
       "en": "Bluefeather Astrolabos",
       "fr": "Astrolabe à plumes bleues",

@@ -11050,7 +11050,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Roof (Stone)",
+      "cn": "石制雪峰小屋房顶",
       "de": "Coerthas-Steinhüttendach",
       "en": "Highland Cottage Roof (Stone)",
       "fr": "Toit de maisonnette en pierre coerthienne",
@@ -11072,7 +11072,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Roof (Stone)",
+      "cn": "石制雪峰公馆房顶",
       "de": "Coerthas-Steinhausdach",
       "en": "Highland House Roof (Stone)",
       "fr": "Toit de pavillon en pierre coerthien",
@@ -11094,7 +11094,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Roof (Stone)",
+      "cn": "石制雪峰别墅房顶",
       "de": "Coerthas-Steinresidenzdach",
       "en": "Highland Mansion Roof (Stone)",
       "fr": "Toit de villa en pierre coerthienne",
@@ -11116,7 +11116,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Wall (Stone)",
+      "cn": "石制雪峰小屋外墙",
       "de": "Coerthas-Steinhüttenmauer",
       "en": "Highland Cottage Wall (Stone)",
       "fr": "Mur de maisonnette en pierre coerthienne",
@@ -11138,7 +11138,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Wall (Stone)",
+      "cn": "石制雪峰公馆外墙",
       "de": "Coerthas-Steinhausmauer",
       "en": "Highland House Wall (Stone)",
       "fr": "Mur de pavillon en pierre coerthien",
@@ -11160,7 +11160,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Wall (Stone)",
+      "cn": "石制雪峰别墅外墙",
       "de": "Coerthas-Steinresidenzmauer",
       "en": "Highland Mansion Wall (Stone)",
       "fr": "Mur de villa en pierre coerthienne",
@@ -11182,7 +11182,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Ornate Door",
+      "cn": "雪峰装饰门",
       "de": "Coerthas-Ornamenttür",
       "en": "Highland Ornate Door",
       "fr": "Porte ornée coerthienne",
@@ -11204,7 +11204,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Composite Chimney",
+      "cn": "雪峰混合制烟囱",
       "de": "Coerthas-Kompositschornstein",
       "en": "Highland Composite Chimney",
       "fr": "Cheminée composite coerthienne",
@@ -11226,7 +11226,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Stone Awning",
+      "cn": "雪峰石制遮蓬",
       "de": "Coerthas-Steinüberdachung",
       "en": "Highland Stone Awning",
       "fr": "Auvent en pierre coerthien",
@@ -11248,7 +11248,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Steel Locker",
+      "cn": "白钢储物柜",
       "de": "Stahlspind",
       "en": "Steel Locker",
       "fr": "Casier métallique",
@@ -11270,7 +11270,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Cathedral Lectern",
+      "cn": "大圣堂讲坛",
       "de": "Kathedralenrednerpult",
       "en": "Cathedral Lectern",
       "fr": "Chaire de cathédrale",
@@ -23304,7 +23304,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Alembic",
+      "cn": "条约蒸馏器",
       "de": "Paktschließer-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Pactmaker's Alembic",
       "fr": "Alambic des associés",
@@ -23326,7 +23326,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Arkasodara Frypan",
+      "cn": "条约悌阳象煎锅",
       "de": "Paktschließer-Arkasodara-Bratpfanne",
       "en": "Pactmaker's Arkasodara Frypan",
       "fr": "Poêle à frire arkasodara des associés",
@@ -23348,7 +23348,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Arms",
+      "cn": "豪勇骑士武具",
       "de": "Paladin-Rüstzeug des Meeresgottes",
       "en": "Susano's Rapturous Arms",
       "fr": "Attirail de Susano flamboyant pour paladin",
@@ -23370,7 +23370,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Bluefeather Barding",
+      "cn": "蓝羽陆行鸟装甲",
       "de": "Blaufeder-Rossharnisch",
       "en": "Bluefeather Barding",
       "fr": "Barde à plumes bleues",

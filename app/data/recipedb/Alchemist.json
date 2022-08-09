@@ -11776,7 +11776,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Roof (Composite)",
+      "cn": "混合制雪峰小屋房顶",
       "de": "Coerthas-Komposithüttendach",
       "en": "Highland Cottage Roof (Composite)",
       "fr": "Toit de maisonnette composite coerthienne",
@@ -11798,7 +11798,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Roof (Composite)",
+      "cn": "混合制雪峰公馆房顶",
       "de": "Coerthas-Komposithausdach",
       "en": "Highland House Roof (Composite)",
       "fr": "Toit de pavillon composite coerthien",
@@ -11820,7 +11820,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Roof (Composite)",
+      "cn": "混合制雪峰别墅房顶",
       "de": "Coerthas-Kompositresidenzdach",
       "en": "Highland Mansion Roof (Composite)",
       "fr": "Toit de villa composite coerthienne",
@@ -11842,7 +11842,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Wall (Composite)",
+      "cn": "混合制雪峰小屋外墙",
       "de": "Coerthas-Komposithüttenmauer",
       "en": "Highland Cottage Wall (Composite)",
       "fr": "Mur de maisonnette composite coerthienne",
@@ -11864,7 +11864,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Wall (Composite)",
+      "cn": "混合制雪峰公馆外墙",
       "de": "Coerthas-Komposithausmauer",
       "en": "Highland House Wall (Composite)",
       "fr": "Mur de pavillon composite coerthien",
@@ -11886,7 +11886,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Wall (Composite)",
+      "cn": "混合制雪峰别墅外墙",
       "de": "Coerthas-Kompositresidenzmauer",
       "en": "Highland Mansion Wall (Composite)",
       "fr": "Mur de villa composite coerthienne",
@@ -11908,7 +11908,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Classical Window",
+      "cn": "雪峰古典窗",
       "de": "Klassisches Coerthas-Fenster",
       "en": "Highland Classical Window",
       "fr": "Fenêtre classique coerthienne",
@@ -11930,7 +11930,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Interior Wall",
+      "cn": "雪峰内墙",
       "de": "Coerthas-Wandvertäfelung",
       "en": "Highland Interior Wall",
       "fr": "Revêtement mural coerthien",
@@ -11952,7 +11952,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Composite Awning",
+      "cn": "雪峰混合制遮蓬",
       "de": "Coerthas-Kompositüberdachung",
       "en": "Highland Composite Awning",
       "fr": "Auvent composite coerthien",
@@ -11974,7 +11974,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Ivy Curtain",
+      "cn": "常春藤幕帘",
       "de": "Efeuvorhang",
       "en": "Ivy Curtain",
       "fr": "Rideau de lierre",
@@ -11996,7 +11996,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Planter Set",
+      "cn": "植物套装",
       "de": "Gartenblumenarrangement",
       "en": "Planter Set",
       "fr": "Ensemble de jardinières",
@@ -12018,7 +12018,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Red Byregotia Choker",
+      "cn": "红色比尔格紫罗兰项环",
       "de": "Rote Byregotia-Halskette",
       "en": "Red Byregotia Choker",
       "fr": "Ras de cou byregotia rouge",
@@ -12040,7 +12040,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Blue Byregotia Choker",
+      "cn": "蓝色比尔格紫罗兰项环",
       "de": "Blaue Byregotia-Halskette",
       "en": "Blue Byregotia Choker",
       "fr": "Ras de cou byregotia bleue",
@@ -12062,7 +12062,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Yellow Byregotia Choker",
+      "cn": "黄色比尔格紫罗兰项环",
       "de": "Gelbe Byregotia-Halskette",
       "en": "Yellow Byregotia Choker",
       "fr": "Ras de cou byregotia jaune",
@@ -12084,7 +12084,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Green Byregotia Choker",
+      "cn": "绿色比尔格紫罗兰项环",
       "de": "Grüne Byregotia-Halskette",
       "en": "Green Byregotia Choker",
       "fr": "Ras de cou byregotia verte",
@@ -12106,7 +12106,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Orange Byregotia Choker",
+      "cn": "橙色比尔格紫罗兰项环",
       "de": "Orange Byregotia-Halskette",
       "en": "Orange Byregotia Choker",
       "fr": "Ras de cou byregotia orange",
@@ -12128,7 +12128,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Purple Byregotia Choker",
+      "cn": "紫色比尔格紫罗兰项环",
       "de": "Violette Byregotia-Halskette",
       "en": "Purple Byregotia Choker",
       "fr": "Ras de cou byregotia violette",
@@ -12150,7 +12150,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "White Byregotia Choker",
+      "cn": "白色比尔格紫罗兰项环",
       "de": "Weiße Byregotia-Halskette",
       "en": "White Byregotia Choker",
       "fr": "Ras de cou byregotia blanche",
@@ -12172,7 +12172,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Black Byregotia Choker",
+      "cn": "黑色比尔格紫罗兰项环",
       "de": "Schwarze Byregotia-Halskette",
       "en": "Black Byregotia Choker",
       "fr": "Ras de cou byregotia noire",
@@ -12194,7 +12194,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "Rainbow Byregotia Choker",
+      "cn": "混色比尔格紫罗兰项环",
       "de": "Mehrfarbige Byregotia-Halskette",
       "en": "Rainbow Byregotia Choker",
       "fr": "Ras de cou byregotia multicolore",
@@ -19982,7 +19982,7 @@
     "level": 320,
     "maxQuality": 2400,
     "name": {
-      "cn": "管弦乐琴乐谱：环境音:海中",
+      "cn": "管弦乐琴乐谱：海中",
       "de": "Notenrolle von „Tiefenrausch“",
       "en": "Ambient Abyss Orchestrion Roll",
       "fr": "Rouleau “Ambiance sous-marine”",
@@ -24734,7 +24734,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Grimoire",
+      "cn": "豪勇经典",
       "de": "Grimoire des Meeresgottes",
       "en": "Susano's Rapturous Grimoire",
       "fr": "Sûtra de Susano flamboyant",
@@ -24756,7 +24756,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Codex",
+      "cn": "豪勇文书",
       "de": "Kodex des Meeresgottes",
       "en": "Susano's Rapturous Codex",
       "fr": "Écrit de Susano flamboyant",
@@ -24778,7 +24778,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "The Final Day Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：终结之战",
       "de": "Notenrolle von „The Final Day“",
       "en": "The Final Day Orchestrion Roll",
       "fr": "Rouleau “The Final Day”",
@@ -24800,7 +24800,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "With Hearts Aligned Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：情感所影响的力量",
       "de": "Notenrolle von „With Hearts Aligned“",
       "en": "With Hearts Aligned Orchestrion Roll",
       "fr": "Rouleau “With Hearts Aligned”",
@@ -24822,7 +24822,7 @@
     "level": 590,
     "maxQuality": 8400,
     "name": {
-      "cn": "Hannish Fiber",
+      "cn": "萨维奈纤维",
       "de": "Thavnair-Faser",
       "en": "Hannish Fiber",
       "fr": "Fibre thavnairoise",

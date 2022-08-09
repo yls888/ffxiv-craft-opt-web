@@ -22116,7 +22116,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Stone Chimney",
+      "cn": "雪峰石制烟囱",
       "de": "Coerthas-Steinschornstein",
       "en": "Highland Stone Chimney",
       "fr": "Cheminée en pierre coerthienne",
@@ -22138,7 +22138,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Stone Wall",
+      "cn": "雪峰石制围墙",
       "de": "Coerthas-Steinmauer",
       "en": "Highland Stone Wall",
       "fr": "Muret en pierre coerthien",
@@ -22160,7 +22160,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Fence",
+      "cn": "雪峰栅栏围墙",
       "de": "Coerthas-Steinbogenmauer",
       "en": "Highland Fence",
       "fr": "Muret arqué coerthien",
@@ -22182,7 +22182,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Potting Fence",
+      "cn": "雪峰园艺围墙",
       "de": "Coerthas-Gartenmauer",
       "en": "Highland Potting Fence",
       "fr": "Muret de jardinage coerthien",
@@ -22204,7 +22204,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Amaurotine Interior Wall",
+      "cn": "亚马乌罗提内墙",
       "de": "Amaurot-Innenwand",
       "en": "Amaurotine Interior Wall",
       "fr": "Revêtement mural amaurotain",
@@ -22226,7 +22226,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Amaurotine Flooring",
+      "cn": "亚马乌罗提地板",
       "de": "Amaurot-Boden",
       "en": "Amaurotine Flooring",
       "fr": "Parquet amaurotain",
@@ -22248,7 +22248,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Indoor Marble Fountain",
+      "cn": "大理石室内喷泉",
       "de": "Marmorzimmerbrunnen",
       "en": "Indoor Marble Fountain",
       "fr": "Fontaine d'intérieur en marbre",
@@ -22270,7 +22270,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Riviera Swinging-door Counter",
+      "cn": "海滨弹簧门柜台",
       "de": "Riviera-Schwingtürtheke",
       "en": "Riviera Swinging-door Counter",
       "fr": "Comptoir à porte battante noscéen",
@@ -22314,7 +22314,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Alpine Open-air Bath",
+      "cn": "伊修加德浴室",
       "de": "Ishgarder Badehaus",
       "en": "Alpine Open-air Bath",
       "fr": "Bain extérieur ishgardais",
@@ -22336,7 +22336,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Ivy-covered Bridge",
+      "cn": "常春藤白拱桥",
       "de": "Efeubehangene Zierbrücke",
       "en": "Ivy-covered Bridge",
       "fr": "Pont blanc couvert de lierre",
@@ -37186,7 +37186,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Needle",
+      "cn": "条约缝针",
       "de": "Paktschließer-Nadel",
       "en": "Pactmaker's Needle",
       "fr": "Aiguille des associés",
@@ -37208,7 +37208,7 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "Milpreves of the Round",
+      "cn": "圆桌之蛇石针",
       "de": "Hascherlite der Runde",
       "en": "Milpreves of the Round",
       "fr": "Mein gwrac'h de la Table ronde",
@@ -37230,7 +37230,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Rod",
+      "cn": "豪勇咒杖",
       "de": "Stab des Meeresgottes",
       "en": "Susano's Rapturous Rod",
       "fr": "Bâton de Susano flamboyant",
@@ -37252,7 +37252,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Ephemeris",
+      "cn": "豪勇干支",
       "de": "Astrometer des Meeresgottes",
       "en": "Susano's Rapturous Ephemeris",
       "fr": "Éphéméridosphère de Susano flamboyante",
@@ -37274,7 +37274,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Rapier",
+      "cn": "豪勇细剑",
       "de": "Rapier des Meeresgottes",
       "en": "Susano's Rapturous Rapier",
       "fr": "Rapière de Susano flamboyante",
@@ -37296,7 +37296,7 @@
     "level": 590,
     "maxQuality": 8400,
     "name": {
-      "cn": "Eblan Danburite",
+      "cn": "艾布拉纳赛黄晶",
       "de": "Eblan-Danburit",
       "en": "Eblan Danburite",
       "fr": "Danburite d'Éblana",

@@ -12722,7 +12722,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Roof (Wood)",
+      "cn": "木制雪峰小屋房顶",
       "de": "Coerthas-Holzhüttendach",
       "en": "Highland Cottage Roof (Wood)",
       "fr": "Toit de maisonnette en bois coerthienne",
@@ -12744,7 +12744,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Roof (Wood)",
+      "cn": "木制雪峰公馆房顶",
       "de": "Coerthas-Holzhausdach",
       "en": "Highland House Roof (Wood)",
       "fr": "Toit de pavillon en bois coerthien",
@@ -12766,7 +12766,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Roof (Wood)",
+      "cn": "木制雪峰别墅房顶",
       "de": "Coerthas-Holzresidenzdach",
       "en": "Highland Mansion Roof (Wood)",
       "fr": "Toit de villa en bois coerthienne",
@@ -12788,7 +12788,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Wall (Wood)",
+      "cn": "木制雪峰小屋外墙",
       "de": "Coerthas-Holzhüttenmauer",
       "en": "Highland Cottage Wall (Wood)",
       "fr": "Mur de maisonnette en bois coerthienne",
@@ -12810,7 +12810,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Wall (Wood)",
+      "cn": "木制雪峰公馆外墙",
       "de": "Coerthas-Holzhausmauer",
       "en": "Highland House Wall (Wood)",
       "fr": "Mur de pavillon en bois coerthien",
@@ -12832,7 +12832,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Wall (Wood)",
+      "cn": "木制雪峰别墅外墙",
       "de": "Coerthas-Holzresidenzmauer",
       "en": "Highland Mansion Wall (Wood)",
       "fr": "Mur de villa en bois coerthienne",
@@ -12854,7 +12854,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Lancet Window",
+      "cn": "雪峰尖窗",
       "de": "Coerthas-Bogenfenster",
       "en": "Highland Lancet Window",
       "fr": "Fenêtre à lancette coerthienne",
@@ -12876,7 +12876,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Oblong Window",
+      "cn": "雪峰方窗",
       "de": "Coerthas-Langfenster",
       "en": "Highland Oblong Window",
       "fr": "Fenêtre à croisée coerthienne",
@@ -12898,7 +12898,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Wooden Door",
+      "cn": "雪峰木制门",
       "de": "Coerthas-Holztür",
       "en": "Highland Wooden Door",
       "fr": "Porte boisée coerthienne",
@@ -12920,7 +12920,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Classical Door",
+      "cn": "雪峰古典门",
       "de": "Coerthas-Monumentaltür",
       "en": "Highland Classical Door",
       "fr": "Porte classique coerthienne",
@@ -12942,7 +12942,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Flooring",
+      "cn": "雪峰地板",
       "de": "Coerthas-Parkettboden",
       "en": "Highland Flooring",
       "fr": "Parquet coerthien",
@@ -12964,7 +12964,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Wooden Awning",
+      "cn": "雪峰木制遮蓬",
       "de": "Coerthas-Holzüberdachung",
       "en": "Highland Wooden Awning",
       "fr": "Auvent boisé coerthien",
@@ -12986,7 +12986,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Classic Dresser",
+      "cn": "古典梳妆台",
       "de": "Frisierkommode",
       "en": "Classic Dresser",
       "fr": "Coiffeuse classique",
@@ -13008,7 +13008,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Eastern Canopy Bed",
+      "cn": "东方四柱床",
       "de": "Fernöstliches Himmelbett",
       "en": "Eastern Canopy Bed",
       "fr": "Lit à baldaquin oriental",
@@ -13030,7 +13030,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Kweh-kweh Clock",
+      "cn": "咕哎钟",
       "de": "Kwehkwehksuhr",
       "en": "Kweh-kweh Clock",
       "fr": "Horloge kwé-kwé",
@@ -13052,7 +13052,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Luminous Wooden Loft",
+      "cn": "底灯木制夹层楼板",
       "de": "Hölzerne Empore mit Beleuchtung",
       "en": "Luminous Wooden Loft",
       "fr": "Mezzanine en bois éclairée",
@@ -13074,7 +13074,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Trick Bookshelf Partition",
+      "cn": "书柜暗门隔离墙",
       "de": "Bücherregal-Geheimtür",
       "en": "Trick Bookshelf Partition",
       "fr": "Bibliothèque à porte secrète",
@@ -13096,7 +13096,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Imitation Alpine Window",
+      "cn": "仿制伊修加德方窗",
       "de": "Ishgarder Fensterimitation",
       "en": "Imitation Alpine Window",
       "fr": "Imitation de fenêtre ishgardaise",
@@ -24690,7 +24690,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Fishing Rod",
+      "cn": "条约钓竿",
       "de": "Paktschließer-Angelrute",
       "en": "Pactmaker's Fishing Rod",
       "fr": "Canne à pêche des associés",
@@ -24712,7 +24712,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Grinding Wheel",
+      "cn": "条约砂轮机",
       "de": "Paktschließer-Schleifrad",
       "en": "Pactmaker's Grinding Wheel",
       "fr": "Meule des associés",
@@ -24734,7 +24734,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Spinning Wheel",
+      "cn": "条约纺车",
       "de": "Paktschließer-Spinnrad",
       "en": "Pactmaker's Spinning Wheel",
       "fr": "Rouet des associés",
@@ -24756,7 +24756,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Pike",
+      "cn": "豪勇长矛",
       "de": "Pike des Meeresgottes",
       "en": "Susano's Rapturous Pike",
       "fr": "Longue lance de Susano flamboyante",
@@ -24778,7 +24778,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Greatbow",
+      "cn": "豪勇大弓",
       "de": "Langbogen des Meeresgottes",
       "en": "Susano's Rapturous Greatbow",
       "fr": "Grand arc de Susano flamboyant",
@@ -24800,7 +24800,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Cane",
+      "cn": "豪勇锡杖",
       "de": "Stock des Meeresgottes",
       "en": "Susano's Rapturous Cane",
       "fr": "Khakkhara de Susano flamboyant",
