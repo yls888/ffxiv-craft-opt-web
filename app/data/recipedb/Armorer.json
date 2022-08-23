@@ -15825,8 +15825,8 @@
     "maxQuality": 2900,
     "name": {
       "cn": "惊雷骑士武具",
-      "de": "Paladin-Rüstzeug des mächtigen Donners",
-      "en": "Paladin's Levin Arms",
+      "de": "Paladin-Rüstzeug des mächtigen Donners (G.-St. 110)",
+      "en": "Paladin's Mighty Levin Arms",
       "fr": "Attirail du Patriarche pour paladin",
       "ja": "レヴィン・ナイトギア"
     },
@@ -15847,7 +15847,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "无尽云神骑士武具",
-      "de": "Paladin-Rüstzeug der endlosen Weiten",
+      "de": "Paladin-Rüstzeug der endlosen Weiten (G.-St. 180)",
       "en": "Paladin's Endless Expanse Arms",
       "fr": "Attirail du Migrateur pour paladin",
       "ja": "エクスパンス・ナイトギア"
@@ -16133,9 +16133,9 @@
     "maxQuality": 2900,
     "name": {
       "cn": "偃武骑士武具",
-      "de": "Paladin-Rüstzeug der Kolonie",
+      "de": "Paladin-Rüstzeug der Kolonie (G.-St. 180)",
       "en": "Paladin's Dead Hive Arms",
-      "fr": "Attirail du Maître des lames pour paladin ",
+      "fr": "Attirail du Maître des lames pour paladin",
       "ja": "ハイヴ・ナイトギア"
     },
     "progressDivider": 70,
@@ -16155,9 +16155,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "圆桌之骑士武具",
-      "de": "Rüstzeug der Runde",
+      "de": "Rüstzeug der Runde (G.-St. 180)",
       "en": "Paladin's Arms of the Round",
-      "fr": "Coffre d'arme de chevalier de la Table ronde",
+      "fr": "Attirail de chevalier de la Table ronde pour paladin",
       "ja": "ナイトギア・オブ・ラウンド"
     },
     "progressDivider": 70,
@@ -16221,9 +16221,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "生命骑士武具",
-      "de": "Paladin-Rüstzeug des Baumgottes",
+      "de": "Paladin-Rüstzeug des Baumgottes (G.-St. 180)",
       "en": "Paladin's Fiend Arms",
-      "fr": "Attirail du Fiélon pour paladin ",
+      "fr": "Attirail du Fiélon pour paladin",
       "ja": "ナイトギア・オブ・フィーンド"
     },
     "progressDivider": 70,
@@ -17189,7 +17189,7 @@
     "maxQuality": 1152,
     "name": {
       "cn": "梅氏一族的日用品部件",
-      "de": "Komponente eines Gebrauchsgegenstands der M",
+      "de": "Komponente für Jagdbedarf für die M",
       "en": "M Tribe Sundry Component",
       "fr": "Composant de produits du quotidien des M",
       "ja": "メ族の日用品部材"
@@ -18025,7 +18025,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "蒸包子用品",
-      "de": "Buuds-Kochutensilie",
+      "de": "Buuds-Kochutensil",
       "en": "Buuz Cooking Paraphernalia",
       "fr": "Ustensile de cuisine pour buuz",
       "ja": "ボーズ調理用品"
@@ -18619,9 +18619,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "邪龙怨影骑士武具",
-      "de": "Paladin-Rüstzeug der Horde",
+      "de": "Paladin-Rüstzeug der Horde (G.-St. 180)",
       "en": "Paladin's Horde Arms",
-      "fr": "Attirail de Dravanien pour paladin ",
+      "fr": "Attirail de Dravanien pour paladin",
       "ja": "ホード・ナイトギア"
     },
     "progressDivider": 70,
@@ -18729,9 +18729,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "神圣女神骑士武具",
-      "de": "Paladin-Rüstzeug der Göttin",
+      "de": "Paladin-Rüstzeug der Göttin (G.-St. 180)",
       "en": "Paladin's Goddess Arms",
-      "fr": "Attirail de la Déesse pour paladin ",
+      "fr": "Attirail de la Déesse pour paladin",
       "ja": "ナイトギア・オブ・ゴッデス"
     },
     "progressDivider": 70,
@@ -18751,9 +18751,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "无限鬼神骑士武具",
-      "de": "Paladin-Rüstzeug des Dämons",
+      "de": "Paladin-Rüstzeug des Dämons (G.-St. 180)",
       "en": "Paladin's Demon Arms",
-      "fr": "Attirail du Démon pour paladin ",
+      "fr": "Attirail du Démon pour paladin",
       "ja": "ナイトギア・オブ・デモン"
     },
     "progressDivider": 70,
@@ -18883,7 +18883,7 @@
     "maxQuality": 2664,
     "name": {
       "cn": "崖畔亭包子必需品",
-      "de": "Buuds-Kochutensil",
+      "de": "Klippenhänger-Buuds-Kochutensil",
       "en": "Signature Buuz Cookware",
       "fr": "Composant pour buuz du Bord du gouffre",
       "ja": "崖っぷちボーズ必需品"
@@ -20181,9 +20181,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "神龙梦幻骑士武具",
-      "de": "Paladin-Rüstzeug des Drachengottes",
+      "de": "Paladin-Rüstzeug des Drachengottes (G.-St. 290)",
       "en": "Shinryu's Ephemeral Arms",
-      "fr": "Attirail de Shinryu flamboyant pour paladin ",
+      "fr": "Attirail de Shinryu flamboyant pour paladin",
       "ja": "神龍騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -20709,9 +20709,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "月读命幽夜骑士武具",
-      "de": "Paladin-Rüstzeug des Mondlichts",
+      "de": "Paladin-Rüstzeug des Mondlichts (G.-St. 290)",
       "en": "Tsukuyomi's Moonlit Arms",
-      "fr": "Attirail de Tsukuyomi flamboyant pour paladin ",
+      "fr": "Attirail de Tsukuyomi flamboyant pour paladin",
       "ja": "月読命騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -20731,9 +20731,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "朱焰骑士武具",
-      "de": "Paladin-Rüstzeug des Feuervogels",
+      "de": "Paladin-Rüstzeug des Feuervogels (G.-St. 290)",
       "en": "Suzaku's Flame-kissed Arms",
-      "fr": "Attirail de Suzaku flamboyant pour paladin ",
+      "fr": "Attirail de Suzaku flamboyant pour paladin",
       "ja": "朱雀騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -20753,9 +20753,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "青君骑士武具",
-      "de": "Paladin-Rüstzeug des Schlangengottes",
+      "de": "Paladin-Rüstzeug des Schlangengottes (G.-St. 290)",
       "en": "Seiryu's Sanctified Arms",
-      "fr": "Attirail de Seiryû flamboyant pour paladin ",
+      "fr": "Attirail de Seiryû flamboyant pour paladin",
       "ja": "青龍騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -22469,7 +22469,7 @@
     "maxQuality": 4800,
     "name": {
       "cn": "白帝骑士武具",
-      "de": "Paladin-Rüstzeug des weißen Tigers",
+      "de": "Paladin-Rüstzeug des weißen Tigers (G.-St. 290)",
       "en": "Byakko's Enspirited Arms",
       "fr": "Attirail de Byakko flamboyant pour paladin",
       "ja": "白虎騎士装具【輝】"
@@ -22535,9 +22535,9 @@
     "maxQuality": 7900,
     "name": {
       "cn": "哈迪斯骑士武具",
-      "de": "Paladin-Rüstzeug des Hades",
-      "en": "Paladin's Hades Arms",
-      "fr": "Attirail d'Hadès pour paladin ",
+      "de": "Paladin-Rüstzeug des Hades (G.-St. 430)",
+      "en": "Paladin's Augmented Hades Arms",
+      "fr": "Attirail d'Hadès pour paladin",
       "ja": "ハーデス・ナイトギアRE"
     },
     "progressDivider": 110,
@@ -23349,7 +23349,7 @@
     "maxQuality": 4800,
     "name": {
       "cn": "豪勇骑士武具",
-      "de": "Paladin-Rüstzeug des Meeresgottes",
+      "de": "Paladin-Rüstzeug des Meeresgottes (G.-St. 290)",
       "en": "Susano's Rapturous Arms",
       "fr": "Attirail de Susano flamboyant pour paladin",
       "ja": "須佐之男騎士装具【輝】"
@@ -23382,6 +23382,336 @@
     "qualityModifier": 80,
     "recipeId": 35015,
     "stars": 1,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Kite Shield",
+      "de": "Rinascita-Drachenschild",
+      "en": "Rinascita Kite Shield",
+      "fr": "Écu mandorle de la rinascita",
+      "ja": "リナシータ・カイトシールド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35045,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Helm of Fending",
+      "de": "Rinascita-Helm der Verteidigung",
+      "en": "Rinascita Helm of Fending",
+      "fr": "Casque de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーヘルム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35046,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Cuirass of Fending",
+      "de": "Rinascita-Kürass der Verteidigung",
+      "en": "Rinascita Cuirass of Fending",
+      "fr": "Cuirasse de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーキュイラス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35047,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Vambraces of Fending",
+      "de": "Rinascita-Unterarmschienen der Verteidigung",
+      "en": "Rinascita Vambraces of Fending",
+      "fr": "Canons d'avant-bras de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーヴァンブレイス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35048,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Sabatons of Fending",
+      "de": "Rinascita-Bärlatschen der Verteidigung",
+      "en": "Rinascita Sabatons of Fending",
+      "fr": "Sabatons de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35050,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Helm of Maiming",
+      "de": "Rinascita-Helm des Verstümmelns",
+      "en": "Rinascita Helm of Maiming",
+      "fr": "Casque d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーヘルム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35051,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Cuirass of Maiming",
+      "de": "Rinascita-Kürass des Verstümmelns",
+      "en": "Rinascita Cuirass of Maiming",
+      "fr": "Cuirasse d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーキュイラス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35052,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Vambraces of Maiming",
+      "de": "Rinascita-Unterarmschienen des Verstümmelns",
+      "en": "Rinascita Vambraces of Maiming",
+      "fr": "Canons d'avant-bras d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーヴァンブレイス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35053,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Sabatons of Maiming",
+      "de": "Rinascita-Bärlatschen des Verstümmelns",
+      "en": "Rinascita Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35055,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Sabatons of Aiming",
+      "de": "Rinascita-Bärlatschen des Zielens",
+      "en": "Rinascita Sabatons of Aiming",
+      "fr": "Sabatons de pisteur de la rinascita",
+      "ja": "リナシータ・レンジャーサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35065,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "Rinascita Sabatons of Scouting",
+      "de": "Rinascita-Bärlatschen des Spähens",
+      "en": "Rinascita Sabatons of Scouting",
+      "fr": "Sabatons d'éclaireur de la rinascita",
+      "ja": "リナシータ・スカウトサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35070,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3696,
+    "durability": 35,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Ilmenite Ingot",
+      "de": "Ilmenitbarren",
+      "en": "Ilmenite Ingot",
+      "fr": "Lingot d'ilménite",
+      "ja": "イルメナイトインゴット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35105,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7480,
+    "durability": 60,
+    "level": 611,
+    "maxQuality": 13620,
+    "name": {
+      "cn": "Water Otter Fountain Hardware",
+      "de": "Otterborn-Metallteile",
+      "en": "Water Otter Fountain Hardware",
+      "fr": "Métaux pour la fontaine ressourçante",
+      "ja": "ウソウソの泉の建築用金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35131,
+    "stars": 3,
+    "suggestedControl": 2703,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "The Fae's Crown Paladin Arms",
+      "de": "Paladin-Rüstzeug des Feenkönigs (G.-St. 430)",
+      "en": "The Fae's Crown Paladin Arms",
+      "fr": "Attirail du Monarque féérique pour paladin",
+      "ja": "フェアリーキング・ナイトギア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35152,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 8000,
+    "name": {
+      "cn": "Island Prism",
+      "de": "Inselprisma",
+      "en": "Island Prism",
+      "fr": "Prisme insulaire",
+      "ja": "アイルプリズム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35155,
+    "stars": 2,
     "suggestedControl": 2703,
     "suggestedCraftsmanship": 2924
   }
