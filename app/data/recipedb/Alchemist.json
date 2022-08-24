@@ -25214,7 +25214,7 @@
   {
     "baseLevel": 90,
     "difficulty": 5060,
-    "durability": 35,
+    "durability": 70,
     "level": 610,
     "maxQuality": 12628,
     "name": {
@@ -25236,7 +25236,7 @@
   {
     "baseLevel": 90,
     "difficulty": 5060,
-    "durability": 35,
+    "durability": 70,
     "level": 610,
     "maxQuality": 12628,
     "name": {
@@ -25258,7 +25258,7 @@
   {
     "baseLevel": 90,
     "difficulty": 5060,
-    "durability": 35,
+    "durability": 70,
     "level": 610,
     "maxQuality": 12628,
     "name": {
@@ -25280,7 +25280,7 @@
   {
     "baseLevel": 90,
     "difficulty": 5060,
-    "durability": 35,
+    "durability": 70,
     "level": 610,
     "maxQuality": 12628,
     "name": {
@@ -25302,7 +25302,7 @@
   {
     "baseLevel": 90,
     "difficulty": 5060,
-    "durability": 35,
+    "durability": 70,
     "level": 610,
     "maxQuality": 12628,
     "name": {
@@ -25416,9 +25416,9 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Battle with the Four Fiends Orchestrion Roll",
+      "cn": "Battle with the Four Fiends (Buried Memory) Orchestrion Roll",
       "de": "Notenrolle von „Battle with the Four Fiends (Buried Memory)“",
-      "en": "Battle with the Four Fiends Orchestrion Roll",
+      "en": "Battle with the Four Fiends (Buried Memory) Orchestrion Roll",
       "fr": "Rouleau “Battle with the Four Fiends (Buried Memory)”",
       "ja": "オーケストリオン譜:ゴルベーザ四天王とのバトル"
     },
