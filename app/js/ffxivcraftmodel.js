@@ -241,32 +241,11 @@ function NewStateFromSynth(synth) {
 function probGoodForSynth(synth) {
     var recipeLevel = synth.recipe.level;
     var qualityAssurance = synth.crafter.level >= 63;
-    if (recipeLevel >= 300) { // 70*+
-        return qualityAssurance ? 0.11 : 0.10;
-    } else if (recipeLevel >= 276) { // 65+
-        return qualityAssurance ? 0.17 : 0.15;
-    } else if (recipeLevel >= 255) { // 61+
-        return qualityAssurance ? 0.22 : 0.20;
-    } else if (recipeLevel >= 150) { // 60+
-        return qualityAssurance ? 0.11 : 0.10;
-    } else if (recipeLevel >= 136) { // 55+
-        return qualityAssurance ? 0.17 : 0.15;
-    } else {
-        return qualityAssurance ? 0.27 : 0.25;
-    }
+	return qualityAssurance ? 0.25 : 0.20;
 }
 
 function probExcellentForSynth(synth) {
-    var recipeLevel = synth.recipe.level;
-    if (recipeLevel >= 300) { // 70*+
-        return 0.01;
-    } else if (recipeLevel >= 255) { // 61+
-        return 0.02;
-    } else if (recipeLevel >= 150) { // 60+
-        return 0.01;
-    } else {
-        return 0.02;
-    }
+    return 0.04;
 }
 
 function getEffectiveCrafterLevel(synth) {
@@ -565,9 +544,9 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     // Decrement countdowns
     for (var countDown in s.effects.countDowns) {
         if (action.noCountDowns) {
-          s.effects.countDowns[countDown] -= 0;
+            s.effects.countDowns[countDown] -= 0;
         } else {
-          s.effects.countDowns[countDown] -= 1;
+            s.effects.countDowns[countDown] -= 1;
         }
 
         if (s.effects.countDowns[countDown] === 0) {
