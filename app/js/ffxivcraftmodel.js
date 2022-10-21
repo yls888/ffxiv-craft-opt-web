@@ -698,7 +698,9 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
 
             // Occur regardless of dummy actions
             //==================================
-            s.step += 1;
+			if (!action.noCountDowns){
+				s.step += 1;
+			}
 
             // Condition Calculation
             var condQualityIncreaseMultiplier = 1;
@@ -807,7 +809,9 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     };
 
     // Initialize counters
-    s.step += 1;
+	if (!action.noCountDowns){
+		s.step += 1;
+	}
 
     // Condition Evaluation
     var condQualityIncreaseMultiplier = 1;
