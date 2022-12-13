@@ -109,6 +109,7 @@
   "NAV_SOLVER" : "조합 자동 탐색",
   "NAV_CRAFTER_ATTRIBUTES": "제작자 능력치",
   "NAV_DEBUG": "디버그",
+  "NAV_EXPERT": "전문가 모드",
   "MORE": "더 보기...",
   "SETTINGS_MANAGEMENT": "불러오기/내보내기",
   "ABOUT": "소개",
