@@ -16808,6 +16808,116 @@
     "suggestedCraftsmanship": 2805
   },
   {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Enigma Partition",
+      "de": "Indigo-Raumteiler",
+      "en": "Enigma Partition",
+      "fr": "Cloison de la Main indigo",
+      "ja": "イルミナティパーティション"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5485,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Hannish Ceiling Lamp",
+      "de": "Han-Deckenlampe",
+      "en": "Hannish Ceiling Lamp",
+      "fr": "Lustre hannois",
+      "ja": "ラザハン・シーリングライト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5503,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Enigma Wall Chronometer",
+      "de": "Indigo-Wand-Chronometer",
+      "en": "Enigma Wall Chronometer",
+      "fr": "Horloge murale de la Main indigo",
+      "ja": "イルミナティ・ウォールクロノメーター"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5510,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Toy Cooking Set",
+      "de": "Kinder-Spielkochset",
+      "en": "Toy Cooking Set",
+      "fr": "Faux ustentiles de cuisine",
+      "ja": "クッキングトイセット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5511,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Jinrikisha",
+      "de": "Orientalische Riksha",
+      "en": "Jinrikisha",
+      "fr": "Pousse-pousse",
+      "ja": "東方人力車"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5515,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -29950,7 +30060,7 @@
     "name": {
       "cn": "黄金外壳零件",
       "de": "Vergoldete Metallplatte",
-      "en": "Set of Gold Plating",
+      "en": "Gold Plating",
       "fr": "Pièce d'armature dorée",
       "ja": "黄金の外装部品"
     },
@@ -30092,8 +30202,8 @@
     "qualityModifier": 70,
     "recipeId": 34800,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30114,8 +30224,8 @@
     "qualityModifier": 70,
     "recipeId": 34801,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30136,8 +30246,8 @@
     "qualityModifier": 70,
     "recipeId": 34802,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30158,8 +30268,8 @@
     "qualityModifier": 70,
     "recipeId": 34805,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30180,8 +30290,8 @@
     "qualityModifier": 70,
     "recipeId": 34806,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30202,8 +30312,8 @@
     "qualityModifier": 70,
     "recipeId": 34807,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30224,8 +30334,8 @@
     "qualityModifier": 70,
     "recipeId": 34813,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30246,8 +30356,8 @@
     "qualityModifier": 70,
     "recipeId": 34815,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30268,8 +30378,8 @@
     "qualityModifier": 70,
     "recipeId": 34816,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30290,8 +30400,8 @@
     "qualityModifier": 70,
     "recipeId": 34818,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30312,8 +30422,8 @@
     "qualityModifier": 70,
     "recipeId": 34890,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30466,8 +30576,8 @@
     "qualityModifier": 70,
     "recipeId": 34961,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30488,8 +30598,8 @@
     "qualityModifier": 70,
     "recipeId": 34962,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30510,8 +30620,8 @@
     "qualityModifier": 70,
     "recipeId": 34963,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30532,8 +30642,8 @@
     "qualityModifier": 70,
     "recipeId": 34964,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30554,8 +30664,8 @@
     "qualityModifier": 70,
     "recipeId": 34965,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30576,8 +30686,8 @@
     "qualityModifier": 70,
     "recipeId": 34969,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30598,8 +30708,8 @@
     "qualityModifier": 70,
     "recipeId": 34970,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30620,8 +30730,8 @@
     "qualityModifier": 70,
     "recipeId": 34972,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30642,8 +30752,8 @@
     "qualityModifier": 70,
     "recipeId": 34973,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30664,8 +30774,8 @@
     "qualityModifier": 70,
     "recipeId": 34974,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30686,8 +30796,8 @@
     "qualityModifier": 70,
     "recipeId": 34976,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30708,8 +30818,8 @@
     "qualityModifier": 70,
     "recipeId": 34978,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30730,8 +30840,8 @@
     "qualityModifier": 70,
     "recipeId": 34979,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30752,8 +30862,8 @@
     "qualityModifier": 70,
     "recipeId": 34980,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -30774,8 +30884,8 @@
     "qualityModifier": 70,
     "recipeId": 34981,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 60,
@@ -31038,8 +31148,8 @@
     "qualityModifier": 70,
     "recipeId": 35026,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31060,8 +31170,8 @@
     "qualityModifier": 70,
     "recipeId": 35027,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31082,8 +31192,8 @@
     "qualityModifier": 70,
     "recipeId": 35028,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31104,8 +31214,8 @@
     "qualityModifier": 70,
     "recipeId": 35031,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31126,8 +31236,8 @@
     "qualityModifier": 70,
     "recipeId": 35032,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31148,8 +31258,8 @@
     "qualityModifier": 70,
     "recipeId": 35033,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31170,8 +31280,8 @@
     "qualityModifier": 70,
     "recipeId": 35039,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31192,8 +31302,8 @@
     "qualityModifier": 70,
     "recipeId": 35041,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31214,8 +31324,8 @@
     "qualityModifier": 70,
     "recipeId": 35042,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31236,8 +31346,8 @@
     "qualityModifier": 70,
     "recipeId": 35044,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31258,8 +31368,8 @@
     "qualityModifier": 70,
     "recipeId": 35104,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -31280,8 +31390,8 @@
     "qualityModifier": 100,
     "recipeId": 35130,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 80,
@@ -31500,8 +31610,8 @@
     "qualityModifier": 70,
     "recipeId": 35154,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31522,7 +31632,689 @@
     "qualityModifier": 70,
     "recipeId": 35162,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Sheep Equipment",
+      "de": "Hirten-Werkzeug",
+      "en": "Sheep Equipment",
+      "fr": "Outils de berger",
+      "ja": "羊のお世話道具"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35366,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Mountain Garb",
+      "de": "Kälteschutzmütze",
+      "en": "Mountain Garb",
+      "fr": "Chapka",
+      "ja": "山岳部の防寒用品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35367,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Classic Voeburtite Cuisine",
+      "de": "Voeburtische Spezialität",
+      "en": "Classic Voeburtite Cuisine",
+      "fr": "Plat de Voeburt",
+      "ja": "フッブート風の郷土料理"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35368,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 84,
+    "difficulty": 2900,
+    "durability": 60,
+    "level": 530,
+    "maxQuality": 5280,
+    "name": {
+      "cn": "Traditional Voeburtite Handicraft",
+      "de": "Voeburtisches Kunsthandwerk",
+      "en": "Traditional Voeburtite Handicraft",
+      "fr": "Mouton fait-main",
+      "ja": "フッブート風の工芸品"
+    },
+    "progressDivider": 124,
+    "progressModifier": 100,
+    "qualityDivider": 108,
+    "qualityModifier": 100,
+    "recipeId": 35369,
+    "stars": 0,
+    "suggestedControl": 2388,
+    "suggestedCraftsmanship": 2507
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Lovely Box of Pretty Things",
+      "de": "Dankesgeschenk",
+      "en": "Lovely Box of Pretty Things",
+      "fr": "Boîte de jolis cadeaux",
+      "ja": "かわいらしい返礼品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35370,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Saw",
+      "de": "Ermittler-Säge",
+      "en": "Indagator's Saw",
+      "fr": "Scie d'indagator",
+      "ja": "インダガトル・ソー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35417,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Cross-pein Hammer",
+      "de": "Ermittler-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "en": "Indagator's Cross-pein Hammer",
+      "fr": "Marteau à panne croisée d'indagator",
+      "ja": "インダガトル・クロスペインハンマー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35418,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Raising Hammer",
+      "de": "Ermittler-Schlichthammer",
+      "en": "Indagator's Raising Hammer",
+      "fr": "Marteau de batteur d'indagator",
+      "ja": "インダガトル・レイジングハンマー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35419,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Lapidary Hammer",
+      "de": "Ermittler-Juwelierhammer",
+      "en": "Indagator's Lapidary Hammer",
+      "fr": "Marteau de lapidaire d'indagator",
+      "ja": "インダガトル・ラピダリーハンマー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35420,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Knife",
+      "de": "Ermittler-Messer",
+      "en": "Indagator's Knife",
+      "fr": "Couteau d'indagator",
+      "ja": "インダガトル・ナイフ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35421,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Pickaxe",
+      "de": "Ermittler-Spitzhacke",
+      "en": "Indagator's Pickaxe",
+      "fr": "Pioche d'indagator",
+      "ja": "インダガトル・ピック"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35425,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Hatchet",
+      "de": "Ermittler-Handbeil",
+      "en": "Indagator's Hatchet",
+      "fr": "Hachette d'indagator",
+      "ja": "インダガトル・ハチェット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35426,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Claw Hammer",
+      "de": "Ermittler-Klauenhammer",
+      "en": "Indagator's Claw Hammer",
+      "fr": "Marteau arrache-clou d'indagator",
+      "ja": "インダガトル・クローハンマー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35428,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's File",
+      "de": "Ermittler-Feile",
+      "en": "Indagator's File",
+      "fr": "Lime d'indagator",
+      "ja": "インダガトル・ファイル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35429,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Pliers",
+      "de": "Ermittler-Zange",
+      "en": "Indagator's Pliers",
+      "fr": "Tenailles d'indagator",
+      "ja": "インダガトル・プライヤー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35430,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Awl",
+      "de": "Ermittler-Ahle",
+      "en": "Indagator's Awl",
+      "fr": "Alêne d'indagator",
+      "ja": "インダガトル・アウル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35432,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Mortar",
+      "de": "Ermittler-Mörser",
+      "en": "Indagator's Mortar",
+      "fr": "Mortier d'indagator",
+      "ja": "インダガトル・モーター"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35434,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Culinary Knife",
+      "de": "Ermittler-Küchenmesser",
+      "en": "Indagator's Culinary Knife",
+      "fr": "Couteau de cuisine d'indagator",
+      "ja": "インダガトル・クリナリーナイフ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35435,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Sledgehammer",
+      "de": "Ermittler-Vorschlaghammer",
+      "en": "Indagator's Sledgehammer",
+      "fr": "Maillet d'indagator",
+      "ja": "インダガトル・モール"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35436,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Garden Scythe",
+      "de": "Ermittler-Gartensense",
+      "en": "Indagator's Garden Scythe",
+      "fr": "Faux de jardinage d'indagator",
+      "ja": "インダガトル・ガーデンサイズ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35437,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Cesti",
+      "de": "Lupercus-Caesti",
+      "en": "Rubellux Cesti",
+      "fr": "Cestes Rubeus",
+      "ja": "ルベルクス・セスタス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35460,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Battleaxe",
+      "de": "Lupercus-Kriegsaxt",
+      "en": "Rubellux Battleaxe",
+      "fr": "Hache de combat Rubeus",
+      "ja": "ルベルクス・バトルアクス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35461,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Daggers",
+      "de": "Lupercus-Dolch",
+      "en": "Rubellux Daggers",
+      "fr": "Dagues Rubeus",
+      "ja": "ルベルクス・ダガー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35464,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Greatsword",
+      "de": "Lupercus-Großschwert",
+      "en": "Rubellux Greatsword",
+      "fr": "Grande épée Rubeus",
+      "ja": "ルベルクス・グレートソード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35465,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Knifelock",
+      "de": "Lupercus-Flinte",
+      "en": "Rubellux Knifelock",
+      "fr": "Éventreur Rubeus",
+      "ja": "ルベルクス・ナイフロック"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35466,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Samurai Blade",
+      "de": "Lupercus-Samuraiklinge",
+      "en": "Rubellux Samurai Blade",
+      "fr": "Lame de samouraï Rubeus",
+      "ja": "ルベルクス・サムライブレード"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35472,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Sawback",
+      "de": "Lupercus-Manasäge",
+      "en": "Rubellux Sawback",
+      "fr": "Couteau de combat Rubeus",
+      "ja": "ルベルクス・ソーバック"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35474,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Rubellux Chakrams",
+      "de": "Lupercus-Chakrams",
+      "en": "Rubellux Chakrams",
+      "fr": "Chakrams Rubeus",
+      "ja": "ルベルクス・チャクラム"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35475,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Paladin's Rubellux Arms",
+      "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
+      "en": "Paladin's Rubellux Arms",
+      "fr": "Attirail Rubeus pour paladin",
+      "ja": "ルベルクス・ナイトギア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35476,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Infernal Archfiend Cloak",
+      "de": "Flammenmantel",
+      "en": "Infernal Archfiend Cloak",
+      "fr": "Cape des flammes",
+      "ja": "火燕の四天王のマント"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35488,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7920,
+    "durability": 60,
+    "level": 621,
+    "maxQuality": 17240,
+    "name": {
+      "cn": "Smaller Water Otter Fountain Hardware",
+      "de": "Garten-Otterborn-Metallteile",
+      "en": "Smaller Water Otter Fountain Hardware",
+      "fr": "Métaux pour fontaine ressourçante de jardin",
+      "ja": "家庭用ウソウソの泉の金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35494,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   }
 ]

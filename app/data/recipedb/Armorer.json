@@ -11286,6 +11286,50 @@
     "suggestedCraftsmanship": 2805
   },
   {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Simple Sink",
+      "de": "Schlichtes Spülbecken",
+      "en": "Simple Sink",
+      "fr": "Évier simple",
+      "ja": "シンプルシンク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5506,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Waterfall Partition",
+      "de": "Wasser-Raumteiler",
+      "en": "Waterfall Partition",
+      "fr": "Cloison ruisselante",
+      "ja": "ウォーターパーティション"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5512,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -22668,7 +22712,7 @@
     "name": {
       "cn": "黄金外壳零件",
       "de": "Vergoldete Metallplatte",
-      "en": "Set of Gold Plating",
+      "en": "Gold Plating",
       "fr": "Pièce d'armature dorée",
       "ja": "黄金の外装部品"
     },
@@ -22810,8 +22854,8 @@
     "qualityModifier": 70,
     "recipeId": 34819,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22832,8 +22876,8 @@
     "qualityModifier": 70,
     "recipeId": 34820,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22854,8 +22898,8 @@
     "qualityModifier": 70,
     "recipeId": 34822,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22876,8 +22920,8 @@
     "qualityModifier": 70,
     "recipeId": 34824,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22898,8 +22942,8 @@
     "qualityModifier": 70,
     "recipeId": 34825,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22920,8 +22964,8 @@
     "qualityModifier": 70,
     "recipeId": 34827,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22942,8 +22986,8 @@
     "qualityModifier": 70,
     "recipeId": 34830,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22964,8 +23008,8 @@
     "qualityModifier": 70,
     "recipeId": 34831,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22986,8 +23030,8 @@
     "qualityModifier": 70,
     "recipeId": 34832,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23008,8 +23052,8 @@
     "qualityModifier": 70,
     "recipeId": 34840,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23030,8 +23074,8 @@
     "qualityModifier": 70,
     "recipeId": 34841,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23052,8 +23096,8 @@
     "qualityModifier": 70,
     "recipeId": 34842,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23074,8 +23118,8 @@
     "qualityModifier": 70,
     "recipeId": 34844,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23096,8 +23140,8 @@
     "qualityModifier": 70,
     "recipeId": 34891,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23316,8 +23360,8 @@
     "qualityModifier": 70,
     "recipeId": 34967,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23338,8 +23382,8 @@
     "qualityModifier": 70,
     "recipeId": 34968,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 70,
@@ -23404,8 +23448,8 @@
     "qualityModifier": 70,
     "recipeId": 35045,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23426,8 +23470,8 @@
     "qualityModifier": 70,
     "recipeId": 35046,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23448,8 +23492,8 @@
     "qualityModifier": 70,
     "recipeId": 35047,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23459,7 +23503,7 @@
     "maxQuality": 12628,
     "name": {
       "cn": "复兴御敌臂甲",
-      "de": "Rinascita-Unterarmschienen der Verteidigung",
+      "de": "Rinascita-Handschuhe der Verteidigung",
       "en": "Rinascita Vambraces of Fending",
       "fr": "Canons d'avant-bras de protecteur de la rinascita",
       "ja": "リナシータ・ディフェンダーヴァンブレイス"
@@ -23470,8 +23514,8 @@
     "qualityModifier": 70,
     "recipeId": 35048,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23492,8 +23536,8 @@
     "qualityModifier": 70,
     "recipeId": 35050,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23514,8 +23558,8 @@
     "qualityModifier": 70,
     "recipeId": 35051,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23536,8 +23580,8 @@
     "qualityModifier": 70,
     "recipeId": 35052,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23547,7 +23591,7 @@
     "maxQuality": 12628,
     "name": {
       "cn": "复兴制敌臂甲",
-      "de": "Rinascita-Unterarmschienen des Verstümmelns",
+      "de": "Rinascita-Handschuhe des Verstümmelns",
       "en": "Rinascita Vambraces of Maiming",
       "fr": "Canons d'avant-bras d'abatteur de la rinascita",
       "ja": "リナシータ・スレイヤーヴァンブレイス"
@@ -23558,8 +23602,8 @@
     "qualityModifier": 70,
     "recipeId": 35053,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23580,8 +23624,8 @@
     "qualityModifier": 70,
     "recipeId": 35055,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23602,8 +23646,8 @@
     "qualityModifier": 70,
     "recipeId": 35065,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23624,8 +23668,8 @@
     "qualityModifier": 70,
     "recipeId": 35070,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23646,8 +23690,8 @@
     "qualityModifier": 70,
     "recipeId": 35105,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 90,
@@ -23668,8 +23712,8 @@
     "qualityModifier": 100,
     "recipeId": 35131,
     "stars": 3,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   },
   {
     "baseLevel": 80,
@@ -23712,7 +23756,271 @@
     "qualityModifier": 70,
     "recipeId": 35155,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Sheep Equipment",
+      "de": "Hirten-Werkzeug",
+      "en": "Sheep Equipment",
+      "fr": "Outils de berger",
+      "ja": "羊のお世話道具"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35371,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Mountain Garb",
+      "de": "Kälteschutzmütze",
+      "en": "Mountain Garb",
+      "fr": "Chapka",
+      "ja": "山岳部の防寒用品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35372,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Classic Voeburtite Cuisine",
+      "de": "Voeburtische Spezialität",
+      "en": "Classic Voeburtite Cuisine",
+      "fr": "Plat de Voeburt",
+      "ja": "フッブート風の郷土料理"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35373,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 84,
+    "difficulty": 2900,
+    "durability": 60,
+    "level": 530,
+    "maxQuality": 5280,
+    "name": {
+      "cn": "Traditional Voeburtite Handicraft",
+      "de": "Voeburtisches Kunsthandwerk",
+      "en": "Traditional Voeburtite Handicraft",
+      "fr": "Mouton fait-main",
+      "ja": "フッブート風の工芸品"
+    },
+    "progressDivider": 124,
+    "progressModifier": 100,
+    "qualityDivider": 108,
+    "qualityModifier": 100,
+    "recipeId": 35374,
+    "stars": 0,
+    "suggestedControl": 2388,
+    "suggestedCraftsmanship": 2507
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Lovely Box of Pretty Things",
+      "de": "Dankesgeschenk",
+      "en": "Lovely Box of Pretty Things",
+      "fr": "Boîte de jolis cadeaux",
+      "ja": "かわいらしい返礼品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35375,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Alembic",
+      "de": "Ermittler-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "en": "Indagator's Alembic",
+      "fr": "Alambic d'indagator",
+      "ja": "インダガトル・アレンビック"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35423,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Frypan",
+      "de": "Ermittler-Bratpfanne",
+      "en": "Indagator's Frypan",
+      "fr": "Poêle à frire d'indagator",
+      "ja": "インダガトル・フライパン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35424,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Helmet of Gathering",
+      "de": "Ermittler-Helm des Eifers",
+      "en": "Indagator's Helmet of Gathering",
+      "fr": "Casque des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーヘルメット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35443,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Armguards of Gathering",
+      "de": "Ermittler-Armschützer des Eifers",
+      "en": "Indagator's Armguards of Gathering",
+      "fr": "Garde-bras des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーアームガード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35445,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Paladin's Rubellux Arms",
+      "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
+      "en": "Paladin's Rubellux Arms",
+      "fr": "Attirail Rubeus pour paladin",
+      "ja": "ルベルクス・ナイトギア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35477,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Bantam Train",
+      "de": "Modelleisenbahn",
+      "en": "Bantam Train",
+      "fr": "Train petit mais costaud",
+      "ja": "豆列車"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35479,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7920,
+    "durability": 60,
+    "level": 621,
+    "maxQuality": 17240,
+    "name": {
+      "cn": "Smaller Water Otter Fountain Hardware",
+      "de": "Garten-Otterborn-Metallteile",
+      "en": "Smaller Water Otter Fountain Hardware",
+      "fr": "Métaux pour fontaine ressourçante de jardin",
+      "ja": "家庭用ウソウソの泉の金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35495,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   }
 ]
