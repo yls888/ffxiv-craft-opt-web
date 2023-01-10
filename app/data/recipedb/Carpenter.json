@@ -13096,7 +13096,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "仿制伊修加德方窗",
+      "cn": "仿制雪峰方窗",
       "de": "Coerthas-Fensterimitation",
       "en": "Imitation Highland Window",
       "fr": "Imitation de fenêtre coerthienne",
@@ -13162,7 +13162,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Wondrous Windoor",
+      "cn": "奇妙门窗",
       "de": "Wundertürfenster",
       "en": "Wondrous Windoor",
       "fr": "Porte à fenêtre en trompe-l'œil",
@@ -13184,7 +13184,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Korpokkur Chronometer",
+      "cn": "叶小妖挂钟",
       "de": "Korpokkur-Chronometer",
       "en": "Korpokkur Chronometer",
       "fr": "Horloge korpokkur",
@@ -13206,7 +13206,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Natural Wooden Beam",
+      "cn": "原生态木制横梁",
       "de": "Naturholzbalken",
       "en": "Natural Wooden Beam",
       "fr": "Poutre en bois naturel",
@@ -13228,7 +13228,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Bamboo Fence",
+      "cn": "竹制篱笆墙",
       "de": "Bambus-Paravent",
       "en": "Bamboo Fence",
       "fr": "Palissade en bambou",
@@ -13250,7 +13250,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Camping Furniture",
+      "cn": "野营套装",
       "de": "Campingausstattung",
       "en": "Camping Furniture",
       "fr": "Meubles de camping",
@@ -24932,7 +24932,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Spear",
+      "cn": "复兴长枪",
       "de": "Rinascita-Speer",
       "en": "Rinascita Spear",
       "fr": "Hast de la rinascita",
@@ -24954,7 +24954,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Composite Bow",
+      "cn": "复兴复合弓",
       "de": "Rinascita-Kompositbogen",
       "en": "Rinascita Composite Bow",
       "fr": "Arc composite de la rinascita",
@@ -24976,7 +24976,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Cane",
+      "cn": "复兴牧杖",
       "de": "Rinascita-Stock",
       "en": "Rinascita Cane",
       "fr": "Canne de la rinascita",
@@ -24998,7 +24998,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Fending",
+      "cn": "复兴御敌手镯",
       "de": "Rinascita-Armreif der Verteidigung",
       "en": "Rinascita Bracelet of Fending",
       "fr": "Bracelet de protecteur de la rinascita",
@@ -25020,7 +25020,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Slaying",
+      "cn": "复兴强攻手镯",
       "de": "Rinascita-Armreif des Schlachtens",
       "en": "Rinascita Bracelet of Slaying",
       "fr": "Bracelet d'attaquant de la rinascita",
@@ -25042,7 +25042,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Aiming",
+      "cn": "复兴精准手镯",
       "de": "Rinascita-Armreif des Zielens",
       "en": "Rinascita Bracelet of Aiming",
       "fr": "Bracelet de pisteur de la rinascita",
@@ -25064,7 +25064,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Healing",
+      "cn": "复兴治愈手镯",
       "de": "Rinascita-Armreif der Heilung",
       "en": "Rinascita Bracelet of Healing",
       "fr": "Bracelet de soigneur de la rinascita",
@@ -25086,7 +25086,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Bracelet of Casting",
+      "cn": "复兴咏咒手镯",
       "de": "Rinascita-Armreif der Magie",
       "en": "Rinascita Bracelet of Casting",
       "fr": "Bracelet d'incantateur de la rinascita",
@@ -25108,7 +25108,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Fending",
+      "cn": "复兴御敌戒指",
       "de": "Rinascita-Ring der Verteidigung",
       "en": "Rinascita Ring of Fending",
       "fr": "Bague de protecteur de la rinascita",
@@ -25130,7 +25130,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Slaying",
+      "cn": "复兴强攻戒指",
       "de": "Rinascita-Ring des Schlachtens",
       "en": "Rinascita Ring of Slaying",
       "fr": "Bague d'attaquant de la rinascita",
@@ -25152,7 +25152,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Aiming",
+      "cn": "复兴精准戒指",
       "de": "Rinascita-Ring des Zielens",
       "en": "Rinascita Ring of Aiming",
       "fr": "Bague de pisteur de la rinascita",
@@ -25174,7 +25174,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Healing",
+      "cn": "复兴治愈戒指",
       "de": "Rinascita-Ring der Heilung",
       "en": "Rinascita Ring of Healing",
       "fr": "Bague de soigneur de la rinascita",
@@ -25196,7 +25196,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Ring of Casting",
+      "cn": "复兴咏咒戒指",
       "de": "Rinascita-Ring der Magie",
       "en": "Rinascita Ring of Casting",
       "fr": "Bague d'incantateur de la rinascita",
@@ -25218,7 +25218,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Paldao Lumber",
+      "cn": "仁面木木材",
       "de": "Paldao-Bauholz",
       "en": "Paldao Lumber",
       "fr": "Madrier de paldao",
@@ -25240,7 +25240,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Lumber",
+      "cn": "獭獭喷泉建造用部件",
       "de": "Otterborn-Bauholz",
       "en": "Water Otter Fountain Lumber",
       "fr": "Matériaux pour la fontaine ressourçante",
@@ -25262,7 +25262,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Spear",
+      "cn": "梦羽妖灵王长枪",
       "de": "Feenkönig-Speer",
       "en": "The Fae's Crown Spear",
       "fr": "Hast du Monarque féérique",
@@ -25284,7 +25284,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Longbow",
+      "cn": "梦羽妖灵王长弓",
       "de": "Feenkönig-Langbogen",
       "en": "The Fae's Crown Longbow",
       "fr": "Arc long du Monarque féérique",
@@ -25306,7 +25306,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Cane",
+      "cn": "梦羽妖灵王牧杖",
       "de": "Feenkönig-Stock",
       "en": "The Fae's Crown Cane",
       "fr": "Canne du Monarque féérique",
@@ -25328,7 +25328,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Rod",
+      "cn": "梦羽妖灵王法杖",
       "de": "Feenkönig-Stab",
       "en": "The Fae's Crown Rod",
       "fr": "Sceptre du Monarque féérique",
@@ -25350,7 +25350,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",

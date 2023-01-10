@@ -23392,7 +23392,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Kite Shield",
+      "cn": "复兴鸢盾",
       "de": "Rinascita-Drachenschild",
       "en": "Rinascita Kite Shield",
       "fr": "Écu mandorle de la rinascita",
@@ -23414,7 +23414,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Helm of Fending",
+      "cn": "复兴御敌头盔",
       "de": "Rinascita-Helm der Verteidigung",
       "en": "Rinascita Helm of Fending",
       "fr": "Casque de protecteur de la rinascita",
@@ -23436,7 +23436,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Cuirass of Fending",
+      "cn": "复兴御敌胸甲",
       "de": "Rinascita-Kürass der Verteidigung",
       "en": "Rinascita Cuirass of Fending",
       "fr": "Cuirasse de protecteur de la rinascita",
@@ -23458,7 +23458,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Vambraces of Fending",
+      "cn": "复兴御敌臂甲",
       "de": "Rinascita-Unterarmschienen der Verteidigung",
       "en": "Rinascita Vambraces of Fending",
       "fr": "Canons d'avant-bras de protecteur de la rinascita",
@@ -23480,7 +23480,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Sabatons of Fending",
+      "cn": "复兴御敌铠靴",
       "de": "Rinascita-Bärlatschen der Verteidigung",
       "en": "Rinascita Sabatons of Fending",
       "fr": "Sabatons de protecteur de la rinascita",
@@ -23502,7 +23502,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Helm of Maiming",
+      "cn": "复兴制敌头盔",
       "de": "Rinascita-Helm des Verstümmelns",
       "en": "Rinascita Helm of Maiming",
       "fr": "Casque d'abatteur de la rinascita",
@@ -23524,7 +23524,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Cuirass of Maiming",
+      "cn": "复兴制敌胸甲",
       "de": "Rinascita-Kürass des Verstümmelns",
       "en": "Rinascita Cuirass of Maiming",
       "fr": "Cuirasse d'abatteur de la rinascita",
@@ -23546,7 +23546,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Vambraces of Maiming",
+      "cn": "复兴制敌臂甲",
       "de": "Rinascita-Unterarmschienen des Verstümmelns",
       "en": "Rinascita Vambraces of Maiming",
       "fr": "Canons d'avant-bras d'abatteur de la rinascita",
@@ -23568,7 +23568,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Sabatons of Maiming",
+      "cn": "复兴制敌铠靴",
       "de": "Rinascita-Bärlatschen des Verstümmelns",
       "en": "Rinascita Sabatons of Maiming",
       "fr": "Sabatons d'abatteur de la rinascita",
@@ -23590,7 +23590,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Sabatons of Aiming",
+      "cn": "复兴精准铠靴",
       "de": "Rinascita-Bärlatschen des Zielens",
       "en": "Rinascita Sabatons of Aiming",
       "fr": "Sabatons de pisteur de la rinascita",
@@ -23612,7 +23612,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Sabatons of Scouting",
+      "cn": "复兴游击铠靴",
       "de": "Rinascita-Bärlatschen des Spähens",
       "en": "Rinascita Sabatons of Scouting",
       "fr": "Sabatons d'éclaireur de la rinascita",
@@ -23634,7 +23634,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ilmenite Ingot",
+      "cn": "钛铁锭",
       "de": "Ilmenitbarren",
       "en": "Ilmenite Ingot",
       "fr": "Lingot d'ilménite",
@@ -23656,7 +23656,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Hardware",
+      "cn": "獭獭喷泉建造用金属材料",
       "de": "Otterborn-Metallteile",
       "en": "Water Otter Fountain Hardware",
       "fr": "Métaux pour la fontaine ressourçante",
@@ -23678,7 +23678,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Paladin Arms",
+      "cn": "梦羽妖灵王骑士武具",
       "de": "Paladin-Rüstzeug des Feenkönigs (G.-St. 430)",
       "en": "The Fae's Crown Paladin Arms",
       "fr": "Attirail du Monarque féérique pour paladin",
@@ -23700,7 +23700,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",

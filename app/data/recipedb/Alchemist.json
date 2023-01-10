@@ -12216,7 +12216,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Red Sweet Pea Necklace",
+      "cn": "红色香豌豆花项链",
       "de": "Rotes Duftwicken-Halsband",
       "en": "Red Sweet Pea Necklace",
       "fr": "Collier pois de senteur rouge",
@@ -12238,7 +12238,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Blue Sweet Pea Necklace",
+      "cn": "蓝色香豌豆花项链",
       "de": "Blaues Duftwicken-Halsband",
       "en": "Blue Sweet Pea Necklace",
       "fr": "Collier pois de senteur bleu",
@@ -12260,7 +12260,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Yellow Sweet Pea Necklace",
+      "cn": "黄色香豌豆花项链",
       "de": "Gelbes Duftwicken-Halsband",
       "en": "Yellow Sweet Pea Necklace",
       "fr": "Collier pois de senteur jaune",
@@ -12282,7 +12282,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Green Sweet Pea Necklace",
+      "cn": "绿色香豌豆花项链",
       "de": "Grünes Duftwicken-Halsband",
       "en": "Green Sweet Pea Necklace",
       "fr": "Collier pois de senteur vert",
@@ -12304,7 +12304,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Orange Sweet Pea Necklace",
+      "cn": "橙色香豌豆花项链",
       "de": "Oranges Duftwicken-Halsband",
       "en": "Orange Sweet Pea Necklace",
       "fr": "Collier pois de senteur orange",
@@ -12326,7 +12326,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Purple Sweet Pea Necklace",
+      "cn": "紫色香豌豆花项链",
       "de": "Violettes Duftwicken-Halsband",
       "en": "Purple Sweet Pea Necklace",
       "fr": "Collier pois de senteur violet",
@@ -12348,7 +12348,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "White Sweet Pea Necklace",
+      "cn": "白色香豌豆花项链",
       "de": "Weißes Duftwicken-Halsband",
       "en": "White Sweet Pea Necklace",
       "fr": "Collier pois de senteur blanc",
@@ -12370,7 +12370,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Black Sweet Pea Necklace",
+      "cn": "黑色香豌豆花项链",
       "de": "Schwarzes Duftwicken-Halsband",
       "en": "Black Sweet Pea Necklace",
       "fr": "Collier pois de senteur noir",
@@ -12392,7 +12392,7 @@
     "level": 409,
     "maxQuality": 4200,
     "name": {
-      "cn": "Rainbow Sweet Pea Necklace",
+      "cn": "混色香豌豆花项链",
       "de": "Mehrfarbiges Duftwicken-Halsband",
       "en": "Rainbow Sweet Pea Necklace",
       "fr": "Collier pois de senteur multicolore",
@@ -12414,7 +12414,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hanging Planter Branch",
+      "cn": "树枝盆栽挂架",
       "de": "Hängendes Blumentopfset",
       "en": "Hanging Planter Branch",
       "fr": "Branche à jardinières",
@@ -25064,7 +25064,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Index",
+      "cn": "复兴魔导书",
       "de": "Rinascita-Index",
       "en": "Rinascita Index",
       "fr": "Index de la rinascita",
@@ -25086,7 +25086,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Codex",
+      "cn": "复兴魔导典",
       "de": "Rinascita-Kodex",
       "en": "Rinascita Codex",
       "fr": "Codex de la rinascita",
@@ -25108,7 +25108,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Strength Alkahest",
+      "cn": "7级刚力之幻水",
       "de": "Visionslösung der Stärke VII",
       "en": "Grade 7 Strength Alkahest",
       "fr": "Eau chimérique de force VII",
@@ -25130,7 +25130,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Dexterity Alkahest",
+      "cn": "7级巧力之幻水",
       "de": "Visionslösung der Geschicklichkeit VII",
       "en": "Grade 7 Dexterity Alkahest",
       "fr": "Eau chimérique de dextérité VII",
@@ -25152,7 +25152,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Vitality Alkahest",
+      "cn": "7级耐力之幻水",
       "de": "Visionslösung der Konstitution VII",
       "en": "Grade 7 Vitality Alkahest",
       "fr": "Eau chimérique de vitalité VII",
@@ -25174,7 +25174,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Intelligence Alkahest",
+      "cn": "7级智力之幻水",
       "de": "Visionslösung der Intelligenz VII",
       "en": "Grade 7 Intelligence Alkahest",
       "fr": "Eau chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VII",
@@ -25196,7 +25196,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Grade 7 Mind Alkahest",
+      "cn": "7级意力之幻水",
       "de": "Visionslösung der Willenskraft VII",
       "en": "Grade 7 Mind Alkahest",
       "fr": "Eau chimérique d'esprit VII",
@@ -25218,7 +25218,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Strength",
+      "cn": "7级刚力之幻药",
       "de": "Visionsremedium der Stärke VII",
       "en": "Grade 7 Tincture of Strength",
       "fr": "Philtre chimérique de force VII",
@@ -25240,7 +25240,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Dexterity",
+      "cn": "7级巧力之幻药",
       "de": "Visionsremedium der Geschicklichkeit VII",
       "en": "Grade 7 Tincture of Dexterity",
       "fr": "Philtre chimérique de dextérité VII",
@@ -25262,7 +25262,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Vitality",
+      "cn": "7级耐力之幻药",
       "de": "Visionsremedium der Konstitution VII",
       "en": "Grade 7 Tincture of Vitality",
       "fr": "Philtre chimérique de vitalité VII",
@@ -25284,7 +25284,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Intelligence",
+      "cn": "7级智力之幻药",
       "de": "Visionsremedium der Intelligenz VII",
       "en": "Grade 7 Tincture of Intelligence",
       "fr": "Philtre chimérique d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence VII",
@@ -25306,7 +25306,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Grade 7 Tincture of Mind",
+      "cn": "7级意力之幻药",
       "de": "Visionsremedium der Willenskraft VII",
       "en": "Grade 7 Tincture of Mind",
       "fr": "Philtre chimérique d'esprit VII",
@@ -25328,7 +25328,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Resin",
+      "cn": "獭獭喷泉建造用合成树脂",
       "de": "Otterborn-Kunstharz",
       "en": "Water Otter Fountain Resin",
       "fr": "Résine synthétique pour la fontaine ressourçante",
@@ -25350,7 +25350,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Grimoire",
+      "cn": "梦羽妖灵王魔导书",
       "de": "Feenkönig-Grimoire",
       "en": "The Fae's Crown Grimoire",
       "fr": "Grimoire du Monarque féérique",
@@ -25372,7 +25372,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Codex",
+      "cn": "梦羽妖灵王魔导典",
       "de": "Feenkönig-Kodex",
       "en": "The Fae's Crown Codex",
       "fr": "Codex du Monarque féérique",
@@ -25394,7 +25394,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",
@@ -25416,7 +25416,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Battle with the Four Fiends (Buried Memory) Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：高贝扎四天王之战　～禁忌的记忆～",
       "de": "Notenrolle von „Battle with the Four Fiends (Buried Memory)“",
       "en": "Battle with the Four Fiends (Buried Memory) Orchestrion Roll",
       "fr": "Rouleau “Battle with the Four Fiends (Buried Memory)”",

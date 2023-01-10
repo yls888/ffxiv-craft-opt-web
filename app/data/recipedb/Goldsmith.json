@@ -22270,7 +22270,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "海滨弹簧门柜台",
+      "cn": "弹簧门柜台",
       "de": "Schwingtürtheke",
       "en": "Swinging-door Counter",
       "fr": "Comptoir à porte battante",
@@ -22358,7 +22358,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Leveilleur Estate Flooring",
+      "cn": "莱韦耶勒尔地板",
       "de": "Leveilleur-Fußboden",
       "en": "Leveilleur Estate Flooring",
       "fr": "Parquet des Leveilleur",
@@ -22380,7 +22380,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Leveilleur Estate Interior Wall",
+      "cn": "莱韦耶勒尔内墙",
       "de": "Leveilleur-Innenwand",
       "en": "Leveilleur Estate Interior Wall",
       "fr": "Revêtement mural des Leveilleur",
@@ -22402,7 +22402,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Imitation Stained Crystal Roundel",
+      "cn": "仿制圆形彩绘玻璃窗",
       "de": "Buntkristallrundfenster-Imitation",
       "en": "Imitation Stained Crystal Roundel",
       "fr": "Imitation de vitrail circulaire",
@@ -37384,7 +37384,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Rod",
+      "cn": "复兴法杖",
       "de": "Rinascita-Stab",
       "en": "Rinascita Rod",
       "fr": "Sceptre de la rinascita",
@@ -37406,7 +37406,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Planisphere",
+      "cn": "复兴天星盘",
       "de": "Rinascita-Planisphäre",
       "en": "Rinascita Planisphere",
       "fr": "Planisphère de la rinascita",
@@ -37428,7 +37428,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Rapier",
+      "cn": "复兴刺剑",
       "de": "Rinascita-Rapier",
       "en": "Rinascita Rapier",
       "fr": "Rapière de la rinascita",
@@ -37450,7 +37450,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Pendulums",
+      "cn": "复兴振空摆",
       "de": "Rinascita-Perpendikel",
       "en": "Rinascita Pendulums",
       "fr": "Pendules de la rinascita",
@@ -37472,7 +37472,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Hood of Striking",
+      "cn": "复兴强袭兜帽",
       "de": "Rinascita-Haube des Schlagens",
       "en": "Rinascita Hood of Striking",
       "fr": "Capuche d'agresseur de la rinascita",
@@ -37494,7 +37494,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Beret of Aiming",
+      "cn": "复兴精准贝雷帽",
       "de": "Rinascita-Barett des Zielens",
       "en": "Rinascita Beret of Aiming",
       "fr": "Béret de pisteur de la rinascita",
@@ -37516,7 +37516,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Hood of Scouting",
+      "cn": "复兴游击兜帽",
       "de": "Rinascita-Haube des Spähens",
       "en": "Rinascita Hood of Scouting",
       "fr": "Capuche d'éclaireur de la rinascita",
@@ -37538,7 +37538,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Beret of Healing",
+      "cn": "复兴治愈贝雷帽",
       "de": "Rinascita-Barett der Heilung",
       "en": "Rinascita Beret of Healing",
       "fr": "Béret de soigneur de la rinascita",
@@ -37560,7 +37560,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Hood of Casting",
+      "cn": "复兴咏咒兜帽",
       "de": "Rinascita-Haube der Magie",
       "en": "Rinascita Hood of Casting",
       "fr": "Capuche d'incantateur de la rinascita",
@@ -37582,7 +37582,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Necklace of Fending",
+      "cn": "复兴御敌项链",
       "de": "Rinascita-Halsband der Verteidigung",
       "en": "Rinascita Necklace of Fending",
       "fr": "Collier de protecteur de la rinascita",
@@ -37604,7 +37604,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Necklace of Slaying",
+      "cn": "复兴强攻项链",
       "de": "Rinascita-Halsband des Schlachtens",
       "en": "Rinascita Necklace of Slaying",
       "fr": "Collier d'attaquant de la rinascita",
@@ -37626,7 +37626,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Necklace of Aiming",
+      "cn": "复兴精准项链",
       "de": "Rinascita-Halsband des Zielens",
       "en": "Rinascita Necklace of Aiming",
       "fr": "Collier de pisteur de la rinascita",
@@ -37648,7 +37648,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Necklace of Healing",
+      "cn": "复兴治愈项链",
       "de": "Rinascita-Halsband der Heilung",
       "en": "Rinascita Necklace of Healing",
       "fr": "Collier de soigneur de la rinascita",
@@ -37670,7 +37670,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Necklace of Casting",
+      "cn": "复兴咏咒项链",
       "de": "Rinascita-Halsband der Magie",
       "en": "Rinascita Necklace of Casting",
       "fr": "Collier d'incantateur de la rinascita",
@@ -37692,7 +37692,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rutilated Quartz",
+      "cn": "发晶",
       "de": "Rutilquarz",
       "en": "Rutilated Quartz",
       "fr": "Quartz rutile",
@@ -37714,7 +37714,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Hardware",
+      "cn": "獭獭喷泉建造用金属材料",
       "de": "Otterborn-Metallteile",
       "en": "Water Otter Fountain Hardware",
       "fr": "Métaux pour la fontaine ressourçante",
@@ -37736,7 +37736,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Star Globe",
+      "cn": "梦羽妖灵王天球仪",
       "de": "Feenkönig-Sternenglobus",
       "en": "The Fae's Crown Star Globe",
       "fr": "Globe céleste du Monarque féérique",
@@ -37758,7 +37758,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "The Fae's Crown Rapier",
+      "cn": "梦羽妖灵王刺剑",
       "de": "Feenkönig-Rapier",
       "en": "The Fae's Crown Rapier",
       "fr": "Rapière du Monarque féérique",
@@ -37780,7 +37780,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",

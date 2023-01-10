@@ -30806,7 +30806,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Armguards of Striking",
+      "cn": "复兴强袭护臂",
       "de": "Rinascita-Armschützer des Schlagens",
       "en": "Rinascita Armguards of Striking",
       "fr": "Garde-bras d'agresseur de la rinascita",
@@ -30828,7 +30828,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Shoes of Striking",
+      "cn": "复兴强袭皮鞋",
       "de": "Rinascita-Schuhe des Schlagens",
       "en": "Rinascita Shoes of Striking",
       "fr": "Chaussures d'agresseur de la rinascita",
@@ -30850,7 +30850,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Gloves of Aiming",
+      "cn": "复兴精准手套",
       "de": "Rinascita-Handschuhe des Zielens",
       "en": "Rinascita Gloves of Aiming",
       "fr": "Gants de pisteur de la rinascita",
@@ -30872,7 +30872,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Armguards of Scouting",
+      "cn": "复兴游击护臂",
       "de": "Rinascita-Armschützer des Spähens",
       "en": "Rinascita Armguards of Scouting",
       "fr": "Garde-bras d'éclaireur de la rinascita",
@@ -30894,7 +30894,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Gloves of Healing",
+      "cn": "复兴治愈手套",
       "de": "Rinascita-Handschuhe der Heilung",
       "en": "Rinascita Gloves of Healing",
       "fr": "Gants de soigneur de la rinascita",
@@ -30916,7 +30916,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Shoes of Healing",
+      "cn": "复兴治愈皮鞋",
       "de": "Rinascita-Schuhe der Heilung",
       "en": "Rinascita Shoes of Healing",
       "fr": "Chaussures de soigneur de la rinascita",
@@ -30938,7 +30938,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Armguards of Casting",
+      "cn": "复兴咏咒护臂",
       "de": "Rinascita-Armschützer der Magie",
       "en": "Rinascita Armguards of Casting",
       "fr": "Garde-bras d'incantateur de la rinascita",
@@ -30960,7 +30960,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Shoes of Casting",
+      "cn": "复兴咏咒皮鞋",
       "de": "Rinascita-Schuhe der Magie",
       "en": "Rinascita Shoes of Casting",
       "fr": "Chaussures d'incantateur de la rinascita",
@@ -30982,7 +30982,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Earring of Fending",
+      "cn": "复兴御敌耳坠",
       "de": "Rinascita-Ohrringe der Verteidigung",
       "en": "Rinascita Earring of Fending",
       "fr": "Boucle d'oreille de protecteur de la rinascita",
@@ -31004,7 +31004,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Earring of Slaying",
+      "cn": "复兴强攻耳坠",
       "de": "Rinascita-Ohrringe des Schlachtens",
       "en": "Rinascita Earring of Slaying",
       "fr": "Boucle d'oreille d'attaquant de la rinascita",
@@ -31026,7 +31026,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Earring of Aiming",
+      "cn": "复兴精准耳坠",
       "de": "Rinascita-Ohrringe des Zielens",
       "en": "Rinascita Earring of Aiming",
       "fr": "Boucle d'oreille de pisteur de la rinascita",
@@ -31048,7 +31048,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Earring of Healing",
+      "cn": "复兴治愈耳坠",
       "de": "Rinascita-Ohrringe der Heilung",
       "en": "Rinascita Earring of Healing",
       "fr": "Boucle d'oreille de soigneur de la rinascita",
@@ -31070,7 +31070,7 @@
     "level": 610,
     "maxQuality": 12628,
     "name": {
-      "cn": "Rinascita Earring of Casting",
+      "cn": "复兴咏咒耳坠",
       "de": "Rinascita-Ohrringe der Magie",
       "en": "Rinascita Earring of Casting",
       "fr": "Boucle d'oreille d'incantateur de la rinascita",
@@ -31092,7 +31092,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Titanoboa Leather",
+      "cn": "泰坦蚺革",
       "de": "Titanoboa-Leder",
       "en": "Titanoboa Leather",
       "fr": "Cuir de titanoboa",
@@ -31114,7 +31114,7 @@
     "level": 611,
     "maxQuality": 13620,
     "name": {
-      "cn": "Water Otter Fountain Lumber",
+      "cn": "獭獭喷泉建造用部件",
       "de": "Otterborn-Bauholz",
       "en": "Water Otter Fountain Lumber",
       "fr": "Matériaux pour la fontaine ressourçante",
@@ -31136,7 +31136,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Island Prism",
+      "cn": "海岛幻象棱晶",
       "de": "Inselprisma",
       "en": "Island Prism",
       "fr": "Prisme insulaire",
@@ -31158,7 +31158,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Windswept Barding",
+      "cn": "煞风装甲",
       "de": "Barbarizia-Rossharnisch",
       "en": "Windswept Barding",
       "fr": "Barde de Barbariccia",
@@ -31180,7 +31180,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Lawless Enforcer's Gloves",
+      "cn": "法外执行者手套",
       "de": " Unordnungshüter-Handschuhe",
       "en": "Lawless Enforcer's Gloves",
       "fr": "Gants de tireur hors-la-loi",
@@ -31202,7 +31202,7 @@
     "level": 590,
     "maxQuality": 8000,
     "name": {
-      "cn": "Lawless Enforcer's Shoes",
+      "cn": "法外执行者皮鞋",
       "de": "Unordnungshüter-Schuhe",
       "en": "Lawless Enforcer's Shoes",
       "fr": "Chaussures de tireur hors-la-loi",
