@@ -963,3 +963,11 @@ label.disabled {
     display: none !important;
   }
 }
+
+.helps-top, .helps-bottom {
+  text-align:right;
+}
+
+.helps-top img, .helps-bottom img{
+  max-height: 75px;
+}
