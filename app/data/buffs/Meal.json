@@ -1204,7 +1204,7 @@
     "hq": false,
     "id": "7b95acdf229",
     "name": {
-      "cn": "【ilv.590】Calamari Ripieni",
+      "cn": "【ilv.590】镶烤墨鱼",
       "de": "Calamari Ripieni",
       "en": "Calamari Ripieni",
       "fr": "Khalamar ripieni",
@@ -1219,11 +1219,41 @@
     "hq": true,
     "id": "7b95acdf229",
     "name": {
-      "cn": "【ilv.590】Calamari Ripieni",
+      "cn": "【ilv.590】镶烤墨鱼",
       "de": "Calamari Ripieni",
       "en": "Calamari Ripieni",
       "fr": "Khalamar ripieni",
       "ja": "カラマリ・リピエーニ"
+    }
+  },
+  {
+    "control_percent": 4,
+    "control_value": 72,
+    "cp_percent": 21,
+    "cp_value": 69,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.620】Jhinga Biryani",
+      "de": "Zingarnelen-Biryani",
+      "en": "Jhinga Biryani",
+      "fr": "Biryani aux crevettes jhingas",
+      "ja": "ジンガビリヤニ"
+    }
+  },
+  {
+    "control_percent": 5,
+    "control_value": 90,
+    "cp_percent": 26,
+    "cp_value": 86,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.620】Jhinga Biryani",
+      "de": "Zingarnelen-Biryani",
+      "en": "Jhinga Biryani",
+      "fr": "Biryani aux crevettes jhingas",
+      "ja": "ジンガビリヤニ"
     }
   }
 ]

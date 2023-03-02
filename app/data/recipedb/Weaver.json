@@ -17276,7 +17276,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Eulmoran Divan",
+      "cn": "游末邦睡榻",
       "de": "Eulmore-Diwan",
       "en": "Eulmoran Divan",
       "fr": "Canapé eulmorien",
@@ -17287,6 +17287,72 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5434,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "侧系带窗帘",
+      "de": "Dekorvorhang",
+      "en": "Side-tied Curtain",
+      "fr": "Rideau attaché",
+      "ja": "サイドタイドカーテン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5481,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Tatami Loft",
+      "de": "Tatami-Empore",
+      "en": "Tatami Loft",
+      "fr": "Mezzanine en tatami",
+      "ja": "タタミロフト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5482,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "露营帐篷",
+      "de": "Gartenzelt",
+      "en": "Camping Tent",
+      "fr": "Tente de camping",
+      "ja": "キャンピングテント"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5487,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -19674,7 +19740,7 @@
     "level": 136,
     "maxQuality": 2350,
     "name": {
-      "cn": "部队短袖罩衣",
+      "cn": "部队罩衣",
       "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schaftswappenrock",
       "en": "Company Tabard",
       "fr": "Tabard de compagnie libre",
@@ -24911,7 +24977,7 @@
     "maxQuality": 1152,
     "name": {
       "cn": "梅氏一族的日用品部件",
-      "de": "Komponente eines Gebrauchsgegenstands der M",
+      "de": "Komponente für Jagdbedarf für die M",
       "en": "M Tribe Sundry Component",
       "fr": "Composant de produits du quotidien des M",
       "ja": "メ族の日用品部材"
@@ -26099,7 +26165,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "蒸包子用品",
-      "de": "Buuds-Kochutensilie",
+      "de": "Buuds-Kochutensil",
       "en": "Buuz Cooking Paraphernalia",
       "fr": "Ustensile de cuisine pour buuz",
       "ja": "ボーズ調理用品"
@@ -26824,7 +26890,7 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "风尚花边长裙",
+      "cn": "风尚褶边连衣裙",
       "de": "Quaintrelle-Rüschenkleid",
       "en": "Quaintrelle's Ruffled Dress",
       "fr": "Robe à froufrous d'hédoniste",
@@ -27485,7 +27551,7 @@
     "maxQuality": 2664,
     "name": {
       "cn": "崖畔亭包子必需品",
-      "de": "Buuds-Kochutensil",
+      "de": "Klippenhänger-Buuds-Kochutensil",
       "en": "Signature Buuz Cookware",
       "fr": "Composant pour buuz du Bord du gouffre",
       "ja": "崖っぷちボーズ必需品"
@@ -31764,8 +31830,8 @@
     "qualityModifier": 70,
     "recipeId": 34821,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31786,8 +31852,8 @@
     "qualityModifier": 70,
     "recipeId": 34823,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31808,8 +31874,8 @@
     "qualityModifier": 70,
     "recipeId": 34826,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31830,8 +31896,8 @@
     "qualityModifier": 70,
     "recipeId": 34828,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31852,8 +31918,8 @@
     "qualityModifier": 70,
     "recipeId": 34833,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31874,8 +31940,8 @@
     "qualityModifier": 70,
     "recipeId": 34835,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31896,8 +31962,8 @@
     "qualityModifier": 70,
     "recipeId": 34837,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31918,8 +31984,8 @@
     "qualityModifier": 70,
     "recipeId": 34838,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31940,8 +32006,8 @@
     "qualityModifier": 70,
     "recipeId": 34843,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31962,8 +32028,8 @@
     "qualityModifier": 70,
     "recipeId": 34846,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -31984,8 +32050,8 @@
     "qualityModifier": 70,
     "recipeId": 34848,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32006,8 +32072,8 @@
     "qualityModifier": 70,
     "recipeId": 34851,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32028,8 +32094,8 @@
     "qualityModifier": 70,
     "recipeId": 34853,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32050,8 +32116,8 @@
     "qualityModifier": 70,
     "recipeId": 34894,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32170,7 +32236,7 @@
     "level": 430,
     "maxQuality": 3680,
     "name": {
-      "cn": "Aetheroconductive Quill",
+      "cn": "留学生用文具",
       "de": "Akademisches Schreibset",
       "en": "Aetheroconductive Quill",
       "fr": "Matériel d'écriture scolaire",
@@ -32192,7 +32258,7 @@
     "level": 440,
     "maxQuality": 3960,
     "name": {
-      "cn": "Aetheroconductive Focus",
+      "cn": "留学生用魔器",
       "de": "Akademisches Magie-Rüstzeug",
       "en": "Aetheroconductive Focus",
       "fr": "Fournitures scolaires magiques",
@@ -32214,7 +32280,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Luncheon Coffer",
+      "cn": "魔法餐盒",
       "de": "Ätherothermosdose",
       "en": "Luncheon Coffer",
       "fr": "Boîte à déjeuner magique",
@@ -32236,7 +32302,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Aetheroconductive Mammet",
+      "cn": "特训用魔法人偶",
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
       "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
@@ -32258,7 +32324,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "School Supplies",
+      "cn": "辅助学习用品",
       "de": "Akademische Ausstattung",
       "en": "School Supplies",
       "fr": "Affaires de soutien scolaire",
@@ -32280,7 +32346,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Turban of Crafting",
+      "cn": "条约巧匠包头巾",
       "de": "Paktschließer-Turban des Handwerks",
       "en": "Pactmaker's Turban of Crafting",
       "fr": "Turban des créations des associés",
@@ -32292,8 +32358,8 @@
     "qualityModifier": 70,
     "recipeId": 34982,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32302,7 +32368,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Vest of Crafting",
+      "cn": "条约巧匠坎肩",
       "de": "Paktschließer-Weste des Handwerks",
       "en": "Pactmaker's Vest of Crafting",
       "fr": "Gilet des créations des associés",
@@ -32314,8 +32380,8 @@
     "qualityModifier": 70,
     "recipeId": 34983,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32324,7 +32390,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Sarouel of Crafting",
+      "cn": "条约巧匠垮裤",
       "de": "Paktschließer-Sarouel des Handwerks",
       "en": "Pactmaker's Sarouel of Crafting",
       "fr": "Saroual des créations des associés",
@@ -32336,8 +32402,8 @@
     "qualityModifier": 70,
     "recipeId": 34985,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32346,7 +32412,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Ushanka of Gathering",
+      "cn": "条约大地毛帽",
       "de": "Paktschließer-Uschanka des Eifers",
       "en": "Pactmaker's Ushanka of Gathering",
       "fr": "Ouchanka des ressources des associés",
@@ -32358,8 +32424,8 @@
     "qualityModifier": 70,
     "recipeId": 34987,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32368,7 +32434,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Coat of Gathering",
+      "cn": "条约大地外套",
       "de": "Paktschließer-Mantel des Eifers",
       "en": "Pactmaker's Coat of Gathering",
       "fr": "Manteau des ressources des associés",
@@ -32380,8 +32446,8 @@
     "qualityModifier": 70,
     "recipeId": 34988,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -32390,7 +32456,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Varsity Flat Cap",
+      "cn": "校园平顶帽",
       "de": "Universitäts-Ledermütze",
       "en": "Varsity Flat Cap",
       "fr": "Casquette classique uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
@@ -32412,7 +32478,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Varsity Jacket",
+      "cn": "校园外套",
       "de": "Universitäts-Jacke",
       "en": "Varsity Jacket",
       "fr": "Jaque uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
@@ -32434,7 +32500,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Varsity Bottoms",
+      "cn": "校园打底裤",
       "de": "Universitäts-Hose",
       "en": "Varsity Bottoms",
       "fr": "Bas-de-corps uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
@@ -32456,7 +32522,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Buttoned Varsity Jacket",
+      "cn": "系扣校园外套",
       "de": "Zugeknöpfte Universitäts-Jacke",
       "en": "Buttoned Varsity Jacket",
       "fr": "Jaque boutonnée uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
@@ -32478,7 +32544,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Varsity Skirt",
+      "cn": "校园长裙",
       "de": "Universitäts-Rock",
       "en": "Varsity Skirt",
       "fr": "Jupe uni<SoftHyphen/>ver<SoftHyphen/>si<SoftHyphen/>tai<SoftHyphen/>re",
@@ -32492,5 +32558,797 @@
     "stars": 1,
     "suggestedControl": 2703,
     "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴御敌护膝裤",
+      "de": "Rinascita-Knieschützer der Verteidigung",
+      "en": "Rinascita Poleyns of Fending",
+      "fr": "Genouillères de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35049,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴制敌护膝裤",
+      "de": "Rinascita-Knieschützer des Verstümmelns",
+      "en": "Rinascita Poleyns of Maiming",
+      "fr": "Genouillères d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35054,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴强袭上衣",
+      "de": "Rinascita-Jacke des Schlagens",
+      "en": "Rinascita Jacket of Striking",
+      "fr": "Jaque d'agresseur de la rinascita",
+      "ja": "リナシータ・ストライカージャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35057,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴强袭护膝裤",
+      "de": "Rinascita-Knieschützer des Schlagens",
+      "en": "Rinascita Poleyns of Striking",
+      "fr": "Genouillères d'agresseur de la rinascita",
+      "ja": "リナシータ・ストライカーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35059,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴精准上衣",
+      "de": "Rinascita-Jacke des Zielens",
+      "en": "Rinascita Jacket of Aiming",
+      "fr": "Jaque de pisteur de la rinascita",
+      "ja": "リナシータ・レンジャージャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35062,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴精准护膝裤",
+      "de": "Rinascita-Knieschützer des Zielens",
+      "en": "Rinascita Poleyns of Aiming",
+      "fr": "Genouillères de pisteur de la rinascita",
+      "ja": "リナシータ・レンジャーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35064,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴游击上衣",
+      "de": "Rinascita-Jacke des Spähens",
+      "en": "Rinascita Jacket of Scouting",
+      "fr": "Jaque d'éclaireur de la rinascita",
+      "ja": "リナシータ・スカウトジャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35067,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴游击护膝裤",
+      "de": "Rinascita-Knieschützer des Spähens",
+      "en": "Rinascita Poleyns of Scouting",
+      "fr": "Genouillères d'éclaireur de la rinascita",
+      "ja": "リナシータ・スカウトポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35069,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴治愈外套",
+      "de": "Rinascita-Mantel der Heilung",
+      "en": "Rinascita Coat of Healing",
+      "fr": "Manteau de soigneur de la rinascita",
+      "ja": "リナシータ・ヒーラーコート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35072,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴治愈护膝裤",
+      "de": "Rinascita-Knieschützer der Heilung",
+      "en": "Rinascita Poleyns of Healing",
+      "fr": "Genouillères de soigneur de la rinascita",
+      "ja": "リナシータ・ヒーラーポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35074,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴咏咒外套",
+      "de": "Rinascita-Mantel der Magie",
+      "en": "Rinascita Coat of Casting",
+      "fr": "Manteau d'incantateur de la rinascita",
+      "ja": "リナシータ・キャスターコート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35077,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴咏咒护膝裤",
+      "de": "Rinascita-Knieschützer der Magie",
+      "en": "Rinascita Poleyns of Casting",
+      "fr": "Genouillères d'incantateur de la rinascita",
+      "ja": "リナシータ・キャスターポレイン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35079,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3696,
+    "durability": 35,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "杨梅染布",
+      "de": "Myrica-Tuch",
+      "en": "Bayberry Cloth",
+      "fr": "Étoffe de myrica",
+      "ja": "渋木染布"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35106,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7480,
+    "durability": 60,
+    "level": 611,
+    "maxQuality": 13620,
+    "name": {
+      "cn": "獭獭喷泉建造用部件",
+      "de": "Otterborn-Bauholz",
+      "en": "Water Otter Fountain Lumber",
+      "fr": "Matériaux pour la fontaine ressourçante",
+      "ja": "ウソウソの泉の建築用部材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35129,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 8000,
+    "name": {
+      "cn": "海岛幻象棱晶",
+      "de": "Inselprisma",
+      "en": "Island Prism",
+      "fr": "Prisme insulaire",
+      "ja": "アイルプリズム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35158,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 8000,
+    "name": {
+      "cn": "法外执行者帽",
+      "de": "Unordnungshüter-Chapeau",
+      "en": "Lawless Enforcer's Hat",
+      "fr": "Chapeau de tireur hors-la-loi",
+      "ja": "ワイルドエンフォーサー・ハット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35164,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 8000,
+    "name": {
+      "cn": "法外执行者上衣",
+      "de": "Unordnungshüter-Jackett",
+      "en": "Lawless Enforcer's Jacket",
+      "fr": "Jaque de tireur hors-la-loi",
+      "ja": "ワイルドエンフォーサー・ジャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35165,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 8000,
+    "name": {
+      "cn": "法外执行者长裤",
+      "de": "Unordnungshüter-Hose",
+      "en": "Lawless Enforcer's Slacks",
+      "fr": "Fuseau-collant de tireur hors-la-loi",
+      "ja": "ワイルドエンフォーサー・スラックス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35167,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Sheep Equipment",
+      "de": "Hirten-Werkzeug",
+      "en": "Sheep Equipment",
+      "fr": "Outils de berger",
+      "ja": "羊のお世話道具"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35386,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Mountain Garb",
+      "de": "Kälteschutzmütze",
+      "en": "Mountain Garb",
+      "fr": "Chapka",
+      "ja": "山岳部の防寒用品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35387,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Classic Voeburtite Cuisine",
+      "de": "Voeburtische Spezialität",
+      "en": "Classic Voeburtite Cuisine",
+      "fr": "Plat de Voeburt",
+      "ja": "フッブート風の郷土料理"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35388,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 84,
+    "difficulty": 2900,
+    "durability": 60,
+    "level": 530,
+    "maxQuality": 5280,
+    "name": {
+      "cn": "Traditional Voeburtite Handicraft",
+      "de": "Voeburtisches Kunsthandwerk",
+      "en": "Traditional Voeburtite Handicraft",
+      "fr": "Mouton fait-main",
+      "ja": "フッブート風の工芸品"
+    },
+    "progressDivider": 124,
+    "progressModifier": 100,
+    "qualityDivider": 108,
+    "qualityModifier": 100,
+    "recipeId": 35389,
+    "stars": 0,
+    "suggestedControl": 2388,
+    "suggestedCraftsmanship": 2507
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Lovely Box of Pretty Things",
+      "de": "Dankesgeschenk",
+      "en": "Lovely Box of Pretty Things",
+      "fr": "Boîte de jolis cadeaux",
+      "ja": "かわいらしい返礼品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35390,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Coat of Crafting",
+      "de": "Ermittler-Mantel des Handwerks",
+      "en": "Indagator's Coat of Crafting",
+      "fr": "Manteau des créations d'indagator",
+      "ja": "インダガトル・クラフターコート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35439,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Trousers of Crafting",
+      "de": "Ermittler-Hose des Handwerks",
+      "en": "Indagator's Trousers of Crafting",
+      "fr": "Pantalon des créations d'indagator",
+      "ja": "インダガトル・クラフタートラウザー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35441,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Doublet Vest of Gathering",
+      "de": "Ermittler-Weste des Eifers",
+      "en": "Indagator's Doublet Vest of Gathering",
+      "fr": "Gilet doublet des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーダブレットベスト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35444,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Bottoms of Gathering",
+      "de": "Ermittler-Hose des Eifers",
+      "en": "Indagator's Bottoms of Gathering",
+      "fr": "Bas-de-corps des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35446,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Bracelet of Gathering",
+      "de": "Ermittler-Armreif des Eifers",
+      "en": "Indagator's Bracelet of Gathering",
+      "fr": "Bracelet des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーブレスレット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35454,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Salon Server's Hat",
+      "de": "Kellner-Hut",
+      "en": "Salon Server's Hat",
+      "fr": "Chapeau de service hôtelier",
+      "ja": "サロンサーバー・ハット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35480,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Salon Server's Vest",
+      "de": "Kellner-Weste",
+      "en": "Salon Server's Vest",
+      "fr": "Gilet de service hôtelier",
+      "ja": "サロンサーバー・ベスト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35481,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Salon Server's Bottoms",
+      "de": "Kellner-Hose",
+      "en": "Salon Server's Bottoms",
+      "fr": "Bas-de-corps de service hôtelier",
+      "ja": "サロンサーバー・ボトム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35483,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Salon Server's Dress Vest",
+      "de": "Kellner-Galaweste",
+      "en": "Salon Server's Dress Vest",
+      "fr": "Corsage de service hôtelier",
+      "ja": "サロンサーバー・ドレスベスト"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35485,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Salon Server's Dress Gloves",
+      "de": "Kellner-Galahandschuhe",
+      "en": "Salon Server's Dress Gloves",
+      "fr": "Gants d'apparat de service hôtelier",
+      "ja": "サロンサーバー・ドレスグローブ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35486,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Salon Server's Skirt",
+      "de": "Kellner-Rock",
+      "en": "Salon Server's Skirt",
+      "fr": "Jupe de service hôtelier",
+      "ja": "サロンサーバー・スカート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35487,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Flamecloaked Barding",
+      "de": "Flammenmantel-Rossharnisch",
+      "en": "Flamecloaked Barding",
+      "fr": "Barde de Rubicante",
+      "ja": "ルビカンテ・バード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35489,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7920,
+    "durability": 60,
+    "level": 621,
+    "maxQuality": 17240,
+    "name": {
+      "cn": "Smaller Water Otter Fountain Lumber",
+      "de": "Material für einen Garten-Otterborn",
+      "en": "Smaller Water Otter Fountain Lumber",
+      "fr": "Matériaux pour fontaine ressourçante de jardin",
+      "ja": "家庭用ウソウソの泉の部材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35493,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   }
 ]

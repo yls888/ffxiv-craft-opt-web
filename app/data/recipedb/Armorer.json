@@ -11050,7 +11050,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Roof (Stone)",
+      "cn": "石制雪峰小屋房顶",
       "de": "Coerthas-Steinhüttendach",
       "en": "Highland Cottage Roof (Stone)",
       "fr": "Toit de maisonnette en pierre coerthienne",
@@ -11072,7 +11072,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Roof (Stone)",
+      "cn": "石制雪峰公馆房顶",
       "de": "Coerthas-Steinhausdach",
       "en": "Highland House Roof (Stone)",
       "fr": "Toit de pavillon en pierre coerthien",
@@ -11094,7 +11094,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Roof (Stone)",
+      "cn": "石制雪峰别墅房顶",
       "de": "Coerthas-Steinresidenzdach",
       "en": "Highland Mansion Roof (Stone)",
       "fr": "Toit de villa en pierre coerthienne",
@@ -11116,7 +11116,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Cottage Wall (Stone)",
+      "cn": "石制雪峰小屋外墙",
       "de": "Coerthas-Steinhüttenmauer",
       "en": "Highland Cottage Wall (Stone)",
       "fr": "Mur de maisonnette en pierre coerthienne",
@@ -11138,7 +11138,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland House Wall (Stone)",
+      "cn": "石制雪峰公馆外墙",
       "de": "Coerthas-Steinhausmauer",
       "en": "Highland House Wall (Stone)",
       "fr": "Mur de pavillon en pierre coerthien",
@@ -11160,7 +11160,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Mansion Wall (Stone)",
+      "cn": "石制雪峰别墅外墙",
       "de": "Coerthas-Steinresidenzmauer",
       "en": "Highland Mansion Wall (Stone)",
       "fr": "Mur de villa en pierre coerthienne",
@@ -11182,7 +11182,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Ornate Door",
+      "cn": "雪峰装饰门",
       "de": "Coerthas-Ornamenttür",
       "en": "Highland Ornate Door",
       "fr": "Porte ornée coerthienne",
@@ -11204,7 +11204,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Composite Chimney",
+      "cn": "雪峰混合制烟囱",
       "de": "Coerthas-Kompositschornstein",
       "en": "Highland Composite Chimney",
       "fr": "Cheminée composite coerthienne",
@@ -11226,7 +11226,7 @@
     "level": 150,
     "maxQuality": 2700,
     "name": {
-      "cn": "Highland Stone Awning",
+      "cn": "雪峰石制遮蓬",
       "de": "Coerthas-Steinüberdachung",
       "en": "Highland Stone Awning",
       "fr": "Auvent en pierre coerthien",
@@ -11248,7 +11248,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Steel Locker",
+      "cn": "白钢储物柜",
       "de": "Stahlspind",
       "en": "Steel Locker",
       "fr": "Casier métallique",
@@ -11270,7 +11270,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Cathedral Lectern",
+      "cn": "大圣堂讲坛",
       "de": "Kathedralenrednerpult",
       "en": "Cathedral Lectern",
       "fr": "Chaire de cathédrale",
@@ -11281,6 +11281,50 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5443,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Simple Sink",
+      "de": "Schlichtes Spülbecken",
+      "en": "Simple Sink",
+      "fr": "Évier simple",
+      "ja": "シンプルシンク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5506,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Waterfall Partition",
+      "de": "Wasser-Raumteiler",
+      "en": "Waterfall Partition",
+      "fr": "Cloison ruisselante",
+      "ja": "ウォーターパーティション"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5512,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -15825,8 +15869,8 @@
     "maxQuality": 2900,
     "name": {
       "cn": "惊雷骑士武具",
-      "de": "Paladin-Rüstzeug des mächtigen Donners",
-      "en": "Paladin's Levin Arms",
+      "de": "Paladin-Rüstzeug des mächtigen Donners (G.-St. 110)",
+      "en": "Paladin's Mighty Levin Arms",
       "fr": "Attirail du Patriarche pour paladin",
       "ja": "レヴィン・ナイトギア"
     },
@@ -15847,7 +15891,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "无尽云神骑士武具",
-      "de": "Paladin-Rüstzeug der endlosen Weiten",
+      "de": "Paladin-Rüstzeug der endlosen Weiten (G.-St. 180)",
       "en": "Paladin's Endless Expanse Arms",
       "fr": "Attirail du Migrateur pour paladin",
       "ja": "エクスパンス・ナイトギア"
@@ -16133,9 +16177,9 @@
     "maxQuality": 2900,
     "name": {
       "cn": "偃武骑士武具",
-      "de": "Paladin-Rüstzeug der Kolonie",
+      "de": "Paladin-Rüstzeug der Kolonie (G.-St. 180)",
       "en": "Paladin's Dead Hive Arms",
-      "fr": "Attirail du Maître des lames pour paladin ",
+      "fr": "Attirail du Maître des lames pour paladin",
       "ja": "ハイヴ・ナイトギア"
     },
     "progressDivider": 70,
@@ -16155,9 +16199,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "圆桌之骑士武具",
-      "de": "Rüstzeug der Runde",
+      "de": "Rüstzeug der Runde (G.-St. 180)",
       "en": "Paladin's Arms of the Round",
-      "fr": "Coffre d'arme de chevalier de la Table ronde",
+      "fr": "Attirail de chevalier de la Table ronde pour paladin",
       "ja": "ナイトギア・オブ・ラウンド"
     },
     "progressDivider": 70,
@@ -16221,9 +16265,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "生命骑士武具",
-      "de": "Paladin-Rüstzeug des Baumgottes",
+      "de": "Paladin-Rüstzeug des Baumgottes (G.-St. 180)",
       "en": "Paladin's Fiend Arms",
-      "fr": "Attirail du Fiélon pour paladin ",
+      "fr": "Attirail du Fiélon pour paladin",
       "ja": "ナイトギア・オブ・フィーンド"
     },
     "progressDivider": 70,
@@ -17189,7 +17233,7 @@
     "maxQuality": 1152,
     "name": {
       "cn": "梅氏一族的日用品部件",
-      "de": "Komponente eines Gebrauchsgegenstands der M",
+      "de": "Komponente für Jagdbedarf für die M",
       "en": "M Tribe Sundry Component",
       "fr": "Composant de produits du quotidien des M",
       "ja": "メ族の日用品部材"
@@ -18025,7 +18069,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "蒸包子用品",
-      "de": "Buuds-Kochutensilie",
+      "de": "Buuds-Kochutensil",
       "en": "Buuz Cooking Paraphernalia",
       "fr": "Ustensile de cuisine pour buuz",
       "ja": "ボーズ調理用品"
@@ -18619,9 +18663,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "邪龙怨影骑士武具",
-      "de": "Paladin-Rüstzeug der Horde",
+      "de": "Paladin-Rüstzeug der Horde (G.-St. 180)",
       "en": "Paladin's Horde Arms",
-      "fr": "Attirail de Dravanien pour paladin ",
+      "fr": "Attirail de Dravanien pour paladin",
       "ja": "ホード・ナイトギア"
     },
     "progressDivider": 70,
@@ -18729,9 +18773,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "神圣女神骑士武具",
-      "de": "Paladin-Rüstzeug der Göttin",
+      "de": "Paladin-Rüstzeug der Göttin (G.-St. 180)",
       "en": "Paladin's Goddess Arms",
-      "fr": "Attirail de la Déesse pour paladin ",
+      "fr": "Attirail de la Déesse pour paladin",
       "ja": "ナイトギア・オブ・ゴッデス"
     },
     "progressDivider": 70,
@@ -18751,9 +18795,9 @@
     "maxQuality": 3300,
     "name": {
       "cn": "无限鬼神骑士武具",
-      "de": "Paladin-Rüstzeug des Dämons",
+      "de": "Paladin-Rüstzeug des Dämons (G.-St. 180)",
       "en": "Paladin's Demon Arms",
-      "fr": "Attirail du Démon pour paladin ",
+      "fr": "Attirail du Démon pour paladin",
       "ja": "ナイトギア・オブ・デモン"
     },
     "progressDivider": 70,
@@ -18883,7 +18927,7 @@
     "maxQuality": 2664,
     "name": {
       "cn": "崖畔亭包子必需品",
-      "de": "Buuds-Kochutensil",
+      "de": "Klippenhänger-Buuds-Kochutensil",
       "en": "Signature Buuz Cookware",
       "fr": "Composant pour buuz du Bord du gouffre",
       "ja": "崖っぷちボーズ必需品"
@@ -20181,9 +20225,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "神龙梦幻骑士武具",
-      "de": "Paladin-Rüstzeug des Drachengottes",
-      "en": "Shinryu's Ephemeral Arms",
-      "fr": "Attirail de Shinryu flamboyant pour paladin ",
+      "de": "Paladin-Rüstzeug des Drachengottes (G.-St. 290)",
+      "en": "Shinryu's Ephemeral Paladin Arms",
+      "fr": "Attirail de Shinryu flamboyant pour paladin",
       "ja": "神龍騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -20709,9 +20753,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "月读命幽夜骑士武具",
-      "de": "Paladin-Rüstzeug des Mondlichts",
-      "en": "Tsukuyomi's Moonlit Arms",
-      "fr": "Attirail de Tsukuyomi flamboyant pour paladin ",
+      "de": "Paladin-Rüstzeug des Mondlichts (G.-St. 290)",
+      "en": "Tsukuyomi's Moonlit Paladin Arms",
+      "fr": "Attirail de Tsukuyomi flamboyant pour paladin",
       "ja": "月読命騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -20731,9 +20775,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "朱焰骑士武具",
-      "de": "Paladin-Rüstzeug des Feuervogels",
-      "en": "Suzaku's Flame-kissed Arms",
-      "fr": "Attirail de Suzaku flamboyant pour paladin ",
+      "de": "Paladin-Rüstzeug des Feuervogels (G.-St. 290)",
+      "en": "Suzaku's Flame-kissed Paladin Arms",
+      "fr": "Attirail de Suzaku flamboyant pour paladin",
       "ja": "朱雀騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -20753,9 +20797,9 @@
     "maxQuality": 4800,
     "name": {
       "cn": "青君骑士武具",
-      "de": "Paladin-Rüstzeug des Schlangengottes",
-      "en": "Seiryu's Sanctified Arms",
-      "fr": "Attirail de Seiryû flamboyant pour paladin ",
+      "de": "Paladin-Rüstzeug des Schlangengottes (G.-St. 290)",
+      "en": "Seiryu's Sanctified Paladin Arms",
+      "fr": "Attirail de Seiryû flamboyant pour paladin",
       "ja": "青龍騎士装具【輝】"
     },
     "progressDivider": 90,
@@ -22469,8 +22513,8 @@
     "maxQuality": 4800,
     "name": {
       "cn": "白帝骑士武具",
-      "de": "Paladin-Rüstzeug des weißen Tigers",
-      "en": "Byakko's Enspirited Arms",
+      "de": "Paladin-Rüstzeug des weißen Tigers (G.-St. 290)",
+      "en": "Byakko's Enspirited Paladin Arms",
       "fr": "Attirail de Byakko flamboyant pour paladin",
       "ja": "白虎騎士装具【輝】"
     },
@@ -22535,9 +22579,9 @@
     "maxQuality": 7900,
     "name": {
       "cn": "哈迪斯骑士武具",
-      "de": "Paladin-Rüstzeug des Hades",
-      "en": "Paladin's Hades Arms",
-      "fr": "Attirail d'Hadès pour paladin ",
+      "de": "Paladin-Rüstzeug des Hades (G.-St. 430)",
+      "en": "Paladin's Augmented Hades Arms",
+      "fr": "Attirail d'Hadès pour paladin",
       "ja": "ハーデス・ナイトギアRE"
     },
     "progressDivider": 110,
@@ -22668,7 +22712,7 @@
     "name": {
       "cn": "黄金外壳零件",
       "de": "Vergoldete Metallplatte",
-      "en": "Set of Gold Plating",
+      "en": "Gold Plating",
       "fr": "Pièce d'armature dorée",
       "ja": "黄金の外装部品"
     },
@@ -22810,8 +22854,8 @@
     "qualityModifier": 70,
     "recipeId": 34819,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22832,8 +22876,8 @@
     "qualityModifier": 70,
     "recipeId": 34820,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22854,8 +22898,8 @@
     "qualityModifier": 70,
     "recipeId": 34822,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22876,8 +22920,8 @@
     "qualityModifier": 70,
     "recipeId": 34824,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22898,8 +22942,8 @@
     "qualityModifier": 70,
     "recipeId": 34825,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22920,8 +22964,8 @@
     "qualityModifier": 70,
     "recipeId": 34827,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22942,8 +22986,8 @@
     "qualityModifier": 70,
     "recipeId": 34830,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22964,8 +23008,8 @@
     "qualityModifier": 70,
     "recipeId": 34831,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -22986,8 +23030,8 @@
     "qualityModifier": 70,
     "recipeId": 34832,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23008,8 +23052,8 @@
     "qualityModifier": 70,
     "recipeId": 34840,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23030,8 +23074,8 @@
     "qualityModifier": 70,
     "recipeId": 34841,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23052,8 +23096,8 @@
     "qualityModifier": 70,
     "recipeId": 34842,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23074,8 +23118,8 @@
     "qualityModifier": 70,
     "recipeId": 34844,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23096,8 +23140,8 @@
     "qualityModifier": 70,
     "recipeId": 34891,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23194,7 +23238,7 @@
     "level": 430,
     "maxQuality": 3680,
     "name": {
-      "cn": "Aetheroconductive Quill",
+      "cn": "留学生用文具",
       "de": "Akademisches Schreibset",
       "en": "Aetheroconductive Quill",
       "fr": "Matériel d'écriture scolaire",
@@ -23216,7 +23260,7 @@
     "level": 440,
     "maxQuality": 3960,
     "name": {
-      "cn": "Aetheroconductive Focus",
+      "cn": "留学生用魔器",
       "de": "Akademisches Magie-Rüstzeug",
       "en": "Aetheroconductive Focus",
       "fr": "Fournitures scolaires magiques",
@@ -23238,7 +23282,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Luncheon Coffer",
+      "cn": "魔法餐盒",
       "de": "Ätherothermosdose",
       "en": "Luncheon Coffer",
       "fr": "Boîte à déjeuner magique",
@@ -23260,7 +23304,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Aetheroconductive Mammet",
+      "cn": "特训用魔法人偶",
       "de": "Ätherionette",
       "en": "Aetheroconductive Mammet",
       "fr": "Poupée d'en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment magique",
@@ -23282,7 +23326,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "School Supplies",
+      "cn": "辅助学习用品",
       "de": "Akademische Ausstattung",
       "en": "School Supplies",
       "fr": "Affaires de soutien scolaire",
@@ -23304,7 +23348,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Alembic",
+      "cn": "条约蒸馏器",
       "de": "Paktschließer-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Pactmaker's Alembic",
       "fr": "Alambic des associés",
@@ -23316,8 +23360,8 @@
     "qualityModifier": 70,
     "recipeId": 34967,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 90,
@@ -23326,7 +23370,7 @@
     "level": 590,
     "maxQuality": 12800,
     "name": {
-      "cn": "Pactmaker's Arkasodara Frypan",
+      "cn": "条约悌阳象煎锅",
       "de": "Paktschließer-Arkasodara-Bratpfanne",
       "en": "Pactmaker's Arkasodara Frypan",
       "fr": "Poêle à frire arkasodara des associés",
@@ -23338,8 +23382,8 @@
     "qualityModifier": 70,
     "recipeId": 34968,
     "stars": 2,
-    "suggestedControl": 2703,
-    "suggestedCraftsmanship": 2924
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
   },
   {
     "baseLevel": 70,
@@ -23348,9 +23392,9 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Susano's Rapturous Arms",
-      "de": "Paladin-Rüstzeug des Meeresgottes",
-      "en": "Susano's Rapturous Arms",
+      "cn": "豪勇骑士武具",
+      "de": "Paladin-Rüstzeug des Meeresgottes (G.-St. 290)",
+      "en": "Susano's Rapturous Paladin Arms",
       "fr": "Attirail de Susano flamboyant pour paladin",
       "ja": "須佐之男騎士装具【輝】"
     },
@@ -23370,7 +23414,7 @@
     "level": 570,
     "maxQuality": 7400,
     "name": {
-      "cn": "Bluefeather Barding",
+      "cn": "蓝羽陆行鸟装甲",
       "de": "Blaufeder-Rossharnisch",
       "en": "Bluefeather Barding",
       "fr": "Barde à plumes bleues",
@@ -23384,5 +23428,599 @@
     "stars": 1,
     "suggestedControl": 2703,
     "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴鸢盾",
+      "de": "Rinascita-Drachenschild",
+      "en": "Rinascita Kite Shield",
+      "fr": "Écu mandorle de la rinascita",
+      "ja": "リナシータ・カイトシールド"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35045,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴御敌头盔",
+      "de": "Rinascita-Helm der Verteidigung",
+      "en": "Rinascita Helm of Fending",
+      "fr": "Casque de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーヘルム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35046,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴御敌胸甲",
+      "de": "Rinascita-Kürass der Verteidigung",
+      "en": "Rinascita Cuirass of Fending",
+      "fr": "Cuirasse de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーキュイラス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35047,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴御敌臂甲",
+      "de": "Rinascita-Handschuhe der Verteidigung",
+      "en": "Rinascita Vambraces of Fending",
+      "fr": "Canons d'avant-bras de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーヴァンブレイス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35048,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴御敌铠靴",
+      "de": "Rinascita-Bärlatschen der Verteidigung",
+      "en": "Rinascita Sabatons of Fending",
+      "fr": "Sabatons de protecteur de la rinascita",
+      "ja": "リナシータ・ディフェンダーサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35050,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴制敌头盔",
+      "de": "Rinascita-Helm des Verstümmelns",
+      "en": "Rinascita Helm of Maiming",
+      "fr": "Casque d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーヘルム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35051,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴制敌胸甲",
+      "de": "Rinascita-Kürass des Verstümmelns",
+      "en": "Rinascita Cuirass of Maiming",
+      "fr": "Cuirasse d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーキュイラス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35052,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴制敌臂甲",
+      "de": "Rinascita-Handschuhe des Verstümmelns",
+      "en": "Rinascita Vambraces of Maiming",
+      "fr": "Canons d'avant-bras d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーヴァンブレイス"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35053,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴制敌铠靴",
+      "de": "Rinascita-Bärlatschen des Verstümmelns",
+      "en": "Rinascita Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur de la rinascita",
+      "ja": "リナシータ・スレイヤーサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35055,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴精准铠靴",
+      "de": "Rinascita-Bärlatschen des Zielens",
+      "en": "Rinascita Sabatons of Aiming",
+      "fr": "Sabatons de pisteur de la rinascita",
+      "ja": "リナシータ・レンジャーサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35065,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5060,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 12628,
+    "name": {
+      "cn": "复兴游击铠靴",
+      "de": "Rinascita-Bärlatschen des Spähens",
+      "en": "Rinascita Sabatons of Scouting",
+      "fr": "Sabatons d'éclaireur de la rinascita",
+      "ja": "リナシータ・スカウトサバトン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35070,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3696,
+    "durability": 35,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "钛铁锭",
+      "de": "Ilmenitbarren",
+      "en": "Ilmenite Ingot",
+      "fr": "Lingot d'ilménite",
+      "ja": "イルメナイトインゴット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35105,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7480,
+    "durability": 60,
+    "level": 611,
+    "maxQuality": 13620,
+    "name": {
+      "cn": "獭獭喷泉建造用金属材料",
+      "de": "Otterborn-Metallteile",
+      "en": "Water Otter Fountain Hardware",
+      "fr": "Métaux pour la fontaine ressourçante",
+      "ja": "ウソウソの泉の建築用金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35131,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "梦羽妖灵王骑士武具",
+      "de": "Paladin-Rüstzeug des Feenkönigs (G.-St. 430)",
+      "en": "The Fae's Crown Paladin Arms",
+      "fr": "Attirail du Monarque féérique pour paladin",
+      "ja": "フェアリーキング・ナイトギア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35152,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4300,
+    "durability": 70,
+    "level": 590,
+    "maxQuality": 8000,
+    "name": {
+      "cn": "海岛幻象棱晶",
+      "de": "Inselprisma",
+      "en": "Island Prism",
+      "fr": "Prisme insulaire",
+      "ja": "アイルプリズム"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35155,
+    "stars": 2,
+    "suggestedControl": 3080,
+    "suggestedCraftsmanship": 3180
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Sheep Equipment",
+      "de": "Hirten-Werkzeug",
+      "en": "Sheep Equipment",
+      "fr": "Outils de berger",
+      "ja": "羊のお世話道具"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35371,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Mountain Garb",
+      "de": "Kälteschutzmütze",
+      "en": "Mountain Garb",
+      "fr": "Chapka",
+      "ja": "山岳部の防寒用品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35372,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Classic Voeburtite Cuisine",
+      "de": "Voeburtische Spezialität",
+      "en": "Classic Voeburtite Cuisine",
+      "fr": "Plat de Voeburt",
+      "ja": "フッブート風の郷土料理"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35373,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 84,
+    "difficulty": 2900,
+    "durability": 60,
+    "level": 530,
+    "maxQuality": 5280,
+    "name": {
+      "cn": "Traditional Voeburtite Handicraft",
+      "de": "Voeburtisches Kunsthandwerk",
+      "en": "Traditional Voeburtite Handicraft",
+      "fr": "Mouton fait-main",
+      "ja": "フッブート風の工芸品"
+    },
+    "progressDivider": 124,
+    "progressModifier": 100,
+    "qualityDivider": 108,
+    "qualityModifier": 100,
+    "recipeId": 35374,
+    "stars": 0,
+    "suggestedControl": 2388,
+    "suggestedCraftsmanship": 2507
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Lovely Box of Pretty Things",
+      "de": "Dankesgeschenk",
+      "en": "Lovely Box of Pretty Things",
+      "fr": "Boîte de jolis cadeaux",
+      "ja": "かわいらしい返礼品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35375,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Alembic",
+      "de": "Ermittler-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "en": "Indagator's Alembic",
+      "fr": "Alambic d'indagator",
+      "ja": "インダガトル・アレンビック"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35423,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Frypan",
+      "de": "Ermittler-Bratpfanne",
+      "en": "Indagator's Frypan",
+      "fr": "Poêle à frire d'indagator",
+      "ja": "インダガトル・フライパン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35424,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Helmet of Gathering",
+      "de": "Ermittler-Helm des Eifers",
+      "en": "Indagator's Helmet of Gathering",
+      "fr": "Casque des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーヘルメット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35443,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5720,
+    "durability": 70,
+    "level": 620,
+    "maxQuality": 12900,
+    "name": {
+      "cn": "Indagator's Armguards of Gathering",
+      "de": "Ermittler-Armschützer des Eifers",
+      "en": "Indagator's Armguards of Gathering",
+      "fr": "Garde-bras des ressources d'indagator",
+      "ja": "インダガトル・ギャザラーアームガード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35445,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Paladin's Rubellux Arms",
+      "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
+      "en": "Paladin's Rubellux Arms",
+      "fr": "Attirail Rubeus pour paladin",
+      "ja": "ルベルクス・ナイトギア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35477,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Bantam Train",
+      "de": "Modelleisenbahn",
+      "en": "Bantam Train",
+      "fr": "Train petit mais costaud",
+      "ja": "豆列車"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35479,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7920,
+    "durability": 60,
+    "level": 621,
+    "maxQuality": 17240,
+    "name": {
+      "cn": "Smaller Water Otter Fountain Hardware",
+      "de": "Garten-Otterborn-Metallteile",
+      "en": "Smaller Water Otter Fountain Hardware",
+      "fr": "Métaux pour fontaine ressourçante de jardin",
+      "ja": "家庭用ウソウソの泉の金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35495,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
   }
 ]

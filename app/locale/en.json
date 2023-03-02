@@ -58,6 +58,7 @@
   "NAV_SOLVER" : "Solver",
   "NAV_CRAFTER_ATTRIBUTES": "Crafter Attributes",
   "NAV_DEBUG": "Debugging",
+  "NAV_EXPERT": "Expert Mode",
   "MORE": "More...",
   "SETTINGS_MANAGEMENT": "Import/Export Settings...",
   "ABOUT": "About",

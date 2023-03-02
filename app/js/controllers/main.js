@@ -442,9 +442,9 @@
         maxLengthEnabled: false,
         maxLength: 50,
         specifySeed: false,
-        seed: 1337,
+        seed: 114514,
         monteCarloMode: 'advanced',
-        useConditions: true,
+        useConditions: false,
         conditionalActionHandling: 'skipUnusable',
         debug: false
       };
@@ -574,7 +574,7 @@
         durability: 40,
         startQuality: 0,
 		safetyMargin: 0,
-        maxQuality: 312
+        maxQuality: 80
       }
     }
 
