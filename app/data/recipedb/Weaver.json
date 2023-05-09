@@ -33490,7 +33490,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -33512,7 +33512,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -33534,7 +33534,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -33556,7 +33556,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -33578,7 +33578,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -33644,7 +33644,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Coat of Crafting",
+      "cn": "研究者巧匠长衣",
       "de": "Ermittler-Mantel des Handwerks",
       "en": "Indagator's Coat of Crafting",
       "fr": "Manteau des créations d'indagator",
@@ -33666,7 +33666,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Trousers of Crafting",
+      "cn": "研究者巧匠软甲裤",
       "de": "Ermittler-Hose des Handwerks",
       "en": "Indagator's Trousers of Crafting",
       "fr": "Pantalon des créations d'indagator",
@@ -33688,7 +33688,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Doublet Vest of Gathering",
+      "cn": "研究者大地工作坎肩",
       "de": "Ermittler-Weste des Eifers",
       "en": "Indagator's Doublet Vest of Gathering",
       "fr": "Gilet doublet des ressources d'indagator",
@@ -33710,7 +33710,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Bottoms of Gathering",
+      "cn": "研究者大地打底裤",
       "de": "Ermittler-Hose des Eifers",
       "en": "Indagator's Bottoms of Gathering",
       "fr": "Bas-de-corps des ressources d'indagator",
@@ -33732,7 +33732,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Bracelet of Gathering",
+      "cn": "研究者大地手环",
       "de": "Ermittler-Armreif des Eifers",
       "en": "Indagator's Bracelet of Gathering",
       "fr": "Bracelet des ressources d'indagator",
@@ -33754,7 +33754,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Hat",
+      "cn": "沙龙服务员帽",
       "de": "Kellner-Hut",
       "en": "Salon Server's Hat",
       "fr": "Chapeau de service hôtelier",
@@ -33776,7 +33776,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Vest",
+      "cn": "沙龙服务员坎肩",
       "de": "Kellner-Weste",
       "en": "Salon Server's Vest",
       "fr": "Gilet de service hôtelier",
@@ -33798,7 +33798,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Bottoms",
+      "cn": "沙龙服务员打底裤",
       "de": "Kellner-Hose",
       "en": "Salon Server's Bottoms",
       "fr": "Bas-de-corps de service hôtelier",
@@ -33820,7 +33820,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Dress Vest",
+      "cn": "沙龙服务员礼服坎肩",
       "de": "Kellner-Galaweste",
       "en": "Salon Server's Dress Vest",
       "fr": "Corsage de service hôtelier",
@@ -33842,7 +33842,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Dress Gloves",
+      "cn": "沙龙服务员礼服手套",
       "de": "Kellner-Galahandschuhe",
       "en": "Salon Server's Dress Gloves",
       "fr": "Gants d'apparat de service hôtelier",
@@ -33864,7 +33864,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Skirt",
+      "cn": "沙龙服务员长裙",
       "de": "Kellner-Rock",
       "en": "Salon Server's Skirt",
       "fr": "Jupe de service hôtelier",
@@ -33886,7 +33886,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Flamecloaked Barding",
+      "cn": "炀火装甲",
       "de": "Flammenmantel-Rossharnisch",
       "en": "Flamecloaked Barding",
       "fr": "Barde de Rubicante",
@@ -33908,7 +33908,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Lumber",
+      "cn": "家用獭獭喷泉部件",
       "de": "Material für einen Garten-Otterborn",
       "en": "Smaller Water Otter Fountain Lumber",
       "fr": "Matériaux pour fontaine ressourçante de jardin",

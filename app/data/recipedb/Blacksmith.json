@@ -16836,7 +16836,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hannish Ceiling Lamp",
+      "cn": "多彩顶灯",
       "de": "Han-Deckenlampe",
       "en": "Hannish Ceiling Lamp",
       "fr": "Lustre hannois",
@@ -16858,7 +16858,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Enigma Wall Chronometer",
+      "cn": "青蓝之手挂钟",
       "de": "Indigo-Wand-Chronometer",
       "en": "Enigma Wall Chronometer",
       "fr": "Horloge murale de la Main indigo",
@@ -16880,7 +16880,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Toy Cooking Set",
+      "cn": "烹饪玩具套装",
       "de": "Kinder-Spielkochset",
       "en": "Toy Cooking Set",
       "fr": "Faux ustentiles de cuisine",
@@ -16902,7 +16902,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Jinrikisha",
+      "cn": "东方人力车",
       "de": "Orientalische Riksha",
       "en": "Jinrikisha",
       "fr": "Pousse-pousse",
@@ -32170,7 +32170,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -32192,7 +32192,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -32214,7 +32214,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -32236,7 +32236,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -32258,7 +32258,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -32324,7 +32324,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Saw",
+      "cn": "研究者圆手锯",
       "de": "Ermittler-Säge",
       "en": "Indagator's Saw",
       "fr": "Scie d'indagator",
@@ -32346,7 +32346,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Cross-pein Hammer",
+      "cn": "研究者横头锤",
       "de": "Ermittler-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Indagator's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'indagator",
@@ -32368,7 +32368,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Raising Hammer",
+      "cn": "研究者圆头锤",
       "de": "Ermittler-Schlichthammer",
       "en": "Indagator's Raising Hammer",
       "fr": "Marteau de batteur d'indagator",
@@ -32390,7 +32390,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Lapidary Hammer",
+      "cn": "研究者工艺锤",
       "de": "Ermittler-Juwelierhammer",
       "en": "Indagator's Lapidary Hammer",
       "fr": "Marteau de lapidaire d'indagator",
@@ -32412,7 +32412,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Knife",
+      "cn": "研究者制革刀",
       "de": "Ermittler-Messer",
       "en": "Indagator's Knife",
       "fr": "Couteau d'indagator",
@@ -32434,7 +32434,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Pickaxe",
+      "cn": "研究者鹤嘴锄",
       "de": "Ermittler-Spitzhacke",
       "en": "Indagator's Pickaxe",
       "fr": "Pioche d'indagator",
@@ -32456,7 +32456,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Hatchet",
+      "cn": "研究者手斧",
       "de": "Ermittler-Handbeil",
       "en": "Indagator's Hatchet",
       "fr": "Hachette d'indagator",
@@ -32478,7 +32478,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Claw Hammer",
+      "cn": "研究者羊角锤",
       "de": "Ermittler-Klauenhammer",
       "en": "Indagator's Claw Hammer",
       "fr": "Marteau arrache-clou d'indagator",
@@ -32500,7 +32500,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's File",
+      "cn": "研究者锉刀",
       "de": "Ermittler-Feile",
       "en": "Indagator's File",
       "fr": "Lime d'indagator",
@@ -32522,7 +32522,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Pliers",
+      "cn": "研究者手钳",
       "de": "Ermittler-Zange",
       "en": "Indagator's Pliers",
       "fr": "Tenailles d'indagator",
@@ -32544,7 +32544,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Awl",
+      "cn": "研究者平斩",
       "de": "Ermittler-Ahle",
       "en": "Indagator's Awl",
       "fr": "Alêne d'indagator",
@@ -32566,7 +32566,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Mortar",
+      "cn": "研究者研钵",
       "de": "Ermittler-Mörser",
       "en": "Indagator's Mortar",
       "fr": "Mortier d'indagator",
@@ -32588,7 +32588,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Culinary Knife",
+      "cn": "研究者厨刀",
       "de": "Ermittler-Küchenmesser",
       "en": "Indagator's Culinary Knife",
       "fr": "Couteau de cuisine d'indagator",
@@ -32610,7 +32610,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Sledgehammer",
+      "cn": "研究者碎石锤",
       "de": "Ermittler-Vorschlaghammer",
       "en": "Indagator's Sledgehammer",
       "fr": "Maillet d'indagator",
@@ -32632,7 +32632,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Garden Scythe",
+      "cn": "研究者园艺镰",
       "de": "Ermittler-Gartensense",
       "en": "Indagator's Garden Scythe",
       "fr": "Faux de jardinage d'indagator",
@@ -32654,7 +32654,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Cesti",
+      "cn": "绯光钢拳",
       "de": "Lupercus-Caesti",
       "en": "Rubellux Cesti",
       "fr": "Cestes Rubeus",
@@ -32676,7 +32676,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Battleaxe",
+      "cn": "绯光战斧",
       "de": "Lupercus-Kriegsaxt",
       "en": "Rubellux Battleaxe",
       "fr": "Hache de combat Rubeus",
@@ -32698,7 +32698,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Daggers",
+      "cn": "绯光小刀",
       "de": "Lupercus-Dolch",
       "en": "Rubellux Daggers",
       "fr": "Dagues Rubeus",
@@ -32720,7 +32720,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Greatsword",
+      "cn": "绯光巨剑",
       "de": "Lupercus-Großschwert",
       "en": "Rubellux Greatsword",
       "fr": "Grande épée Rubeus",
@@ -32742,7 +32742,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Knifelock",
+      "cn": "绯光刀锁",
       "de": "Lupercus-Flinte",
       "en": "Rubellux Knifelock",
       "fr": "Éventreur Rubeus",
@@ -32764,7 +32764,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Samurai Blade",
+      "cn": "绯光武士刀",
       "de": "Lupercus-Samuraiklinge",
       "en": "Rubellux Samurai Blade",
       "fr": "Lame de samouraï Rubeus",
@@ -32786,7 +32786,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Sawback",
+      "cn": "绯光锯刃",
       "de": "Lupercus-Manasäge",
       "en": "Rubellux Sawback",
       "fr": "Couteau de combat Rubeus",
@@ -32808,7 +32808,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Chakrams",
+      "cn": "绯光圆月轮",
       "de": "Lupercus-Chakrams",
       "en": "Rubellux Chakrams",
       "fr": "Chakrams Rubeus",
@@ -32830,7 +32830,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Paladin's Rubellux Arms",
+      "cn": "绯光骑士武具",
       "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
       "en": "Paladin's Rubellux Arms",
       "fr": "Attirail Rubeus pour paladin",
@@ -32852,7 +32852,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Infernal Archfiend Cloak",
+      "cn": "火之天王的斗篷",
       "de": "Flammenmantel",
       "en": "Infernal Archfiend Cloak",
       "fr": "Cape des flammes",
@@ -32874,7 +32874,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Hardware",
+      "cn": "家用獭獭喷泉金属材料",
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
       "fr": "Métaux pour fontaine ressourçante de jardin",

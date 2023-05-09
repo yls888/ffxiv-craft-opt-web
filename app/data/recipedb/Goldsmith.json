@@ -22468,7 +22468,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hannish Interior Wall",
+      "cn": "多彩内墙",
       "de": "Han-Innenwand",
       "en": "Hannish Interior Wall",
       "fr": "Revêtement mural hannois",
@@ -22490,7 +22490,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Hannish Tile Flooring",
+      "cn": "多彩地板",
       "de": "Han-Fußboden",
       "en": "Hannish Tile Flooring",
       "fr": "Parquet hannois",
@@ -22512,7 +22512,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Far Eastern Stained Crystal Roundel",
+      "cn": "东方彩绘玻璃窗",
       "de": "Fernöstliches Buntglasfenster",
       "en": "Far Eastern Stained Crystal Roundel",
       "fr": "Vitrail oriental",
@@ -22534,7 +22534,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Simple Fountain",
+      "cn": "简易喷泉",
       "de": "Schlichter Brunnen",
       "en": "Simple Fountain",
       "fr": "Fontaine simple",
@@ -38484,7 +38484,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -38506,7 +38506,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -38528,7 +38528,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -38550,7 +38550,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -38572,7 +38572,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -38638,7 +38638,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Needle",
+      "cn": "研究者缝针",
       "de": "Ermittler-Nadel",
       "en": "Indagator's Needle",
       "fr": "Aiguille d'indagator",
@@ -38660,7 +38660,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Goggles of Crafting",
+      "cn": "研究者巧匠护目镜",
       "de": "Ermittler-Schutzbrille des Handwerks",
       "en": "Indagator's Goggles of Crafting",
       "fr": "Lunettes des créations d'indagator",
@@ -38682,7 +38682,7 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "cn": "Zoisite",
+      "cn": "黝帘石",
       "de": "Zoisit",
       "en": "Zoisite",
       "fr": "Zoïsite",
@@ -38704,7 +38704,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Astrometer",
+      "cn": "绯光天仪",
       "de": "Lupercus-Astrometer",
       "en": "Rubellux Astrometer",
       "fr": "Planisphère Rubeus",
@@ -38726,7 +38726,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Hanger",
+      "cn": "绯光重刺剑",
       "de": "Lupercus-Degen",
       "en": "Rubellux Hanger",
       "fr": "Ballante Rubeus",
@@ -38748,7 +38748,7 @@
     "level": 620,
     "maxQuality": 8600,
     "name": {
-      "cn": "Smaller Water Otter Fountain",
+      "cn": "家用獭獭喷泉",
       "de": "Garten-Otterborn",
       "en": "Smaller Water Otter Fountain",
       "fr": "Fontaine ressourçante de jardin",
@@ -38770,7 +38770,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Hardware",
+      "cn": "家用獭獭喷泉金属材料",
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
       "fr": "Métaux pour fontaine ressourçante de jardin",

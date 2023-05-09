@@ -31752,7 +31752,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -31774,7 +31774,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -31796,7 +31796,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -31818,7 +31818,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -31840,7 +31840,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -31906,7 +31906,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Gloves of Crafting",
+      "cn": "研究者巧匠手套",
       "de": "Ermittler-Handschuhe des Handwerks",
       "en": "Indagator's Gloves of Crafting",
       "fr": "Gants des créations d'indagator",
@@ -31928,7 +31928,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Boots of Crafting",
+      "cn": "研究者巧匠筒靴",
       "de": "Ermittler-Stiefel des Handwerks",
       "en": "Indagator's Boots of Crafting",
       "fr": "Bottes des créations d'indagator",
@@ -31950,7 +31950,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Shoes of Gathering",
+      "cn": "研究者大地皮靴",
       "de": "Ermittler-Schuhe des Eifers",
       "en": "Indagator's Shoes of Gathering",
       "fr": "Chaussures des ressources d'indagator",
@@ -31972,7 +31972,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Earrings of Gathering",
+      "cn": "研究者大地耳坠",
       "de": "Ermittler-Ohrringe des Eifers",
       "en": "Indagator's Earrings of Gathering",
       "fr": "Boucles d'oreilles des ressources d'indagator",
@@ -31994,7 +31994,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Necklace of Gathering",
+      "cn": "研究者大地项链",
       "de": "Ermittler-Halsband des Eifers",
       "en": "Indagator's Necklace of Gathering",
       "fr": "Collier des ressources d'indagator",
@@ -32016,7 +32016,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Ring of Gathering",
+      "cn": "研究者大地指环",
       "de": "Ermittler-Ring des Eifers",
       "en": "Indagator's Ring of Gathering",
       "fr": "Bague des ressources d'indagator",
@@ -32038,7 +32038,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Gloves",
+      "cn": "沙龙服务员手套",
       "de": "Kellner-Handschuhe",
       "en": "Salon Server's Gloves",
       "fr": "Gants de service hôtelier",
@@ -32060,7 +32060,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Salon Server's Shoes",
+      "cn": "沙龙服务员皮鞋",
       "de": "Kellner-Schuhe",
       "en": "Salon Server's Shoes",
       "fr": "Chaussures de service hôtelier",
@@ -32082,7 +32082,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Lumber",
+      "cn": "家用獭獭喷泉部件",
       "de": "Material für einen Garten-Otterborn",
       "en": "Smaller Water Otter Fountain Lumber",
       "fr": "Matériaux pour fontaine ressourçante de jardin",

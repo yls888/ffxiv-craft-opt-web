@@ -11292,7 +11292,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Simple Sink",
+      "cn": "简易水槽",
       "de": "Schlichtes Spülbecken",
       "en": "Simple Sink",
       "fr": "Évier simple",
@@ -11314,7 +11314,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Waterfall Partition",
+      "cn": "水幕隔离墙",
       "de": "Wasser-Raumteiler",
       "en": "Waterfall Partition",
       "fr": "Cloison ruisselante",
@@ -24294,7 +24294,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -24316,7 +24316,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -24338,7 +24338,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -24360,7 +24360,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -24382,7 +24382,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -24448,7 +24448,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Alembic",
+      "cn": "研究者蒸馏器",
       "de": "Ermittler-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Indagator's Alembic",
       "fr": "Alambic d'indagator",
@@ -24470,7 +24470,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Frypan",
+      "cn": "研究者煎锅",
       "de": "Ermittler-Bratpfanne",
       "en": "Indagator's Frypan",
       "fr": "Poêle à frire d'indagator",
@@ -24492,7 +24492,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Helmet of Gathering",
+      "cn": "研究者大地头灯帽",
       "de": "Ermittler-Helm des Eifers",
       "en": "Indagator's Helmet of Gathering",
       "fr": "Casque des ressources d'indagator",
@@ -24514,7 +24514,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Armguards of Gathering",
+      "cn": "研究者大地护臂",
       "de": "Ermittler-Armschützer des Eifers",
       "en": "Indagator's Armguards of Gathering",
       "fr": "Garde-bras des ressources d'indagator",
@@ -24536,7 +24536,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Paladin's Rubellux Arms",
+      "cn": "绯光骑士武具",
       "de": "Lupercus-Paladin-Rüstzeug (G.-St. 430)",
       "en": "Paladin's Rubellux Arms",
       "fr": "Attirail Rubeus pour paladin",
@@ -24558,7 +24558,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Bantam Train",
+      "cn": "小火车",
       "de": "Modelleisenbahn",
       "en": "Bantam Train",
       "fr": "Train petit mais costaud",
@@ -24580,7 +24580,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Hardware",
+      "cn": "家用獭獭喷泉金属材料",
       "de": "Garten-Otterborn-Metallteile",
       "en": "Smaller Water Otter Fountain Hardware",
       "fr": "Métaux pour fontaine ressourçante de jardin",

@@ -13272,7 +13272,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Faerie Door",
+      "cn": "妖灵门",
       "de": "Feentürchen",
       "en": "Faerie Door",
       "fr": "Porte féérique",
@@ -13294,7 +13294,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Rattan Sofa",
+      "cn": "热带风情沙发",
       "de": "Tropisches Sofa",
       "en": "Rattan Sofa",
       "fr": "Canapé tropical",
@@ -13316,7 +13316,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Faerie Round Table",
+      "cn": "妖灵圆桌",
       "de": "Feen-Rundtisch",
       "en": "Faerie Round Table",
       "fr": "Table ronde féérique",
@@ -25966,7 +25966,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Sheep Equipment",
+      "cn": "牧羊工具",
       "de": "Hirten-Werkzeug",
       "en": "Sheep Equipment",
       "fr": "Outils de berger",
@@ -25988,7 +25988,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Mountain Garb",
+      "cn": "山岳防寒用品",
       "de": "Kälteschutzmütze",
       "en": "Mountain Garb",
       "fr": "Chapka",
@@ -26010,7 +26010,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Classic Voeburtite Cuisine",
+      "cn": "孚布特风土美食",
       "de": "Voeburtische Spezialität",
       "en": "Classic Voeburtite Cuisine",
       "fr": "Plat de Voeburt",
@@ -26032,7 +26032,7 @@
     "level": 530,
     "maxQuality": 5280,
     "name": {
-      "cn": "Traditional Voeburtite Handicraft",
+      "cn": "孚布特样式工艺品",
       "de": "Voeburtisches Kunsthandwerk",
       "en": "Traditional Voeburtite Handicraft",
       "fr": "Mouton fait-main",
@@ -26054,7 +26054,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Lovely Box of Pretty Things",
+      "cn": "可爱的礼物",
       "de": "Dankesgeschenk",
       "en": "Lovely Box of Pretty Things",
       "fr": "Boîte de jolis cadeaux",
@@ -26120,7 +26120,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Fishing Rod",
+      "cn": "研究者钓竿",
       "de": "Ermittler-Angelrute",
       "en": "Indagator's Fishing Rod",
       "fr": "Canne à pêche d'indagator",
@@ -26142,7 +26142,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Grinding Wheel",
+      "cn": "研究者砂轮机",
       "de": "Ermittler-Schleifrad",
       "en": "Indagator's Grinding Wheel",
       "fr": "Meule d'indagator",
@@ -26164,7 +26164,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Spinning Wheel",
+      "cn": "研究者纺车",
       "de": "Ermittler-Spinnrad",
       "en": "Indagator's Spinning Wheel",
       "fr": "Rouet d'indagator",
@@ -26186,7 +26186,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Earrings of Crafting",
+      "cn": "研究者巧匠耳坠",
       "de": "Ermittler-Ohrringe des Handwerks",
       "en": "Indagator's Earrings of Crafting",
       "fr": "Boucles d'oreilles des créations d'indagator",
@@ -26208,7 +26208,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Necklace of Crafting",
+      "cn": "研究者巧匠项链",
       "de": "Ermittler-Halsband des Handwerks",
       "en": "Indagator's Necklace of Crafting",
       "fr": "Collier des créations d'indagator",
@@ -26230,7 +26230,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Bracelet of Crafting",
+      "cn": "研究者巧匠手镯",
       "de": "Ermittler-Armreif des Handwerks",
       "en": "Indagator's Bracelet of Crafting",
       "fr": "Bracelet des créations d'indagator",
@@ -26252,7 +26252,7 @@
     "level": 620,
     "maxQuality": 12900,
     "name": {
-      "cn": "Indagator's Ring of Crafting",
+      "cn": "研究者巧匠戒指",
       "de": "Ermittler-Ring des Handwerks",
       "en": "Indagator's Ring of Crafting",
       "fr": "Bague des créations d'indagator",
@@ -26274,7 +26274,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Partisan",
+      "cn": "绯光游击枪",
       "de": "Lupercus-Partisane",
       "en": "Rubellux Partisan",
       "fr": "Pertuisane Rubeus",
@@ -26296,7 +26296,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Bow",
+      "cn": "绯光战弓",
       "de": "Lupercus-Bogen",
       "en": "Rubellux Bow",
       "fr": "Arc Rubeus",
@@ -26318,7 +26318,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Cane",
+      "cn": "绯光牧杖",
       "de": "Lupercus-Stock",
       "en": "Rubellux Cane",
       "fr": "Canne Rubeus",
@@ -26340,7 +26340,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Rubellux Rod",
+      "cn": "绯光法杖",
       "de": "Lupercus-Stab",
       "en": "Rubellux Rod",
       "fr": "Sceptre Rubeus",
@@ -26362,7 +26362,7 @@
     "level": 621,
     "maxQuality": 17240,
     "name": {
-      "cn": "Smaller Water Otter Fountain Lumber",
+      "cn": "家用獭獭喷泉部件",
       "de": "Material für einen Garten-Otterborn",
       "en": "Smaller Water Otter Fountain Lumber",
       "fr": "Matériaux pour fontaine ressourçante de jardin",
