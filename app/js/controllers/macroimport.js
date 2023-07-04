@@ -25,7 +25,7 @@
     var groundwork = [72, 86]
     var levelAction = [basicSynth, carefulSynthesis, rapidSynthesis, groundwork]
     var levelActionName = ['basicSynth', 'carefulSynthesis', 'rapidSynthesis', 'groundwork']
-    var delectActionIndex = levelAction
+    var deleteActionIndex = levelAction
       .map((actionGroups) => {
         var remain = actionGroups.reduce(
           (a, b) => (crafterLevel >= b ? b : a),
@@ -36,9 +36,9 @@
           index === remainIndex ? -1 : index
         )
       })
-      var delectAction = delectActionIndex.map((delectAction, nameIndex) => {
+      var deleteAction = deleteActionIndex.map((deleteAction, nameIndex) => {
         var actionName = levelActionName[nameIndex]
-        return delectAction.map((actionIndex,index) => {
+        return deleteAction.map((actionIndex,index) => {
           if (!~actionIndex) {
             return 0
           } else {
@@ -83,8 +83,8 @@
           }
         }
       }
-      var newSequence = newSequence.filter(e=>!delectAction.includes(e))
-      console.log(delectAction, newSequence)
+      var newSequence = newSequence.filter(e=>!deleteAction.includes(e))
+      //console.log(deleteAction, newSequence)
       if (newSequence.length === 0) {
         window.alert("Error: Invalid macro synth sequence.");
         return undefined;
