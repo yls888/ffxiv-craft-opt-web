@@ -269,6 +269,7 @@
         controller: 'MacroImportController',
         windowClass: 'macro-import-modal',
       });
+      modalInstance.class = $scope.crafter.stats[$scope.recipe.cls]
       modalInstance.result.then(function (result) {
         $scope.sequence = result.sequence;
       });
