@@ -161,8 +161,8 @@
     "AVAILABLE_ACTIONS": "可用技能",
 
     "Custom Recipe": "自定义配方",
-    "Recipe Level": "配方等级(rlv)",
-    "Item Level": "物品等级(ilv)",
+    "Recipe Level": "配方制造等级",
+    "Item Level": "配方难度等级（rlv）",
     "Max Progress": "最大进展",
     "Max Quality": "最大品质",
     "Progress Difficulty": "作业难度系数",
