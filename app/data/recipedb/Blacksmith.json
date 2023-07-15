@@ -31708,7 +31708,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Musicking Station Component",
+      "cn": "舞台重要部件",
       "de": "Bühnenbaustoff",
       "en": "Musicking Station Component",
       "fr": "Élément de scène",
@@ -31730,7 +31730,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Machining Supplies",
+      "cn": "开发机械的必需品",
       "de": "Maschinenelemente",
       "en": "Machining Supplies",
       "fr": "Élément de machine",
@@ -31752,7 +31752,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Restaurant-grade Supplies",
+      "cn": "出品菜肴的必需品",
       "de": "Küchenkomponenten",
       "en": "Restaurant-grade Supplies",
       "fr": "Élément de cuisine",
@@ -31774,7 +31774,7 @@
     "level": 430,
     "maxQuality": 6900,
     "name": {
-      "cn": "Painting Supplies",
+      "cn": "画材必需品",
       "de": "Künstlerutensilien",
       "en": "Painting Supplies",
       "fr": "Élément de fresque",
@@ -31796,7 +31796,7 @@
     "level": 430,
     "maxQuality": 7360,
     "name": {
-      "cn": "Radio Equipment",
+      "cn": "搭建活动台必需品",
       "de": "Radiostation-Bestandteile",
       "en": "Radio Equipment",
       "fr": "Élément de radio",
@@ -31818,7 +31818,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Audio Spare Parts",
+      "cn": "音箱调音设备",
       "de": "Ersatzteil für Audiogeräte",
       "en": "Audio Spare Parts",
       "fr": "Pièces de rechange de sonorisation",
@@ -31840,7 +31840,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Wind Instrument Component",
+      "cn": "管乐器部件",
       "de": "Blasinstrumentbestandteil",
       "en": "Wind Instrument Component",
       "fr": "Composant d'instrument à vent",
@@ -31862,7 +31862,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Coin Manufacturing Component",
+      "cn": "货币制造工具",
       "de": "Münzherstellungselement",
       "en": "Coin Manufacturing Component",
       "fr": "Ustensile de création de monnaie",
@@ -31884,7 +31884,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Signed Memorabilia",
+      "cn": "署名纪念品",
       "de": "Signiertes Erinnerungsstück",
       "en": "Signed Memorabilia",
       "fr": "Souvenir gravé",
@@ -31906,7 +31906,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Lighting Parts",
+      "cn": "灯饰替换部件",
       "de": "Element zur Wartung der Beleuchtungsanlage",
       "en": "Lighting Parts",
       "fr": "Composant de décoration lumineuse",
@@ -31928,7 +31928,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Carrotlight Pieces",
+      "cn": "携带式荧光棒部件",
       "de": "Leuchtstabbestandteil",
       "en": "Carrotlight Pieces",
       "fr": "Composant de bâton lumineux",
@@ -31950,7 +31950,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Cleaner Upgrade Component",
+      "cn": "清扫机改良部件",
       "de": "Bestandteil für verbesserten Reiniger",
       "en": "Cleaner Upgrade Component",
       "fr": "Composant d'unité de nettoyage",
@@ -31972,7 +31972,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Audio Recording Component",
+      "cn": "录音协助机开发部件",
       "de": "Element des Aufnahme-Supports",
       "en": "Audio Recording Component",
       "fr": "Composant d'unité d'enregistrement sonore",
@@ -31994,7 +31994,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Parasital Infection Protection Suit Component",
+      "cn": "气密性防护服部件",
       "de": "Schutzanzugdichtungselement",
       "en": "Parasital Infection Protection Suit Component",
       "fr": "Élément étanche de combinaison de protection",
@@ -32016,7 +32016,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Occult Paraphernalia",
+      "cn": "寻找刺激用的工具",
       "de": "Abenteuerspielzeugelement",
       "en": "Occult Paraphernalia",
       "fr": "Ustensile étrange et excitant",
@@ -32038,7 +32038,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Cookbook Printing Paraphernalia",
+      "cn": "印刷菜谱的工具",
       "de": "Rezeptdruckutensil",
       "en": "Cookbook Printing Paraphernalia",
       "fr": "Ustensile d'imprimerie",
@@ -32060,7 +32060,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Carrot Chiller Component",
+      "cn": "修理冷冻器的部件",
       "de": "Karottenfrosterelement",
       "en": "Carrot Chiller Component",
       "fr": "Composant de congélateur",
@@ -32082,7 +32082,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Loporrit's Gathering Tool Component",
+      "cn": "修理采集工具的部件",
       "de": "Pilzmesserzubehör",
       "en": "Loporrit's Gathering Tool Component",
       "fr": "Composant d'outil de récolte",
@@ -32104,7 +32104,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Popular Kitchen Goods",
+      "cn": "缺少的烹饪用品",
       "de": "Kochutensil",
       "en": "Popular Kitchen Goods",
       "fr": "Ustensile de cuisine",
@@ -32126,7 +32126,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "“Exercise Equipment”",
+      "cn": "健身用品",
       "de": "Sportutensil",
       "en": "“Exercise Equipment”",
       "fr": "Équipement de musculation",
@@ -32148,7 +32148,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Paint-mixer's Toolbox",
+      "cn": "涂料调和用品",
       "de": "Farbutensil",
       "en": "Paint-mixer's Toolbox",
       "fr": "Article de peinture",
@@ -32170,7 +32170,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Super Sudsy Soap Bars",
+      "cn": "超强力洗涤剂",
       "de": "Extrastarker Farbreiniger",
       "en": "Super Sudsy Soap Bars",
       "fr": "Article de produit détachant",
@@ -32192,7 +32192,7 @@
     "level": 430,
     "maxQuality": 4600,
     "name": {
-      "cn": "Fungi Fighter",
+      "cn": "对菌类兵器",
       "de": "Explosives Fungizid",
       "en": "Fungi Fighter",
       "fr": "Composant d'explosif",
@@ -32214,7 +32214,7 @@
     "level": 430,
     "maxQuality": 6440,
     "name": {
-      "cn": "Fashionable Thingums",
+      "cn": "时尚饰品",
       "de": "Modeaccessoire",
       "en": "Fashionable Thingums",
       "fr": "Accessoire de mode",
@@ -32346,7 +32346,7 @@
     "level": 570,
     "maxQuality": 9028,
     "name": {
-      "cn": "Connoisseur's Wall Lantern",
+      "cn": "面向收藏家的壁灯",
       "de": "Sammler-Wandlaterne",
       "en": "Connoisseur's Wall Lantern",
       "fr": "Lanterne murale de dilettante",
@@ -32368,7 +32368,7 @@
     "level": 580,
     "maxQuality": 11154,
     "name": {
-      "cn": "Connoisseur's Coffee Brewer",
+      "cn": "面向收藏家的虹吸咖啡机",
       "de": "Sammler-Vakuum-Kaffeemaschine",
       "en": "Connoisseur's Coffee Brewer",
       "fr": "Cafetière à siphon de dilettante",
