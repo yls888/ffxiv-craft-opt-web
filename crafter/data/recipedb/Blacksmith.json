@@ -33199,6 +33199,50 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Samurai Blade",
+      "de": "Sammler-Samuraiklinge",
+      "en": "Connoisseur's Samurai Blade",
+      "fr": "Lame de samouraï de dilettante",
+      "ja": "好事家向けのサムライブレード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35601,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Chandelier",
+      "de": "Sammler-Kronleuchter",
+      "en": "Connoisseur's Chandelier",
+      "fr": "Lustre de dilettante",
+      "ja": "好事家向けのシャンデリア"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35609,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 8800,
     "durability": 60,
     "level": 641,

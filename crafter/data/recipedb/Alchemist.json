@@ -27017,6 +27017,50 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Topiary Moogle",
+      "de": "Sammler-Mogry-Busch",
+      "en": "Connoisseur's Topiary Moogle",
+      "fr": "Topiaire de Mog de dilettante",
+      "ja": "好事家向けのモーグリトピアリー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35606,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Planter Partition",
+      "de": "Sammler-Pflanzen-Raumteiler",
+      "en": "Connoisseur's Planter Partition",
+      "fr": "Cloison verdoyante de dilettante",
+      "ja": "好事家向けのプランターパーティション"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35614,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 8800,
     "durability": 60,
     "level": 641,

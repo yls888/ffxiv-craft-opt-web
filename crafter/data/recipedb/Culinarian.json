@@ -7524,6 +7524,28 @@
     "suggestedCraftsmanship": 2805
   },
   {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Assorted Cookies",
+      "de": "Keksteller",
+      "en": "Assorted Cookies",
+      "fr": "Plat de biscuits",
+      "ja": "クッキーアソート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5545,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -17156,6 +17178,50 @@
     "qualityModifier": 70,
     "recipeId": 35599,
     "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Squid Baguette",
+      "de": "Sammler-Tintenfischbaguette",
+      "en": "Connoisseur's Squid Baguette",
+      "fr": "Sandwich baguette au calmar de dilettante",
+      "ja": "好事家向けのスクイッドバゲット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35607,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Spaghetti al Nero",
+      "de": "Tintenschwarze Sammler-Spaghetti",
+      "en": "Connoisseur's Spaghetti al Nero",
+      "fr": "Spaghetti al nero de dilettante",
+      "ja": "好事家向けのスパゲッティ・ネーロ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35615,
+    "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },

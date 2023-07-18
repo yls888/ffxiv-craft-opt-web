@@ -594,28 +594,6 @@
     "suggestedCraftsmanship": 50
   },
   {
-    "baseLevel": 7,
-    "difficulty": 37,
-    "durability": 60,
-    "level": 7,
-    "maxQuality": 190,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 491,
-    "stars": 0,
-    "suggestedControl": 25,
-    "suggestedCraftsmanship": 50
-  },
-  {
     "baseLevel": 8,
     "difficulty": 41,
     "durability": 60,
@@ -1172,28 +1150,6 @@
     "level": 14,
     "maxQuality": 330,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 517,
-    "stars": 0,
-    "suggestedControl": 33,
-    "suggestedCraftsmanship": 67
-  },
-  {
-    "baseLevel": 14,
-    "difficulty": 54,
-    "durability": 60,
-    "level": 14,
-    "maxQuality": 330,
-    "name": {
       "cn": "棉布僧袍",
       "de": "Baumwollkukulle",
       "en": "Cotton Cowl",
@@ -1403,28 +1359,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 527,
-    "stars": 0,
-    "suggestedControl": 39,
-    "suggestedCraftsmanship": 78
-  },
-  {
-    "baseLevel": 16,
-    "difficulty": 63,
-    "durability": 70,
-    "level": 16,
-    "maxQuality": 390,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 528,
     "stars": 0,
     "suggestedControl": 39,
     "suggestedCraftsmanship": 78
@@ -1711,28 +1645,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 541,
-    "stars": 0,
-    "suggestedControl": 47,
-    "suggestedCraftsmanship": 94
-  },
-  {
-    "baseLevel": 21,
-    "difficulty": 75,
-    "durability": 70,
-    "level": 21,
-    "maxQuality": 540,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 542,
     "stars": 0,
     "suggestedControl": 47,
     "suggestedCraftsmanship": 94
@@ -2222,50 +2134,6 @@
     "suggestedCraftsmanship": 99
   },
   {
-    "baseLevel": 26,
-    "difficulty": 90,
-    "durability": 70,
-    "level": 26,
-    "maxQuality": 690,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 565,
-    "stars": 0,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
-    "baseLevel": 27,
-    "difficulty": 91,
-    "durability": 70,
-    "level": 27,
-    "maxQuality": 720,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 566,
-    "stars": 0,
-    "suggestedControl": 49,
-    "suggestedCraftsmanship": 99
-  },
-  {
     "baseLevel": 27,
     "difficulty": 91,
     "durability": 70,
@@ -2371,28 +2239,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 571,
-    "stars": 0,
-    "suggestedControl": 53,
-    "suggestedCraftsmanship": 106
-  },
-  {
-    "baseLevel": 28,
-    "difficulty": 100,
-    "durability": 70,
-    "level": 28,
-    "maxQuality": 760,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 572,
     "stars": 0,
     "suggestedControl": 53,
     "suggestedCraftsmanship": 106
@@ -2635,28 +2481,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 583,
-    "stars": 0,
-    "suggestedControl": 60,
-    "suggestedCraftsmanship": 121
-  },
-  {
-    "baseLevel": 31,
-    "difficulty": 106,
-    "durability": 80,
-    "level": 31,
-    "maxQuality": 900,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 584,
     "stars": 0,
     "suggestedControl": 60,
     "suggestedCraftsmanship": 121
@@ -3097,28 +2921,6 @@
     "qualityDivider": 30,
     "qualityModifier": 100,
     "recipeId": 604,
-    "stars": 0,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 37,
-    "difficulty": 128,
-    "durability": 80,
-    "level": 37,
-    "maxQuality": 1220,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 605,
     "stars": 0,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
@@ -4378,50 +4180,6 @@
     "suggestedCraftsmanship": 161
   },
   {
-    "baseLevel": 35,
-    "difficulty": 123,
-    "durability": 80,
-    "level": 35,
-    "maxQuality": 1110,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1362,
-    "stars": 0,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 36,
-    "difficulty": 124,
-    "durability": 80,
-    "level": 36,
-    "maxQuality": 1160,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1363,
-    "stars": 0,
-    "suggestedControl": 64,
-    "suggestedCraftsmanship": 129
-  },
-  {
     "baseLevel": 37,
     "difficulty": 128,
     "durability": 80,
@@ -4464,28 +4222,6 @@
     "stars": 0,
     "suggestedControl": 64,
     "suggestedCraftsmanship": 129
-  },
-  {
-    "baseLevel": 39,
-    "difficulty": 137,
-    "durability": 80,
-    "level": 39,
-    "maxQuality": 1340,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1366,
-    "stars": 0,
-    "suggestedControl": 68,
-    "suggestedCraftsmanship": 136
   },
   {
     "baseLevel": 39,
@@ -4750,28 +4486,6 @@
     "stars": 0,
     "suggestedControl": 80,
     "suggestedCraftsmanship": 161
-  },
-  {
-    "baseLevel": 45,
-    "difficulty": 158,
-    "durability": 80,
-    "level": 45,
-    "maxQuality": 1700,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 100,
-    "qualityDivider": 30,
-    "qualityModifier": 100,
-    "recipeId": 1379,
-    "stars": 0,
-    "suggestedControl": 75,
-    "suggestedCraftsmanship": 150
   },
   {
     "baseLevel": 46,
@@ -5803,50 +5517,6 @@
     "qualityDivider": 30,
     "qualityModifier": 70,
     "recipeId": 1427,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 1428,
-    "stars": 2,
-    "suggestedControl": 325,
-    "suggestedCraftsmanship": 325
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 250,
-    "durability": 80,
-    "level": 70,
-    "maxQuality": 2500,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 1429,
     "stars": 2,
     "suggestedControl": 325,
     "suggestedCraftsmanship": 325
@@ -8146,50 +7816,6 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "recipeId": 2677,
-    "stars": 0,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "recipeId": 2678,
-    "stars": 0,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
       "cn": "虹布精准长裤",
       "de": "Regenbogen-Beinlinge des Zielens",
       "en": "Rainbow Slops of Aiming",
@@ -8443,28 +8069,6 @@
     "qualityDivider": 39,
     "qualityModifier": 100,
     "recipeId": 2690,
-    "stars": 0,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "recipeId": 2691,
     "stars": 0,
     "suggestedControl": 426,
     "suggestedCraftsmanship": 468
@@ -8784,72 +8388,6 @@
     "level": 115,
     "maxQuality": 2070,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "recipeId": 2706,
-    "stars": 0,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "recipeId": 2707,
-    "stars": 0,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2708,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
       "cn": "虹布治愈长裤",
       "de": "Regenbogen-Beinlinge der Heilung",
       "en": "Rainbow Slops of Healing",
@@ -9106,72 +8644,6 @@
     "stars": 0,
     "suggestedControl": 491,
     "suggestedCraftsmanship": 529
-  },
-  {
-    "baseLevel": 51,
-    "difficulty": 220,
-    "durability": 80,
-    "level": 115,
-    "maxQuality": 2070,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 61,
-    "progressModifier": 100,
-    "qualityDivider": 39,
-    "qualityModifier": 100,
-    "recipeId": 2721,
-    "stars": 0,
-    "suggestedControl": 426,
-    "suggestedCraftsmanship": 468
-  },
-  {
-    "baseLevel": 56,
-    "difficulty": 420,
-    "durability": 70,
-    "level": 139,
-    "maxQuality": 2420,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 66,
-    "progressModifier": 100,
-    "qualityDivider": 46,
-    "qualityModifier": 100,
-    "recipeId": 2722,
-    "stars": 0,
-    "suggestedControl": 513,
-    "suggestedCraftsmanship": 550
-  },
-  {
-    "baseLevel": 58,
-    "difficulty": 500,
-    "durability": 70,
-    "level": 145,
-    "maxQuality": 2560,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 68,
-    "progressModifier": 100,
-    "qualityDivider": 48,
-    "qualityModifier": 100,
-    "recipeId": 2723,
-    "stars": 0,
-    "suggestedControl": 535,
-    "suggestedCraftsmanship": 570
   },
   {
     "baseLevel": 51,
@@ -9612,28 +9084,6 @@
     "stars": 0,
     "suggestedControl": 480,
     "suggestedCraftsmanship": 519
-  },
-  {
-    "baseLevel": 54,
-    "difficulty": 340,
-    "durability": 80,
-    "level": 133,
-    "maxQuality": 2280,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 64,
-    "progressModifier": 100,
-    "qualityDivider": 44,
-    "qualityModifier": 100,
-    "recipeId": 2744,
-    "stars": 0,
-    "suggestedControl": 491,
-    "suggestedCraftsmanship": 529
   },
   {
     "baseLevel": 54,
@@ -11050,28 +10500,6 @@
     "level": 265,
     "maxQuality": 2880,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3085,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
       "cn": "红玉棉布咏咒宽边帽",
       "de": "Rubinbaumwoll-Hut der Magie",
       "en": "Ruby Cotton Hat of Casting",
@@ -11152,28 +10580,6 @@
     "stars": 0,
     "suggestedControl": 1005,
     "suggestedCraftsmanship": 1037
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3091,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
   },
   {
     "baseLevel": 64,
@@ -11424,28 +10830,6 @@
     "level": 273,
     "maxQuality": 3060,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "recipeId": 3163,
-    "stars": 0,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
       "cn": "葛布咏咒宽边帽",
       "de": "Kudzu-Hut der Magie",
       "en": "Kudzu Hat of Casting",
@@ -11504,50 +10888,6 @@
     "stars": 0,
     "suggestedControl": 1013,
     "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 64,
-    "difficulty": 780,
-    "durability": 80,
-    "level": 273,
-    "maxQuality": 3060,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 84,
-    "progressModifier": 100,
-    "qualityDivider": 65,
-    "qualityModifier": 100,
-    "recipeId": 3169,
-    "stars": 0,
-    "suggestedControl": 1013,
-    "suggestedCraftsmanship": 1044
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3223,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 66,
@@ -11614,28 +10954,6 @@
     "stars": 0,
     "suggestedControl": 1035,
     "suggestedCraftsmanship": 1063
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3235,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
   },
   {
     "baseLevel": 66,
@@ -11952,28 +11270,6 @@
     "level": 285,
     "maxQuality": 3420,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3319,
-    "stars": 0,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
       "cn": "玉绸咏咒兜帽",
       "de": "Doppelseiden-Haube der Magie",
       "en": "Twinsilk Hood of Casting",
@@ -12029,72 +11325,6 @@
     "qualityDivider": 68,
     "qualityModifier": 100,
     "recipeId": 3323,
-    "stars": 0,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 68,
-    "difficulty": 980,
-    "durability": 80,
-    "level": 285,
-    "maxQuality": 3420,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 88,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3325,
-    "stars": 0,
-    "suggestedControl": 1043,
-    "suggestedCraftsmanship": 1069
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3351,
-    "stars": 0,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3352,
     "stars": 0,
     "suggestedControl": 1050,
     "suggestedCraftsmanship": 1075
@@ -12604,72 +11834,6 @@
     "stars": 0,
     "suggestedControl": 1055,
     "suggestedCraftsmanship": 1079
-  },
-  {
-    "baseLevel": 62,
-    "difficulty": 680,
-    "durability": 80,
-    "level": 265,
-    "maxQuality": 2880,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 82,
-    "progressModifier": 100,
-    "qualityDivider": 61,
-    "qualityModifier": 100,
-    "recipeId": 3507,
-    "stars": 0,
-    "suggestedControl": 993,
-    "suggestedCraftsmanship": 1027
-  },
-  {
-    "baseLevel": 66,
-    "difficulty": 880,
-    "durability": 80,
-    "level": 279,
-    "maxQuality": 3240,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 86,
-    "progressModifier": 100,
-    "qualityDivider": 66,
-    "qualityModifier": 100,
-    "recipeId": 3517,
-    "stars": 0,
-    "suggestedControl": 1028,
-    "suggestedCraftsmanship": 1056
-  },
-  {
-    "baseLevel": 69,
-    "difficulty": 1030,
-    "durability": 80,
-    "level": 288,
-    "maxQuality": 3510,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 89,
-    "progressModifier": 100,
-    "qualityDivider": 68,
-    "qualityModifier": 100,
-    "recipeId": 3527,
-    "stars": 0,
-    "suggestedControl": 1050,
-    "suggestedCraftsmanship": 1075
   },
   {
     "baseLevel": 56,
@@ -15354,28 +14518,6 @@
     "stars": 0,
     "suggestedControl": 1733,
     "suggestedCraftsmanship": 1866
-  },
-  {
-    "baseLevel": 75,
-    "difficulty": 1430,
-    "durability": 80,
-    "level": 406,
-    "maxQuality": 4100,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 105,
-    "progressModifier": 100,
-    "qualityDivider": 85,
-    "qualityModifier": 100,
-    "recipeId": 4447,
-    "stars": 0,
-    "suggestedControl": 1425,
-    "suggestedCraftsmanship": 1539
   },
   {
     "baseLevel": 13,
@@ -20290,28 +19432,6 @@
     "level": 110,
     "maxQuality": 2900,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 50,
-    "progressModifier": 80,
-    "qualityDivider": 30,
-    "qualityModifier": 70,
-    "recipeId": 30891,
-    "stars": 4,
-    "suggestedControl": 407,
-    "suggestedCraftsmanship": 451
-  },
-  {
-    "baseLevel": 50,
-    "difficulty": 480,
-    "durability": 80,
-    "level": 110,
-    "maxQuality": 2900,
-    "name": {
       "cn": "织蛛长袍",
       "de": "Arachne-Robe",
       "en": "Arachne Robe",
@@ -20835,28 +19955,6 @@
   },
   {
     "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31166,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 60,
     "difficulty": 580,
     "durability": 70,
     "level": 150,
@@ -20898,50 +19996,6 @@
     "stars": 0,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "recipeId": 31169,
-    "stars": 0,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31170,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -21008,28 +20062,6 @@
     "stars": 0,
     "suggestedControl": 553,
     "suggestedCraftsmanship": 587
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 740,
-    "durability": 70,
-    "level": 180,
-    "maxQuality": 2900,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31174,
-    "stars": 2,
-    "suggestedControl": 695,
-    "suggestedCraftsmanship": 718
   },
   {
     "baseLevel": 60,
@@ -21228,28 +20260,6 @@
     "stars": 2,
     "suggestedControl": 695,
     "suggestedCraftsmanship": 718
-  },
-  {
-    "baseLevel": 59,
-    "difficulty": 540,
-    "durability": 70,
-    "level": 148,
-    "maxQuality": 2630,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 69,
-    "progressModifier": 100,
-    "qualityDivider": 49,
-    "qualityModifier": 100,
-    "recipeId": 31184,
-    "stars": 0,
-    "suggestedControl": 546,
-    "suggestedCraftsmanship": 580
   },
   {
     "baseLevel": 60,
@@ -23062,50 +22072,6 @@
     "level": 210,
     "maxQuality": 3300,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31571,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 31572,
-    "stars": 3,
-    "suggestedControl": 820,
-    "suggestedCraftsmanship": 850
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 880,
-    "durability": 70,
-    "level": 210,
-    "maxQuality": 3300,
-    "name": {
       "cn": "远征腿套",
       "de": "Forscher-Kecks",
       "en": "Expeditioner's Kecks",
@@ -24448,28 +23414,6 @@
     "level": 250,
     "maxQuality": 3800,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 32009,
-    "stars": 4,
-    "suggestedControl": 955,
-    "suggestedCraftsmanship": 995
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 1000,
-    "durability": 70,
-    "level": 250,
-    "maxQuality": 3800,
-    "name": {
       "cn": "星绒咏咒兜帽",
       "de": "Sternensamt-Haube der Magie",
       "en": "Star Velvet Hood of Casting",
@@ -24547,28 +23491,6 @@
     "qualityDivider": 50,
     "qualityModifier": 70,
     "recipeId": 32013,
-    "stars": 4,
-    "suggestedControl": 955,
-    "suggestedCraftsmanship": 995
-  },
-  {
-    "baseLevel": 60,
-    "difficulty": 1000,
-    "durability": 70,
-    "level": 250,
-    "maxQuality": 3800,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 70,
-    "progressModifier": 80,
-    "qualityDivider": 50,
-    "qualityModifier": 70,
-    "recipeId": 32015,
     "stars": 4,
     "suggestedControl": 955,
     "suggestedCraftsmanship": 995
@@ -25504,50 +24426,6 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32360,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32366,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
       "cn": "纻布强袭垮裤",
       "de": "Indigoramien-Sarouel des Schlagens",
       "en": "Indigo Ramie Sarouel of Striking",
@@ -25559,28 +24437,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32370,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32372,
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
@@ -25614,28 +24470,6 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32378,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
       "cn": "纻布游击垮裤",
       "de": "Indigoramien-Sarouel des Spähens",
       "en": "Indigo Ramie Sarouel of Scouting",
@@ -25647,28 +24481,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32382,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32384,
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
@@ -25724,28 +24536,6 @@
     "level": 320,
     "maxQuality": 4800,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32390,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
       "cn": "纻布咏咒长袍",
       "de": "Indigoramien-Robe der Magie",
       "en": "Indigo Ramie Robe of Casting",
@@ -25779,28 +24569,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 32394,
-    "stars": 2,
-    "suggestedControl": 1220,
-    "suggestedCraftsmanship": 1320
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1200,
-    "durability": 70,
-    "level": 320,
-    "maxQuality": 4800,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 32396,
     "stars": 2,
     "suggestedControl": 1220,
     "suggestedCraftsmanship": 1320
@@ -28023,50 +26791,6 @@
     "qualityDivider": 70,
     "qualityModifier": 70,
     "recipeId": 33049,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33051,
-    "stars": 3,
-    "suggestedControl": 1350,
-    "suggestedCraftsmanship": 1500
-  },
-  {
-    "baseLevel": 70,
-    "difficulty": 1350,
-    "durability": 70,
-    "level": 350,
-    "maxQuality": 5200,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 90,
-    "progressModifier": 80,
-    "qualityDivider": 70,
-    "qualityModifier": 70,
-    "recipeId": 33056,
     "stars": 3,
     "suggestedControl": 1350,
     "suggestedCraftsmanship": 1500
@@ -32324,28 +31048,6 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 34516,
-    "stars": 4,
-    "suggestedControl": 2540,
-    "suggestedCraftsmanship": 2620
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 3600,
-    "durability": 70,
-    "level": 510,
-    "maxQuality": 9500,
-    "name": {
       "cn": "总督精准兜帽",
       "de": "Exarchen-Haube des Zielens",
       "en": "Exarchic Hood of Aiming",
@@ -32412,28 +31114,6 @@
     "level": 510,
     "maxQuality": 9500,
     "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 34522,
-    "stars": 4,
-    "suggestedControl": 2540,
-    "suggestedCraftsmanship": 2620
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 3600,
-    "durability": 70,
-    "level": 510,
-    "maxQuality": 9500,
-    "name": {
       "cn": "总督游击兜帽",
       "de": "Exarchen-Hauben des Spähens",
       "en": "Exarchic Hood of Scouting",
@@ -32489,28 +31169,6 @@
     "qualityDivider": 90,
     "qualityModifier": 70,
     "recipeId": 34526,
-    "stars": 4,
-    "suggestedControl": 2540,
-    "suggestedCraftsmanship": 2620
-  },
-  {
-    "baseLevel": 80,
-    "difficulty": 3600,
-    "durability": 70,
-    "level": 510,
-    "maxQuality": 9500,
-    "name": {
-      "cn": "Diadochos Sword",
-      "de": "",
-      "en": "Diadochos Sword",
-      "fr": "",
-      "ja": ""
-    },
-    "progressDivider": 110,
-    "progressModifier": 80,
-    "qualityDivider": 90,
-    "qualityModifier": 70,
-    "recipeId": 34528,
     "stars": 4,
     "suggestedControl": 2540,
     "suggestedCraftsmanship": 2620
@@ -35614,6 +34272,50 @@
     "qualityModifier": 70,
     "recipeId": 35578,
     "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Linen Parasol",
+      "de": "Sammler-Gartenschirm",
+      "en": "Connoisseur's Linen Parasol",
+      "fr": "Parasol de jardin de dilettante",
+      "ja": "好事家向けのガーデンパラソル"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35605,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Jacket",
+      "de": "Sammler-Jacke",
+      "en": "Connoisseur's Jacket",
+      "fr": "Veste de dilettante",
+      "ja": "好事家向けのジャケット"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35613,
+    "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   },

@@ -22603,7 +22603,7 @@
       "cn": "Watcher's Palace Flooring",
       "de": "Wächter-Boden",
       "en": "Watcher's Palace Flooring",
-      "fr": "Parquet du palais du Veilleur",
+      "fr": "Carrelage du palais du Veilleur",
       "ja": "ウォッチャーズパレス・フローリング"
     },
     "progressDivider": 130,
@@ -22645,7 +22645,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "Crystarium Pendant Wall Light",
-      "de": "Chrystarium-Wandkettenlampe",
+      "de": "Crystarium-Wandkettenlampe",
       "en": "Crystarium Pendant Wall Light",
       "fr": "Lampe murale suspendue de Cristarium",
       "ja": "クリスタリウム・ペンダントウォールライト"
@@ -22655,6 +22655,28 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5537,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Ornate Fountain",
+      "de": "Kunstvoller Brunnen",
+      "en": "Ornate Fountain",
+      "fr": "Fontaine décorée",
+      "ja": "オーナメンテッドファウンテン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5548,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -39227,6 +39249,50 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 4620,
+    "durability": 60,
+    "level": 620,
+    "maxQuality": 12040,
+    "name": {
+      "cn": "Connoisseur's Glaives",
+      "de": "Sammler-Gleve",
+      "en": "Connoisseur's Glaives",
+      "fr": "Gladius de dilettante",
+      "ja": "好事家向けのグレイヴ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35603,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 5280,
+    "durability": 60,
+    "level": 625,
+    "maxQuality": 13050,
+    "name": {
+      "cn": "Connoisseur's Baghnakhs",
+      "de": "Sammler-Baghnakhs",
+      "en": "Connoisseur's Baghnakhs",
+      "fr": "Baghnakhs de dilettante",
+      "ja": "好事家向けのバグナウ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35611,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 8800,
     "durability": 60,
     "level": 641,
@@ -39244,6 +39310,50 @@
     "qualityModifier": 100,
     "recipeId": 35621,
     "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Seiryu Sculpture",
+      "de": "Seiryu-Skulptur",
+      "en": "Seiryu Sculpture",
+      "fr": "Statue de Seiryû",
+      "ja": "青龍の彫像"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35627,
+    "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 610,
+    "maxQuality": 8200,
+    "name": {
+      "cn": "Suzaku Sculpture",
+      "de": "Suzaku-Skulptur",
+      "en": "Suzaku Sculpture",
+      "fr": "Statue de Suzaku",
+      "ja": "朱雀の彫像"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35628,
+    "stars": 3,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   }
