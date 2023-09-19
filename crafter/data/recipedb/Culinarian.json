@@ -5506,7 +5506,7 @@
     "level": 400,
     "maxQuality": 3900,
     "name": {
-      "cn": "黑色肉酱面",
+      "cn": "黑色酱汁直面",
       "de": "Tintenschwarze Spaghetti",
       "en": "Spaghetti al Nero",
       "fr": "Spaghetti al nero",
@@ -6826,7 +6826,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "辣味茄汁焗蛋",
+      "cn": "辣味番茄炖蛋",
       "de": "Gewürzshakshouka",
       "en": "Spicy Shakshouka",
       "fr": "Chakchouka épicée",
@@ -7486,7 +7486,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Steamed Shumai",
+      "cn": "蒸笼烧麦",
       "de": "Shumai-Körbchen",
       "en": "Steamed Shumai",
       "fr": "Raviolis fourrés à la vapeur",
@@ -7508,7 +7508,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Fried Gyoza",
+      "cn": "煎饺",
       "de": "Gyoza-Platte",
       "en": "Fried Gyoza",
       "fr": "Gyoza poêlés",
@@ -13976,7 +13976,7 @@
     "level": 403,
     "maxQuality": 4000,
     "name": {
-      "cn": "收藏用黑色肉酱面",
+      "cn": "收藏用黑色酱汁直面",
       "de": "Tintenschwarze Spaghetti (Sammlerstück)",
       "en": "Rarefied Spaghetti al Nero",
       "fr": "Spaghetti al nero collectionnables",
@@ -16968,7 +16968,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Honeyed Dragonfruit",
+      "cn": "蜜浸火龙果",
       "de": "Eingelegte Drachenfrucht",
       "en": "Honeyed Dragonfruit",
       "fr": "Fruit dragon au miel",
@@ -16990,7 +16990,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Dragonfruit Blend",
+      "cn": "火龙果果昔",
       "de": "Drachenfrucht-Smoothie",
       "en": "Dragonfruit Blend",
       "fr": "Jus de fruit dragon",
@@ -17012,7 +17012,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Baba Ghanoush",
+      "cn": "茄泥酱",
       "de": "Baba Ghanoush",
       "en": "Baba Ghanoush",
       "fr": "Baba ganousch",
@@ -17034,7 +17034,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Baked Eggplant",
+      "cn": "烧烤暗色茄子",
       "de": "Überbackene Aubergine",
       "en": "Baked Eggplant",
       "fr": "Aubergine noire du mage au four",
@@ -17056,7 +17056,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Spicy Stellar Soup",
+      "cn": "宇宙香辣汤",
       "de": "Würzige Weltraumsuppe",
       "en": "Spicy Stellar Soup",
       "fr": "Soupe aux épices spatiales",
@@ -17078,7 +17078,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Tandoori Raptor",
+      "cn": "窑烤盗龙腿",
       "de": "Tandoori Raptor",
       "en": "Tandoori Raptor",
       "fr": "Cuisse de raptor tandoori",
@@ -17100,7 +17100,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Caviar Sandwich",
+      "cn": "鱼子酱三明治",
       "de": "Kaviar-Sandwich",
       "en": "Caviar Sandwich",
       "fr": "Sandwich au caviar",
@@ -17122,7 +17122,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Caviar Canapes",
+      "cn": "鱼子酱佐小饼干",
       "de": " Kaviar-Canapés",
       "en": "Caviar Canapes",
       "fr": "Canapés au caviar",
@@ -17144,7 +17144,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Marinated Broccoflower",
+      "cn": "浅腌球形甘蓝",
       "de": "Marinierter Romanesco-Kohlkopf",
       "en": "Marinated Broccoflower",
       "fr": "Fleurs de brocoli marinées",
@@ -17166,7 +17166,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Broccoflower Stew",
+      "cn": "球形甘蓝炖菜",
       "de": "Romanesco-Eintopf",
       "en": "Broccoflower Stew",
       "fr": "Ragoût de fleurs de brocoli",
@@ -17232,7 +17232,7 @@
     "level": 641,
     "maxQuality": 18040,
     "name": {
-      "cn": "Uncharted Course Resin",
+      "cn": "船景跳跳乐建造用合成树脂",
       "de": "Gymnastikutter-Kunstharz",
       "en": "Uncharted Course Resin",
       "fr": "Résine synthétique pour l'accrobranche insulaire",

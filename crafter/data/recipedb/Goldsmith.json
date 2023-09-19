@@ -22578,7 +22578,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Watcher's Palace Interior Wall",
+      "cn": "监视者之馆内墙",
       "de": "Wächter-Innenwand",
       "en": "Watcher's Palace Interior Wall",
       "fr": "Revêtement mural du palais du Veilleur",
@@ -22600,7 +22600,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Watcher's Palace Flooring",
+      "cn": "监视者之馆地板",
       "de": "Wächter-Boden",
       "en": "Watcher's Palace Flooring",
       "fr": "Carrelage du palais du Veilleur",
@@ -22622,7 +22622,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Imitation Moonlit Window",
+      "cn": "仿制月光窗",
       "de": "Mondlichtfenster-Imitation",
       "en": "Imitation Moonlit Window",
       "fr": "Imitation de fenêtre au clair de lune",
@@ -22644,7 +22644,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Crystarium Pendant Wall Light",
+      "cn": "水晶都吊坠壁灯",
       "de": "Crystarium-Wandkettenlampe",
       "en": "Crystarium Pendant Wall Light",
       "fr": "Lampe murale suspendue de Cristarium",
@@ -38902,7 +38902,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Cane",
+      "cn": "继业者牧杖",
       "de": "Diadochen-Stock",
       "en": "Diadochos Cane",
       "fr": "Canne de diadoque",
@@ -38924,7 +38924,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Rod",
+      "cn": "继业者法杖",
       "de": "Diadochen-Stab",
       "en": "Diadochos Rod",
       "fr": "Sceptre de diadoque",
@@ -38946,7 +38946,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Planisphere",
+      "cn": "继业者天星盘",
       "de": "Diadochen-Planisphäre",
       "en": "Diadochos Planisphere",
       "fr": "Planisphère de diadoque",
@@ -38968,7 +38968,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Smallsword",
+      "cn": "继业者小剑",
       "de": "Diadochen-Rapier",
       "en": "Diadochos Smallsword",
       "fr": "Petite épée de diadoque",
@@ -38990,7 +38990,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Wings",
+      "cn": "继业者飞翼",
       "de": "Diadochen-Schwingen",
       "en": "Diadochos Wings",
       "fr": "Ailes de diadoque",
@@ -39012,7 +39012,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Choker of Fending",
+      "cn": "继业者御敌项环",
       "de": "Diadochen-Halskette der Verteidigung",
       "en": "Diadochos Choker of Fending",
       "fr": "Ras de cou de protecteur de diadoque",
@@ -39034,7 +39034,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Choker of Slaying",
+      "cn": "继业者强攻项环",
       "de": "Diadochen-Halskette des Schlachtens",
       "en": "Diadochos Choker of Slaying",
       "fr": "Ras de cou d'attaquant de diadoque",
@@ -39056,7 +39056,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Choker of Aiming",
+      "cn": "继业者精准项环",
       "de": "Diadochen-Halskette des Zielens",
       "en": "Diadochos Choker of Aiming",
       "fr": "Ras de cou de pisteur de diadoque",
@@ -39078,7 +39078,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Choker of Healing",
+      "cn": "继业者治愈项环",
       "de": "Diadochen-Halskette der Heilung",
       "en": "Diadochos Choker of Healing",
       "fr": "Ras de cou de soigneur de diadoque",
@@ -39100,7 +39100,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Choker of Casting",
+      "cn": "继业者咏咒项环",
       "de": "Diadochen-Halskette der Magie",
       "en": "Diadochos Choker of Casting",
       "fr": "Ras de cou d'incantateur de diadoque",
@@ -39122,7 +39122,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Wristband of Fending",
+      "cn": "继业者御敌手环",
       "de": "Diadochen-Armband der Verteidigung",
       "en": "Diadochos Wristband of Fending",
       "fr": "Poignet de protecteur de diadoque",
@@ -39144,7 +39144,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Wristband of Slaying",
+      "cn": "继业者强攻手环",
       "de": "Diadochen-Armband des Schlachtens",
       "en": "Diadochos Wristband of Slaying",
       "fr": "Poignet d'attaquant de diadoque",
@@ -39166,7 +39166,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Wristband of Aiming",
+      "cn": "继业者精准手环",
       "de": "Diadochen-Armband des Zielens",
       "en": "Diadochos Wristband of Aiming",
       "fr": "Poignet de pisteur de diadoque",
@@ -39188,7 +39188,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Wristband of Healing",
+      "cn": "继业者治愈手环",
       "de": "Diadochen-Armband der Heilung",
       "en": "Diadochos Wristband of Healing",
       "fr": "Poignet de soigneur de diadoque",
@@ -39210,7 +39210,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Wristband of Casting",
+      "cn": "继业者咏咒手环",
       "de": "Diadochen-Armband der Magie",
       "en": "Diadochos Wristband of Casting",
       "fr": "Poignet d'incantateur de diadoque",
@@ -39232,7 +39232,7 @@
     "level": 640,
     "maxQuality": 9090,
     "name": {
-      "cn": "Spodumene",
+      "cn": "紫锂辉石",
       "de": "Spodumen",
       "en": "Spodumene",
       "fr": "Spodumène",
@@ -39298,7 +39298,7 @@
     "level": 641,
     "maxQuality": 18040,
     "name": {
-      "cn": "Uncharted Course Hardware",
+      "cn": "船景跳跳乐建造用金属材料",
       "de": "Gymnastikutter-Metallteile",
       "en": "Uncharted Course Hardware",
       "fr": "Métal pour l'accrobranche insulaire",

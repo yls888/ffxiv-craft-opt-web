@@ -1612,7 +1612,7 @@
     "level": 27,
     "maxQuality": 720,
     "name": {
-      "cn": "山羊大地革手环",
+      "cn": "山羊革大地手环",
       "de": "Steinbockleder-Armbänder des Sammelns",
       "en": "Goatskin Wristbands of Gathering",
       "fr": "Poignets des ressources en cuir de bouquetin",
@@ -32104,7 +32104,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Jacket of Fending",
+      "cn": "继业者御敌短衣",
       "de": "Diadochen-Jacke der Verteidigung",
       "en": "Diadochos Jacket of Fending",
       "fr": "Jaque de protecteur de diadoque",
@@ -32126,7 +32126,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Boots of Fending",
+      "cn": "继业者御敌矮靴",
       "de": "Diadochen-Stiefel der Verteidigung",
       "en": "Diadochos Boots of Fending",
       "fr": "Bottes de protecteur de diadoque",
@@ -32148,7 +32148,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Jacket of Maiming",
+      "cn": "继业者制敌短衣",
       "de": "Diadochen-Jacke des Verstümmelns",
       "en": "Diadochos Jacket of Maiming",
       "fr": "Jaque d'abatteur de diadoque",
@@ -32170,7 +32170,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Boots of Maiming",
+      "cn": "继业者制敌矮靴",
       "de": "Diadochen-Stiefel des Verstümmelns",
       "en": "Diadochos Boots of Maiming",
       "fr": "Bottes d'abatteur de diadoque",
@@ -32192,7 +32192,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Headband of Striking",
+      "cn": "继业者强袭头带",
       "de": "Diadochen-Stirnband des Schlagens",
       "en": "Diadochos Headband of Striking",
       "fr": "Bandeau d'agresseur de diadoque",
@@ -32214,7 +32214,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Gloves of Striking",
+      "cn": "继业者强袭手套",
       "de": "Diadochen-Handschuhe des Schlagens",
       "en": "Diadochos Gloves of Striking",
       "fr": "Gants d'agresseur de diadoque",
@@ -32236,7 +32236,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Shoes of Striking",
+      "cn": "继业者强袭皮靴",
       "de": "Diadochen-Schuhe des Schlagens",
       "en": "Diadochos Shoes of Striking",
       "fr": "Chaussures d'agresseur de diadoque",
@@ -32258,7 +32258,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Jacket of Aiming",
+      "cn": "继业者精准短衣",
       "de": "Diadochen-Jacke des Zielens",
       "en": "Diadochos Jacket of Aiming",
       "fr": "Jaque de pisteur de diadoque",
@@ -32280,7 +32280,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Boots of Aiming",
+      "cn": "继业者精准矮靴",
       "de": "Diadochen-Stiefel des Zielens",
       "en": "Diadochos Boots of Aiming",
       "fr": "Bottes de pisteur de diadoque",
@@ -32302,7 +32302,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Headband of Scouting",
+      "cn": "继业者游击头带",
       "de": "Diadochen-Stirnband des Spähens",
       "en": "Diadochos Headband of Scouting",
       "fr": "Bandeau d'éclaireur de diadoque",
@@ -32324,7 +32324,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Gloves of Scouting",
+      "cn": "继业者游击手套",
       "de": "Diadochen-Handschuhe des Spähens",
       "en": "Diadochos Gloves of Scouting",
       "fr": "Gants d'éclaireur de diadoque",
@@ -32346,7 +32346,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Shoes of Scouting",
+      "cn": "继业者游击皮靴",
       "de": "Diadochen-Schuhe des Spähens",
       "en": "Diadochos Shoes of Scouting",
       "fr": "Chaussures d'éclaireur de diadoque",
@@ -32368,7 +32368,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Boots of Healing",
+      "cn": "继业者治愈矮靴",
       "de": "Diadochen-Stiefel der Heilung",
       "en": "Diadochos Boots of Healing",
       "fr": "Bottes de soigneur de diadoque",
@@ -32390,7 +32390,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Boots of Casting",
+      "cn": "继业者咏咒矮靴",
       "de": "Diadochen-Stiefel der Magie",
       "en": "Diadochos Boots of Casting",
       "fr": "Bottes d'incantateur de diadoque",
@@ -32412,7 +32412,7 @@
     "level": 640,
     "maxQuality": 9090,
     "name": {
-      "cn": "Deinosuchus Leather",
+      "cn": "恐鳄鞣革",
       "de": "Deinosuchus-Leder",
       "en": "Deinosuchus Leather",
       "fr": "Cuir de deinosuchus",
@@ -32478,7 +32478,7 @@
     "level": 641,
     "maxQuality": 18040,
     "name": {
-      "cn": "Uncharted Course Lumber",
+      "cn": "船景跳跳乐建造用部件",
       "de": "Gymnastikutter-Bauholz",
       "en": "Uncharted Course Lumber",
       "fr": "Poutre pour l'accrobranche insulaire",
@@ -32500,7 +32500,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Plain Pajama Slippers",
+      "cn": "朴素寝室拖鞋",
       "de": "Einfache Pantoffeln",
       "en": "Plain Pajama Slippers",
       "fr": "Chaussons de pyjama",
@@ -32522,7 +32522,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Cactuar Pajama Slippers",
+      "cn": "仙人刺寝室拖鞋",
       "de": "Kaktor-Pantoffeln",
       "en": "Cactuar Pajama Slippers",
       "fr": "Chaussons de pyjama pampa",
@@ -32544,7 +32544,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Chocobo Pajama Slippers",
+      "cn": "陆行鸟寝室拖鞋",
       "de": "Chocobo-Pantoffeln",
       "en": "Chocobo Pajama Slippers",
       "fr": "Chaussons de pyjama chocobo",

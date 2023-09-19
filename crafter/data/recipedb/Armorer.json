@@ -11336,7 +11336,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Metal Pipe Wall Shelf",
+      "cn": "金属管置物架",
       "de": "Metallröhren-Wandregal",
       "en": "Metal Pipe Wall Shelf",
       "fr": "Étagère murale de tuyaux métalliques",
@@ -11358,7 +11358,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Imitation Closed Door",
+      "cn": "仿制关闭的门",
       "de": "„Verbotene Tür“-Imitation ",
       "en": "Imitation Closed Door",
       "fr": "Imitation de porte fermée",
@@ -11380,7 +11380,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Wall-mounted Pot Rack",
+      "cn": "壁挂式锅架",
       "de": "Topfregal",
       "en": "Wall-mounted Pot Rack",
       "fr": "Porte-casseroles",
@@ -24690,7 +24690,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Shield",
+      "cn": "继业者之盾",
       "de": "Diadochen-Schild",
       "en": "Diadochos Shield",
       "fr": "Bouclier de diadoque",
@@ -24712,7 +24712,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Halfgloves of Fending",
+      "cn": "继业者御敌半指手套",
       "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
       "en": "Diadochos Halfgloves of Fending",
       "fr": "Mitaines de protecteur de diadoque",
@@ -24734,7 +24734,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Poleyns of Fending",
+      "cn": "继业者御敌护膝裤",
       "de": "Diadochen-Knieschützer der Verteidigung",
       "en": "Diadochos Poleyns of Fending",
       "fr": "Genouillères de protecteur de diadoque",
@@ -24756,7 +24756,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Halfgloves of Maiming",
+      "cn": "继业者制敌半指手套",
       "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
       "en": "Diadochos Halfgloves of Maiming",
       "fr": "Mitaines d'abatteur de diadoque",
@@ -24778,7 +24778,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Poleyns of Maiming",
+      "cn": "继业者制敌护膝裤",
       "de": "Diadochen-Knieschützer des Verstümmelns",
       "en": "Diadochos Poleyns of Maiming",
       "fr": "Genouillères d'abatteur de diadoque",
@@ -24800,7 +24800,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Halfgloves of Aiming",
+      "cn": "继业者精准半指手套",
       "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Zielens",
       "en": "Diadochos Halfgloves of Aiming",
       "fr": "Mitaines de pisteur de diadoque",
@@ -24822,7 +24822,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Poleyns of Aiming",
+      "cn": "继业者精准护膝裤",
       "de": "Diadochen-Knieschützer des Zielens",
       "en": "Diadochos Poleyns of Aiming",
       "fr": "Genouillères de pisteur de diadoque",
@@ -24844,7 +24844,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Earring of Fending",
+      "cn": "继业者御敌耳坠",
       "de": "Diadochen-Ohrring der Verteidigung",
       "en": "Diadochos Earring of Fending",
       "fr": "Boucle d'oreille de protecteur de diadoque",
@@ -24866,7 +24866,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Earring of Slaying",
+      "cn": "继业者强攻耳坠",
       "de": "Diadochen-Ohrring des Schlachtens",
       "en": "Diadochos Earring of Slaying",
       "fr": "Boucle d'oreille d'attaquant de diadoque",
@@ -24888,7 +24888,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Earring of Aiming",
+      "cn": "继业者精准耳坠",
       "de": "Diadochen-Ohrring des Zielens",
       "en": "Diadochos Earring of Aiming",
       "fr": "Boucle d'oreille de pisteur de diadoque",
@@ -24910,7 +24910,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Earring of Healing",
+      "cn": "继业者治愈耳坠",
       "de": "Diadochen-Ohrring der Heilung",
       "en": "Diadochos Earring of Healing",
       "fr": "Boucle d'oreille de soigneur de diadoque",
@@ -24932,7 +24932,7 @@
     "level": 640,
     "maxQuality": 14040,
     "name": {
-      "cn": "Diadochos Earring of Casting",
+      "cn": "继业者咏咒耳坠",
       "de": "Diadochen-Ohrring der Magie",
       "en": "Diadochos Earring of Casting",
       "fr": "Boucle d'oreille d'incantateur de diadoque",
@@ -24954,7 +24954,7 @@
     "level": 640,
     "maxQuality": 9090,
     "name": {
-      "cn": "Softsilver Ingot",
+      "cn": "软银锭",
       "de": "Weichsilber-Barren",
       "en": "Softsilver Ingot",
       "fr": "Lingot d'argent ductile",
@@ -25020,7 +25020,7 @@
     "level": 641,
     "maxQuality": 18040,
     "name": {
-      "cn": "Uncharted Course Hardware",
+      "cn": "船景跳跳乐建造用金属材料",
       "de": "Gymnastikutter-Metallteile",
       "en": "Uncharted Course Hardware",
       "fr": "Métal pour l'accrobranche insulaire",
@@ -25042,7 +25042,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Voidcast Barding",
+      "cn": "高贝扎装甲",
       "de": "Golbez-Harnisch",
       "en": "Voidcast Barding",
       "fr": "Barde de Golbez",
@@ -25064,7 +25064,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Drowned King Sculpture",
+      "cn": "凶水四天王像",
       "de": "Statue des Fluten-Elementarfürsten",
       "en": "Drowned King Sculpture",
       "fr": "Statuette du maître de l'eau",
