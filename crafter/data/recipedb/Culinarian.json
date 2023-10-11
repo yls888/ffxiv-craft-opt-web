@@ -7546,6 +7546,50 @@
     "suggestedCraftsmanship": 2805
   },
   {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Manderville's Adventurer Flakes",
+      "de": "Manderville-Abenteurer-Müsli",
+      "en": "Manderville's Adventurer Flakes",
+      "fr": "Céréales à la Manderville",
+      "ja": "マンダヴィルズ・アドベンチャラーフレーク"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5558,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Bubbly Mogfloat",
+      "de": "Bom-Bom-Eissoda",
+      "en": "Bubbly Mogfloat",
+      "fr": "Glace flottante mog",
+      "ja": "モグモグアイスフロート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5559,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -17244,6 +17288,138 @@
     "qualityModifier": 100,
     "recipeId": 35623,
     "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Cushion Care Package",
+      "de": "Rückenfreude-Kissenset",
+      "en": "Cushion Care Package",
+      "fr": "Set pour amélioration de confort d'assise",
+      "ja": "腰痛改善必需品"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35678,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Feline Recreational Device",
+      "de": "Katzenfreude-Spielzeug",
+      "en": "Feline Recreational Device",
+      "fr": "Dispositif pour bien-être félin",
+      "ja": "猫さんメロメロ必需品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35679,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Mesmerizing Miniature",
+      "de": "Faszinierendes Figürchen",
+      "en": "Mesmerizing Miniature",
+      "fr": "Réplique de monstre saisissante",
+      "ja": "魅惑の立体造形物"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35680,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Energizing Eye-lixir",
+      "de": "Augenfreude-Elixir",
+      "en": "Energizing Eye-lixir",
+      "fr": "Remède oculaire miracle",
+      "ja": "疲れ目対策必需品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35681,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 87,
+    "difficulty": 3200,
+    "durability": 60,
+    "level": 545,
+    "maxQuality": 5520,
+    "name": {
+      "cn": "Researcher's Relaxation Kit",
+      "de": "Forscherpausen-Set",
+      "en": "Researcher's Relaxation Kit",
+      "fr": "Kit de détente et de relaxation",
+      "ja": "研究員の休憩必需品"
+    },
+    "progressDivider": 127,
+    "progressModifier": 100,
+    "qualityDivider": 111,
+    "qualityModifier": 100,
+    "recipeId": 35682,
+    "stars": 0,
+    "suggestedControl": 2482,
+    "suggestedCraftsmanship": 2626
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 9240,
+    "durability": 70,
+    "level": 644,
+    "maxQuality": 20066,
+    "name": {
+      "cn": "Aetherial Arbor Resin",
+      "de": "Hagenhain-Kunstharz",
+      "en": "Aetherial Arbor Resin",
+      "fr": "Bâtons de résine synthétique pour l'arbre magique insulaire",
+      "ja": "マジカルツリーの建築用合成樹脂"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35706,
+    "stars": 5,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   }

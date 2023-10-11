@@ -11359,7 +11359,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "仿制关闭的门",
-      "de": "„Verbotene Tür“-Imitation ",
+      "de": "„Verbotene Tür“-Imitation",
       "en": "Imitation Closed Door",
       "fr": "Imitation de porte fermée",
       "ja": "イミテーション・クローズドドア"
@@ -11413,6 +11413,28 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5546,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Colossal Chronometer Window",
+      "de": "Kolossales Uhren-Fenster",
+      "en": "Colossal Chronometer Window",
+      "fr": "Fenêtre-horloge",
+      "ja": "コロッサルクロック・ウィンドウ"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5580,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -25076,6 +25098,182 @@
     "qualityModifier": 70,
     "recipeId": 35641,
     "stars": 3,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 81,
+    "difficulty": 2000,
+    "durability": 60,
+    "level": 517,
+    "maxQuality": 4160,
+    "name": {
+      "cn": "Cushion Care Package",
+      "de": "Rückenfreude-Kissenset",
+      "en": "Cushion Care Package",
+      "fr": "Set pour amélioration de confort d'assise",
+      "ja": "腰痛改善必需品"
+    },
+    "progressDivider": 121,
+    "progressModifier": 100,
+    "qualityDivider": 105,
+    "qualityModifier": 100,
+    "recipeId": 35653,
+    "stars": 0,
+    "suggestedControl": 2136,
+    "suggestedCraftsmanship": 2234
+  },
+  {
+    "baseLevel": 82,
+    "difficulty": 2300,
+    "durability": 60,
+    "level": 520,
+    "maxQuality": 4560,
+    "name": {
+      "cn": "Feline Recreational Device",
+      "de": "Katzenfreude-Spielzeug",
+      "en": "Feline Recreational Device",
+      "fr": "Dispositif pour bien-être félin",
+      "ja": "猫さんメロメロ必需品"
+    },
+    "progressDivider": 122,
+    "progressModifier": 100,
+    "qualityDivider": 106,
+    "qualityModifier": 100,
+    "recipeId": 35654,
+    "stars": 0,
+    "suggestedControl": 2238,
+    "suggestedCraftsmanship": 2336
+  },
+  {
+    "baseLevel": 83,
+    "difficulty": 2600,
+    "durability": 60,
+    "level": 525,
+    "maxQuality": 4960,
+    "name": {
+      "cn": "Mesmerizing Miniature",
+      "de": "Faszinierendes Figürchen",
+      "en": "Mesmerizing Miniature",
+      "fr": "Réplique de monstre saisissante",
+      "ja": "魅惑の立体造形物"
+    },
+    "progressDivider": 123,
+    "progressModifier": 100,
+    "qualityDivider": 107,
+    "qualityModifier": 100,
+    "recipeId": 35655,
+    "stars": 0,
+    "suggestedControl": 2340,
+    "suggestedCraftsmanship": 2438
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 60,
+    "level": 535,
+    "maxQuality": 5360,
+    "name": {
+      "cn": "Energizing Eye-lixir",
+      "de": "Augenfreude-Elixir",
+      "en": "Energizing Eye-lixir",
+      "fr": "Remède oculaire miracle",
+      "ja": "疲れ目対策必需品"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 35656,
+    "stars": 0,
+    "suggestedControl": 2418,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 87,
+    "difficulty": 3200,
+    "durability": 60,
+    "level": 545,
+    "maxQuality": 5520,
+    "name": {
+      "cn": "Researcher's Relaxation Kit",
+      "de": "Forscherpausen-Set",
+      "en": "Researcher's Relaxation Kit",
+      "fr": "Kit de détente et de relaxation",
+      "ja": "研究員の休憩必需品"
+    },
+    "progressDivider": 127,
+    "progressModifier": 100,
+    "qualityDivider": 111,
+    "qualityModifier": 100,
+    "recipeId": 35657,
+    "stars": 0,
+    "suggestedControl": 2482,
+    "suggestedCraftsmanship": 2626
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 9240,
+    "durability": 70,
+    "level": 644,
+    "maxQuality": 20066,
+    "name": {
+      "cn": "Aetherial Arbor Hardware",
+      "de": "Hagenhain-Metallteile",
+      "en": "Aetherial Arbor Hardware",
+      "fr": "Métal pour l'arbre magique insulaire",
+      "ja": "マジカルツリーの建築用金属材"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35703,
+    "stars": 5,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Paladin's Smaragdine Arms",
+      "de": "Smaragdyn-Paladin-Rüstzeug",
+      "en": "Paladin's Smaragdine Arms",
+      "fr": "Attirail Viridis pour paladin",
+      "ja": "スマラグディン・ナイトギア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 35728,
+    "stars": 2,
+    "suggestedControl": 1990,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 4400,
+    "durability": 70,
+    "level": 640,
+    "maxQuality": 9000,
+    "name": {
+      "cn": "Abyssal Barding",
+      "de": "Zeromus-Rossharnisch",
+      "en": "Abyssal Barding",
+      "fr": "Barde de Zeromus",
+      "ja": "ゼロムス・バード"
+    },
+    "progressDivider": 130,
+    "progressModifier": 80,
+    "qualityDivider": 115,
+    "qualityModifier": 70,
+    "recipeId": 35733,
+    "stars": 4,
     "suggestedControl": 3280,
     "suggestedCraftsmanship": 3700
   }
