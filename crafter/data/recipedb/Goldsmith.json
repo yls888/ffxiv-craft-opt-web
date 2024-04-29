@@ -22688,7 +22688,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Seabed Ceiling Lamp",
+      "cn": "海底吊灯",
       "de": "Meeresgrundlampe",
       "en": "Seabed Ceiling Lamp",
       "fr": "Lustre des fonds marins",
@@ -22710,7 +22710,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Crystarium Wall Canopy",
+      "cn": "水晶都壁挂雨棚",
       "de": "Crystarium-Baldachinvordach",
       "en": "Crystarium Wall Canopy",
       "fr": "Baldaquin mural de Cristarium",
@@ -22732,7 +22732,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Ronkan Fireplace",
+      "cn": "隆卡壁炉",
       "de": "Ronka-Kamin",
       "en": "Ronkan Fireplace",
       "fr": "Cheminée ronka",
@@ -22754,7 +22754,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Cluster Lamp",
+      "cn": "仿晶簇室内灯",
       "de": "Polykristalllampe",
       "en": "Cluster Lamp",
       "fr": "Lampe agrégat",
@@ -39452,7 +39452,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Cushion Care Package",
+      "cn": "缓解腰痛的必需品",
       "de": "Rückenfreude-Kissenset",
       "en": "Cushion Care Package",
       "fr": "Set pour amélioration de confort d'assise",
@@ -39474,7 +39474,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Feline Recreational Device",
+      "cn": "魅惑猫咪的必需品",
       "de": "Katzenfreude-Spielzeug",
       "en": "Feline Recreational Device",
       "fr": "Dispositif pour bien-être félin",
@@ -39496,7 +39496,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Mesmerizing Miniature",
+      "cn": "魅力十足的立体模型",
       "de": "Faszinierendes Figürchen",
       "en": "Mesmerizing Miniature",
       "fr": "Réplique de monstre saisissante",
@@ -39518,7 +39518,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Energizing Eye-lixir",
+      "cn": "应对眼疲劳的必需品",
       "de": "Augenfreude-Elixir",
       "en": "Energizing Eye-lixir",
       "fr": "Remède oculaire miracle",
@@ -39540,7 +39540,7 @@
     "level": 545,
     "maxQuality": 5520,
     "name": {
-      "cn": "Researcher's Relaxation Kit",
+      "cn": "研究员的休息必需品",
       "de": "Forscherpausen-Set",
       "en": "Researcher's Relaxation Kit",
       "fr": "Kit de détente et de relaxation",
@@ -39557,12 +39557,56 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 60,
+    "level": 642,
+    "maxQuality": 15368,
+    "name": {
+      "cn": "Connoisseur's Washbasin",
+      "de": "Sammler-Waschbecken",
+      "en": "Connoisseur's Washbasin",
+      "fr": "Vasque sur pied de dilettante",
+      "ja": "好事家向けのウォッシュスタンド"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35686,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7040,
+    "durability": 60,
+    "level": 643,
+    "maxQuality": 16308,
+    "name": {
+      "cn": "Connoisseur's Marble Fountain",
+      "de": "Sammler-Marmorbrunnen",
+      "en": "Connoisseur's Marble Fountain",
+      "fr": "Fontaine en marbre de dilettante",
+      "ja": "好事家向けのマーブルファウンテン"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35694,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 9240,
     "durability": 70,
     "level": 644,
     "maxQuality": 20066,
     "name": {
-      "cn": "Aetherial Arbor Hardware",
+      "cn": "魔法树建造用金属材料",
       "de": "Hagenhain-Metallteile",
       "en": "Aetherial Arbor Hardware",
       "fr": "Métal pour l'arbre magique insulaire",
@@ -39584,7 +39628,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Cane",
+      "cn": "翠光牧杖",
       "de": "Smaragdyn-Stock",
       "en": "Smaragdine Cane",
       "fr": "Canne Viridis",
@@ -39606,7 +39650,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Rod",
+      "cn": "翠光咒杖",
       "de": "Smaragdyn-Stab",
       "en": "Smaragdine Rod",
       "fr": "Sceptre Viridis",
@@ -39628,7 +39672,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Torquetum",
+      "cn": "翠光黄道仪",
       "de": "Smaragdyn-Torquetum",
       "en": "Smaragdine Torquetum",
       "fr": "Torquetum Viridis",
@@ -39650,7 +39694,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Rapier",
+      "cn": "翠光刺剑",
       "de": "Smaragdyn-Rapier",
       "en": "Smaragdine Rapier",
       "fr": "Rapière Viridis",
@@ -39672,8 +39716,8 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "cn": "Abyssal Wings Display",
-      "de": "Zeromus' Erinnerung",
+      "cn": "泽罗姆斯的追忆",
+      "de": "Zeromus-Erinnerung",
       "en": "Abyssal Wings Display",
       "fr": "Ailes abyssales",
       "ja": "ゼロムスの追憶"

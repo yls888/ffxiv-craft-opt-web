@@ -6279,7 +6279,7 @@
       "cn": "大河狸汉堡组合",
       "de": "Riesenburger-Set",
       "en": "Giant Beaver Burger Set",
-      "fr": "Hamburger d'abeille géante",
+      "fr": "Hamburger castor géant",
       "ja": "ジャイアントビーバーガー・セット"
     },
     "progressDivider": 110,
@@ -6782,7 +6782,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "桓娑咖喱",
+      "cn": "桓娑鸟肉咖喱",
       "de": "Hamsa-Curry",
       "en": "Hamsa Curry",
       "fr": "Curry de hamsa",
@@ -6804,7 +6804,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "茄子镶桓娑肉",
+      "cn": "茄子镶桓娑鸟肉",
       "de": "Karniyarik",
       "en": "Karniyarik",
       "fr": "Karni yarik",
@@ -7552,7 +7552,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Manderville's Adventurer Flakes",
+      "cn": "曼德维尔冒险者谷物片",
       "de": "Manderville-Abenteurer-Müsli",
       "en": "Manderville's Adventurer Flakes",
       "fr": "Céréales à la Manderville",
@@ -7574,7 +7574,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Bubbly Mogfloat",
+      "cn": "雪顶莫古泡泡冰",
       "de": "Bom-Bom-Eissoda",
       "en": "Bubbly Mogfloat",
       "fr": "Glace flottante mog",
@@ -17298,7 +17298,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Cushion Care Package",
+      "cn": "缓解腰痛的必需品",
       "de": "Rückenfreude-Kissenset",
       "en": "Cushion Care Package",
       "fr": "Set pour amélioration de confort d'assise",
@@ -17320,7 +17320,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Feline Recreational Device",
+      "cn": "魅惑猫咪的必需品",
       "de": "Katzenfreude-Spielzeug",
       "en": "Feline Recreational Device",
       "fr": "Dispositif pour bien-être félin",
@@ -17342,7 +17342,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Mesmerizing Miniature",
+      "cn": "魅力十足的立体模型",
       "de": "Faszinierendes Figürchen",
       "en": "Mesmerizing Miniature",
       "fr": "Réplique de monstre saisissante",
@@ -17364,7 +17364,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Energizing Eye-lixir",
+      "cn": "应对眼疲劳的必需品",
       "de": "Augenfreude-Elixir",
       "en": "Energizing Eye-lixir",
       "fr": "Remède oculaire miracle",
@@ -17386,7 +17386,7 @@
     "level": 545,
     "maxQuality": 5520,
     "name": {
-      "cn": "Researcher's Relaxation Kit",
+      "cn": "研究员的休息必需品",
       "de": "Forscherpausen-Set",
       "en": "Researcher's Relaxation Kit",
       "fr": "Kit de détente et de relaxation",
@@ -17403,12 +17403,56 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 60,
+    "level": 642,
+    "maxQuality": 15368,
+    "name": {
+      "cn": "Connoisseur's Crab Cakes",
+      "de": "Sammler-Krabbenküchlein",
+      "en": "Connoisseur's Crab Cakes",
+      "fr": "Gâteau de crabe de dilettante",
+      "ja": "好事家向けのクラブケーキ"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35690,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7040,
+    "durability": 60,
+    "level": 643,
+    "maxQuality": 16308,
+    "name": {
+      "cn": "Connoisseur's Chili Crab",
+      "de": "Sammler-Chili-Krabbengericht",
+      "en": "Connoisseur's Chili Crab",
+      "fr": "Chili de crabe de dilettante",
+      "ja": "好事家向けのチリクラブ"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35698,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 9240,
     "durability": 70,
     "level": 644,
     "maxQuality": 20066,
     "name": {
-      "cn": "Aetherial Arbor Resin",
+      "cn": "魔法树建造用合成树脂",
       "de": "Hagenhain-Kunstharz",
       "en": "Aetherial Arbor Resin",
       "fr": "Bâtons de résine synthétique pour l'arbre magique insulaire",

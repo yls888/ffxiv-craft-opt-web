@@ -17364,7 +17364,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Greige Carpet",
+      "cn": "米灰色地毯",
       "de": "Graubeiger Teppich",
       "en": "Greige Carpet",
       "fr": "Moquette écru",
@@ -17375,6 +17375,28 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5570,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Nursery Canopy",
+      "de": "Hänge-Baldachinzelt",
+      "en": "Nursery Canopy",
+      "fr": "Baldaquin de pouponnière",
+      "ja": "ハンギング・キャノピーカーテン"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5581,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -34590,7 +34612,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Cushion Care Package",
+      "cn": "缓解腰痛的必需品",
       "de": "Rückenfreude-Kissenset",
       "en": "Cushion Care Package",
       "fr": "Set pour amélioration de confort d'assise",
@@ -34612,7 +34634,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Feline Recreational Device",
+      "cn": "魅惑猫咪的必需品",
       "de": "Katzenfreude-Spielzeug",
       "en": "Feline Recreational Device",
       "fr": "Dispositif pour bien-être félin",
@@ -34634,7 +34656,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Mesmerizing Miniature",
+      "cn": "魅力十足的立体模型",
       "de": "Faszinierendes Figürchen",
       "en": "Mesmerizing Miniature",
       "fr": "Réplique de monstre saisissante",
@@ -34656,7 +34678,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Energizing Eye-lixir",
+      "cn": "应对眼疲劳的必需品",
       "de": "Augenfreude-Elixir",
       "en": "Energizing Eye-lixir",
       "fr": "Remède oculaire miracle",
@@ -34678,7 +34700,7 @@
     "level": 545,
     "maxQuality": 5520,
     "name": {
-      "cn": "Researcher's Relaxation Kit",
+      "cn": "研究员的休息必需品",
       "de": "Forscherpausen-Set",
       "en": "Researcher's Relaxation Kit",
       "fr": "Kit de détente et de relaxation",
@@ -34695,12 +34717,56 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 60,
+    "level": 642,
+    "maxQuality": 15368,
+    "name": {
+      "cn": "Connoisseur's Petasos",
+      "de": "Sammler-Dreispitz",
+      "en": "Connoisseur's Petasos",
+      "fr": "Chapeau pointu de dilettante",
+      "ja": "好事家向けの三角帽子"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35688,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7040,
+    "durability": 60,
+    "level": 643,
+    "maxQuality": 16308,
+    "name": {
+      "cn": "Connoisseur's Fat Cat Sofa",
+      "de": "Sammler-Dicke-Katze-Sofa",
+      "en": "Connoisseur's Fat Cat Sofa",
+      "fr": "Fauteuil gros minou de dilettante",
+      "ja": "好事家向けのファットキャットソファー"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35696,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 9240,
     "durability": 70,
     "level": 644,
     "maxQuality": 20066,
     "name": {
-      "cn": "Aetherial Arbor Lumber",
+      "cn": "魔法树建造用部件",
       "de": "Hagenhain-Bauholz",
       "en": "Aetherial Arbor Lumber",
       "fr": "Poutre pour l'arbre magique insulaire",
@@ -34722,7 +34788,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "cn": "Martial Artist's Vest",
+      "cn": "习武背心",
       "de": "Kampfkunst-Weste",
       "en": "Martial Artist's Vest",
       "fr": "Gilet de maître en arts martiaux",
@@ -34744,7 +34810,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "cn": "Martial Artist's Slops",
+      "cn": "习武工作裤",
       "de": "Kampfkunst-Beinlinge",
       "en": "Martial Artist's Slops",
       "fr": "Trousses de maître en arts martiaux",
@@ -34766,7 +34832,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "cn": "Martial Artist's Sleeveless Vest",
+      "cn": "习武无袖背心",
       "de": "Ärmellose Kampfkunst-Weste",
       "en": "Martial Artist's Sleeveless Vest",
       "fr": "Gilet sans manche de maître en arts martiaux",

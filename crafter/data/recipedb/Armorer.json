@@ -11424,7 +11424,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Colossal Chronometer Window",
+      "cn": "巨型钟表窗",
       "de": "Kolossales Uhren-Fenster",
       "en": "Colossal Chronometer Window",
       "fr": "Fenêtre-horloge",
@@ -11435,6 +11435,50 @@
     "qualityDivider": 115,
     "qualityModifier": 80,
     "recipeId": 5580,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Imitation Magitek Repair Station (Wall Unit)",
+      "de": "Magitek-Reparaturstation-Nachbildung (Wand)",
+      "en": "Imitation Magitek Repair Station (Wall Unit)",
+      "fr": "Imitation de poste de réparation magitek",
+      "ja": "イミテーション・マジテックハンガー"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5583,
+    "stars": 0,
+    "suggestedControl": 2635,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 80,
+    "level": 560,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Imitation Magitek Repair Station (Floor Unit)",
+      "de": "Magitek-Reparaturstation-Nachbildung (Boden)",
+      "en": "Imitation Magitek Repair Station (Floor Unit)",
+      "fr": "Imitation de station de stockage magitek",
+      "ja": "イミテーション・マジテックベース"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 5585,
     "stars": 0,
     "suggestedControl": 2635,
     "suggestedCraftsmanship": 2805
@@ -25108,7 +25152,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Cushion Care Package",
+      "cn": "缓解腰痛的必需品",
       "de": "Rückenfreude-Kissenset",
       "en": "Cushion Care Package",
       "fr": "Set pour amélioration de confort d'assise",
@@ -25130,7 +25174,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Feline Recreational Device",
+      "cn": "魅惑猫咪的必需品",
       "de": "Katzenfreude-Spielzeug",
       "en": "Feline Recreational Device",
       "fr": "Dispositif pour bien-être félin",
@@ -25152,7 +25196,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Mesmerizing Miniature",
+      "cn": "魅力十足的立体模型",
       "de": "Faszinierendes Figürchen",
       "en": "Mesmerizing Miniature",
       "fr": "Réplique de monstre saisissante",
@@ -25174,7 +25218,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Energizing Eye-lixir",
+      "cn": "应对眼疲劳的必需品",
       "de": "Augenfreude-Elixir",
       "en": "Energizing Eye-lixir",
       "fr": "Remède oculaire miracle",
@@ -25196,7 +25240,7 @@
     "level": 545,
     "maxQuality": 5520,
     "name": {
-      "cn": "Researcher's Relaxation Kit",
+      "cn": "研究员的休息必需品",
       "de": "Forscherpausen-Set",
       "en": "Researcher's Relaxation Kit",
       "fr": "Kit de détente et de relaxation",
@@ -25213,12 +25257,56 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 60,
+    "level": 642,
+    "maxQuality": 15368,
+    "name": {
+      "cn": "Connoisseur's Trumpet",
+      "de": "Sammler-Trompete",
+      "en": "Connoisseur's Trumpet",
+      "fr": "Trompette de dilettante",
+      "ja": "好事家向けのトランペット"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35685,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7040,
+    "durability": 60,
+    "level": 643,
+    "maxQuality": 16308,
+    "name": {
+      "cn": "Connoisseur's Marching Horn",
+      "de": "Sammler-Horn",
+      "en": "Connoisseur's Marching Horn",
+      "fr": "Cor de dilettante",
+      "ja": "好事家向けのホルン"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35693,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 9240,
     "durability": 70,
     "level": 644,
     "maxQuality": 20066,
     "name": {
-      "cn": "Aetherial Arbor Hardware",
+      "cn": "魔法树建造用金属材料",
       "de": "Hagenhain-Metallteile",
       "en": "Aetherial Arbor Hardware",
       "fr": "Métal pour l'arbre magique insulaire",
@@ -25240,7 +25328,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Paladin's Smaragdine Arms",
+      "cn": "翠光骑士武具",
       "de": "Smaragdyn-Paladin-Rüstzeug",
       "en": "Paladin's Smaragdine Arms",
       "fr": "Attirail Viridis pour paladin",
@@ -25262,7 +25350,7 @@
     "level": 640,
     "maxQuality": 9000,
     "name": {
-      "cn": "Abyssal Barding",
+      "cn": "泽罗姆斯装甲",
       "de": "Zeromus-Rossharnisch",
       "en": "Abyssal Barding",
       "fr": "Barde de Zeromus",

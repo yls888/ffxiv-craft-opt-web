@@ -16990,7 +16990,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Celestial Screen",
+      "cn": "星空屏风",
       "de": "Sternenfunkeln-Wandschirm",
       "en": "Celestial Screen",
       "fr": "Cloison céleste",
@@ -19961,7 +19961,7 @@
     "maxQuality": 1400,
     "name": {
       "cn": "美容师传唤铃",
-      "de": "Kristallglocke",
+      "de": "Kosmetikerklingel",
       "en": "Crystal Bell",
       "fr": "Sonnette de l'esthéticien",
       "ja": "美容師の呼び鈴"
@@ -33314,7 +33314,7 @@
     "level": 517,
     "maxQuality": 4160,
     "name": {
-      "cn": "Cushion Care Package",
+      "cn": "缓解腰痛的必需品",
       "de": "Rückenfreude-Kissenset",
       "en": "Cushion Care Package",
       "fr": "Set pour amélioration de confort d'assise",
@@ -33336,7 +33336,7 @@
     "level": 520,
     "maxQuality": 4560,
     "name": {
-      "cn": "Feline Recreational Device",
+      "cn": "魅惑猫咪的必需品",
       "de": "Katzenfreude-Spielzeug",
       "en": "Feline Recreational Device",
       "fr": "Dispositif pour bien-être félin",
@@ -33358,7 +33358,7 @@
     "level": 525,
     "maxQuality": 4960,
     "name": {
-      "cn": "Mesmerizing Miniature",
+      "cn": "魅力十足的立体模型",
       "de": "Faszinierendes Figürchen",
       "en": "Mesmerizing Miniature",
       "fr": "Réplique de monstre saisissante",
@@ -33380,7 +33380,7 @@
     "level": 535,
     "maxQuality": 5360,
     "name": {
-      "cn": "Energizing Eye-lixir",
+      "cn": "应对眼疲劳的必需品",
       "de": "Augenfreude-Elixir",
       "en": "Energizing Eye-lixir",
       "fr": "Remède oculaire miracle",
@@ -33402,7 +33402,7 @@
     "level": 545,
     "maxQuality": 5520,
     "name": {
-      "cn": "Researcher's Relaxation Kit",
+      "cn": "研究员的休息必需品",
       "de": "Forscherpausen-Set",
       "en": "Researcher's Relaxation Kit",
       "fr": "Kit de détente et de relaxation",
@@ -33419,12 +33419,56 @@
   },
   {
     "baseLevel": 90,
+    "difficulty": 6600,
+    "durability": 60,
+    "level": 642,
+    "maxQuality": 15368,
+    "name": {
+      "cn": "Connoisseur's Rousing Chronometer",
+      "de": "Sammler-Wecker",
+      "en": "Connoisseur's Rousing Chronometer",
+      "fr": "Réveil de dilettante",
+      "ja": "好事家向けの目覚まし時計"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35684,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 7040,
+    "durability": 60,
+    "level": 643,
+    "maxQuality": 16308,
+    "name": {
+      "cn": "Connoisseur's Retainer Bell",
+      "de": "Sammler-Krämerklingel",
+      "en": "Connoisseur's Retainer Bell",
+      "fr": "Sonnette de dilettante",
+      "ja": "好事家向けのリテイナーベル"
+    },
+    "progressDivider": 180,
+    "progressModifier": 100,
+    "qualityDivider": 180,
+    "qualityModifier": 100,
+    "recipeId": 35692,
+    "stars": 4,
+    "suggestedControl": 3280,
+    "suggestedCraftsmanship": 3700
+  },
+  {
+    "baseLevel": 90,
     "difficulty": 9240,
     "durability": 70,
     "level": 644,
     "maxQuality": 20066,
     "name": {
-      "cn": "Aetherial Arbor Hardware",
+      "cn": "魔法树建造用金属材料",
       "de": "Hagenhain-Metallteile",
       "en": "Aetherial Arbor Hardware",
       "fr": "Métal pour l'arbre magique insulaire",
@@ -33446,7 +33490,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Knuckles",
+      "cn": "翠光指虎",
       "de": "Smaragdyn-Schlagringe",
       "en": "Smaragdine Knuckles",
       "fr": "Poings Viridis",
@@ -33468,7 +33512,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Battleaxe",
+      "cn": "翠光战斧",
       "de": "Smaragdyn-Kriegsaxt",
       "en": "Smaragdine Battleaxe",
       "fr": "Hache de combat Viridis",
@@ -33490,7 +33534,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Partisan",
+      "cn": "翠光游击枪",
       "de": "Smaragdyn-Partisane",
       "en": "Smaragdine Partisan",
       "fr": "Pertuisane Viridis",
@@ -33512,7 +33556,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Longbow",
+      "cn": "翠光长弓",
       "de": "Smaragdyn-Langbogen",
       "en": "Smaragdine Longbow",
       "fr": "Arc long Viridis",
@@ -33534,7 +33578,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Cleavers",
+      "cn": "翠光屠刀",
       "de": "Smaragdyn-Spalter",
       "en": "Smaragdine Cleavers",
       "fr": "Couperets Viridis",
@@ -33556,7 +33600,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Greatsword",
+      "cn": "翠光巨剑",
       "de": "Smaragdyn-Großschwert",
       "en": "Smaragdine Greatsword",
       "fr": "Grande épée Viridis",
@@ -33578,7 +33622,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Pistol",
+      "cn": "翠光手枪",
       "de": "Smaragdyn-Pistole",
       "en": "Smaragdine Pistol",
       "fr": "Pistolet Viridis",
@@ -33600,7 +33644,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Blade",
+      "cn": "翠光武士刀",
       "de": "Smaragdyn-Klinge",
       "en": "Smaragdine Blade",
       "fr": "Lame Viridis",
@@ -33622,7 +33666,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Sawback",
+      "cn": "翠光锯刃",
       "de": "Smaragdyn-Manasäge",
       "en": "Smaragdine Sawback",
       "fr": "Couteau de combat Viridis",
@@ -33644,7 +33688,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Smaragdine Chakrams",
+      "cn": "翠光圆月轮",
       "de": "Smaragdyn-Chakrams",
       "en": "Smaragdine Chakrams",
       "fr": "Chakrams Viridis",
@@ -33666,7 +33710,7 @@
     "level": 450,
     "maxQuality": 7900,
     "name": {
-      "cn": "Paladin's Smaragdine Arms",
+      "cn": "翠光骑士武具",
       "de": "Smaragdyn-Paladin-Rüstzeug",
       "en": "Paladin's Smaragdine Arms",
       "fr": "Attirail Viridis pour paladin",
@@ -33688,7 +33732,7 @@
     "level": 610,
     "maxQuality": 8200,
     "name": {
-      "cn": "Blighted Earth Sword Stand",
+      "cn": "斯卡米留尼之剑展示台",
       "de": "Schwertständer von Scarmiglione",
       "en": "Blighted Earth Sword Stand",
       "fr": "Présentoir des rocs",
