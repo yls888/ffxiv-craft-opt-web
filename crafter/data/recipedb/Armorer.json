@@ -11446,7 +11446,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Imitation Magitek Repair Station (Wall Unit)",
+      "cn": "仿制魔导维修站墙",
       "de": "Magitek-Reparaturstation-Nachbildung (Wand)",
       "en": "Imitation Magitek Repair Station (Wall Unit)",
       "fr": "Imitation de poste de réparation magitek",
@@ -11468,7 +11468,7 @@
     "level": 560,
     "maxQuality": 7200,
     "name": {
-      "cn": "Imitation Magitek Repair Station (Floor Unit)",
+      "cn": "仿制魔导维修站地台",
       "de": "Magitek-Reparaturstation-Nachbildung (Boden)",
       "en": "Imitation Magitek Repair Station (Floor Unit)",
       "fr": "Imitation de station de stockage magitek",
@@ -25262,7 +25262,7 @@
     "level": 642,
     "maxQuality": 15368,
     "name": {
-      "cn": "Connoisseur's Trumpet",
+      "cn": "面向收藏家的小号",
       "de": "Sammler-Trompete",
       "en": "Connoisseur's Trumpet",
       "fr": "Trompette de dilettante",
@@ -25284,7 +25284,7 @@
     "level": 643,
     "maxQuality": 16308,
     "name": {
-      "cn": "Connoisseur's Marching Horn",
+      "cn": "面向收藏家的号角",
       "de": "Sammler-Horn",
       "en": "Connoisseur's Marching Horn",
       "fr": "Cor de dilettante",
