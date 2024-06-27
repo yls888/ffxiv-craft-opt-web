@@ -255,7 +255,7 @@
                 "Weaver": 100232
             }
         },
-        focusedSynthesis: {
+        /*focusedSynthesis: {
             skillID: {
                 "Alchemist": 100241,
                 "Armorer": 100237,
@@ -267,7 +267,7 @@
                 "Weaver": 100240
             }
         },
-        /*focusedTouch: {
+        focusedTouch: {
             skillID: {
                 "Alchemist": 100249,
                 "Armorer": 100245,
@@ -621,7 +621,7 @@
             "carefulSynthesis",
             "carefulSynthesis2",
             "rapidSynthesis2",
-            "focusedSynthesis",
+            //"focusedSynthesis",
             "groundwork",
             "groundwork2",
             "intensiveSynthesis",

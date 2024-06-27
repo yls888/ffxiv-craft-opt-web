@@ -278,12 +278,12 @@ function ApplyModifiers(s, action, condition) {
 
     // Effects modfiying probability
     var successProbability = action.successProbability;
-    if (isActionEq(action, AllActions.focusedSynthesis)) {
-        if (s.action === AllActions.observe.shortName) {
-            successProbability = 1.0;
-        }
-    }
-    successProbability = Math.min(successProbability, 1);
+    //if (isActionEq(action, AllActions.focusedSynthesis)) {
+    //    if (s.action === AllActions.observe.shortName) {
+    //        successProbability = 1.0;
+    //    }
+    //}
+    //successProbability = Math.min(successProbability, 1);
 
     // Advancted Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {

@@ -62,9 +62,9 @@ var AllActions = {
     // Stormblood actions
     rapidSynthesis2: new Action('rapidSynthesis2', 'Rapid Synthesis', 10, 0, 0.5, 0.0, 5.0, 'immediate', 1, 'All', 63),
     prudentTouch: new Action('prudentTouch', 'Prudent Touch', 5, 25, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 66),
-    focusedSynthesis: new Action('focusedSynthesis', 'Focused Synthesis', 10, 5, 0.5, 0.0, 2.0, 'immediate', 1, 'All', 67),
+    //focusedSynthesis: new Action('focusedSynthesis', 'Focused Synthesis', 10, 5, 0.5, 0.0, 2.0, 'immediate', 1, 'All', 67),
     //focusedTouch: new Action('focusedTouch', 'Focused Touch', 10, 18, 0.5, 1.5, 0.0, 'immediate', 1, 'All', 68),
-    reflect: new Action('reflect', 'Reflect', 10, 6, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 69),
+    reflect: new Action('reflect', 'Reflect', 10, 6, 1.0, 3.0, 0.0, 'immediate', 1, 'All', 69),
 
     // ShadowBringers actions
     preparatoryTouch: new Action('preparatoryTouch', 'Preparatory Touch', 20, 40, 1.0, 2.0, 0.0, 'immediate', 1, 'All', 71),
