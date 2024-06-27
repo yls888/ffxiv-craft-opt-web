@@ -46,7 +46,7 @@
 
   TooltipsService.prototype.renderTooltip = function (action) {
     var T = this.$translate.instant;
-    var efficiency = (action.qualityIncreaseMultiplier > 0 ? action.qualityIncreaseMultiplier : action.progressIncreaseMultiplier) * 100;
+    var efficiency = (action.progressIncreaseMultiplier > 0 ? action.progressIncreaseMultiplier : action.qualityIncreaseMultiplier) * 100;
     var successRate = action.successProbability * 100;
     return "<!--actiontooltip-->"
       + "<div class='action-tooltip-title'>" + T(action.name) + " (" + T("LEVEL") + " " + action.level + ")</div>\n"
