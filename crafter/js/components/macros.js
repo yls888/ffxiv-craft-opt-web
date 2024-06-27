@@ -76,7 +76,7 @@
 
 
         if (!info) {
-          lines.push({text: '/echo Error: Unknown action ' + action, time: 0});
+          lines.push({ text: '/echo Error: Unknown action ' + action, time: 0 });
           continue
         }
 
@@ -85,7 +85,7 @@
         if (info.isCombo) {
           for (var comboNumber = 0; comboNumber < info.comboActions.length; comboNumber++) {
             infoList.push(_actionsByName[info.comboActions[comboNumber]]);
-          } 
+          }
         } else {
           infoList.push(info);
         }
@@ -94,14 +94,14 @@
           var infoFromList = infoList[j];
           var actionFromList = infoFromList.shortName;
           var actionName = $translate.instant(infoFromList.name);
-		  
+
           if (options.takeOutDoubleQuotationMarks) {
-			var line = '/ac ' + actionName + ' ';
-		  }
-		  else {									 
-			var line = '/ac "' + actionName + '" ';
-		  }
-		  
+            var line = '/ac ' + actionName + ' ';
+          }
+          else {
+            var line = '/ac "' + actionName + '" ';
+          }
+
           var time;
           if (buffs[actionFromList]) {
             line += buffWaitString;
@@ -111,7 +111,7 @@
             line += waitString;
             time = options.waitTime
           }
-          lines.push({text: line, time: time});
+          lines.push({ text: line, time: time });
         }
       }
 
@@ -128,7 +128,7 @@
 
       if (options.includeMacroLock) {
         macroString += '/macrolock\n';
-          macroLineCount++;
+        macroLineCount++;
       }
 
       for (var j = 0; j < lines.length; j++) {
@@ -140,7 +140,7 @@
         if (macroLineCount === MAX_LINES - 1) {
           if (lines.length - (j + 1) > 1) {
             macroString += '/echo 宏 #' + macroIndex + ' 已完成！' + soundEffect(options.stepSoundEffect, options.stepSoundEnabled) + '\n';
-            macroList.push({text: macroString, time: macroTime});
+            macroList.push({ text: macroString, time: macroTime });
 
             macroString = '';
             macroLineCount = 0;
@@ -159,7 +159,7 @@
         if (macroLineCount < MAX_LINES) {
           macroString += '/echo 宏 #' + macroIndex + ' 已完成！' + soundEffect(options.finishSoundEffect, options.stepSoundEnabled) + '\n';
         }
-        macroList.push({text: macroString, time: macroTime});
+        macroList.push({ text: macroString, time: macroTime });
       }
 
       return macroList;

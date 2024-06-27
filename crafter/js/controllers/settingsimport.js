@@ -17,8 +17,8 @@
     function generateFile() {
       var zip = new JSZip();
       zip.file("settings.json", generateExportText());
-      zip.generateAsync({type:"blob"})
-        .then(function(content) {
+      zip.generateAsync({ type: "blob" })
+        .then(function (content) {
           // see FileSaver.js
           saveAs(content, "settings.zip");
         });

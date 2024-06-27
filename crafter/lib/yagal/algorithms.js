@@ -1,4 +1,4 @@
-var yagal_algorithms = (function() {
+var yagal_algorithms = (function () {
   function isFitnessInvalid(ind) {
     return !ind.fitness.valid();
   }

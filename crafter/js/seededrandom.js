@@ -5,7 +5,7 @@
 
   Math.seed = Date.now();
   Math._originalRandom = Math.random;
-  Math.random = function(max, min) {
+  Math.random = function (max, min) {
     max = max || 1;
     min = min || 0;
 

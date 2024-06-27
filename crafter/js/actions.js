@@ -23,7 +23,7 @@ function Action(shortName, name, durabilityCost, cpCost, successProbability, qua
     this.isCombo = isCombo;
     this.comboActions = comboActions;
 
-    this.noCountDowns = ['finalAppraisal', 'heartAndSoul'].includes(shortName);
+    this.noCountDowns = ['finalAppraisal', 'heartAndSoul', 'quickInnovation'].includes(shortName);
 }
 
 // Actions Table
@@ -63,7 +63,7 @@ var AllActions = {
     rapidSynthesis2: new Action('rapidSynthesis2', 'Rapid Synthesis', 10, 0, 0.5, 0.0, 5.0, 'immediate', 1, 'All', 63),
     prudentTouch: new Action('prudentTouch', 'Prudent Touch', 5, 25, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 66),
     focusedSynthesis: new Action('focusedSynthesis', 'Focused Synthesis', 10, 5, 0.5, 0.0, 2.0, 'immediate', 1, 'All', 67),
-    focusedTouch: new Action('focusedTouch', 'Focused Touch', 10, 18, 0.5, 1.5, 0.0, 'immediate', 1, 'All', 68),
+    //focusedTouch: new Action('focusedTouch', 'Focused Touch', 10, 18, 0.5, 1.5, 0.0, 'immediate', 1, 'All', 68),
     reflect: new Action('reflect', 'Reflect', 10, 6, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 69),
 
     // ShadowBringers actions
@@ -80,6 +80,14 @@ var AllActions = {
     heartAndSoul: new Action('heartAndSoul', 'Heart and Soul', 0, 0, 1.0, 0.0, 0.0, 'countup', 2, 'All', 86),
     prudentSynthesis: new Action('prudentSynthesis', 'Prudent Synthesis', 5, 18, 1.0, 0.0, 1.8, 'immediate', 1, 'All', 88),
     trainedFinesse: new Action('trainedFinesse', 'Trained Finesse', 0, 32, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 90),
+
+    //DawnTrail actions
+    refinedTouch: new Action('refinedTouch', 'Refined Touch', 10, 24, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 92),
+    delicateSynthesis2: new Action('delicateSynthesis2', 'Delicate Synthesis', 10, 32, 1.0, 1.0, 1.5, 'immediate', 1, 'All', 94),
+    daringTouch: new Action('daringTouch', 'Daring Touch', 10, 0, 0.6, 1.5, 0.0, 'immediate', 1, 'All', 96),
+    quickInnovation: new Action('quickInnovation', 'Quick Innovation', 0, 0, 1.0, 0.0, 0.0, 'countdown', 1, 'All', 96),
+    immaculateMend: new Action('immaculateMend', 'Immaculate Mend', 0, 112, 1.0, 0.0, 0.0, 'immediate', 1, 'All', 98),
+    trainedPerfection: new Action('trainedPerfection', 'Trained Perfection', 0, 0, 1.0, 0.0, 0.0, 'countup', 1, 'All', 100),
 
     // Ranged edit: special combo'd actions that are handled differently
     // Combo Actions. Making new combo actions need an image, extraActionInfo, and some code in getComboAction() in ffxivcraftmodel.js

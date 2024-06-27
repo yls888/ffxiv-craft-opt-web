@@ -26,7 +26,7 @@
         console.error('unexpected message from simulation worker: %O', e.data);
         if (e.data && e.data.id) {
           self.$timeout(function () {
-            self.callbacks[e.data.id].error({log: '', error: 'unexpected message from simulation worker: ' + e.data});
+            self.callbacks[e.data.id].error({ log: '', error: 'unexpected message from simulation worker: ' + e.data });
           });
         }
       }
@@ -40,16 +40,16 @@
 
   SimulatorService.$inject = ['$timeout'];
 
-  SimulatorService.prototype.runMonteCarloSim = function(settings, success, error) {
+  SimulatorService.prototype.runMonteCarloSim = function (settings, success, error) {
     if (settings.sequence.length <= 0) {
-      error({log: '', error: 'empty sequence'});
+      error({ log: '', error: 'empty sequence' });
       return;
     }
     if (settings.recipe.startQuality === undefined) {
       settings.recipe = angular.copy(settings.recipe);
       settings.recipe.startQuality = 0;
     }
-	if (settings.recipe.safetyMargin === undefined) {
+    if (settings.recipe.safetyMargin === undefined) {
       settings.recipe = angular.copy(settings.recipe);
       settings.recipe.safetyMargin = 0;
     }
@@ -70,14 +70,14 @@
 
   SimulatorService.prototype.runProbabilisticSim = function (settings, success, error) {
     if (settings.sequence.length <= 0) {
-      error({log: '', error: 'empty sequence'});
+      error({ log: '', error: 'empty sequence' });
       return;
     }
     if (settings.recipe.startQuality === undefined) {
       settings.recipe = angular.copy(settings.recipe);
       settings.recipe.startQuality = 0;
     }
-	if (settings.recipe.safetyMargin === undefined) {
+    if (settings.recipe.safetyMargin === undefined) {
       settings.recipe = angular.copy(settings.recipe);
       settings.recipe.safetyMargin = 0;
     }

@@ -1,4 +1,4 @@
-var yagal_tools = (function() {
+var yagal_tools = (function () {
   function _newContainerWithArgs(container, args) {
     var instance = Object.create(container.prototype);
     var result = container.apply(instance, args);
@@ -28,14 +28,14 @@ var yagal_tools = (function() {
     }
     return r;
   }
-  
+
   function randInt(maxExcl) {
     return Math.floor(Math.random() * maxExcl);
   }
-  
+
   function spliceArray(array, index, howMany, replacement) {
     var args = [index, howMany].concat(replacement);
-    Array.prototype.splice.apply(array, args);    
+    Array.prototype.splice.apply(array, args);
   }
 
   //function setStart()
@@ -73,7 +73,7 @@ var yagal_tools = (function() {
     sanityCheck(ind2);
     return [ind1, ind2];
   }
-  
+
   function cxRandomSubSeq(maxSubSeqLength, ind1, ind2) {
     var seqLength1 = Math.min(ind1.length, randInt(maxSubSeqLength + 1));
     var seqLength2 = Math.min(ind2.length, randInt(maxSubSeqLength + 1));
@@ -185,7 +185,7 @@ var yagal_tools = (function() {
     this.entries = [];
   }
 
-  HallOfFame.prototype.update = function(pop) {
+  HallOfFame.prototype.update = function (pop) {
     this.entries = this.entries.concat(pop);
     this.entries.sort(indComp);
     this.entries.length = this.maxSize;

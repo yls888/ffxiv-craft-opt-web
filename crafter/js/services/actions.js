@@ -267,7 +267,7 @@
                 "Weaver": 100240
             }
         },
-        focusedTouch: {
+        /*focusedTouch: {
             skillID: {
                 "Alchemist": 100249,
                 "Armorer": 100245,
@@ -278,7 +278,7 @@
                 "Leatherworker": 100247,
                 "Weaver": 100248
             }
-        },
+        },*/
         reflect: {
             common: true,
             skillID: {
@@ -500,6 +500,61 @@
                 "Leatherworker": 100053,
                 "Weaver": 100070
             }
+        },
+
+        //DawnTrail
+        refinedTouch: {
+            skillID: {
+                "Alchemist": 0,
+                "Armorer": 0,
+                "Blacksmith": 0,
+                "Carpenter": 0,
+                "Culinarian": 0,
+                "Goldsmith": 0,
+                "Leatherworker": 0,
+                "Weaver": 0
+            }
+        },
+
+        delicateSynthesis2: {
+            skillID: {
+                "Alchemist": 0,
+                "Armorer": 0,
+                "Blacksmith": 0,
+                "Carpenter": 0,
+                "Culinarian": 0,
+                "Goldsmith": 0,
+                "Leatherworker": 0,
+                "Weaver": 0
+            }
+        },
+
+        daringTouch: {
+            common: true,
+            skillID: {
+                "Culinarian": 100136
+            }
+        },
+
+        quickInnovation: {
+            common: true,
+            skillID: {
+                "Culinarian": 100136
+            }
+        },
+
+        immaculateMend: {
+            common: true,
+            skillID: {
+                "Culinarian": 100136
+            }
+        },
+
+        trainedPerfection: {
+            common: true,
+            skillID: {
+                "Culinarian": 100136
+            }
         }
     };
 
@@ -550,77 +605,83 @@
     }
 
     var actionGroups = [{
-            name: "First Turn Only",
-            actions: [
-                "muscleMemory",
-                "reflect",
-                "trainedEye"
-            ]
-        }, {
-            name: "Synthesis",
-            actions: [
-                "basicSynth",
-                "rapidSynthesis",
-                "basicSynth2",
-                // "brandOfTheElements",
-                "carefulSynthesis",
-                "carefulSynthesis2",
-                "rapidSynthesis2",
-                "focusedSynthesis",
-                "groundwork",
-                "groundwork2",
-                "intensiveSynthesis",
-                "prudentSynthesis",
-                "delicateSynthesis"
-            ]
-        },
-		// {
-            // name: "Combo'd Actions",
-            // actions: [
-                // "focusedSynthesisCombo",
-                // "focusedTouchCombo",
-                // "standardTouchCombo",
-                // "advancedTouchCombo"
-            // ]
-        // },
-		{
-            name: "Quality",
-            actions: [
-                "basicTouch",
-                "hastyTouch",
-                "standardTouch",
-                "byregotsBlessing",
-                "preciseTouch",
-                "prudentTouch",
-                "focusedTouch",
-                "preparatoryTouch",
-                "advancedTouch",
-                "trainedFinesse"
-            ]
-        }, {
-            name: "Durability",
-            actions: [
-                "mastersMend",
-                "wasteNot",
-                "wasteNot2",
-                "manipulation"
-            ]
-        }, {
-            name: "Buffs",
-            actions: [
-                "veneration",
-                "greatStrides",
-                "innovation"
-            ]
-        }, {
-            name: "Other",
-            actions: [
-                "observe",
-                "tricksOfTheTrade",
-                "finalAppraisal",
-                "heartAndSoul"
-            ]
-        }
+        name: "First Turn Only",
+        actions: [
+            "muscleMemory",
+            "reflect",
+            "trainedEye"
+        ]
+    }, {
+        name: "Synthesis",
+        actions: [
+            "basicSynth",
+            "rapidSynthesis",
+            "basicSynth2",
+            // "brandOfTheElements",
+            "carefulSynthesis",
+            "carefulSynthesis2",
+            "rapidSynthesis2",
+            "focusedSynthesis",
+            "groundwork",
+            "groundwork2",
+            "intensiveSynthesis",
+            "prudentSynthesis",
+            "delicateSynthesis",
+            "delicateSynthesis2"
+        ]
+    },
+    // {
+    // name: "Combo'd Actions",
+    // actions: [
+    // "focusedSynthesisCombo",
+    // "focusedTouchCombo",
+    // "standardTouchCombo",
+    // "advancedTouchCombo"
+    // ]
+    // },
+    {
+        name: "Quality",
+        actions: [
+            "basicTouch",
+            "hastyTouch",
+            "standardTouch",
+            "byregotsBlessing",
+            "preciseTouch",
+            "prudentTouch",
+            //"focusedTouch",
+            "preparatoryTouch",
+            "advancedTouch",
+            "refinedTouch",
+            "daringTouch",
+            "trainedFinesse"
+        ]
+    }, {
+        name: "Durability",
+        actions: [
+            "mastersMend",
+            "wasteNot",
+            "wasteNot2",
+            "manipulation",
+            "immaculateMend"
+        ]
+    }, {
+        name: "Buffs",
+        actions: [
+            "veneration",
+            "greatStrides",
+            "innovation",
+            "quickInnovation",
+            "trainedPerfection"
+        ]
+    }, {
+        name: "Other",
+        actions: [
+            "observe",
+            "tricksOfTheTrade",
+            "finalAppraisal",
+            "heartAndSoul"
+        ]
+    }
     ];
 
     function getActionImagePath(action, cls) {
@@ -652,11 +713,11 @@
     }
 
     angular.module('ffxivCraftOptWeb.services.actions', []).
-    value('_allClasses', allClasses).
-    value('_allActions', allActions).
-    value('_actionsByName', actionsByName).
-    value('_actionGroups', actionGroups).
-    value('_getActionImagePath', getActionImagePath).
-    value('_iActionClassSpecific', iActionClassSpecific)
+        value('_allClasses', allClasses).
+        value('_allActions', allActions).
+        value('_actionsByName', actionsByName).
+        value('_actionGroups', actionGroups).
+        value('_getActionImagePath', getActionImagePath).
+        value('_iActionClassSpecific', iActionClassSpecific)
 
 })();

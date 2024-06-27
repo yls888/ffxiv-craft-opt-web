@@ -28,7 +28,7 @@ legend small {
   font-weight: bold;
 }
 
-legend small > .light {
+legend small>.light {
   font-weight: normal;
 }
 
@@ -256,8 +256,7 @@ div[content*="actiontooltip"] div.tooltip-inner {
   margin-bottom: 5px;
 }
 
-.action-tooltip-fields {
-}
+.action-tooltip-fields {}
 
 .action-tooltip-field-name {
   font-size: small;
@@ -314,14 +313,14 @@ div[content*="actiontooltip"] div.tooltip-arrow {
   *border-right-width: 2px;
   *border-bottom-width: 2px;
   -webkit-border-radius: 6px;
-     -moz-border-radius: 6px;
-          border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
   -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-     -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
-          box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
   -webkit-background-clip: padding-box;
-     -moz-background-clip: padding;
-          background-clip: padding-box;
+  -moz-background-clip: padding;
+  background-clip: padding-box;
   text-align: left;
 }
 
@@ -340,7 +339,7 @@ div[content*="actiontooltip"] div.tooltip-arrow {
   border-bottom: 1px solid #ffffff;
 }
 
-.my-dropdown-menu li > a {
+.my-dropdown-menu li>a {
   display: inline-block;
   padding: 3px 11px;
   clear: both;
@@ -376,14 +375,14 @@ div[content*="actiontooltip"] div.tooltip-arrow {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc', endColorstr='#ff0077b3', GradientType=0);
 }
 
-.my-dropdown-menu li > a:hover,
-.my-dropdown-menu li > a:focus {
+.my-dropdown-menu li>a:hover,
+.my-dropdown-menu li>a:focus {
   color: #ffffff;
 }
 
-.my-dropdown-menu li.active > a,
-.my-dropdown-menu li.active > a:hover,
-.my-dropdown-menu li.active > a:focus {
+.my-dropdown-menu li.active>a,
+.my-dropdown-menu li.active>a:hover,
+.my-dropdown-menu li.active>a:focus {
   color: #ffffff;
   outline: 0;
 }
@@ -403,7 +402,7 @@ div[content*="actiontooltip"] div.tooltip-arrow {
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
 }
 
-.open > .my-dropdown-menu {
+.open>.my-dropdown-menu {
   display: block;
 }
 
@@ -423,13 +422,13 @@ div[content*="actiontooltip"] div.tooltip-arrow {
 
 @media (min-width: 600px) {
   .my-dropdown {
-	  margin-left: 35px;
+    margin-left: 35px;
   }
 }
 
 @media (min-width: 800px) {
   .my-dropdown {
-	  margin-left: 0;
+    margin-left: 0;
   }
 }
 
@@ -573,7 +572,7 @@ div[content*="actiontooltip"] div.tooltip-arrow {
   top: -1px;
   left: -1px;
   border: solid 1px #303030;
-  box-shadow: inset 0 0 1px rgba(255,255,255,.4), inset 0 1px 0 rgba(255,255,255,.4), 0 1px 2px rgba(0,0,0,.3);
+  box-shadow: inset 0 0 1px rgba(255, 255, 255, .4), inset 0 1px 0 rgba(255, 255, 255, .4), 0 1px 2px rgba(0, 0, 0, .3);
   border-radius: 5px;
 }
 
@@ -612,9 +611,9 @@ div[content*="actiontooltip"] div.tooltip-arrow {
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
-  background: -moz-linear-gradient(top, rgba(255,255,255,0.6) 0%, rgba(255,255,255,.15) 100%);
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.6)), color-stop(100%,rgba(255,255,255,.15)));
-  background: linear-gradient(top, rgba(255,255,255,0.6) 0%,rgba(255,255,255,.15) 100%);
+  background: -moz-linear-gradient(top, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, .15) 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, rgba(255, 255, 255, 0.6)), color-stop(100%, rgba(255, 255, 255, .15)));
+  background: linear-gradient(top, rgba(255, 255, 255, 0.6) 0%, rgba(255, 255, 255, .15) 100%);
 }
 
 .glossy.image-wrap.faded:before {
@@ -638,7 +637,7 @@ div[content*="actiontooltip"] div.tooltip-arrow {
 
 
 
-legend + .control-group {
+legend+.control-group {
   margin-top: 20px;
   -webkit-margin-top-collapse: separate;
 }
@@ -728,7 +727,7 @@ legend + .control-group {
 
 .sequence-editor .empty-action.lvl-target {
   border-radius: 4px;
-  box-shadow: rgba(0,0,0,0.4) 1px 1px 6px inset;
+  box-shadow: rgba(0, 0, 0, 0.4) 1px 1px 6px inset;
   margin-top: -1px;
   margin-bottom: -1px;
 }
@@ -739,31 +738,41 @@ legend + .control-group {
 
 /* Modals */
 
-@media (max-height: 533px) { /* Samsung Galaxy S portrait */
+@media (max-height: 533px) {
+
+  /* Samsung Galaxy S portrait */
   .modal-body {
     max-height: 353px;
   }
 }
 
-@media (max-height: 480px) { /* iPhone 4 portrait */
+@media (max-height: 480px) {
+
+  /* iPhone 4 portrait */
   .modal-body {
     max-height: 300px;
   }
 }
 
-@media (max-height: 414px) { /* iPhone 6+ landscape */
+@media (max-height: 414px) {
+
+  /* iPhone 6+ landscape */
   .modal-body {
     max-height: 234px;
   }
 }
 
-@media (max-height: 375px) { /* iPhone 6 landscape */
+@media (max-height: 375px) {
+
+  /* iPhone 6 landscape */
   .modal-body {
     max-height: 195px;
   }
 }
 
-@media (max-height: 320px) { /* iPhone 4 / Samsung Galaxy S landscape */
+@media (max-height: 320px) {
+
+  /* iPhone 4 / Samsung Galaxy S landscape */
   .modal-body {
     max-height: 140px;
   }
@@ -819,12 +828,13 @@ legend + .control-group {
   border-right-color: transparent;
 }
 
-.sidebar + div {
+.sidebar+div {
   overflow: hidden;
   background-color: #eeeeee;
 }
 
-.settings-buttons .btn, .control-group .btn {
+.settings-buttons .btn,
+.control-group .btn {
   margin-bottom: 5px;
 }
 
@@ -921,13 +931,13 @@ legend + .control-group {
 /* Dropzone */
 
 div[my-dropzone] {
-    border: 2px dashed #bbb;
-    border-radius: 5px;
-    padding: 25px;
-    text-align: center;
-    font: 20pt bold;
-    color: #bbb;
-    margin-bottom: 20px;
+  border: 2px dashed #bbb;
+  border-radius: 5px;
+  padding: 25px;
+  text-align: center;
+  font: 20pt bold;
+  color: #bbb;
+  margin-bottom: 20px;
 }
 
 div[my-dropzone]:-moz-drag-over {
@@ -943,15 +953,19 @@ label {
 }
 
 label.disabled {
-    color: #ccc;
+  color: #ccc;
 }
 
 .macro-import-modal textarea.macro-text {
-    width:100%;
-    box-sizing: border-box;         /* For IE and modern versions of Chrome */
-    -moz-box-sizing: border-box;    /* For Firefox                          */
-    -webkit-box-sizing: border-box; /* For Safari                           */
+  width: 100%;
+  box-sizing: border-box;
+  /* For IE and modern versions of Chrome */
+  -moz-box-sizing: border-box;
+  /* For Firefox                          */
+  -webkit-box-sizing: border-box;
+  /* For Safari                           */
 }
+
 @media screen and (max-width: 767px) {
   .helps-bottom {
     display: none !important;
@@ -964,10 +978,12 @@ label.disabled {
   }
 }
 
-.helps-top, .helps-bottom {
-  text-align:right;
+.helps-top,
+.helps-bottom {
+  text-align: right;
 }
 
-.helps-top img, .helps-bottom img{
+.helps-top img,
+.helps-bottom img {
   max-height: 75px;
 }

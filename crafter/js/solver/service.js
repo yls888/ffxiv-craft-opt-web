@@ -38,7 +38,7 @@
       else {
         console.error('unexpected message from solver worker: %O', e.data);
         self.$timeout(function () {
-          self.callbacks.error({log: '', error: 'unexpected message from solver worker: ' + e.data});
+          self.callbacks.error({ log: '', error: 'unexpected message from solver worker: ' + e.data });
         });
       }
     };
@@ -46,13 +46,13 @@
 
   SolverService.$inject = ['$timeout'];
 
-  SolverService.prototype.start = function(settings, progress, success, error) {
+  SolverService.prototype.start = function (settings, progress, success, error) {
     if (settings.recipe.startQuality === undefined) {
       settings.recipe = angular.copy(settings.recipe);
       settings.recipe.startQuality = 0;
     }
-	
-	if (settings.recipe.safetyMargin === undefined) {
+
+    if (settings.recipe.safetyMargin === undefined) {
       settings.recipe = angular.copy(settings.recipe);
       settings.recipe.safetyMargin = 0;
     }
@@ -63,14 +63,14 @@
       success: success,
       error: error
     };
-    this.worker.postMessage({start: settings});
+    this.worker.postMessage({ start: settings });
   };
 
-  SolverService.prototype.stop = function() {
+  SolverService.prototype.stop = function () {
     this.stopRequested = true;
   };
 
-  SolverService.prototype.resume = function() {
+  SolverService.prototype.resume = function () {
     if (this.worker) {
       this.stopRequested = false;
       this.worker.postMessage('resume');

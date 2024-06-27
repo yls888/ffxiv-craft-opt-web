@@ -1,6 +1,5 @@
 {
   "Locale_Mark": "_ko",
-  
   "Standard Synthesis": "중급 작업",
   "Great Strides": "장족의 발전",
   "Standard Touch": "중급 가공",
@@ -33,7 +32,6 @@
   "Intensive Synthesis": "집중 작업",
   "Trained Eye": "장인의 날랜손",
   "Innovation": "혁신",
-
   "Carpenter": "목수",
   "Blacksmith": "대장장이",
   "Armorer": "갑주제작사",
@@ -42,7 +40,6 @@
   "Weaver": "재봉사",
   "Alchemist": "연금술사",
   "Culinarian": "요리사",
-
   "First Turn Only": "첫 단계 전용",
   "Synthesis": "작업",
   "Synthesis + Quality": "작업 + 품질",
@@ -52,9 +49,7 @@
   "Buffs": "능력치 상승 효과",
   "Specialist": "전문 장인",
   "Other": "기타",
-
   "Loading...": "불러오는 중...",
-
   "SEARCH": "검색하기",
   "CANCEL": "나가기",
   "SAVE": "저장",
@@ -82,31 +77,26 @@
   "FOOD_NONE": "없음",
   "MEDICINE": "약품",
   "MEDICINE_NONE": "없음",
-
   "CP_COST": "CP",
   "DURABILITY_COST": "내구도",
   "SUCCESS_RATE": "성공률",
   "EFFICIENCY": "효율",
-
   "CRAFTER_ATTRIBUTES_ALL": "모든 기술 활성화",
   "CRAFTER_ATTRIBUTES_BY_LEVEL": "레벨에 맞춤",
   "CRAFTER_ATTRIBUTES_GUARANTEED": "확률 100% 기술만",
   "CRAFTER_ATTRIBUTES_NONE": "모두 비활성화",
-
   "STATS_CRAFTSMANSHIP": "작업 숙련도",
   "STATS_CONTROL": "가공 숙련도",
   "STATS_CP": "CP",
   "STATS_START_QUALITY": "초기 품질",
- "STATS_SAFETY_MARGIN": "HQ% Margin",
+  "STATS_SAFETY_MARGIN": "HQ% Margin",
   "STATS_SAFETY_MARGIN_TOOLTIPS": "The extra percentage of Quality that the solver tries to reach before looking for shorter solutions. For example, at a HQ margin of 10% on a 6000 Quality recipe, it will try to reach a Quality of 6600 and then prefer shorter solutions. Min 0%, max 50%. Recommended 0% for hard recipes.",
-
   "EDIT_SIMULATOR": "편집",
   "LOADING": "불러오는 중...",
   "SOLVE": "자동 탐색 실행",
   "MONTE_CARLO_SIM": "몬테카를로 결과",
-
-  "NAV_SIMULATOR" : "시뮬레이터",
-  "NAV_SOLVER" : "조합 자동 탐색",
+  "NAV_SIMULATOR": "시뮬레이터",
+  "NAV_SOLVER": "조합 자동 탐색",
   "NAV_CRAFTER_ATTRIBUTES": "제작자 능력치",
   "NAV_DEBUG": "디버그",
   "NAV_EXPERT": "전문가 모드",
@@ -118,31 +108,25 @@
   "LANGUAGE": "언어",
   "OPTIONS": "설정",
   "NO_SCRIPT": "이 사이트는 Javascript를 필요로 합니다.",
-
   "MACRO_CTRL": "클릭 후 Ctrl/Cmd-C 키를 눌러 복사하세요.",
   "MACRO_CROSS_CLASS": "보조 기술 장착 매크로를 생성",
   "MACRO_CROSS_ACTION_SETUP": "보조 기술 장착 매크로",
   "MACRO_INCLUDE_CLASS": "현재 직업의 기술도 보조 기술 매크로에 포함",
   "MACRO_INCLUDE_LOCK": "매크로 첫 줄에 매크로 잠금을 포함하기",
-
   "INITIAL_GUESS": "초기값",
   "WORKING_IN_PROGRESS": "조합 탐색 중...",
   "SOLVER_RESULT": "결과",
-  "NO_CHANGE":"변동 없음",
-
+  "NO_CHANGE": "변동 없음",
   "PROBABILISTIC_SIM": "기대값 시뮬레이션",
   "MACRO": "매크로",
   "EXECUTION_LOG": "실행 로그",
-
   "SOLVER_START": "실행",
   "SOLVER_STOP": "정지",
   "SOLVER_CONTINUE": "계속",
   "SOLVER_RESET": "초기화",
   "SOLVER_EDIT_SIMULATOR": "시뮬레이터에서 편집",
-
   "RECIPE_SEARCH": "검색하기...",
   "AVAILABLE_ACTIONS": "포함시킬 기술 목록",
-
   "OPTIONS_MONTE_CARLO_RUNS": "몬테카를로 횟수:",
   "MONTE_CARLO_RUNS_INFO": "몬테카를로 예상치 계산시 시도 횟수를 설정합니다. 숫자가 클수록 평균 기대값에 근접한 결과를 얻을 수 있습니다. 계산이 느려집니다.",
   "MACRO_MODE": "간편 모드",
@@ -180,8 +164,8 @@
   "BUFF_WAIT_TIME_INFO": "버프 실행 후 대기 시간 (초)",
   "STEP_SOUND_EFFECT": "단계별 효과음",
   "STEP_SOUND_INFO": "각 매크로 단계 종료시 재생할 효과음",
-  "STEP_SOUND_ENABLED" : "효과음 포함",
-  "STEP_SOUND_ENABLED_INFO" : "매크로에 효과음을 포함합니다.",
+  "STEP_SOUND_ENABLED": "효과음 포함",
+  "STEP_SOUND_ENABLED_INFO": "매크로에 효과음을 포함합니다.",
   "FINISH_SOUND_EFFECT": "종료 효과음",
   "FINISH_SOUND_INFO": "매크로 최종 종료시 재생할 효과음",
   "CROSS_CLASS_INFO": "보조 기술을 장착하는 매크로를 생성합니다.",
@@ -192,7 +176,6 @@
   "SPECIFY_SEED_INFO": "몬테카를로 계산에 사용되는 시드를 설정합니다.",
   "DEBUG": "디버그",
   "DEBUG_INFO": "추가 정보를 출력합니다.",
-
   "SETTINGS": "설정",
   "SETTINGS_EXPORT": "내보내기",
   "SETTINGS_DOWNLOAD": "다운로드",
@@ -200,7 +183,6 @@
   "SETTINGS_IMPORT": "가져오기",
   "SETTINGS_DROP_FILES": "여기에 파일 끌어오기",
   "SETTINGS_IMPORT_INFO": "여기에 settings.zip 파일을 놓으면 설정을 불러올 수 있습니다.",
-
   "ABOUT_TITLE": "이게 뭔가요?",
   "ABOUT_INTRO": "FFXIV Crafting Optimizer는 유전 알고리즘을 사용해 아이템 품질의 기대값을 최대화하는 기술 조합을 탐색합니다. 어디까지나 기대값을 최대화하는 것이므로 성공이 보장되지는 않습니다. 사용에 주의하세요!",
   "ABOUT_INFORMATION": "자료는 어떻게 구했나요?",
@@ -212,7 +194,6 @@
   "ABOUT_ANYTHING": "더 알아야 될 것이 있나요?",
   "ABOUT_RESEMBLANCE": "",
   "ABOUT_COINCIDENCE": " 사이트와의 유사점은 우연한 것이며 의도된 것이 아닙니다. 그래도 좋은 사이트이니 확인해 보세요.",
-
   "INSTRUCTIONS_TITLE": "시뮬레이터 사용 방법",
   "INSTRUCTIONS_STEP_1": "상단의 ",
   "SECTION": " 탭으로 갑니다.",
@@ -224,19 +205,19 @@
   "INSTRUCTIONS_STEP_7": "이제 ",
   "INSTRUCTIONS_STEP_8": "먼저 원하는 제작 아이템에 맞는 직업을 선택합니다.",
   "INSTRUCTIONS_STEP_9": "목록에서 제작 아이템을 선택합니다.",
-  "INSTRUCTIONS_STEP_10" : "목록에 원하는 제작 아이템이 없다면 요구치를 수동으로 입력해줄 수 있습니다. (이 기능은 삭제되었습니다)",
-  "INSTRUCTIONS_STEP_11" : "이제 오른쪽의 능력치 탭을 설정합니다.",
-  "INSTRUCTIONS_STEP_12" : "음식 효과를 알맞게 선택하세요.",
-  "INSTRUCTIONS_STEP_13" : "화면 아래의 ",
-  "INSTRUCTIONS_STEP_14" : "편집 버튼을 클릭해 제작 공정을 편집할 수 있습니다. 앞서 5에서 활성화시킨 기술들만 선택할 수 있습니다.",
-  "INSTRUCTIONS_STEP_15" : "제작 공정 바에 기술을 옮겨 넣습니다. 편집이 끝나면 ",
-  "INSTRUCTIONS_STEP_16" : "이제 이 버튼을 클릭하세요: ",
-  "INSTRUCTIONS_STEP_17" : "(선택) 시뮬레이션 설정을 편집하려면 화면 오른쪽 위의 ",
-  "INSTRUCTIONS_STEP_18" : "시뮬레이션이 완료되면 ",
-  "INSTRUCTIONS_STEP_19" : "시뮬레이션 결과에 아래의 정보들이 출력됩니다.",
-  "ABBREVIATIONS" : " 용어 설명:",
-  "DUR_ABBREVIATION" : "DUR - 남은 내구도",
-  "CP_ABBREVIATION" : "CP - 남은 CP",
+  "INSTRUCTIONS_STEP_10": "목록에 원하는 제작 아이템이 없다면 요구치를 수동으로 입력해줄 수 있습니다. (이 기능은 삭제되었습니다)",
+  "INSTRUCTIONS_STEP_11": "이제 오른쪽의 능력치 탭을 설정합니다.",
+  "INSTRUCTIONS_STEP_12": "음식 효과를 알맞게 선택하세요.",
+  "INSTRUCTIONS_STEP_13": "화면 아래의 ",
+  "INSTRUCTIONS_STEP_14": "편집 버튼을 클릭해 제작 공정을 편집할 수 있습니다. 앞서 5에서 활성화시킨 기술들만 선택할 수 있습니다.",
+  "INSTRUCTIONS_STEP_15": "제작 공정 바에 기술을 옮겨 넣습니다. 편집이 끝나면 ",
+  "INSTRUCTIONS_STEP_16": "이제 이 버튼을 클릭하세요: ",
+  "INSTRUCTIONS_STEP_17": "(선택) 시뮬레이션 설정을 편집하려면 화면 오른쪽 위의 ",
+  "INSTRUCTIONS_STEP_18": "시뮬레이션이 완료되면 ",
+  "INSTRUCTIONS_STEP_19": "시뮬레이션 결과에 아래의 정보들이 출력됩니다.",
+  "ABBREVIATIONS": " 용어 설명:",
+  "DUR_ABBREVIATION": "DUR - 남은 내구도",
+  "CP_ABBREVIATION": "CP - 남은 CP",
   "EQUA_ABBREVIATION": "(E)QUA - 품질의 기대값",
   "EPRG_ABBREVIATION": "(E)PRG - 작업량의 기대값",
   "WAC_ABBREVIATION": "WAC - 낭비 여부 (작업량 달성 이후 또는 내구도 소진 이후 사용된 기술)",
@@ -249,14 +230,11 @@
   "USING_SOLVER_STEP_3": "탐색 결과 중 제일 좋은 기술 조합이 출력됩니다.",
   "USING_SOLVER_STEP_4": "새로 얻은 기술 조합이 마음에 든다면, '시뮬레이터에서 편집' 버튼을 클릭해 조합을 시뮬레이터 탭으로 가져올 수 있습니다.",
   "USING_SOLVER_STEP_5": "'실행 로그' 탭에서 로그를 확인할 수 있습니다.",
-
   "MACRO_IMPORT": "매크로에서 불러오기",
   "MACRO_IMPORT_INFO": "아래 칸에 매크로를 붙여넣으세요.",
-
   "CHARACTER_IMPORT": "캐릭터 불러오기",
   "NAME": "캐릭터 이름",
   "CHARACTER_DATA": "캐릭터 데이터는 이 곳에서 제공되었습니다: ",
-
   "NEW_SYNTH_NAME": "매크로의 새 이름을 입력하세요:",
   "DELETE_SYNTH": "매크로를 삭제할까요? 매크로 이름: ",
   "CONFIRM_NOT_SAVE": "매크로를 저장하지 않았습니다. 저장하지 않고 진행할까요?",
@@ -270,6 +248,5 @@
   "ERROR_SYNTH_EMPTY": "오류: 코드에 내용이 없습니다.",
   "ERROR_SYNTH_INVALID": "오류: 코드가 형식에 맞지 않습니다.",
   "SYNTH_SEQUENCE_CODE": "코드:",
-
   "UNNAMED": "이름 없는 매크로"
 }

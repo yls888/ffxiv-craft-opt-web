@@ -4,10 +4,11 @@
       Lv.{{stats.level}} {{recipe.cls | translate}}
       <span ng-if="stats.specialist">&nbsp;<small>({{ 'Specialist' | translate }})</small></span>
     </div>
-    <hr/>
+    <hr />
     <table>
       <tr>
-        <td class="stats-label">{{ 'PROGRESS' | translate }}&nbsp;<span ng-if="baseValues">(100% {{ 'EFFICIENCY' | translate }} = {{baseValues.progress}})</span></td>
+        <td class="stats-label">{{ 'PROGRESS' | translate }}&nbsp;<span ng-if="baseValues">(100% {{ 'EFFICIENCY' |
+            translate }} = {{baseValues.progress}})</span></td>
       </tr>
       <tr>
         <td class="bar">
@@ -16,7 +17,8 @@
         <td class="bar-value">{{progress}} / {{recipe.difficulty}}</td>
       </tr>
       <tr>
-        <td class="stats-label">{{ 'QUALITY' | translate }} &nbsp;<span ng-if="baseValues">(100% {{ 'EFFICIENCY' | translate }} = {{baseValues.quality}})</span></td>
+        <td class="stats-label">{{ 'QUALITY' | translate }} &nbsp;<span ng-if="baseValues">(100% {{ 'EFFICIENCY' |
+            translate }} = {{baseValues.quality}})</span></td>
       </tr>
       <tr>
         <td class="bar">
@@ -34,11 +36,12 @@
         <td class="bar-value">{{cp}} / {{maxCp}}</td>
       </tr>
     </table>
-    <hr/>
+    <hr />
     <table>
       <tr class="narrow">
         <td>
-          <span class="stats-label">{{ 'DURABILITY' | translate }}</span> {{durability}}&nbsp;/&nbsp;{{recipe.durability}}&emsp;
+          <span class="stats-label">{{ 'DURABILITY' | translate }}</span>
+          {{durability}}&nbsp;/&nbsp;{{recipe.durability}}&emsp;
         </td>
         <td>
           <span class="stats-label">{{ 'HQ' | translate }}</span>&nbsp;{{hqPercent}}%&emsp;
@@ -55,21 +58,21 @@
       {{ 'ATTRIBUTES' | translate}}
       <a ui-sref="crafter-attributes"><small><i class="fa fa-edit"></i></small></a>
     </div>
-    <hr/>
+    <hr />
     <form name="bonusStatsForm">
       <table>
         <tr>
           <td>
-            <span class="stats-label">{{ 'FOOD' | translate }}</span><br/>
+            <span class="stats-label">{{ 'FOOD' | translate }}</span><br />
             <select class="input-fill" ng-model="bonusStats.food"
-                    ng-options="buffName(buff) for buff in buffList.food track by buff.id">
+              ng-options="buffName(buff) for buff in buffList.food track by buff.id">
               <option value="" selected="selected">{{ 'FOOD_NONE' | translate }}</option>
             </select>
           </td>
           <td>
-            <span class="stats-label">{{ 'MEDICINE' | translate }}</span><br/>
+            <span class="stats-label">{{ 'MEDICINE' | translate }}</span><br />
             <select class="input-fill" ng-model="bonusStats.medicine"
-                    ng-options="buffName(buff) for buff in buffList.medicine track by buff.id">
+              ng-options="buffName(buff) for buff in buffList.medicine track by buff.id">
               <option value="" selected="selected">{{ 'MEDICINE_NONE' | translate }}</option>
             </select>
           </td>
@@ -82,8 +85,7 @@
           <td class="col3 value">+&nbsp;{{buffStats.craftsmanship}}</td>
           <td class="col4">
             +&nbsp;
-            <input class="input-mini" type="number" required force-numeric
-                   ng-model="bonusStats.craftsmanship"/>
+            <input class="input-mini" type="number" required force-numeric ng-model="bonusStats.craftsmanship" />
           </td>
           <td class="col5 value">=&nbsp;{{stats.craftsmanship}}</td>
           <td class="col6">&nbsp;</td>
@@ -94,7 +96,7 @@
           <td class="col3 value">+&nbsp;{{buffStats.control}}</td>
           <td class="col4">
             +&nbsp;
-            <input class="input-mini" type="number" required force-numeric ng-model="bonusStats.control"/>
+            <input class="input-mini" type="number" required force-numeric ng-model="bonusStats.control" />
           </td>
           <td class="col5 value">=&nbsp;{{stats.control}}</td>
           <td class="col6">&nbsp;</td>
@@ -105,7 +107,7 @@
           <td class="col3 value">+&nbsp;{{buffStats.cp}}</td>
           <td class="col4">
             +&nbsp;
-            <input class="input-mini" type="number" required force-numeric ng-model="bonusStats.cp"/>
+            <input class="input-mini" type="number" required force-numeric ng-model="bonusStats.cp" />
           </td>
           <td class="col5 value">=&nbsp;{{stats.cp}}</td>
           <td class="col6">&nbsp;</td>
@@ -116,8 +118,7 @@
           <td class="col3 value">+&nbsp;0</td>
           <td class="col4">
             +&nbsp;
-            <input class="input-mini" type="number" required force-numeric
-                   ng-model="bonusStats.startQuality"/>
+            <input class="input-mini" type="number" required force-numeric ng-model="bonusStats.startQuality" />
           </td>
           <td class="col5 value">=&nbsp;{{bonusStats.startQuality}}</td>
           <td class="col6">&nbsp;</td>
@@ -129,9 +130,8 @@
           <td class="col4">
             +&nbsp;
             <input class="input-mini" type="number" min="0" max="50" required force-numeric
-                   ng-model="bonusStats.safetyMargin"
-                   tooltip="{{'STATS_SAFETY_MARGIN_TOOLTIPS' | translate}}"
-                   tooltip-placement="right"/>
+              ng-model="bonusStats.safetyMargin" tooltip="{{'STATS_SAFETY_MARGIN_TOOLTIPS' | translate}}"
+              tooltip-placement="right" />
           </td>
           <td class="col5 value">=&nbsp;{{bonusStats.safetyMargin}}%</td>
           <td class="col6">&nbsp;</td>

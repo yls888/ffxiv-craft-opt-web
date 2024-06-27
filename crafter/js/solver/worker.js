@@ -81,25 +81,25 @@ function start(settings) {
         Generations: %d\n\
         Penalty Weight: %d\n\
         \n".sprintf(
-            seed,
-            settings.recipe.cls,
-            settings.crafter.level,
-            settings.crafter.craftsmanship,
-            settings.crafter.control,
-            settings.crafter.cp,
-            settings.crafter.specialist ? "true" : "false",
-            settings.recipe.level,
-            settings.recipe.difficulty,
-            settings.recipe.durability,
-            settings.recipe.startQuality,
-            settings.recipe.maxQuality,
-            settings.maxTricksUses,
-            settings.reliabilityPercent,
-            settings.useConditions ? "true" : "false",
-            settings.algorithm,
-            settings.solver.population,
-            settings.solver.generations,
-            settings.solver.penaltyWeight));
+        seed,
+        settings.recipe.cls,
+        settings.crafter.level,
+        settings.crafter.craftsmanship,
+        settings.crafter.control,
+        settings.crafter.cp,
+        settings.crafter.specialist ? "true" : "false",
+        settings.recipe.level,
+        settings.recipe.difficulty,
+        settings.recipe.durability,
+        settings.recipe.startQuality,
+        settings.recipe.maxQuality,
+        settings.maxTricksUses,
+        settings.reliabilityPercent,
+        settings.useConditions ? "true" : "false",
+        settings.algorithm,
+        settings.solver.population,
+        settings.solver.generations,
+        settings.solver.penaltyWeight));
 
     for (var i = 0; i < settings.crafter.actions.length; i++) {
         var actionName = settings.crafter.actions[i];
@@ -134,21 +134,21 @@ function start(settings) {
     }
 
     var crafter = new Crafter(settings.recipe.cls,
-            settings.crafter.level,
-            settings.crafter.craftsmanship,
-            settings.crafter.control,
-            settings.crafter.cp,
-            settings.crafter.specialist,
-            crafterActions);
+        settings.crafter.level,
+        settings.crafter.craftsmanship,
+        settings.crafter.control,
+        settings.crafter.cp,
+        settings.crafter.specialist,
+        crafterActions);
     var recipe = new Recipe(settings.recipe.baseLevel, settings.recipe.level, settings.recipe.difficulty,
-            settings.recipe.durability, settings.recipe.startQuality, settings.recipe.safetyMargin, settings.recipe.maxQuality,
-            settings.recipe.suggestedCraftsmanship, settings.recipe.suggestedControl,
-            settings.recipe.progressDivider, settings.recipe.progressModifier, settings.recipe.qualityDivider, settings.recipe.qualityModifier, settings.recipe.stars);
+        settings.recipe.durability, settings.recipe.startQuality, settings.recipe.safetyMargin, settings.recipe.maxQuality,
+        settings.recipe.suggestedCraftsmanship, settings.recipe.suggestedControl,
+        settings.recipe.progressDivider, settings.recipe.progressModifier, settings.recipe.qualityDivider, settings.recipe.qualityModifier, settings.recipe.stars);
     var solverVars = new SolverVars(settings.solver.solveForCompletion, settings.solver.remainderCPFitnessValue, settings.solver.remainderDurFitnessValue);
     var synth = new Synth(crafter, recipe, settings.maxTricksUses, settings.reliabilityPercent / 100.0,
-            settings.useConditions, settings.maxLength, solverVars);
+        settings.useConditions, settings.maxLength, solverVars);
     var synthNoConditions = new Synth(crafter, recipe, settings.maxTricksUses, settings.reliabilityPercent / 100.0, false,
-            settings.maxLength, solverVars);
+        settings.maxLength, solverVars);
 
     var sequence = [];
 
@@ -157,8 +157,8 @@ function start(settings) {
         var action = AllActions[actionName];
         if (action !== undefined) {
             if (crafterActions.filter(function (value) {
-                    return value.shortName === actionName
-                }).length !== 0) {
+                return value.shortName === actionName
+            }).length !== 0) {
                 sequence.push(action);
             } else {
                 logOutput.write('Error: Removing disabled action from sequence: ' + actionName + '\n');

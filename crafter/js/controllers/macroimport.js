@@ -36,16 +36,16 @@
           index === remainIndex ? -1 : index
         )
       })
-      var deleteAction = deleteActionIndex.map((deleteAction, nameIndex) => {
-        var actionName = levelActionName[nameIndex]
-        return deleteAction.map((actionIndex,index) => {
-          if (!~actionIndex) {
-            return 0
-          } else {
-            return index === 0 ? actionName : actionName + (index + 1)
-          }
-        })
-      }).reduce((a,b)=>a.concat(b))
+    var deleteAction = deleteActionIndex.map((deleteAction, nameIndex) => {
+      var actionName = levelActionName[nameIndex]
+      return deleteAction.map((actionIndex, index) => {
+        if (!~actionIndex) {
+          return 0
+        } else {
+          return index === 0 ? actionName : actionName + (index + 1)
+        }
+      })
+    }).reduce((a, b) => a.concat(b))
 
     //////////////////////////////////////////////////////////////////////////
 
@@ -83,7 +83,7 @@
           }
         }
       }
-      var newSequence = newSequence.filter(e=>!deleteAction.includes(e))
+      var newSequence = newSequence.filter(e => !deleteAction.includes(e))
       //console.log(deleteAction, newSequence)
       if (newSequence.length === 0) {
         window.alert("Error: Invalid macro synth sequence.");

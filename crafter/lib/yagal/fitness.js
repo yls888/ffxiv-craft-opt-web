@@ -1,19 +1,19 @@
-var yagal_fitness = (function() {
+var yagal_fitness = (function () {
   function Fitness(values) {
     if (values !== undefined) {
       this.setValues(values);
     }
   }
 
-  Fitness.prototype.weights = function() {
+  Fitness.prototype.weights = function () {
     return this._weights;
   };
 
-  Fitness.prototype.weightedValues = function() {
+  Fitness.prototype.weightedValues = function () {
     return this._weightedValues;
   };
 
-  Fitness.prototype.setValues = function(values) {
+  Fitness.prototype.setValues = function (values) {
     if (this._weights === undefined) {
       throw 'Fitness class has no weights defined; use defineFitnessClass([weights...])';
     }
@@ -29,11 +29,11 @@ var yagal_fitness = (function() {
     return this;
   };
 
-  Fitness.prototype.clearValues = function() {
+  Fitness.prototype.clearValues = function () {
     delete this._weightedValues;
   };
 
-  Fitness.prototype.values = function() {
+  Fitness.prototype.values = function () {
     if (this._weights === undefined) {
       throw 'Fitness class has no weights defined';
     }
@@ -51,7 +51,7 @@ var yagal_fitness = (function() {
     return unweighted;
   };
 
-  Fitness.prototype.compare = function(other) {
+  Fitness.prototype.compare = function (other) {
     if (!this.valid()) {
       return -1;
     }
@@ -75,27 +75,27 @@ var yagal_fitness = (function() {
     return 0;
   };
 
-  Fitness.prototype.eq = function(other) {
+  Fitness.prototype.eq = function (other) {
     return this.compare(other) === 0;
   };
 
-  Fitness.prototype.lt = function(other) {
+  Fitness.prototype.lt = function (other) {
     return this.compare(other) < 0;
   };
 
-  Fitness.prototype.gt = function(other) {
+  Fitness.prototype.gt = function (other) {
     return this.compare(other) > 0;
   };
 
-  Fitness.prototype.lte = function(other) {
+  Fitness.prototype.lte = function (other) {
     return this.compare(other) <= 0;
   };
 
-  Fitness.prototype.gte = function(other) {
+  Fitness.prototype.gte = function (other) {
     return this.compare(other) >= 0;
   };
 
-  Fitness.prototype.valid = function() {
+  Fitness.prototype.valid = function () {
     if (this._weightedValues === undefined) {
       return false;
     }
@@ -111,7 +111,7 @@ var yagal_fitness = (function() {
   };
 
   function defineFitnessClass(weights) {
-    var ctor = function(values) {
+    var ctor = function (values) {
       Fitness.call(this, values);
     };
 

@@ -1,4 +1,4 @@
-var yagal_toolbox = (function() {
+var yagal_toolbox = (function () {
   function _typeof(x) {
     if (Array.isArray(x)) {
       return 'array';
@@ -19,7 +19,7 @@ var yagal_toolbox = (function() {
           return seen[s];
         }
       }
-      switch(_typeof(x)) {
+      switch (_typeof(x)) {
         case 'object':
           var newObject = Object.create(Object.getPrototypeOf(x));
           seen[x] = newObject;
@@ -57,15 +57,15 @@ var yagal_toolbox = (function() {
     return this;
   }
 
-  Toolbox.prototype.register = function(name, fn) {
+  Toolbox.prototype.register = function (name, fn) {
     var args = Array.prototype.slice.call(arguments, 2);
-    this[name] = function() {
+    this[name] = function () {
       var finalArgs = args.concat(Array.prototype.slice.call(arguments));
       return fn.apply(null, finalArgs);
     };
   };
 
-  Toolbox.prototype.unregister = function(name) {
+  Toolbox.prototype.unregister = function (name) {
     delete this[name];
   };
 

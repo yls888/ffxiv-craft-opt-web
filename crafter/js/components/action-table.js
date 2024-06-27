@@ -2,8 +2,8 @@
     'use strict';
 
     angular
-    .module('ffxivCraftOptWeb.components')
-    .directive('actionTable', factory);
+        .module('ffxivCraftOptWeb.components')
+        .directive('actionTable', factory);
 
     function factory() {
         return {
@@ -66,7 +66,7 @@
         function actionDisable(e, s) {
             $scope.effects = {}
             if (!s) return;
-                
+
             if (!(s.effects.countUps && s.effects.countUps[AllActions.innerQuiet.shortName]) || s.effects.countUps[AllActions.innerQuiet.shortName] < 10) {
                 $scope.effects.trainedFinesseNot = true
             }

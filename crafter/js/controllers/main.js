@@ -6,8 +6,7 @@
     .controller('MainController', controller);
 
   function controller($scope, $rootScope, $q, $modal, $translate, $location, _allClasses, _actionGroups, _actionsByName,
-    _profile, _localStorage, _tooltips, _getActionImagePath, _bonusStats, _languages, _iActionClassSpecific)
-  {
+    _profile, _localStorage, _tooltips, _getActionImagePath, _bonusStats, _languages, _iActionClassSpecific) {
     $scope.allClasses = _allClasses;
     $scope.actionGroups = _actionGroups;
     $scope.allActions = _actionsByName;
@@ -284,7 +283,7 @@
       var newSequence;
       try {
         newSequence = JSON.parse(synthString);
-      } catch(e) {
+      } catch (e) {
         window.alert($translate.instant('ERROR_SEQUENCE'));
         return;
       }
@@ -334,9 +333,9 @@
       if (!$scope.settings) return '';
 
       if ($scope.settings.name === '') {
-          var unnamedLabel = $translate.instant('UNNAMED');
+        var unnamedLabel = $translate.instant('UNNAMED');
 
-          return '<' + unnamedLabel + '>';
+        return '<' + unnamedLabel + '>';
       }
       else {
         return $scope.settings.name;
@@ -349,32 +348,32 @@
 
     function isActionSelected(action, cls) {
       return $scope.crafter &&
-             $scope.crafter.stats &&
-             $scope.crafter.stats[cls] &&
-             $scope.crafter.stats[cls].actions &&
-             $scope.crafter.stats[cls].actions.indexOf(action) >= 0;
+        $scope.crafter.stats &&
+        $scope.crafter.stats[cls] &&
+        $scope.crafter.stats[cls].actions &&
+        $scope.crafter.stats[cls].actions.indexOf(action) >= 0;
     }
 
     function isValidSequence(sequence, cls) {
       return !sequence || sequence.every(function (action, index) {
-          return isActionSelected(action, cls) && !prudentActionInWasteNot(action, index, sequence);
-        });
+        return isActionSelected(action, cls) && !prudentActionInWasteNot(action, index, sequence);
+      });
     }
 
-    function prudentActionInWasteNot(action, index, sequence){
+    function prudentActionInWasteNot(action, index, sequence) {
       if (!sequence) return
-      
+
       var prudentAction =
-        action === 'prudentSynthesis' || action === 'prudentTouch';      
+        action === 'prudentSynthesis' || action === 'prudentTouch';
       var indexWasteNot2 = sequence.indexOf('wasteNot2');
       var indexWasteNot = sequence.indexOf('wasteNot');
       var WasteNotAction = false;
 
       if (~indexWasteNot2) {
-        WasteNotAction = prudentAction && ( index > indexWasteNot2 && indexWasteNot2 + 8 >= index);
+        WasteNotAction = prudentAction && (index > indexWasteNot2 && indexWasteNot2 + 8 >= index);
       }
       if (~indexWasteNot) {
-        WasteNotAction = prudentAction && ( index > indexWasteNot && indexWasteNot + 4 >= index); 
+        WasteNotAction = prudentAction && (index > indexWasteNot && indexWasteNot + 4 >= index);
       }
       return WasteNotAction
     }
@@ -574,7 +573,7 @@
         difficulty: 9,
         durability: 40,
         startQuality: 0,
-		safetyMargin: 0,
+        safetyMargin: 0,
         maxQuality: 80
       }
     }

@@ -31,7 +31,7 @@
     $scope.tabs = [];
     for (var i = 0; i < _allClasses.length; i++) {
       var cls = _allClasses[i];
-      $scope.tabs.push({name: cls, active: cls === $scope.recipe.cls});
+      $scope.tabs.push({ name: cls, active: cls === $scope.recipe.cls });
     }
 
     $scope.$on('profile.loaded', onProfileLoaded);
@@ -134,12 +134,12 @@
     function selectActionsByLevel(cls) {
       selectActions(cls, false, false);
     }
-    
+
     function selectActionsGuaranteed(cls) {
       selectActions(cls, true, false);
     }
-	
-	function selectActionsSolverRecommended(cls) {
+
+    function selectActionsSolverRecommended(cls) {
       selectActions(cls, true, true);
     }
 
@@ -160,7 +160,7 @@
 
           // If we care about level and the action's level is too high, skip it.
           if (action.level > $scope.crafter.stats[actionClass].level) continue;
-          
+
           // If we care about successRate and the successRate is too low, skip it.
           if (bySuccessRate && action.successProbability < 1) continue;
 
@@ -170,13 +170,17 @@
           if (action.shortName === "basicSynth" && $scope.crafter.stats[actionClass].level >= 31) continue;
           if (action.shortName === "carefulSynthesis" && $scope.crafter.stats[actionClass].level >= 82) continue;
           if (action.shortName === "groundwork" && $scope.crafter.stats[actionClass].level >= 86) continue;
-		  if (action.shortName === "finalAppraisal" && solverRecommended) continue;
-		  if (action.shortName === "observe" && solverRecommended) continue;
-		  if (action.shortName === "intensiveSynthesis" && solverRecommended) continue;
-		  if (action.shortName === "preciseTouch" && solverRecommended) continue;
-		  if (action.shortName === "tricksOfTheTrade" && solverRecommended) continue;
-		  if (action.shortName === "trainedFinesse" && solverRecommended) continue;
-		  if (action.shortName === "heartAndSoul" && solverRecommended) continue;
+          if (action.shortName === "delicateSynthesis" && $scope.crafter.stats[actionClass].level >= 94) continue;
+          if (action.shortName === "finalAppraisal" && solverRecommended) continue;
+          if (action.shortName === "trainedPerfection" && solverRecommended) continue;
+          if (action.shortName === "refinedTouch" && solverRecommended) continue;
+          if (action.shortName === "quickInnovation" && solverRecommended) continue;
+          if (action.shortName === "observe" && solverRecommended) continue;
+          if (action.shortName === "intensiveSynthesis" && solverRecommended) continue;
+          if (action.shortName === "preciseTouch" && solverRecommended) continue;
+          if (action.shortName === "tricksOfTheTrade" && solverRecommended) continue;
+          if (action.shortName === "trainedFinesse" && solverRecommended) continue;
+          if (action.shortName === "heartAndSoul" && solverRecommended) continue;
 
           selectedActions.push(action.shortName);
         }

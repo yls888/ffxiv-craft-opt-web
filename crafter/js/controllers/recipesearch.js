@@ -35,14 +35,14 @@
       var p = _recipeLibrary.recipesForClass($translate.use(), $scope.recipe.cls);
       p.then(function (recipes) {
         // Restrict recipes to crafter level
-        recipes = $filter('filter')(recipes, {baseLevel: $scope.crafter.stats[$scope.recipe.cls].level},
+        recipes = $filter('filter')(recipes, { baseLevel: $scope.crafter.stats[$scope.recipe.cls].level },
           function (recipeLevel, crafterLevel) {
             return !crafterLevel || crafterLevel >= recipeLevel - 5;
           });
 
         // Then filter on text search, ignoring case and accents
         $scope.recipeSearch.list =
-          $filter('filter')(recipes, {name: $scope.recipeSearch.text}, function (recipeName, recipeSearch) {
+          $filter('filter')(recipes, { name: $scope.recipeSearch.text }, function (recipeName, recipeSearch) {
             if (recipeName === undefined || recipeSearch === undefined)
               return true;
 
@@ -74,7 +74,7 @@
         recipe = angular.copy(recipe);
         recipe.cls = cls;
         recipe.startQuality = 0;
-		recipe.safetyMargin = 0;
+        recipe.safetyMargin = 0;
         $scope.$emit('recipe.selected', recipe);
       }, function (err) {
         console.error("Failed to load recipe:", err);

@@ -2,9 +2,9 @@
   <div class="span12">
     <tabset>
       <tab ng-repeat="tab in tabs" active="tab.active" select="onTabSelect(tab)">
-        <tab-heading><img ng-src="img/classes/{{tab.name}}.png"/> &nbsp; {{tab.name | translate}}</tab-heading>
+        <tab-heading><img ng-src="img/classes/{{tab.name}}.png" /> &nbsp; {{tab.name | translate}}</tab-heading>
       </tab>
-<!--
+      <!--
       <span class="pull-right btn-group">
         <button class="btn" ng-click="refreshChar()" ng-if="character" ng-disabled="character.refreshing" tooltip="{{character.name}} on {{character.server}}" tooltip-popup-delay="500">
           <i class="fa fa-spinner fa-pulse" ng-if="refreshing"></i>
@@ -12,7 +12,7 @@
         </button>
         <button class="btn" ng-click="showCharImportModal()">{{ 'IMPORT' | translate }}</button>
       </span>
--->
+      -->
     </tabset>
     <div class="row-fluid">
       <div class="span6">
@@ -22,31 +22,36 @@
             <div class="control-group" ng-class="{error: !crafterForm.level.$valid}">
               <label class="control-label">{{ 'LEVEL' | translate }}</label>
               <div class="controls">
-                <input class="input-mini" type="number" name="level" ng-model="crafter.stats[currentClass].level" min="1" max="90" required/>
+                <input class="input-mini" type="number" name="level" ng-model="crafter.stats[currentClass].level"
+                  min="1" max="100" required />
               </div>
             </div>
             <div class="control-group" ng-class="{error: !crafterForm.craftsmanship.$valid}">
               <label class="control-label">{{ 'STATS_CRAFTSMANSHIP' | translate }}</label>
               <div class="controls">
-                <input class="input-mini" type="number" name="craftsmanship" ng-model="crafter.stats[currentClass].craftsmanship" min="0" required/>
+                <input class="input-mini" type="number" name="craftsmanship"
+                  ng-model="crafter.stats[currentClass].craftsmanship" min="0" required />
               </div>
             </div>
             <div class="control-group" ng-class="{error: !crafterForm.control.$valid}">
               <label class="control-label">{{ 'STATS_CONTROL' | translate }}</label>
               <div class="controls">
-                <input class="input-mini" type="number" name="control" ng-model="crafter.stats[currentClass].control" min="0" required/>
+                <input class="input-mini" type="number" name="control" ng-model="crafter.stats[currentClass].control"
+                  min="0" required />
               </div>
             </div>
             <div class="control-group" ng-class="{error: !crafterForm.cp.$valid}">
               <label class="control-label">{{ 'STATS_CP' | translate }}</label>
               <div class="controls">
-                <input class="input-mini" type="number" name="cp" ng-model="crafter.stats[currentClass].cp" min="0" required/>
+                <input class="input-mini" type="number" name="cp" ng-model="crafter.stats[currentClass].cp" min="0"
+                  required />
               </div>
             </div>
             <div class="control-group" ng-class="{error: !crafterForm.specialist.$valid}">
               <label class="control-label">{{ 'SPECIALIST' | translate }}</label>
               <div class="controls">
-                <label class="checkbox"><input type="checkbox" name="specialist" ng-model="crafter.stats[currentClass].specialist"/></label>
+                <label class="checkbox"><input type="checkbox" name="specialist"
+                    ng-model="crafter.stats[currentClass].specialist" /></label>
                 <p>{{ 'SPECIALIST_DESC' | translate }}</p>
               </div>
             </div>
@@ -58,14 +63,20 @@
           <fieldset>
             <legend>{{ 'AVAILABLE_ACTIONS' | translate }}
               <span class="pull-right btn-group">
-                <button class="btn" ng-click="selectAllActions(currentClass)">{{ 'CRAFTER_ATTRIBUTES_ALL' | translate }}</button>
-                <button class="btn" ng-click="selectActionsByLevel(currentClass)">{{ 'CRAFTER_ATTRIBUTES_BY_LEVEL' | translate }}</button>
-                <button class="btn" ng-click="selectActionsGuaranteed(currentClass)">{{ 'CRAFTER_ATTRIBUTES_GUARANTEED' | translate }}</button>
-                <button class="btn" ng-click="selectActionsSolverRecommended(currentClass)">{{ 'CRAFTER_SOLVER_RECOMMENDED' | translate }}</button>
-                <button class="btn" ng-click="selectNoActions(currentClass)">{{ 'CRAFTER_ATTRIBUTES_NONE' | translate }}</button>
+                <button class="btn" ng-click="selectAllActions(currentClass)">{{ 'CRAFTER_ATTRIBUTES_ALL' | translate
+                  }}</button>
+                <button class="btn" ng-click="selectActionsByLevel(currentClass)">{{ 'CRAFTER_ATTRIBUTES_BY_LEVEL' |
+                  translate }}</button>
+                <button class="btn" ng-click="selectActionsGuaranteed(currentClass)">{{ 'CRAFTER_ATTRIBUTES_GUARANTEED'
+                  | translate }}</button>
+                <button class="btn" ng-click="selectActionsSolverRecommended(currentClass)">{{
+                  'CRAFTER_SOLVER_RECOMMENDED' | translate }}</button>
+                <button class="btn" ng-click="selectNoActions(currentClass)">{{ 'CRAFTER_ATTRIBUTES_NONE' | translate
+                  }}</button>
               </span>
             </legend>
-            <action-table cls="currentClass" on-click="toggleAction" action-classes="crafterActionClasses" selectable="true" tooltip-placement="left"/>
+            <action-table cls="currentClass" on-click="toggleAction" action-classes="crafterActionClasses"
+              selectable="true" tooltip-placement="left" />
           </fieldset>
         </form>
       </div>

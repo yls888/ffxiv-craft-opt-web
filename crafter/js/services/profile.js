@@ -39,11 +39,11 @@
           this.storage.remove('savedSettings');
         }
       }
-      
+
       // Upgrade existing synths with new settings
       for (name in this.synths) {
         var synth = this.synths[name];
-        for (var i = 0; i < synth.sequence.length; i++){
+        for (var i = 0; i < synth.sequence.length; i++) {
           if (synth.sequence[i] === "standardSynthesis") synth.sequence[i] = "basicSynth2";
         }
       }
@@ -99,7 +99,7 @@
         this.persist();
       }
 
-        return this;
+      return this;
     }.bind(this));
   };
 
@@ -136,10 +136,10 @@
     var stats = $scope.$eval(expr);
     for (var cls in this.crafterStats) {
       stats[cls] = this.crafterStats[cls];
-      $scope.$watchCollection(expr + '.' + cls, function() {
+      $scope.$watchCollection(expr + '.' + cls, function () {
         self.persist();
       });
-      $scope.$watchCollection(expr + '.' + cls + '.actions', function() {
+      $scope.$watchCollection(expr + '.' + cls + '.actions', function () {
         self.persist();
       });
     }
@@ -149,7 +149,7 @@
     return angular.copy(this.crafterStats);
   };
 
-  ProfileService.prototype.persist = function() {
+  ProfileService.prototype.persist = function () {
     this.storage.put('synths', this.synths);
     this.storage.put('crafterStats', this.crafterStats);
   };

@@ -2,8 +2,8 @@
     'use strict';
 
     angular
-    .module('ffxivCraftOptWeb.controllers')
-    .controller('SolverController', controller);
+        .module('ffxivCraftOptWeb.controllers')
+        .controller('SolverController', controller);
 
     function controller($scope, $state, $stateParams, _solver, _simulator, _bonusStats) {
         // Global page state
@@ -205,7 +205,7 @@
                 theRecipe.name = getCustomizedRecipeName();
 
                 theRecipe.startQuality = 0;
-				theRecipe.safetyMargin = 0;
+                theRecipe.safetyMargin = 0;
                 theRecipe.cls = $scope.recipe.cls;
                 $scope.$emit('recipe.selected', theRecipe);
             }

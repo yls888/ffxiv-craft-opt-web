@@ -241,7 +241,7 @@ function NewStateFromSynth(synth) {
 function probGoodForSynth(synth) {
     var recipeLevel = synth.recipe.level;
     var qualityAssurance = synth.crafter.level >= 63;
-	return qualityAssurance ? 0.25 : 0.20;
+    return qualityAssurance ? 0.25 : 0.20;
 }
 
 function probExcellentForSynth(synth) {
@@ -278,7 +278,7 @@ function ApplyModifiers(s, action, condition) {
 
     // Effects modfiying probability
     var successProbability = action.successProbability;
-    if (isActionEq(action, AllActions.focusedSynthesis) || isActionEq(action, AllActions.focusedTouch)) {
+    if (isActionEq(action, AllActions.focusedSynthesis)) {
         if (s.action === AllActions.observe.shortName) {
             successProbability = 1.0;
         }
@@ -287,11 +287,20 @@ function ApplyModifiers(s, action, condition) {
 
     // Advancted Touch Combo
     if (isActionEq(action, AllActions.advancedTouch)) {
-        if (s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) {
+        if ((s.action === AllActions.standardTouch.shortName && s.touchComboStep == 1) || (s.action === AllActions.observe.shortName)) {
             s.touchComboStep = 0;
             cpCost = 18;
         }
     }
+
+    // Hasty Touch
+    if (isActionEq(action, AllActions.daringTouch)) {
+        if (s.action !== AllActions.hastyTouch.shortName) {
+            successProbability = 0.0;
+            s.wastedActions += 100;
+        }
+    }
+
     // Add combo bonus following Basic Touch
     if (isActionEq(action, AllActions.standardTouch)) {
         if (s.action === AllActions.basicTouch.shortName) {
@@ -329,8 +338,18 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
+
     // Effects modifying durability cost
     var durabilityCost = action.durabilityCost;
+
+    // Trained Perfection
+    if (AllActions.trainedPerfection.shortName in s.effects.countUps) {
+        if (durabilityCost > 0) {
+            durabilityCost = 0;
+            delete s.effects.countUps[AllActions.trainedPerfection.shortName];
+        }
+    }
+
     if ((AllActions.wasteNot.shortName in s.effects.countDowns) || (AllActions.wasteNot2.shortName in s.effects.countDowns)) {
         if (isActionEq(action, AllActions.prudentTouch)) {
             bProgressGain = 0;
@@ -362,7 +381,7 @@ function ApplyModifiers(s, action, condition) {
         qualityIncreaseMultiplier += 1;
     }
 
-    if (AllActions.innovation.shortName in s.effects.countDowns) {
+    if ((AllActions.innovation.shortName in s.effects.countDowns) || (AllActions.quickInnovation.shortName in s.effects.countDowns)) {
         qualityIncreaseMultiplier += 0.5;
     }
 
@@ -490,6 +509,13 @@ function ApplySpecialActionEffects(s, action, condition) {
         }
     }
 
+    if (isActionEq(action, AllActions.immaculateMend)) {
+        s.durabilityState = s.synth.recipe.durability;
+        if (s.synth.solverVars.solveForCompletion) {
+            s.wastedActions += 50; // Bad code, but it works. We don't want dur increase in solveforcompletion.
+        }
+    }
+
     if ((AllActions.manipulation.shortName in s.effects.countDowns) && (s.durabilityState > 0) && !isActionEq(action, AllActions.manipulation) && !isActionEq(action, AllActions.finalAppraisal) && !isActionEq(action, AllActions.heartAndSoul)) {
         s.durabilityState += 5;
         if (s.synth.solverVars.solveForCompletion) {
@@ -547,6 +573,14 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     if (AllActions.innerQuiet.shortName in s.effects.countUps) {
         if (isActionEq(action, AllActions.preparatoryTouch)) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
+        }
+        else if (isActionEq(action, AllActions.refinedTouch)) {
+            if (s.action === AllActions.basicTouch.shortName) {
+                s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
+            }
+            else {
+                s.effects.countUps[AllActions.innerQuiet.shortName] += 1;
+            }
         }
         // Increment inner quiet countups that have conditional requirements
         else if (isActionEq(action, AllActions.preciseTouch) && condition.checkGoodOrExcellent()) {
@@ -688,9 +722,9 @@ function simSynth(individual, startState, assumeSuccess, verbose, debug, logOutp
 
             // Occur regardless of dummy actions
             //==================================
-			if (!action.noCountDowns){
-				s.step += 1;
-			}
+            if (!action.noCountDowns) {
+                s.step += 1;
+            }
 
             // Condition Calculation
             var condQualityIncreaseMultiplier = 1;
@@ -799,9 +833,9 @@ function MonteCarloStep(startState, action, assumeSuccess, verbose, debug, logOu
     };
 
     // Initialize counters
-	if (!action.noCountDowns){
-		s.step += 1;
-	}
+    if (!action.noCountDowns) {
+        s.step += 1;
+    }
 
     // Condition Evaluation
     var condQualityIncreaseMultiplier = 1;
@@ -1597,28 +1631,28 @@ function clone(x) {
             }
         }
         switch (_typeof(x)) {
-        case 'object':
-            var newObject = Object.create(Object.getPrototypeOf(x));
-            seen[x] = newObject;
-            for (var p in x) {
-                newObject[p] = _clone(x[p]);
-            }
-            return newObject;
-        case 'array':
-            var newArray = [];
-            seen[x] = newArray;
-            for (var pp in x) {
-                newArray[pp] = _clone(x[pp]);
-            }
-            return newArray;
-        case 'number':
-            return x;
-        case 'string':
-            return x;
-        case 'boolean':
-            return x;
-        default:
-            return x;
+            case 'object':
+                var newObject = Object.create(Object.getPrototypeOf(x));
+                seen[x] = newObject;
+                for (var p in x) {
+                    newObject[p] = _clone(x[p]);
+                }
+                return newObject;
+            case 'array':
+                var newArray = [];
+                seen[x] = newArray;
+                for (var pp in x) {
+                    newArray[pp] = _clone(x[pp]);
+                }
+                return newArray;
+            case 'number':
+                return x;
+            case 'string':
+                return x;
+            case 'boolean':
+                return x;
+            default:
+                return x;
         }
     }
     return _clone(x);

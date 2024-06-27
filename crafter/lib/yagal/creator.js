@@ -1,9 +1,9 @@
-var yagal_creator = (function() {
+var yagal_creator = (function () {
   function Creator() {
   }
 
-  Creator.prototype.create = function(name, base, attrs) {
-    var ctor = function() {
+  Creator.prototype.create = function (name, base, attrs) {
+    var ctor = function () {
       var obj = base.apply(this, arguments);
 
       obj = typeof obj === 'object' ? obj : this;

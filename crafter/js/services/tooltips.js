@@ -49,13 +49,13 @@
     var efficiency = (action.qualityIncreaseMultiplier > 0 ? action.qualityIncreaseMultiplier : action.progressIncreaseMultiplier) * 100;
     var successRate = action.successProbability * 100;
     return "<!--actiontooltip-->"
-           + "<div class='action-tooltip-title'>" + T(action.name) + " (" + T("LEVEL") + " " + action.level + ")</div>\n"
-           + "<div class='action-tooltip-fields'>"
-           + "<span class='action-tooltip-field-name'>" + T("CP_COST") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + action.cpCost + "</span><br/>\n"
-           + "<span class='action-tooltip-field-name'>" + T("DURABILITY_COST") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + action.durabilityCost + "</span><br/>\n"
-           + "<span class='action-tooltip-field-name'>" + T("EFFICIENCY") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + efficiency + "%</span><br/>\n"
-           + "<span class='action-tooltip-field-name'>" + T("SUCCESS_RATE") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + successRate + "%</span><br/>\n"
-           + "</div>"
+      + "<div class='action-tooltip-title'>" + T(action.name) + " (" + T("LEVEL") + " " + action.level + ")</div>\n"
+      + "<div class='action-tooltip-fields'>"
+      + "<span class='action-tooltip-field-name'>" + T("CP_COST") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + action.cpCost + "</span><br/>\n"
+      + "<span class='action-tooltip-field-name'>" + T("DURABILITY_COST") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + action.durabilityCost + "</span><br/>\n"
+      + "<span class='action-tooltip-field-name'>" + T("EFFICIENCY") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + efficiency + "%</span><br/>\n"
+      + "<span class='action-tooltip-field-name'>" + T("SUCCESS_RATE") + ":</span>&emsp;<span class='action-tooltip-field-value'>" + successRate + "%</span><br/>\n"
+      + "</div>"
   };
 
 })();

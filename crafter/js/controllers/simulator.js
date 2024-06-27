@@ -2,8 +2,8 @@
     'use strict';
 
     angular
-    .module('ffxivCraftOptWeb.controllers')
-    .controller('SimulatorController', controller);
+        .module('ffxivCraftOptWeb.controllers')
+        .controller('SimulatorController', controller);
 
     function controller($scope, $filter, $modal, $rootScope, $translate, $timeout, $state, _recipeLibrary, _simulator,
         _actionsByName, _bonusStats) {
@@ -230,7 +230,7 @@
             var cpExceeded = wastedAction && _actionsByName[action].cpCost > $scope.simulatorStatus.state.cp;
 
             return {
-                'faded-icon': !$scope.isActionSelected(action, cls) || $rootScope.prudentActionInWasteNot(action,index, $scope.sequence),
+                'faded-icon': !$scope.isActionSelected(action, cls) || $rootScope.prudentActionInWasteNot(action, index, $scope.sequence),
                 'wasted-action': wastedAction,
                 'action-no-cp': cpExceeded
             };

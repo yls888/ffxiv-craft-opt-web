@@ -76,7 +76,7 @@
             var dest = document.getElementById(id);
             var src = document.getElementById(data);
 
-            scope.onDrop({dragEl: data, dropEl: id});
+            scope.onDrop({ dragEl: data, dropEl: id });
           });
 
           $rootScope.$on("LVL-DRAG-START", function () {

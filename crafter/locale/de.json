@@ -1,6 +1,5 @@
 {
   "Locale_Mark": "_de",
-
   "Basic Synthesis": "Bearbeiten",
   "Basic Touch": "Veredelung",
   "Standard Synthesis": "Solide Bearbeitung",
@@ -9,15 +8,11 @@
   "Observe": "Beobachten",
   "Inner Quiet": "Innere Ruhe",
   "Master's Mend": "Wiederherstellung",
-
   "Byregot's Blessing": "Byregots Benediktion",
   "Groundwork": "Vorarbeit",
-
   "Rapid Synthesis": "Schnelle Bearbeitung",
-
   "Flawless Synthesis": "Makellose Bearbeitung",
   "Manipulation": "Manipulation",
-
   "Waste Not II": "Nachhaltigkeit II",
   "Waste Not": "Nachhaltigkeit",
   "Final Appraisal": "Letzte Kontrolle",
@@ -25,33 +20,24 @@
   "Heart and Soul": "Mit Leib und Seele",
   "Prudent Synthesis": "Rationelle Bearbeitung",
   "Trained Finesse": "Götter Werk",
-
   "Careful Synthesis": "Sorgfältige Bearbeitung",
-
   "Tricks of the Trade": "Kunstgriff",
-
   "Hasty Touch": "Hastige Veredelung",
-
   "Precise Touch": "Präzise Veredelung",
   "Muscle Memory": "Motorisches Gedächtnis",
-
   "Rapid Synthesis II": "Schnelle Bearbeitung II",
   "Patient Touch": "Hingebungsvolle Veredelung",
   "Prudent Touch": "Nachhaltige Veredelung",
   "Focused Synthesis": "Aufmerksame Bearbeitung",
   "Focused Touch": "Aufmerksame Veredelung",
   "Reflect": "Einkehr",
-
   "Brand of the Elements": "Zeichen der Elemente",
   "Name of the Elements": "Name der Elemente",
-
   "Preparatory Touch": "Basisveredelung",
   "Delicate Synthesis": "Akribische Bearbeitung",
   "Intensive Synthesis": "Fokussierte Bearbeitung",
   "Trained Eye": "Flinke Hand",
-
   "Veneration": "Ehrfurcht",
-
   "Carpenter": "Zimmerer",
   "Blacksmith": "Grobschmied",
   "Armorer": "Plattner",
@@ -60,7 +46,6 @@
   "Weaver": "Weber",
   "Alchemist": "Alchemist",
   "Culinarian": "Gourmet",
-
   "First Turn Only": "Nur beim ersten Arbeitsschritt",
   "Synthesis": "Synthese",
   "Quality": "Veredelung",
@@ -69,9 +54,7 @@
   "Buffs": "Verstärkung",
   "Specialist": "Spezialist",
   "Other": "Andere",
-
   "Loading...": "Laden...",
-
   "SEARCH": "Suchen",
   "CANCEL": "Abbrechen",
   "SAVE": "Speichern",
@@ -90,7 +73,6 @@
   "LOADING": "Laden...",
   "SOLVE": "Lösen...",
   "MONTE_CARLO_SIM": "Monte Carlo Sim",
-
   "LEVEL": "Stufe",
   "PROGRESS": "Forschritt",
   "QUALITY": "Qualität",
@@ -104,23 +86,19 @@
   "FOOD_NONE": "Ohne",
   "MEDICINE": "Arznei",
   "MEDICINE_NONE": "Ohne",
-
   "CP_COST": "HP",
   "DURABILITY_COST": "Belastbarkeit",
   "SUCCESS_RATE": "Erfolgswahrscheinlichkeit",
   "EFFICIENCY": "Effizienz",
-
   "CRAFTER_ATTRIBUTES_ALL": "Alle",
   "CRAFTER_ATTRIBUTES_BY_LEVEL": "Auf Stufe",
   "CRAFTER_ATTRIBUTES_NONE": "Ohne",
-
   "STATS_CRAFTSMANSHIP": "Kunstfertigkeit",
   "STATS_CONTROL": "Kontrolle",
   "STATS_CP": "HP",
   "STATS_START_QUALITY": "Ursprüngliche Qualität",
-
-  "NAV_SIMULATOR" : "Simulator",
-  "NAV_SOLVER" : "Lösung",
+  "NAV_SIMULATOR": "Simulator",
+  "NAV_SOLVER": "Lösung",
   "NAV_CRAFTER_ATTRIBUTES": "Handwerkers Attribute",
   "NAV_DEBUG": "Debuggen",
   "NAV_EXPERT": "Expert Mode",
@@ -132,7 +110,6 @@
   "LANGUAGE": "Sprache",
   "OPTIONS": "Optionen",
   "NO_SCRIPT": "Diese Seite braucht Javascript zu funktionieren.",
-
   "MACRO_CTRL": "Click + Ctrl/Cmd-C on each block to copy to clipboard.",
   "MACRO_CROSS_CLASS": "Generate cross-class action activation macro",
   "MACRO_CROSS_ACTION_SETUP": "Cross-class Action Setup Macro",
@@ -140,26 +117,21 @@
   "MACRO_INCLUDE_LOCK": "Include macro lock at the start of each macro",
   "MACRO_INCLUDE_TITLE": "Include recipe name at the start of the first macro",
   "MACRO_TAKE_OUT_DOUBLE_QUOTATION_MARKS": "Remove the double quotation marks in the macro.",
-
   "INITIAL_GUESS": "Initial Guess",
   "WORKING_IN_PROGRESS": "Working...",
   "SOLVER_RESULT": "Solver Result",
-  "NO_CHANGE":"no change",
-
+  "NO_CHANGE": "no change",
   "PROBABILISTIC_SIM": "Probalistic Sim",
   "MACRO": "Macro",
   "EXECUTION_LOG": "Execution Log",
-
   "SOLVER_START": "Starten",
   "SOLVER_STOP": "Stoppen",
   "SOLVER_CONTINUE": "Forsetzen",
   "SOLVER_RESET": "Zurücksetzen",
   "SOLVER_EDIT_SIMULATOR": "Edit Resultat in Simulator",
-
   "RECIPE_SEARCH": "Suchen...",
   "AVAILABLE_ACTIONS": "Verfügbare Actionen",
-  "CUSTOM_RECIPE":"Benutzerdefiniertes Rezept",
-
+  "CUSTOM_RECIPE": "Benutzerdefiniertes Rezept",
   "OPTIONS_MONTE_CARLO_RUNS": "Montecarlo Runs:",
   "MONTE_CARLO_RUNS_INFO": "The number of iterations used to generate output in the Monte Carlo Sim tab. Increasing this number will give results that are closer to the average result over the long term, but will be slower.",
   "MACRO_MODE": "Macro Mode",
@@ -197,8 +169,8 @@
   "BUFF_WAIT_TIME_INFO": "Time to wait after each buff action.",
   "STEP_SOUND_EFFECT": "Step Sound Effect",
   "STEP_SOUND_INFO": "Sound effect to play at the end of each macro, except the last.,",
-  "STEP_SOUND_ENABLED" : "Enable Sound Effects",
-  "STEP_SOUND_ENABLED_INFO" : "Enable or disable Sound Effects",
+  "STEP_SOUND_ENABLED": "Enable Sound Effects",
+  "STEP_SOUND_ENABLED_INFO": "Enable or disable Sound Effects",
   "FINISH_SOUND_EFFECT": "Finish Sound Effect",
   "FINISH_SOUND_INFO": "Sound effect to play at the end of the last macro.,",
   "CROSS_CLASS_INFO": "Whether to generate a separate macro that activates the necessary cross-class actions.",
@@ -209,18 +181,16 @@
   "SPECIFY_SEED_INFO": "Enable to override the random seed used for Monte Carlo simulations.",
   "DEBUG": "Debug",
   "DEBUG_INFO": "Enable extra information in the simulator and solver logs.",
-
-  "SUBPOPULATIONS":"Subpopulations",
-  "SUBPOPULATIONS_INFO":"Amount of groups to divide the population within the solver into.",
-  "MAX_STAGNATION_COUNTER":"Max Stagnation Counter",
-  "MAX_STAGNATION_COUNTER_INFO":"After this many generations pass, the subpopulation gets wiped back to the initial guess state. This number is multiplied by 3 for the current leading subpopulation, so it has a chance to roll rare mutations. You can hit F12 and view console to view stats about the current subpopulations while the solver is running.",
-  "SOLVE_FOR_COMPLETION_ONLY":"Solve for Completion only",
-  "SOLVE_FOR_COMPLETION_ONLY_INFO":"Ticking this option makes the solver ignore quality, and instead tried to optimize for finishing progress with as much durability and CP remaining as possible. Actions that normally regenerate or preserve durability (e.g. MM, manipulation) are practically disabled.",
-  "CP_RF_VALUE":"CP remainder fitness value",
-  "CP_RF_VALUE_INFO":"The fitness value reward for each remaining point of CP after the craft is completed. Balance this with the fitness reward for remaining durability to optimize for your desired result.",
-  "DURABILITY_RF_VALUE":"Durability remainder fitness value",
-  "DURABILITY_RF_VALUE_INFO":"The fitness value reward for each remaining point of durability after the craft is completed. Balance this with the fitness reward for remaining CP to optimize for your desired result.",
-
+  "SUBPOPULATIONS": "Subpopulations",
+  "SUBPOPULATIONS_INFO": "Amount of groups to divide the population within the solver into.",
+  "MAX_STAGNATION_COUNTER": "Max Stagnation Counter",
+  "MAX_STAGNATION_COUNTER_INFO": "After this many generations pass, the subpopulation gets wiped back to the initial guess state. This number is multiplied by 3 for the current leading subpopulation, so it has a chance to roll rare mutations. You can hit F12 and view console to view stats about the current subpopulations while the solver is running.",
+  "SOLVE_FOR_COMPLETION_ONLY": "Solve for Completion only",
+  "SOLVE_FOR_COMPLETION_ONLY_INFO": "Ticking this option makes the solver ignore quality, and instead tried to optimize for finishing progress with as much durability and CP remaining as possible. Actions that normally regenerate or preserve durability (e.g. MM, manipulation) are practically disabled.",
+  "CP_RF_VALUE": "CP remainder fitness value",
+  "CP_RF_VALUE_INFO": "The fitness value reward for each remaining point of CP after the craft is completed. Balance this with the fitness reward for remaining durability to optimize for your desired result.",
+  "DURABILITY_RF_VALUE": "Durability remainder fitness value",
+  "DURABILITY_RF_VALUE_INFO": "The fitness value reward for each remaining point of durability after the craft is completed. Balance this with the fitness reward for remaining CP to optimize for your desired result.",
   "SETTINGS": "Einstellungen",
   "SETTINGS_EXPORT": "Export",
   "SETTINGS_DOWNLOAD": "Herunterladen",
@@ -228,7 +198,6 @@
   "SETTINGS_IMPORT": "Import",
   "SETTINGS_DROP_FILES": "Drop Files Here",
   "SETTINGS_IMPORT_INFO": "Drag & drop a settings.zip file to import your settings into this site.",
-
   "ABOUT_TITLE": "What is this?",
   "ABOUT_INTRO": "Given the crafter's details, a list of available actions and the details of the recipe, the FFXIV Crafting Optimizer uses a genetic algorithm to determine a sequence of actions that will maximize the expected value of the final quality of the synthesis. Because the solver is not deterministic and crafting itself has random elements, the solution provided is not guaranteed, especially if Tricks of the Trade is used. Use at your own risk!",
   "ABOUT_INFORMATION": "Where did you get your information?",
@@ -240,7 +209,6 @@
   "ABOUT_ANYTHING": "Anything else I should know?",
   "ABOUT_RESEMBLANCE": "Any resemblance to ",
   "ABOUT_COINCIDENCE": " is purely co-incidental. It is a nifty site though, and I highly recommend checking it out.",
-
   "INSTRUCTIONS_TITLE": "Using the Simulator",
   "INSTRUCTIONS_STEP_1": "Go to the ",
   "SECTION": " section. ",
@@ -252,19 +220,19 @@
   "INSTRUCTIONS_STEP_7": "Go to the ",
   "INSTRUCTIONS_STEP_8": "Select the class of the recipe you want to simulate.",
   "INSTRUCTIONS_STEP_9": "Select the recipe name from the recipe dropdown to automatically fill out the recipe information.",
-  "INSTRUCTIONS_STEP_10" : "If the recipe is not available from the dropdown, the information can be entered into the fields manually. (This feature is no longer available)",
-  "INSTRUCTIONS_STEP_11" : "Go to the attributes section.",
-  "INSTRUCTIONS_STEP_12" : "Enter additional information about food boosts.",
-  "INSTRUCTIONS_STEP_13" : "Go to the ",
-  "INSTRUCTIONS_STEP_14" : "Click the Edit... button to change the action sequence. Only actions selected for this class in step 5 will be available.",
-  "INSTRUCTIONS_STEP_15" : "Click or drag and drop actions into the Sequence section and then click ",
-  "INSTRUCTIONS_STEP_16" : "Click the ",
-  "INSTRUCTIONS_STEP_17" : "(Optional) The simulator settings can be edited by clicking on the ",
-  "INSTRUCTIONS_STEP_18" : "After the simulation is complete, go to the ",
-  "INSTRUCTIONS_STEP_19" : "Details of the simulation results will be displayed in the Simulation Log. ",
-  "ABBREVIATIONS" : " Abbreviations:",
-  "DUR_ABBREVIATION" : "DUR - remaining durability",
-  "CP_ABBREVIATION" : "CP - remaining control points",
+  "INSTRUCTIONS_STEP_10": "If the recipe is not available from the dropdown, the information can be entered into the fields manually. (This feature is no longer available)",
+  "INSTRUCTIONS_STEP_11": "Go to the attributes section.",
+  "INSTRUCTIONS_STEP_12": "Enter additional information about food boosts.",
+  "INSTRUCTIONS_STEP_13": "Go to the ",
+  "INSTRUCTIONS_STEP_14": "Click the Edit... button to change the action sequence. Only actions selected for this class in step 5 will be available.",
+  "INSTRUCTIONS_STEP_15": "Click or drag and drop actions into the Sequence section and then click ",
+  "INSTRUCTIONS_STEP_16": "Click the ",
+  "INSTRUCTIONS_STEP_17": "(Optional) The simulator settings can be edited by clicking on the ",
+  "INSTRUCTIONS_STEP_18": "After the simulation is complete, go to the ",
+  "INSTRUCTIONS_STEP_19": "Details of the simulation results will be displayed in the Simulation Log. ",
+  "ABBREVIATIONS": " Abbreviations:",
+  "DUR_ABBREVIATION": "DUR - remaining durability",
+  "CP_ABBREVIATION": "CP - remaining control points",
   "EQUA_ABBREVIATION": "(E)QUA - the (expected) average quality",
   "EPRG_ABBREVIATION": "(E)PRG - the (expected) average progress",
   "WAC_ABBREVIATION": "WAC - actions attemped after the synthesis has reached maximum progress or minimum durability (wasted actions)",
@@ -276,14 +244,11 @@
   "USING_SOLVER_STEP_2": "Click on the Solve button. The computer will try random variations of your initial guess to see if it can improve on the sequence. This step is not guaranteed to return the same result every time, so try clicking a few times if no improvement can be found in the first try.",
   "USING_SOLVER_STEP_3": "The best result will be displayed in the Solver Result section.",
   "USING_SOLVER_STEP_5": "Go to the Execution Log to see a simulation of the result returned by the solver.",
-
   "MACRO_IMPORT": "Macro Import",
   "MACRO_IMPORT_INFO": "Paste the macro in the box below. You can combine multiple macros into a single sequence by pasting them in the correct order and then importing. Lines which don't contain <samp>/ac</samp> or <samp>/action</samp> are automatically filtered out.",
-
   "CHARACTER_IMPORT": "Character Import",
   "NAME": "Name",
   "CHARACTER_DATA": "Character data is provided by ",
-
   "NEW_SYNTH_NAME": "Enter new synth name:",
   "DELETE_SYNTH": "Are you sure you want to delete the synth named: ",
   "CONFIRM_NOT_SAVE": "You have not saved the changes to your current sequence. Are you sure?",
@@ -297,6 +262,5 @@
   "ERROR_SYNTH_EMPTY": "Error: Empty synth sequence.",
   "ERROR_SYNTH_INVALID": "Error: Invalid synth sequence.",
   "SYNTH_SEQUENCE_CODE": "Synth sequence code: ",
-
   "UNNAMED": "Unbenannte"
 }

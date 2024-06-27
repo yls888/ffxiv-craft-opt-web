@@ -1,6 +1,5 @@
 {
     "Locale_Mark": "_ja",
-
     "Basic Synthesis": "作業",
     "Basic Touch": "加工",
     "Master's Mend": "マスターズメンド",
@@ -30,15 +29,12 @@
     "Delicate Synthesis": "精密作業",
     "Intensive Synthesis": "集中作業",
     "Trained Eye": "匠の早業",
-
     "Advanced Touch": "上級加工",
     "Heart and Soul": "一心不乱",
     "Prudent Synthesis": "倹約作業",
     "Trained Finesse": "匠の神業",
-
     "Focused Synthesis Combo": "経過観察 + 注視作業",
     "Focused Touch Combo": "経過観察 + 注視加工",
-
     "Carpenter": "木工師",
     "Blacksmith": "鍛冶師",
     "Armorer": "甲冑師",
@@ -47,7 +43,6 @@
     "Weaver": "裁縫師",
     "Alchemist": "錬金術師",
     "Culinarian": "調理師",
-
     "Synthesis": "Synthesis",
     "Quality": "Quality",
     "CP": "CP",
@@ -55,14 +50,11 @@
     "Buffs": "Buffs",
     "Specialist": "Spécialiste",
     "Other": "Other",
-
     "Loading...": "Loading...",
-
     "EDIT_SIMULATOR": "Edit...",
     "LOADING": "Loading...",
     "SOLVE": "Solve...",
     "MONTE_CARLO_SIM": "Monte Carlo Sim",
-
     "SEARCH": "Search",
     "CANCEL": "Cancel",
     "SAVE": "Save",
@@ -90,28 +82,24 @@
     "FOOD_NONE": "None",
     "MEDICINE": "Medicine",
     "MEDICINE_NONE": "None",
-
     "CP_COST": "CP",
     "DURABILITY_COST": "Durability",
     "SUCCESS_RATE": "Success Rate",
     "EFFICIENCY": "Efficiency",
-
     "CRAFTER_ATTRIBUTES_ALL": "All",
     "CRAFTER_ATTRIBUTES_BY_LEVEL": "By Level",
     "CRAFTER_ATTRIBUTES_NONE": "None",
-
     "STATS_CRAFTSMANSHIP": "Craftsmanship",
     "STATS_CONTROL": "Control",
     "STATS_CP": "CP",
     "STATS_START_QUALITY": "Start Quality",
     "STATS_SAFETY_MARGIN": "HQ% Margin",
     "STATS_SAFETY_MARGIN_TOOLTIPS": "The extra percentage of Quality that the solver tries to reach before looking for shorter solutions. For example, at a HQ margin of 10% on a 6000 Quality recipe, it will try to reach a Quality of 6600 and then prefer shorter solutions. Min 0%, max 50%. Recommended 0% for hard recipes.",
-
     "NAV_SIMULATOR": "Simulator",
     "NAV_SOLVER": "Solver",
     "NAV_CRAFTER_ATTRIBUTES": "Crafter Attributes",
     "NAV_DEBUG": "Debugging",
-	"NAV_EXPERT": "Expert Mode",
+    "NAV_EXPERT": "Expert Mode",
     "MORE": "More...",
     "SETTINGS_MANAGEMENT": "Import/Export Settings...",
     "ABOUT": "About",
@@ -120,7 +108,6 @@
     "LANGUAGE": "Language",
     "OPTIONS": "Options",
     "NO_SCRIPT": "This site requires Javascript to function.",
-
     "MACRO_CTRL": "Click + Ctrl/Cmd-C on each block to copy to clipboard.",
     "MACRO_CROSS_CLASS": "Generate cross-class action activation macro",
     "MACRO_CROSS_ACTION_SETUP": "Cross-class Action Setup Macro",
@@ -128,26 +115,21 @@
     "MACRO_INCLUDE_LOCK": "Include macro lock at the start of each macro",
     "MACRO_INCLUDE_TITLE": "Include recipe name at the start of the first macro",
     "MACRO_TAKE_OUT_DOUBLE_QUOTATION_MARKS": "Remove the double quotation marks in the macro.",
-
     "INITIAL_GUESS": "Initial Guess",
     "WORKING_IN_PROGRESS": "Working...",
     "SOLVER_RESULT": "Solver Result",
     "NO_CHANGE": "no change",
-
     "PROBABILISTIC_SIM": "Probalistic Sim",
     "MACRO": "Macro",
     "EXECUTION_LOG": "Execution Log",
-
     "SOLVER_START": "Start",
     "SOLVER_STOP": "Stop",
     "SOLVER_CONTINUE": "Continue",
     "SOLVER_RESET": "Reset",
     "SOLVER_EDIT_SIMULATOR": "Edit Result in Simulator",
-
     "RECIPE_SEARCH": "Search...",
     "AVAILABLE_ACTIONS": "Available Actions",
     "CUSTOM_RECIPE": "Custom Recipe",
-
     "OPTIONS_MONTE_CARLO_RUNS": "Montecarlo Runs:",
     "MONTE_CARLO_RUNS_INFO": "The number of iterations used to generate output in the Monte Carlo Sim tab. Increasing this number will give results that are closer to the average result over the long term, but will be slower.",
     "MACRO_MODE": "Macro Mode",
@@ -197,7 +179,6 @@
     "SPECIFY_SEED_INFO": "Enable to override the random seed used for Monte Carlo simulations.",
     "DEBUG": "Debug",
     "DEBUG_INFO": "Enable extra information in the simulator and solver logs.",
-
     "SUBPOPULATIONS": "Subpopulations",
     "SUBPOPULATIONS_INFO": "Amount of groups to divide the population within the solver into.",
     "MAX_STAGNATION_COUNTER": "Max Stagnation Counter",
@@ -208,7 +189,6 @@
     "CP_RF_VALUE_INFO": "The fitness value reward for each remaining point of CP after the craft is completed. Balance this with the fitness reward for remaining durability to optimize for your desired result.",
     "DURABILITY_RF_VALUE": "Durability remainder fitness value",
     "DURABILITY_RF_VALUE_INFO": "The fitness value reward for each remaining point of durability after the craft is completed. Balance this with the fitness reward for remaining CP to optimize for your desired result.",
-
     "SETTINGS": "Settings",
     "SETTINGS_EXPORT": "Export",
     "SETTINGS_DOWNLOAD": "Download",
@@ -216,7 +196,6 @@
     "SETTINGS_IMPORT": "Import",
     "SETTINGS_DROP_FILES": "Drop Files Here",
     "SETTINGS_IMPORT_INFO": "Drag & drop a settings.zip file to import your settings into this site.",
-
     "ABOUT_TITLE": "What is this?",
     "ABOUT_INTRO": "Given the crafter's details, a list of available actions and the details of the recipe, the FFXIV Crafting Optimizer uses a genetic algorithm to determine a sequence of actions that will maximize the expected value of the final quality of the synthesis. Because the solver is not deterministic and crafting itself has random elements, the solution provided is not guaranteed, especially if Tricks of the Trade is used. Use at your own risk!",
     "ABOUT_INFORMATION": "Where did you get your information?",
@@ -228,7 +207,6 @@
     "ABOUT_ANYTHING": "Anything else I should know?",
     "ABOUT_RESEMBLANCE": "Any resemblance to ",
     "ABOUT_COINCIDENCE": " is purely co-incidental. It is a nifty site though, and I highly recommend checking it out.",
-
     "INSTRUCTIONS_TITLE": "Using the Simulator",
     "INSTRUCTIONS_STEP_1": "Go to the ",
     "SECTION": " section. ",
@@ -265,14 +243,11 @@
     "USING_SOLVER_STEP_3": "The best result will be displayed in the Solver Result section.",
     "USING_SOLVER_STEP_4": "If the new result is preferred, click the Use Solver Result to replace your initial guess with the solver's result.",
     "USING_SOLVER_STEP_5": "Go to the Execution Log to see a simulation of the result returned by the solver.",
-
     "MACRO_IMPORT": "Macro Import",
     "MACRO_IMPORT_INFO": "Paste the macro in the box below. You can combine multiple macros into a single sequence by pasting them in the correct order and then importing. Lines which don't contain <samp>/ac</samp> or <samp>/action</samp> are automatically filtered out.",
-
     "CHARACTER_IMPORT": "Character Import",
     "NAME": "Name",
     "CHARACTER_DATA": "Character data is provided by ",
-
     "NEW_SYNTH_NAME": "Enter new synth name:",
     "DELETE_SYNTH": "Are you sure you want to delete the synth named: ",
     "CONFIRM_NOT_SAVE": "You have not saved the changes to your current sequence. Are you sure?",
@@ -286,6 +261,5 @@
     "ERROR_SYNTH_EMPTY": "Error: Empty synth sequence.",
     "ERROR_SYNTH_INVALID": "Error: Invalid synth sequence.",
     "SYNTH_SEQUENCE_CODE": "Synth sequence code: ",
-
     "UNNAMED": "unnamed"
 }

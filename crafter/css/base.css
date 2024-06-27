@@ -7,6 +7,7 @@ body {
 }
 
 @media (max-width: 980px) {
+
   /* Enable use of floated navbar text */
   .navbar-text.pull-right {
     float: none;
@@ -61,13 +62,11 @@ footer p {
 }
 
 @font-face {
-  font-family: 'iconfont'; /* Project id 2516453 */
-  src: url('//at.alicdn.com/t/font_2516453_g6qjhhqblt9.woff2?t=1620545333370')
-      format('woff2'),
-    url('//at.alicdn.com/t/font_2516453_g6qjhhqblt9.woff?t=1620545333370')
-      format('woff'),
-    url('//at.alicdn.com/t/font_2516453_g6qjhhqblt9.ttf?t=1620545333370')
-      format('truetype');
+  font-family: 'iconfont';
+  /* Project id 2516453 */
+  src: url('//at.alicdn.com/t/font_2516453_g6qjhhqblt9.woff2?t=1620545333370') format('woff2'),
+    url('//at.alicdn.com/t/font_2516453_g6qjhhqblt9.woff?t=1620545333370') format('woff'),
+    url('//at.alicdn.com/t/font_2516453_g6qjhhqblt9.ttf?t=1620545333370') format('truetype');
 }
 
 .iconfont {

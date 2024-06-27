@@ -15,7 +15,7 @@
 
   RecipeLibraryService.$inject = ['$http', '$q', '_allClasses', '_languages'];
 
-  RecipeLibraryService.prototype.recipesForClass = function(lang, cls) {
+  RecipeLibraryService.prototype.recipesForClass = function (lang, cls) {
     if (!angular.isDefined(lang)) lang = 'en';
     if (!this._languages[lang]) {
       return this.$q.reject(new Error('invalid language: ' + lang));
