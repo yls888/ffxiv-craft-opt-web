@@ -1255,5 +1255,95 @@
       "fr": "Biryani aux crevettes jhingas",
       "ja": "ジンガビリヤニ"
     }
+  },
+  {
+    "craftsmanship_percent": 7,
+    "craftsmanship_value": 192,
+    "cp_percent": 8,
+    "cp_value": 30,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.657】Gateau Au Chocolat",
+      "de": "Gâteau au Chocolat",
+      "en": "Gateau Au Chocolat",
+      "fr": "Gâteau au chocolat",
+      "ja": "ガトーショコラ"
+    }
+  },
+  {
+    "craftsmanship_percent": 9,
+    "craftsmanship_value": 240,
+    "cp_percent": 10,
+    "cp_value": 38,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.657】Gateau Au Chocolat",
+      "de": "Gâteau au Chocolat",
+      "en": "Gateau Au Chocolat",
+      "fr": "Gâteau au chocolat",
+      "ja": "ガトーショコラ"
+    }
+  },
+  {
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 78,
+    "control_percent": 7,
+    "control_value": 172,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.670】Salmon Jerky",
+      "de": "Getrockneter Lachs",
+      "en": "Salmon Jerky",
+      "fr": "Tranches de saumon séché",
+      "ja": "サーモンジャーキー"
+    }
+  },
+  {
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 98,
+    "control_percent": 9,
+    "control_value": 215,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.670】Salmon Jerky",
+      "de": "Getrockneter Lachs",
+      "en": "Salmon Jerky",
+      "fr": "Tranches de saumon séché",
+      "ja": "サーモンジャーキー"
+    }
+  },
+  {
+    "control_percent": 21,
+    "control_value": 73,
+    "cp_percent": 4,
+    "cp_value": 77,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.684】Rroneek Steak",
+      "de": "Rroneek-Steak",
+      "en": "Rroneek Steak",
+      "fr": "Steak de rroneek",
+      "ja": "ロネークステーキ"
+    }
+  },
+  {
+    "control_percent": 26,
+    "control_value": 92,
+    "cp_percent": 5,
+    "cp_value": 97,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.684】Rroneek Steak",
+      "de": "Rroneek-Steak",
+      "en": "Rroneek Steak",
+      "fr": "Steak de rroneek",
+      "ja": "ロネークステーキ"
+    }
   }
 ]

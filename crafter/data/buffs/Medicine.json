@@ -1,6 +1,84 @@
 [
   {
     "cp_percent": 5,
+    "cp_value": 21,
+    "hq": false,
+    "id": "4fe710c87f9",
+    "name": {
+      "cn": "【ilv.675】魔匠药液",
+      "de": "Kräutertee für herausragende Handwerker",
+      "en": "Cunning Craftsman's Tisane",
+      "fr": "Sérum de capacité",
+      "ja": "魔匠の薬液"
+    }
+  },
+  {
+    "cp_percent": 6,
+    "cp_value": 27,
+    "hq": true,
+    "id": "4fe710c87f9",
+    "name": {
+      "cn": "【ilv.675】魔匠药液",
+      "de": "Kräutertee für herausragende Handwerker",
+      "en": "Cunning Craftsman's Tisane",
+      "fr": "Sérum de capacité",
+      "ja": "魔匠の薬液"
+    }
+  },
+  {
+    "control_percent": 2,
+    "control_value": 50,
+    "hq": false,
+    "id": "3574f8c53d8",
+    "name": {
+      "cn": "【ilv.670】巨匠药液",
+      "de": "Kräutertee für hehre Handwerker",
+      "en": "Commanding Craftsman's Tisane",
+      "fr": "Sérum de maîtrise",
+      "ja": "巨匠の薬液"
+    }
+  },
+  {
+    "control_percent": 3,
+    "control_value": 63,
+    "hq": true,
+    "id": "3574f8c53d8",
+    "name": {
+      "cn": "【ilv.670】巨匠药液",
+      "de": "Kräutertee für hehre Handwerker",
+      "en": "Commanding Craftsman's Tisane",
+      "fr": "Sérum de maîtrise",
+      "ja": "巨匠の薬液"
+    }
+  },
+  {
+    "craftsmanship_percent": 2,
+    "craftsmanship_value": 50,
+    "hq": false,
+    "id": "99c8f8f8de2",
+    "name": {
+      "cn": "【ilv.665】名匠药液",
+      "de": "Kräutertee für behände Handwerker",
+      "en": "Competent Craftsman's Tisane",
+      "fr": "Sérum de virtuosité",
+      "ja": "名匠の薬液"
+    }
+  },
+  {
+    "craftsmanship_percent": 3,
+    "craftsmanship_value": 63,
+    "hq": true,
+    "id": "99c8f8f8de2",
+    "name": {
+      "cn": "【ilv.665】名匠药液",
+      "de": "Kräutertee für behände Handwerker",
+      "en": "Competent Craftsman's Tisane",
+      "fr": "Sérum de virtuosité",
+      "ja": "名匠の薬液"
+    }
+  },
+  {
+    "cp_percent": 5,
     "cp_value": 17,
     "hq": false,
     "id": "4fe710c87f9",

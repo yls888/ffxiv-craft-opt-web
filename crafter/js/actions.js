@@ -76,7 +76,7 @@ var AllActions = {
     finalAppraisal: new Action('finalAppraisal', 'Final Appraisal', 0, 1, 1.0, 0.0, 0.0, 'countdown', 5, 'All', 42),
 
     //EndWalker actions
-    advancedTouch: new Action('advancedTouch', 'Advanced Touch', 10, 46, 1.0, 1.5, 0.0, 'immediate', 1, 'All', 84),
+    advancedTouch: new Action('advancedTouch', 'Advanced Touch', 10, 46, 1.0, 1.5, 0.0, 'immediate', 1, 'All', 68),
     heartAndSoul: new Action('heartAndSoul', 'Heart and Soul', 0, 0, 1.0, 0.0, 0.0, 'countup', 2, 'All', 86),
     prudentSynthesis: new Action('prudentSynthesis', 'Prudent Synthesis', 5, 18, 1.0, 0.0, 1.8, 'immediate', 1, 'All', 88),
     trainedFinesse: new Action('trainedFinesse', 'Trained Finesse', 0, 32, 1.0, 1.0, 0.0, 'immediate', 1, 'All', 90),
