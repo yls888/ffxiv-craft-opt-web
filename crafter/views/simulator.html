@@ -58,25 +58,25 @@
           <label class="control-label">
             {{'Recipe Level' | translate}}
             <label class="number">
-              <input type="number" style="width: 3em;" min="1" max="90" id="r-l" />
+              <input type="number" style="width: 3em;" min="1" max="100" id="r-l" />
             </label>
           </label>
           <label class="control-label">
             {{'Recipe Difficulty Level' | translate}}
             <label class="number">
-              <input type="number" style="width: 3em;" min="1" max="700" id="i-l" />
+              <input type="number" style="width: 3em;" min="1" max="10000" id="i-l" />
             </label>
           </label>
           <label class="control-label">
             {{'Max Progress' | translate}}
             <label class="number">
-              <input type="number" style="width: 4em;" min="1" max="30000" id="dif" />
+              <input type="number" style="width: 4em;" min="1" max="100000" id="dif" />
             </label>
           </label>
           <label class="control-label">
             {{'Max Quality' | translate}}
             <label class="number">
-              <input type="number" style="width: 5em;" min="1" max="300000" id="m-q" />
+              <input type="number" style="width: 5em;" min="1" max="100000" id="m-q" />
             </label>
           </label>
           <label class="control-label">
@@ -100,13 +100,13 @@
           <label class="control-label">
             {{'Extra Progress Difficulty' | translate}}
             <label class="number">
-              <input type="number" style="width: 4em;" min="1" max="300" id="s-epd" />
+              <input type="number" style="width: 4em;" min="1" max="9999" id="s-epd" />
             </label>
           </label>
           <label class="control-label">
             {{'Extra Quality Difficulty' | translate}}
             <label class="number">
-              <input type="number" style="width: 4em;" min="1" max="300" id="s-eqd" />
+              <input type="number" style="width: 4em;" min="1" max="9999" id="s-eqd" />
             </label>
           </label>
           <button class="btn btn-primary" ng-click="saveRecipe()">{{ 'SAVE' | translate }}</button>

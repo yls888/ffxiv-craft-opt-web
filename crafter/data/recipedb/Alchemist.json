@@ -13572,11 +13572,11 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Integral Magitek Paintbrush",
-      "de": "Integraler Magitek-Malerpinsel",
-      "en": "Integral Magitek Paintbrush",
-      "fr": "Pinceau brosse en bois d'intégral",
-      "ja": "インテグラル・マジテックペイントブラシ"
+      "cn": "Chondrite Magitek Paintbrush",
+      "de": "Chondrit-Magitek-Malerpinsel",
+      "en": "Chondrite Magitek Paintbrush",
+      "fr": "Pinceau magitek en chondrite",
+      "ja": "コンドライト・マジテックペイントブラシ"
     },
     "progressDivider": 128,
     "progressModifier": 100,
@@ -27372,7 +27372,7 @@
       "cn": "Cherimoya Juice",
       "de": "Cherimoya-Saft",
       "en": "Cherimoya Juice",
-      "fr": "Jus de cherimoyas",
+      "fr": "Jus de cherimoya",
       "ja": "チェリモヤジュース"
     },
     "progressDivider": 130,
@@ -27613,6 +27613,279 @@
     "recipeId": 35823,
     "stars": 0,
     "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Index",
+      "de": "Altkönigreich-Index",
+      "en": "Archeo Kingdom Index",
+      "fr": "Index de l'ancien royaume",
+      "ja": "オールドキングダム・インデックス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35837,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Codex",
+      "de": "Altkönigreich-Kodex",
+      "en": "Archeo Kingdom Codex",
+      "fr": "Codex de l'ancien royaume",
+      "ja": "オールドキングダム・コーデックス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35838,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Round Brush",
+      "de": "Altkönigreich-Rundpinsel",
+      "en": "Archeo Kingdom Round Brush",
+      "fr": "Pinceau rond de l'ancien royaume",
+      "ja": "オールドキングダム・ラウンドブラシ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35850,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Grade 2 Gemsap of Strength",
+      "de": "Juwelenlösung der Stärke II",
+      "en": "Grade 2 Gemsap of Strength",
+      "fr": "Eau prodigieuse de force II",
+      "ja": "剛力の宝水G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35913,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Grade 2 Gemsap of Dexterity",
+      "de": "Juwelenlösung der Geschicklichkeit II",
+      "en": "Grade 2 Gemsap of Dexterity",
+      "fr": "Eau prodigieuse de dextérité II",
+      "ja": "眼力の宝水G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35914,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Grade 2 Gemsap of Vitality",
+      "de": "Juwelenlösung der Konstitution II",
+      "en": "Grade 2 Gemsap of Vitality",
+      "fr": "Eau prodigieuse de vitalité II",
+      "ja": "活力の宝水G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35915,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Grade 2 Gemsap of Intelligence",
+      "de": "Juwelenlösung der Intelligenz II",
+      "en": "Grade 2 Gemsap of Intelligence",
+      "fr": "Eau prodigieuse d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "ja": "知力の宝水G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35916,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Grade 2 Gemsap of Mind",
+      "de": "Juwelenlösung der Willenskraft II",
+      "en": "Grade 2 Gemsap of Mind",
+      "fr": "Eau prodigieuse d'esprit II",
+      "ja": "心力の宝水G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35917,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Grade 2 Gemdraught of Strength",
+      "de": "Juwelenremedium der Stärke II",
+      "en": "Grade 2 Gemdraught of Strength",
+      "fr": "Philtre prodigieux de force II",
+      "ja": "剛力の宝薬G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35918,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Grade 2 Gemdraught of Dexterity",
+      "de": "Juwelenremedium der Geschicklichkeit II",
+      "en": "Grade 2 Gemdraught of Dexterity",
+      "fr": "Philtre prodigieux de dextérité II",
+      "ja": "眼力の宝薬G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35919,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Grade 2 Gemdraught of Vitality",
+      "de": "Juwelenremedium der Konstitution II",
+      "en": "Grade 2 Gemdraught of Vitality",
+      "fr": "Philtre prodigieux de vitalité II",
+      "ja": "活力の宝薬G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35920,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Grade 2 Gemdraught of Intelligence",
+      "de": "Juwelenremedium der Intelligenz II",
+      "en": "Grade 2 Gemdraught of Intelligence",
+      "fr": "Philtre prodigieux d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence II",
+      "ja": "知力の宝薬G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35921,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Grade 2 Gemdraught of Mind",
+      "de": "Juwelenremedium der Willenskraft II",
+      "en": "Grade 2 Gemdraught of Mind",
+      "fr": "Philtre prodigieux d'esprit II",
+      "ja": "心力の宝薬G2"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35922,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 100,

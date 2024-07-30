@@ -25377,7 +25377,7 @@
       "cn": "Reed Scythe",
       "de": "Schilfsense",
       "en": "Reed Scythe",
-      "fr": "Faucille à roseaux",
+      "fr": "Faux à roseaux",
       "ja": "葦刈鎌"
     },
     "progressDivider": 130,
@@ -25618,6 +25618,258 @@
     "recipeId": 35799,
     "stars": 0,
     "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Scutum",
+      "de": "Altkönigreich-Turmschild",
+      "en": "Archeo Kingdom Scutum",
+      "fr": "Scutum de l'ancien royaume",
+      "ja": "オールドキングダム・スクトゥム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35851,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Helm of Fending",
+      "de": "Altkönigreich-Helm der Verteidigung",
+      "en": "Archeo Kingdom Helm of Fending",
+      "fr": "Casque de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーヘルム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35852,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Cuirass of Fending",
+      "de": "Altkönigreich-Kürass der Verteidigung",
+      "en": "Archeo Kingdom Cuirass of Fending",
+      "fr": "Cuirasse de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーキュイラス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35853,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Vambraces of Fending",
+      "de": "Altkönigreich-Unterarmschienen der Verteidigung",
+      "en": "Archeo Kingdom Vambraces of Fending",
+      "fr": "Canons d'avant-bras de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーヴァンブレイス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35854,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Sabatons of Fending",
+      "de": "Altkönigreich-Bärlatschen der Verteidigung",
+      "en": "Archeo Kingdom Sabatons of Fending",
+      "fr": "Sabatons de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35856,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Helm of Maiming",
+      "de": "Altkönigreich-Helm des Verstümmelns",
+      "en": "Archeo Kingdom Helm of Maiming",
+      "fr": "Casque d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーヘルム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35857,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Cuirass of Maiming",
+      "de": "Altkönigreich-Kürass des Verstümmelns",
+      "en": "Archeo Kingdom Cuirass of Maiming",
+      "fr": "Cuirasse d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーキュイラス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35858,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Vambraces of Maiming",
+      "de": "Altkönigreich-Unterarmschienen des Verstümmelns",
+      "en": "Archeo Kingdom Vambraces of Maiming",
+      "fr": "Canons d'avant-bras d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーヴァンブレイス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35859,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Sabatons of Maiming",
+      "de": "Altkönigreich-Bärlatschen des Verstümmelns",
+      "en": "Archeo Kingdom Sabatons of Maiming",
+      "fr": "Sabatons d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35861,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Sabatons of Aiming",
+      "de": "Altkönigreich-Bärlatschen des Zielens",
+      "en": "Archeo Kingdom Sabatons of Aiming",
+      "fr": "Sabatons de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35871,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Sabatons of Scouting",
+      "de": "Altkönigreich-Bärlatschen des Spähens",
+      "en": "Archeo Kingdom Sabatons of Scouting",
+      "fr": "Sabatons d'éclaireur de l'ancien royaume",
+      "ja": "オールドキングダム・スカウトサバトン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35876,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Maraging Steel Ingot",
+      "de": "Maraging-Stahlbarren",
+      "en": "Maraging Steel Ingot",
+      "fr": "Lingot d'acier maraging",
+      "ja": "マルエージングインゴット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35909,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   },
   {
     "baseLevel": 100,

@@ -35302,6 +35302,279 @@
   },
   {
     "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Fending",
+      "de": "Altkönigreich-Knieschützer der Verteidigung",
+      "en": "Archeo Kingdom Poleyns of Fending",
+      "fr": "Genouillères de protecteur de l'ancien royaume",
+      "ja": "オールドキングダム・ディフェンダーポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35855,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Maiming",
+      "de": "Altkönigreich-Knieschützer des Verstümmelns",
+      "en": "Archeo Kingdom Poleyns of Maiming",
+      "fr": "Genouillères d'abatteur de l'ancien royaume",
+      "ja": "オールドキングダム・スレイヤーポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35860,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Jacket of Striking",
+      "de": "Altkönigreich-Jacke des Schlagens",
+      "en": "Archeo Kingdom Jacket of Striking",
+      "fr": "Jaque d'agresseur de l'ancien royaume",
+      "ja": "オールドキングダム・ストライカージャケット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35863,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Striking",
+      "de": "Altkönigreich-Knieschützer des Schlagens",
+      "en": "Archeo Kingdom Poleyns of Striking",
+      "fr": "Genouillères d'agresseur de l'ancien royaume",
+      "ja": "オールドキングダム・ストライカーポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35865,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Jacket of Aiming",
+      "de": "Altkönigreich-Jacke des Zielens",
+      "en": "Archeo Kingdom Jacket of Aiming",
+      "fr": "Jaque de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャージャケット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35868,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Aiming",
+      "de": "Altkönigreich-Knieschützer des Zielens",
+      "en": "Archeo Kingdom Poleyns of Aiming",
+      "fr": "Genouillères de pisteur de l'ancien royaume",
+      "ja": "オールドキングダム・レンジャーポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35870,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Jacket of Scouting",
+      "de": "Altkönigreich-Jacke des Spähens",
+      "en": "Archeo Kingdom Jacket of Scouting",
+      "fr": "Jaque d'éclaireur de l'ancien royaume",
+      "ja": "オールドキングダム・スカウトジャケット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35873,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Scouting",
+      "de": "Altkönigreich-Knieschützer des Spähens",
+      "en": "Archeo Kingdom Poleyns of Scouting",
+      "fr": "Genouillères d'éclaireur de l'ancien royaume",
+      "ja": "オールドキングダム・スカウトポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35875,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Coat of Healing",
+      "de": "Altkönigreich-Mantel der Heilung",
+      "en": "Archeo Kingdom Coat of Healing",
+      "fr": "Manteau de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーコート"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35878,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Healing",
+      "de": "Altkönigreich-Knieschützer der Heilung",
+      "en": "Archeo Kingdom Poleyns of Healing",
+      "fr": "Genouillères de soigneur de l'ancien royaume",
+      "ja": "オールドキングダム・ヒーラーポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35880,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Coat of Casting",
+      "de": "Altkönigreich-Mantel der Magie",
+      "en": "Archeo Kingdom Coat of Casting",
+      "fr": "Manteau d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターコート"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35883,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Poleyns of Casting",
+      "de": "Altkönigreich-Knieschützer der Magie",
+      "en": "Archeo Kingdom Poleyns of Casting",
+      "fr": "Genouillères d'incantateur de l'ancien royaume",
+      "ja": "オールドキングダム・キャスターポレイン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35885,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Blackseed Cotton Cloth",
+      "de": "Schwarzbaumwollstoff",
+      "en": "Blackseed Cotton Cloth",
+      "fr": "Étoffe de coton des îles",
+      "ja": "海島綿布"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35911,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
     "difficulty": 6600,
     "durability": 70,
     "level": 700,
@@ -35360,6 +35633,48 @@
     "qualityDivider": 150,
     "qualityModifier": 75,
     "recipeId": 35940,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Scientist's Coat",
+      "de": "Wissenschaftler-Mantel",
+      "en": "Scientist's Coat",
+      "fr": "Manteau de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
+      "ja": "サイエンティスト・コート"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35943,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Scientist's Breeches",
+      "de": "Wissenschaftler-Reiterhose",
+      "en": "Scientist's Breeches",
+      "fr": "Braies de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
+      "ja": "サイエンティスト・ブリーチ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35945,
     "stars": 1,
     "suggestedCraftsmanship": 4352
   }

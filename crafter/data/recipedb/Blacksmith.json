@@ -34806,7 +34806,7 @@
       "cn": "Reed Scythe",
       "de": "Schilfsense",
       "en": "Reed Scythe",
-      "fr": "Faucille à roseaux",
+      "fr": "Faux à roseaux",
       "ja": "葦刈鎌"
     },
     "progressDivider": 130,
@@ -35047,5 +35047,236 @@
     "recipeId": 35793,
     "stars": 0,
     "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Broadsword",
+      "de": "Altkönigreich-Breitschwert",
+      "en": "Archeo Kingdom Broadsword",
+      "fr": "Épée large de l'ancien royaume",
+      "ja": "オールドキングダム・ブロードソード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35830,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Patas",
+      "de": "Altkönigreich-Pata",
+      "en": "Archeo Kingdom Patas",
+      "fr": "Patas de l'ancien royaume",
+      "ja": "オールドキングダム・パタ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35831,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Labrys",
+      "de": "Altkönigreich-Labrys",
+      "en": "Archeo Kingdom Labrys",
+      "fr": "Labrys de l'ancien royaume",
+      "ja": "オールドキングダム・ラブリュス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35832,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Claymore",
+      "de": "Altkönigreich-Claymore",
+      "en": "Archeo Kingdom Claymore",
+      "fr": "Claymore de l'ancien royaume",
+      "ja": "オールドキングダム・クレイモア"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35840,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Culverin",
+      "de": "Altkönigreich-Kalverine",
+      "en": "Archeo Kingdom Culverin",
+      "fr": "Couleuvrine de l'ancien royaume",
+      "ja": "オールドキングダム・カルバリン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35841,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Samurai Blade",
+      "de": "Altkönigreich-Samuraiklinge",
+      "en": "Archeo Kingdom Samurai Blade",
+      "fr": "Lame de samouraï de l'ancien royaume",
+      "ja": "オールドキングダム・サムライブレード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35843,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Gunblade",
+      "de": "Altkönigreich-Revolver<SoftHyphen/>klinge",
+      "en": "Archeo Kingdom Gunblade",
+      "fr": "Pistolame de l'ancien royaume",
+      "ja": "オールドキングダム・ガンブレード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35845,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Chakrams",
+      "de": "Altkönigreich-Chakrams",
+      "en": "Archeo Kingdom Chakrams",
+      "fr": "Chakrams de l'ancien royaume",
+      "ja": "オールドキングダム・チャクラム"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35846,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Sickle",
+      "de": "Altkönigreich-Sichel",
+      "en": "Archeo Kingdom Sickle",
+      "fr": "Faucille de l'ancien royaume",
+      "ja": "オールドキングダム・シックル"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35847,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 7500,
+    "durability": 70,
+    "level": 710,
+    "maxQuality": 16500,
+    "name": {
+      "cn": "Archeo Kingdom Twinfangs",
+      "de": "Altkönigreich-Zwillingsfänge",
+      "en": "Archeo Kingdom Twinfangs",
+      "fr": "Crochets jumeaux de l'ancien royaume",
+      "ja": "オールドキングダム・ツインファング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35849,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 4125,
+    "durability": 35,
+    "level": 710,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Maraging Steel Ingot",
+      "de": "Maraging-Stahlbarren",
+      "en": "Maraging Steel Ingot",
+      "fr": "Lingot d'acier maraging",
+      "ja": "マルエージングインゴット"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35908,
+    "stars": 2,
+    "suggestedCraftsmanship": 4740
   }
 ]
