@@ -10968,7 +10968,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Ingot",
+      "cn": "奥阔铬铁锭",
       "de": "Bergchromeisen-Barren",
       "en": "Mountain Chromite Ingot",
       "fr": "Lingot de chromite d'Urqopacha",
@@ -10989,7 +10989,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Ingot",
+      "cn": "钌金锭",
       "de": "Ruthenium-Barren",
       "en": "Ruthenium Ingot",
       "fr": "Lingot de ruthénium",
@@ -11010,7 +11010,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Ingot",
+      "cn": "钴钨锭",
       "de": "Wolfram-Koboldeisenerz-Barren",
       "en": "Cobalt Tungsten Ingot",
       "fr": "Lingot d'alliage de cobalt-tungstène",
@@ -11031,7 +11031,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Nugget",
+      "cn": "钛金锭",
       "de": "Titangoldnugget",
       "en": "Titanium Gold Nugget",
       "fr": "Pépite de titane aurifère",
@@ -11052,7 +11052,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Ingot",
+      "cn": "卡扎纳尔锭",
       "de": "Ra'Kaznar-Barren",
       "en": "Ra'Kaznar Ingot",
       "fr": "Lingot de Ra'Kaznar",
@@ -11073,7 +11073,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Tower Shield",
+      "cn": "奥阔铬铁塔盾",
       "de": "Bergchromeisen-Turmschild",
       "en": "Mountain Chromite Tower Shield",
       "fr": "Pavois en chromite d'Urqopacha",
@@ -11094,7 +11094,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Kite Shield",
+      "cn": "钌金鸢盾",
       "de": "Ruthenium-Drachenschild",
       "en": "Ruthenium Kite Shield",
       "fr": "Écu mandorle en ruthénium",
@@ -11115,7 +11115,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Lorica of Fending",
+      "cn": "钌金御敌兜甲",
       "de": "Ruthenium-Lorica der Verteidigung",
       "en": "Ruthenium Lorica of Fending",
       "fr": "Lorica de protecteur en ruthénium",
@@ -11136,7 +11136,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Vambraces of Fending",
+      "cn": "钌金御敌臂甲",
       "de": "Ruthenium-Unterarmschienen der Verteidigung",
       "en": "Ruthenium Vambraces of Fending",
       "fr": "Canons d'avant-bras de protecteur en ruthénium",
@@ -11157,7 +11157,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Sabatons of Fending",
+      "cn": "钌金御敌铠靴",
       "de": "Ruthenium-Bärlatschen der Verteidigung",
       "en": "Ruthenium Sabatons of Fending",
       "fr": "Sabatons de protecteur en ruthénium",
@@ -11178,7 +11178,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Lorica of Maiming",
+      "cn": "钌金制敌兜甲",
       "de": "Ruthenium-Lorica des Verstümmelns",
       "en": "Ruthenium Lorica of Maiming",
       "fr": "Lorica d'abatteur en ruthénium",
@@ -11199,7 +11199,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Vambraces of Maiming",
+      "cn": "钌金制敌臂甲",
       "de": "Ruthenium-Unterarmschienen des Verstümmelns",
       "en": "Ruthenium Vambraces of Maiming",
       "fr": "Canons d'avant-bras d'abatteur en ruthénium",
@@ -11220,7 +11220,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Sabatons of Maiming",
+      "cn": "钌金制敌铠靴",
       "de": "Ruthenium-Bärlatschen des Verstümmelns",
       "en": "Ruthenium Sabatons of Maiming",
       "fr": "Sabatons d'abatteur en ruthénium",
@@ -11241,7 +11241,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Kite Shield",
+      "cn": "钴钨鸢盾",
       "de": "Wolfram-Koboldeisen-Drachenschild",
       "en": "Cobalt Tungsten Kite Shield",
       "fr": "Écu mandorle en alliage de cobalt-tungstène",
@@ -11262,7 +11262,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Vest of Fending",
+      "cn": "钴钨御敌坎肩",
       "de": "Wolfram-Koboldeisen-Weste der Verteidigung",
       "en": "Cobalt Tungsten Vest of Fending",
       "fr": "Gilet de protecteur en alliage de cobalt-tungstène",
@@ -11283,7 +11283,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Vest of Maiming",
+      "cn": "钴钨制敌坎肩",
       "de": "Wolfram-Koboldeisen-Weste des Verstümmelns",
       "en": "Cobalt Tungsten Vest of Maiming",
       "fr": "Gilet d'abatteur en alliage de cobalt-tungstène",
@@ -11304,7 +11304,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Shield",
+      "cn": "钛金盾",
       "de": "Titangold-Schild",
       "en": "Titanium Gold Shield",
       "fr": "Bouclier en titane aurifère",
@@ -11325,7 +11325,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Helm of Fending",
+      "cn": "钛金御敌头盔",
       "de": "Titangold-Helm der Verteidigung",
       "en": "Titanium Gold Helm of Fending",
       "fr": "Casque de protecteur en titane aurifère",
@@ -11346,7 +11346,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Thornplate of Fending",
+      "cn": "钛金御敌钉刺战甲",
       "de": "Titangold-Dornenrüstung der Verteidigung",
       "en": "Titanium Gold Thornplate of Fending",
       "fr": "Armure épineuse de protecteur en titane aurifère",
@@ -11367,7 +11367,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Spiked Gloves of Fending",
+      "cn": "钛金御敌钉刺手套",
       "de": "Titangold-Dornenhandschuhe der Verteidigung",
       "en": "Titanium Gold Spiked Gloves of Fending",
       "fr": "Gants à pointes de protecteur en titane aurifère",
@@ -11388,7 +11388,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Leg Wraps of Fending",
+      "cn": "钛金御敌护腿",
       "de": "Titangold-Stiefel der Verteidigung",
       "en": "Titanium Gold Leg Wraps of Fending",
       "fr": "Jambières de protecteur en titane aurifère",
@@ -11409,7 +11409,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Thornplate of Maiming",
+      "cn": "钛金制敌钉刺战甲",
       "de": "Titangold-Dornenrüstung des Verstümmelns",
       "en": "Titanium Gold Thornplate of Maiming",
       "fr": "Armure épineuse d'abatteur en titane aurifère",
@@ -11430,7 +11430,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Spiked Gloves of Maiming",
+      "cn": "钛金制敌钉刺手套",
       "de": "Titangold-Dornenhandschuhe des Verstümmelns",
       "en": "Titanium Gold Spiked Gloves of Maiming",
       "fr": "Gants à pointes d'abatteur en titane aurifère",
@@ -11451,7 +11451,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Leg Wraps of Maiming",
+      "cn": "钛金制敌护腿",
       "de": "Titangold-Stiefel des Verstümmelns",
       "en": "Titanium Gold Leg Wraps of Maiming",
       "fr": "Jambières d'abatteur en titane aurifère",
@@ -11472,7 +11472,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Helm of Striking",
+      "cn": "钛金强袭头盔",
       "de": "Titangold-Helm des Schlagens",
       "en": "Titanium Gold Helm of Striking",
       "fr": "Casque d'agresseur en titane aurifère",
@@ -11493,7 +11493,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Spiked Gloves of Striking",
+      "cn": "钛金强袭钉刺手套",
       "de": "Titangold-Dornenhandschuhe des Schlagens",
       "en": "Titanium Gold Spiked Gloves of Striking",
       "fr": "Gants à pointes d'agresseur en titane aurifère",
@@ -11514,7 +11514,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Thorned Corselet of Scouting",
+      "cn": "钛金游击钉刺护甲",
       "de": "Titangold-Dornenbrustpanzer des Spähens",
       "en": "Titanium Gold Thorned Corselet of Scouting",
       "fr": "Jaseran épineux d'éclaireur en titane aurifère",
@@ -11535,7 +11535,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Spiked Gloves of Scouting",
+      "cn": "钛金游击钉刺手套",
       "de": "Titangold-Dornenhandschuhe des Spähens",
       "en": "Titanium Gold Spiked Gloves of Scouting",
       "fr": "Gants à pointes d'éclaireur en titane aurifère",
@@ -11556,7 +11556,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Leg Wraps of Scouting",
+      "cn": "钛金游击护腿",
       "de": "Titangold-Stiefel des Spähens",
       "en": "Titanium Gold Leg Wraps of Scouting",
       "fr": "Jambières d'éclaireur en titane aurifère",
@@ -11577,7 +11577,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Helm of Casting",
+      "cn": "钛金咏咒头盔",
       "de": "Titangold-Helm der Magie",
       "en": "Titanium Gold Helm of Casting",
       "fr": "Casque d'incantateur en titane aurifère",
@@ -11598,7 +11598,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Shield",
+      "cn": "卡扎纳尔盾",
       "de": "Ra'Kaznar-Schild",
       "en": "Ra'Kaznar Shield",
       "fr": "Bouclier de Ra'Kaznar",
@@ -11619,7 +11619,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Helm of Fending",
+      "cn": "卡扎纳尔御敌头盔",
       "de": "Ra'Kaznar-Helm der Verteidigung",
       "en": "Ra'Kaznar Helm of Fending",
       "fr": "Casque de protecteur de Ra'Kaznar",
@@ -11640,7 +11640,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Armor of Fending",
+      "cn": "卡扎纳尔御敌战甲",
       "de": "Ra'Kaznar-Rüstung der Verteidigung",
       "en": "Ra'Kaznar Armor of Fending",
       "fr": "Armure de protecteur de Ra'Kaznar",
@@ -11661,7 +11661,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Gauntlets of Fending",
+      "cn": "卡扎纳尔御敌手铠",
       "de": "Ra'Kaznar-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
       "en": "Ra'Kaznar Gauntlets of Fending",
       "fr": "Gantelets de protecteur de Ra'Kaznar",
@@ -11682,7 +11682,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Greaves of Fending",
+      "cn": "卡扎纳尔御敌胫甲",
       "de": "Ra'Kaznar-Beinschienen der Verteidigung",
       "en": "Ra'Kaznar Greaves of Fending",
       "fr": "Jambards de protecteur de Ra'Kaznar",
@@ -11703,7 +11703,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Helm of Maiming",
+      "cn": "卡扎纳尔制敌头盔",
       "de": "Ra'Kaznar-Helm des Verstümmelns",
       "en": "Ra'Kaznar Helm of Maiming",
       "fr": "Casque d'abatteur de Ra'Kaznar",
@@ -11724,7 +11724,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Armor of Maiming",
+      "cn": "卡扎纳尔制敌战甲",
       "de": "Ra'Kaznar-Rüstung des Verstümmelns",
       "en": "Ra'Kaznar Armor of Maiming",
       "fr": "Armure d'abatteur de Ra'Kaznar",
@@ -11745,7 +11745,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Gauntlets of Maiming",
+      "cn": "卡扎纳尔制敌手铠",
       "de": "Ra'Kaznar-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
       "en": "Ra'Kaznar Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de Ra'Kaznar",
@@ -11766,7 +11766,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Greaves of Maiming",
+      "cn": "卡扎纳尔制敌胫甲",
       "de": "Ra'Kaznar-Beinschienen des Verstümmelns",
       "en": "Ra'Kaznar Greaves of Maiming",
       "fr": "Jambards d'abatteur de Ra'Kaznar",
@@ -11787,7 +11787,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Armguards of Striking",
+      "cn": "卡扎纳尔强袭护臂",
       "de": "Ra'Kaznar-Armschützer des Schlagens",
       "en": "Ra'Kaznar Armguards of Striking",
       "fr": "Garde-bras d'agresseur de Ra'Kaznar",
@@ -11808,7 +11808,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Greaves of Striking",
+      "cn": "卡扎纳尔强袭胫甲",
       "de": "Ra'Kaznar-Beinschienen des Schlagens",
       "en": "Ra'Kaznar Greaves of Striking",
       "fr": "Jambards d'agresseur de Ra'Kaznar",
@@ -11829,7 +11829,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Gloves of Aiming",
+      "cn": "卡扎纳尔精准护臂",
       "de": "Ra'Kaznar-Handschuhe des Zielens",
       "en": "Ra'Kaznar Gloves of Aiming",
       "fr": "Gants de pisteur de Ra'Kaznar",
@@ -11850,7 +11850,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Greaves of Aiming",
+      "cn": "卡扎纳尔精准胫甲",
       "de": "Ra'Kaznar-Beinschienen des Zielens",
       "en": "Ra'Kaznar Greaves of Aiming",
       "fr": "Jambards de pisteur de Ra'Kaznar",
@@ -11871,7 +11871,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Gloves of Scouting",
+      "cn": "卡扎纳尔游击手套",
       "de": "Ra'Kaznar-Handschuhe des Spähens",
       "en": "Ra'Kaznar Gloves of Scouting",
       "fr": "Gants d'éclaireur de Ra'Kaznar",
@@ -11892,7 +11892,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Greaves of Scouting",
+      "cn": "卡扎纳尔游击胫甲",
       "de": "Ra'Kaznar-Beinschienen des Spähens",
       "en": "Ra'Kaznar Greaves of Scouting",
       "fr": "Jambards d'éclaireur de Ra'Kaznar",
@@ -11913,7 +11913,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Alembic",
+      "cn": "奥阔铬铁蒸馏器",
       "de": "Bergchromeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Mountain Chromite Alembic",
       "fr": "Alambic en chromite d'Urqopacha",
@@ -11934,7 +11934,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Frypan",
+      "cn": "奥阔铬铁平底锅",
       "de": "Bergchromeisen-Bratpfanne",
       "en": "Mountain Chromite Frypan",
       "fr": "Poêle à frire en chromite d'Urqopacha",
@@ -11955,7 +11955,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Alembic",
+      "cn": "钴钨蒸馏器",
       "de": "Wolfram-Koboldeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Cobalt Tungsten Alembic",
       "fr": "Alambic en alliage de cobalt-tungstène",
@@ -11976,7 +11976,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Chocobo Frypan",
+      "cn": "钴钨陆行鸟煎锅",
       "de": "Wolfram-Koboldeisen-Bratpfanne",
       "en": "Cobalt Tungsten Chocobo Frypan",
       "fr": "Poêle à frire chocobo en alliage de cobalt-tungstène",
@@ -11997,7 +11997,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Alembic",
+      "cn": "克拉洛胡桃木蒸馏器",
       "de": "Titangold-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Titanium Gold Alembic",
       "fr": "Alambic en titane aurifère",
@@ -12018,7 +12018,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Bomb Frypan",
+      "cn": "钛金爆弹怪煎锅",
       "de": "Titangold-Bratpfanne",
       "en": "Titanium Gold Bomb Frypan",
       "fr": "Poêle à frire bombo en titane aurifère",
@@ -12039,7 +12039,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Alembic",
+      "cn": "卡扎纳尔蒸馏器",
       "de": "Ra'Kaznar-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
       "en": "Ra'Kaznar Alembic",
       "fr": "Alambic de Ra'Kaznar",
@@ -12060,7 +12060,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Spriggan Frypan",
+      "cn": "卡扎纳尔魔石精平底锅",
       "de": "Ra'Kaznar-Bratpfanne",
       "en": "Ra'Kaznar Spriggan Frypan",
       "fr": "Poêle à frire spriggan de Ra'Kaznar",
@@ -12081,7 +12081,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Black Star Ring of Crafting",
+      "cn": "卡扎纳尔巧匠戒指",
       "de": "Schwarzstern-Ring des Handwerks",
       "en": "Black Star Ring of Crafting",
       "fr": "Bague des créations de Ra'Kaznar",
@@ -12102,7 +12102,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Ring of Gathering",
+      "cn": "卡扎纳尔大地指环",
       "de": "Ra'Kaznar-Ring des Eifers",
       "en": "Ra'Kaznar Ring of Gathering",
       "fr": "Bague des ressources de Ra'Kaznar",
@@ -25374,7 +25374,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Reed Scythe",
+      "cn": "芦苇镰刀",
       "de": "Schilfsense",
       "en": "Reed Scythe",
       "fr": "Faux à roseaux",
@@ -25395,7 +25395,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Tortilla Press",
+      "cn": "玉米薄饼压制机",
       "de": "Tortillapresse",
       "en": "Tortilla Press",
       "fr": "Presse à tortilla",
@@ -25416,7 +25416,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Lightweight Lantern",
+      "cn": "旅行提灯",
       "de": "Leichtgewichtige Laterne",
       "en": "Lightweight Lantern",
       "fr": "Lanterne de voyage",
@@ -25437,7 +25437,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Ceremonial Censer",
+      "cn": "冥想用香炉",
       "de": "Zeremonielles Räuchergefäß",
       "en": "Ceremonial Censer",
       "fr": "Encensoir de méditation",
@@ -25458,7 +25458,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Fulcrum",
+      "cn": "交换用的天平轴",
       "de": "Drehachse",
       "en": "Fulcrum",
       "fr": "Fléau de balance à plateaux",
@@ -25479,7 +25479,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Solar Reflector",
+      "cn": "金煌采火器",
       "de": "Solarreflektor",
       "en": "Solar Reflector",
       "fr": "Vasque sacrée en or flamboyant",
@@ -25500,7 +25500,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Mountain Chromite Alembic",
+      "cn": "收藏用奥阔铬铁蒸馏器",
       "de": "Bergchromeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
       "en": "Rarefied Mountain Chromite Alembic",
       "fr": "Alambic en chromite d'Urqopacha collectionnable",
@@ -25521,7 +25521,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Ruthenium Sabatons",
+      "cn": "收藏用钌金铠靴",
       "de": "Ruthenium-Bärlatschen (Sammlerstück)",
       "en": "Rarefied Ruthenium Sabatons",
       "fr": "Sabatons en ruthénium collectionnables",
@@ -25542,7 +25542,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Cobalt Tungsten Chocobo Frypan",
+      "cn": "收藏用钴钨陆行鸟煎锅",
       "de": "Wolfram-Koboldeisen-Bratpfanne (Sammlerstück)",
       "en": "Rarefied Cobalt Tungsten Chocobo Frypan",
       "fr": "Poêle à frire chocobo en alliage de cobalt-tungstène collectionnable",
@@ -25563,7 +25563,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied Titanium Gold Thorned Corselet",
+      "cn": "收藏用钛金钉刺护甲",
       "de": "Titangold-Dornenbrustpanzer (Sammlerstück)",
       "en": "Rarefied Titanium Gold Thorned Corselet",
       "fr": "Jaseran épineux en titane aurifère collectionnable",
@@ -25584,7 +25584,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Ra'Kaznar Greaves",
+      "cn": "收藏用卡扎纳尔胫甲",
       "de": "Ra'Kaznar-Beinschienen (Sammlerstück)",
       "en": "Rarefied Ra'Kaznar Greaves",
       "fr": "Jambards de Ra'Kaznar collectionnables",
@@ -25605,7 +25605,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Ra'Kaznar Ring",
+      "cn": "收藏用卡扎纳尔指环",
       "de": "Ra'Kaznar-Ring (Sammlerstück)",
       "en": "Rarefied Ra'Kaznar Ring",
       "fr": "Bague de Ra'Kaznar collectionnable",
@@ -25878,7 +25878,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Electrope Barding",
+      "cn": "雷转质装甲",
       "de": "Elektrob-Rossharnisch",
       "en": "Electrope Barding",
       "fr": "Barde en électrope",
@@ -25899,7 +25899,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Skyruin Trophy",
+      "cn": "艳翼蛇鸟奖杯",
       "de": "Valigarmanda-Trophäe",
       "en": "Skyruin Trophy",
       "fr": "Trophée de Valigarmanda",
@@ -25920,7 +25920,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Resilient Sword Stand",
+      "cn": "奇迹之剑展示台",
       "de": "Wunder-Schwertständer",
       "en": "Resilient Sword Stand",
       "fr": "Présentoir de la résilience",

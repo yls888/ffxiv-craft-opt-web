@@ -14832,7 +14832,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Silver Lobo Leather",
+      "cn": "银狼革",
       "de": "Silber-Schakal-Leder",
       "en": "Silver Lobo Leather",
       "fr": "Cuir de loup argenté",
@@ -14853,7 +14853,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Hammerhead Crocodile Leather",
+      "cn": "锤头鳄革",
       "de": "Hammerhaidil-Leder",
       "en": "Hammerhead Crocodile Leather",
       "fr": "Cuir de croco-marteau",
@@ -14874,7 +14874,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aax Leather",
+      "cn": "狞豹革",
       "de": "Br'aax-Leder",
       "en": "Br'aax Leather",
       "fr": "Cuir de br'aax",
@@ -14895,7 +14895,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Leather",
+      "cn": "嵌齿象革",
       "de": "Gomphotherium-Leder",
       "en": "Gomphotherium Leather",
       "fr": "Cuir de gomphotherium",
@@ -14916,7 +14916,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Gargantua Leather",
+      "cn": "卡冈图亚革",
       "de": "Gargantua-Leder",
       "en": "Gargantua Leather",
       "fr": "Cuir de gargantua",
@@ -14937,7 +14937,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Coat of Fending",
+      "cn": "银狼革御敌外套",
       "de": "Schakalleder-Mantel der Verteidigung",
       "en": "Loboskin Coat of Fending",
       "fr": "Manteau de protecteur en cuir de loup argenté",
@@ -14958,7 +14958,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Fending",
+      "cn": "银狼革御敌半指护手",
       "de": "Schakalleder-Fingerlinge der Verteidigung",
       "en": "Loboskin Fingerless Gloves of Fending",
       "fr": "Gants sans doigts de protecteur en cuir de loup argenté",
@@ -14979,7 +14979,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Caligae of Fending",
+      "cn": "银狼革御敌战靴",
       "de": "Schakalleder-Caligae der Verteidigung",
       "en": "Loboskin Caligae of Fending",
       "fr": "Caligae de protecteur en cuir de loup argenté",
@@ -15000,7 +15000,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Coat of Maiming",
+      "cn": "银狼革制敌短衣",
       "de": "Schakalleder-Mantel des Verstümmelns",
       "en": "Loboskin Coat of Maiming",
       "fr": "Manteau d'abatteur en cuir de loup argenté",
@@ -15021,7 +15021,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Maiming",
+      "cn": "银狼革制敌半指护手",
       "de": "Schakalleder-Fingerlinge des Verstümmelns",
       "en": "Loboskin Fingerless Gloves of Maiming",
       "fr": "Gants sans doigts d'abatteur en cuir de loup argenté",
@@ -15042,7 +15042,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Caligae of Maiming",
+      "cn": "银狼革制敌战靴",
       "de": "Schakalleder-Caligae des Verstümmelns",
       "en": "Loboskin Caligae of Maiming",
       "fr": "Caligae d'abatteur en cuir de loup argenté",
@@ -15063,7 +15063,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Striking",
+      "cn": "银狼革强袭半指护手",
       "de": "Schakalleder-Fingerlinge des Schlagens",
       "en": "Loboskin Fingerless Gloves of Striking",
       "fr": "Gants sans doigts d'agresseur en cuir de loup argenté",
@@ -15084,7 +15084,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Caligae of Striking",
+      "cn": "银狼革强袭战靴",
       "de": "Schakalleder-Caligae des Schlagens",
       "en": "Loboskin Caligae of Striking",
       "fr": "Caligae d'agresseur en cuir de loup argenté",
@@ -15105,7 +15105,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Aiming",
+      "cn": "银狼革精准半指护手",
       "de": "Schakalleder-Fingerlinge des Zielens",
       "en": "Loboskin Fingerless Gloves of Aiming",
       "fr": "Gants sans doigts de pisteur en cuir de loup argenté",
@@ -15126,7 +15126,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Caligae of Aiming",
+      "cn": "银狼革精准战靴",
       "de": "Schakalleder-Caligae des Zielens",
       "en": "Loboskin Caligae of Aiming",
       "fr": "Caligae de pisteur en cuir de loup argenté",
@@ -15147,7 +15147,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Scouting",
+      "cn": "银狼革游击半指护手",
       "de": "Schakalleder-Fingerlinge des Spähens",
       "en": "Loboskin Fingerless Gloves of Scouting",
       "fr": "Gants sans doigts d'éclaireur en cuir de loup argenté",
@@ -15168,7 +15168,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Sandals of Scouting",
+      "cn": "银狼革游击凉鞋",
       "de": "Schakalleder-Sandalen des Spähens",
       "en": "Loboskin Sandals of Scouting",
       "fr": "Sandales d'éclaireur en cuir de loup argenté",
@@ -15189,7 +15189,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Healing",
+      "cn": "银狼革治愈半指护手",
       "de": "Schakalleder-Fingerlinge der Heilung",
       "en": "Loboskin Fingerless Gloves of Healing",
       "fr": "Gants sans doigts de soigneur en cuir de loup argenté",
@@ -15210,7 +15210,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Sandals of Healing",
+      "cn": "银狼革治愈凉鞋",
       "de": "Schakalleder-Sandalen der Heilung",
       "en": "Loboskin Sandals of Healing",
       "fr": "Sandales de soigneur en cuir de loup argenté",
@@ -15231,7 +15231,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves of Casting",
+      "cn": "银狼革咏咒半指护手",
       "de": "Schakalleder-Fingerlinge der Magie",
       "en": "Loboskin Fingerless Gloves of Casting",
       "fr": "Gants sans doigts d'incantateur en cuir de loup argenté",
@@ -15252,7 +15252,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Caligae of Casting",
+      "cn": "银狼革咏咒战靴",
       "de": "Schakalleder-Caligae der Magie",
       "en": "Loboskin Caligae of Casting",
       "fr": "Caligae d'incantateur en cuir de loup argenté",
@@ -15273,7 +15273,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Necklace of Fending",
+      "cn": "银狼革御敌项链",
       "de": "Schakalleder-Halsband der Verteidigung",
       "en": "Loboskin Necklace of Fending",
       "fr": "Collier de protecteur en cuir de loup argenté",
@@ -15294,7 +15294,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Necklace of Slaying",
+      "cn": "银狼革强攻项链",
       "de": "Schakalleder-Halsband des Schlachtens",
       "en": "Loboskin Necklace of Slaying",
       "fr": "Collier d'attaquant en cuir de loup argenté",
@@ -15315,7 +15315,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Necklace of Aiming",
+      "cn": "银狼革精准项链",
       "de": "Schakalleder-Halsband des Zielens",
       "en": "Loboskin Necklace of Aiming",
       "fr": "Collier de pisteur en cuir de loup argenté",
@@ -15336,7 +15336,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Necklace of Healing",
+      "cn": "银狼革治愈项链",
       "de": "Schakalleder-Halsband der Heilung",
       "en": "Loboskin Necklace of Healing",
       "fr": "Collier de soigneur en cuir de loup argenté",
@@ -15357,7 +15357,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Necklace of Casting",
+      "cn": "银狼革咏咒项链",
       "de": "Schakalleder-Halsband der Magie",
       "en": "Loboskin Necklace of Casting",
       "fr": "Collier d'incantateur en cuir de loup argenté",
@@ -15378,7 +15378,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Amulet of Fending",
+      "cn": "银狼革御敌手镯",
       "de": "Schakalleder-Armreif der Verteidigung",
       "en": "Loboskin Amulet of Fending",
       "fr": "Amulette de protecteur en cuir de loup argenté",
@@ -15399,7 +15399,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Amulet of Slaying",
+      "cn": "银狼革强攻手镯",
       "de": "Schakalleder-Armreif des Schlachtens",
       "en": "Loboskin Amulet of Slaying",
       "fr": "Amulette d'attaquant en cuir de loup argenté",
@@ -15420,7 +15420,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Amulet of Aiming",
+      "cn": "银狼革精准手镯",
       "de": "Schakalleder-Armreif des Zielens",
       "en": "Loboskin Amulet of Aiming",
       "fr": "Amulette de pisteur en cuir de loup argenté",
@@ -15441,7 +15441,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Amulet of Healing",
+      "cn": "银狼革治愈手镯",
       "de": "Schakalleder-Armreif der Heilung",
       "en": "Loboskin Amulet of Healing",
       "fr": "Amulette de soigneur en cuir de loup argenté",
@@ -15462,7 +15462,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Amulet of Casting",
+      "cn": "银狼革咏咒手镯",
       "de": "Schakalleder-Armreif der Magie",
       "en": "Loboskin Amulet of Casting",
       "fr": "Amulette d'incantateur en cuir de loup argenté",
@@ -15483,7 +15483,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Fingerless Gloves of Striking",
+      "cn": "锤头鳄革强袭半指护手",
       "de": "Hammerhaidilleder-Fingerlinge des Schlagens",
       "en": "Crocodileskin Fingerless Gloves of Striking",
       "fr": "Gants sans doigts d'agresseur en cuir de croco-marteau",
@@ -15504,7 +15504,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Breeches of Striking",
+      "cn": "锤头鳄革强袭马裤",
       "de": "Hammerhaidilleder-Reiterhose des Schlagens",
       "en": "Crocodileskin Breeches of Striking",
       "fr": "Braies d'agresseur en cuir de croco-marteau",
@@ -15525,7 +15525,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Leg Wraps of Striking",
+      "cn": "锤头鳄革强袭护腿",
       "de": "Hammerhaidilleder-Stiefel des Schlagens",
       "en": "Crocodileskin Leg Wraps of Striking",
       "fr": "Jambières d'agresseur en cuir de croco-marteau",
@@ -15546,7 +15546,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Armguards of Aiming",
+      "cn": "锤头鳄革精准护臂",
       "de": "Hammerhaidilleder-Armschützer des Zielens",
       "en": "Crocodileskin Armguards of Aiming",
       "fr": "Garde-bras de pisteur en cuir de croco-marteau",
@@ -15567,7 +15567,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Thighboots of Aiming",
+      "cn": "锤头鳄革精准长靴",
       "de": "Hammerhaidilleder-Kniestiefel des Zielens",
       "en": "Crocodileskin Thighboots of Aiming",
       "fr": "Cuissardes de pisteur en cuir de croco-marteau",
@@ -15588,7 +15588,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Fingerless Gloves of Scouting",
+      "cn": "锤头鳄革游击半指护手",
       "de": "Hammerhaidilleder-Fingerlinge des Spähens",
       "en": "Crocodileskin Fingerless Gloves of Scouting",
       "fr": "Gants sans doigts d'éclaireur en cuir de croco-marteau",
@@ -15609,7 +15609,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Breeches of Scouting",
+      "cn": "锤头鳄革游击马裤",
       "de": "Hammerhaidilleder-Reiterhose des Spähens",
       "en": "Crocodileskin Breeches of Scouting",
       "fr": "Braies d'éclaireur en cuir de croco-marteau",
@@ -15630,7 +15630,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Leg Wraps of Scouting",
+      "cn": "锤头鳄革游击护腿",
       "de": "Hammerhaidilleder-Stiefel des Spähens",
       "en": "Crocodileskin Leg Wraps of Scouting",
       "fr": "Jambières d'éclaireur en cuir de croco-marteau",
@@ -15651,7 +15651,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Armguards of Healing",
+      "cn": "锤头鳄革治愈护臂",
       "de": "Hammerhaidilleder-Armschützer der Heilung",
       "en": "Crocodileskin Armguards of Healing",
       "fr": "Garde-bras de soigneur en cuir de croco-marteau",
@@ -15672,7 +15672,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Thighboots of Healing",
+      "cn": "锤头鳄革治愈长靴",
       "de": "Hammerhaidilleder-Kniestiefel der Heilung",
       "en": "Crocodileskin Thighboots of Healing",
       "fr": "Cuissardes de soigneur en cuir de croco-marteau",
@@ -15693,7 +15693,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Armguards of Casting",
+      "cn": "锤头鳄革咏咒护臂",
       "de": "Hammerhaidilleder-Armschützer der Magie",
       "en": "Crocodileskin Armguards of Casting",
       "fr": "Garde-bras d'incantateur en cuir de croco-marteau",
@@ -15714,7 +15714,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Crocodileskin Thighboots of Casting",
+      "cn": "锤头鳄革咏咒长靴",
       "de": "Hammerhaidilleder-Kniestiefel der Magie",
       "en": "Crocodileskin Thighboots of Casting",
       "fr": "Cuissardes d'incantateur en cuir de croco-marteau",
@@ -15735,7 +15735,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Headband of Fending",
+      "cn": "狞豹革御敌头带",
       "de": "Br'aaxleder-Stirnband der Verteidigung",
       "en": "Br'aaxskin Headband of Fending",
       "fr": "Bandeau de protecteur en cuir de br'aax",
@@ -15756,7 +15756,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Armlets of Fending",
+      "cn": "狞豹革御敌护臂",
       "de": "Br'aaxleder-Armreife der Verteidigung",
       "en": "Br'aaxskin Armlets of Fending",
       "fr": "Brassards de protecteur en cuir de br'aax",
@@ -15777,7 +15777,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Thighboots of Fending",
+      "cn": "狞豹革御敌高筒靴",
       "de": "Br'aaxleder-Kniestiefel der Verteidigung",
       "en": "Br'aaxskin Thighboots of Fending",
       "fr": "Cuissardes de protecteur en cuir de br'aax",
@@ -15798,7 +15798,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Headband of Maiming",
+      "cn": "狞豹革制敌头带",
       "de": "Br'aaxleder-Stirnband des Verstümmelns",
       "en": "Br'aaxskin Headband of Maiming",
       "fr": "Bandeau d'abatteur en cuir de br'aax",
@@ -15819,7 +15819,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Armlets of Maiming",
+      "cn": "狞豹革制敌护臂",
       "de": "Br'aaxleder-Armreife des Verstümmelns",
       "en": "Br'aaxskin Armlets of Maiming",
       "fr": "Brassards d'abatteur en cuir de br'aax",
@@ -15840,7 +15840,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Thighboots of Maiming",
+      "cn": "狞豹革制敌高筒靴",
       "de": "Br'aaxleder-Kniestiefel des Verstümmelns",
       "en": "Br'aaxskin Thighboots of Maiming",
       "fr": "Cuissardes d'abatteur en cuir de br'aax",
@@ -15861,7 +15861,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Headband of Striking",
+      "cn": "狞豹革强袭头带",
       "de": "Br'aaxleder-Stirnband des Schlagens",
       "en": "Br'aaxskin Headband of Striking",
       "fr": "Bandeau d'agresseur en cuir de br'aax",
@@ -15882,7 +15882,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Armlets of Striking",
+      "cn": "狞豹革强袭护臂",
       "de": "Br'aaxleder-Armreife des Schlagens",
       "en": "Br'aaxskin Armlets of Striking",
       "fr": "Brassards d'agresseur en cuir de br'aax",
@@ -15903,7 +15903,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Sandals of Striking",
+      "cn": "狞豹革强袭凉鞋",
       "de": "Br'aaxleder-Sandalen des Schlagens",
       "en": "Br'aaxskin Sandals of Striking",
       "fr": "Sandales d'agresseur en cuir de br'aax",
@@ -15924,7 +15924,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Headband of Aiming",
+      "cn": "狞豹革精准头带",
       "de": "Br'aaxleder-Stirnband des Zielens",
       "en": "Br'aaxskin Headband of Aiming",
       "fr": "Bandeau de pisteur en cuir de br'aax",
@@ -15945,7 +15945,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Armlets of Aiming",
+      "cn": "狞豹革精准护臂",
       "de": "Br'aaxleder-Armreife des Zielens",
       "en": "Br'aaxskin Armlets of Aiming",
       "fr": "Brassards de pisteur en cuir de br'aax",
@@ -15966,7 +15966,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Sandals of Aiming",
+      "cn": "狞豹革精准凉鞋",
       "de": "Br'aaxleder-Sandalen des Zielens",
       "en": "Br'aaxskin Sandals of Aiming",
       "fr": "Sandales de pisteur en cuir de br'aax",
@@ -15987,7 +15987,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Armlets of Scouting",
+      "cn": "狞豹革游击护臂",
       "de": "Br'aaxleder-Armreife des Spähens",
       "en": "Br'aaxskin Armlets of Scouting",
       "fr": "Brassards d'éclaireur en cuir de br'aax",
@@ -16008,7 +16008,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Sandals of Scouting",
+      "cn": "狞豹革游击凉鞋",
       "de": "Br'aaxleder-Sandalen des Spähens",
       "en": "Br'aaxskin Sandals of Scouting",
       "fr": "Sandales d'éclaireur en cuir de br'aax",
@@ -16029,7 +16029,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Headband of Healing",
+      "cn": "狞豹革治愈头带",
       "de": "Sarsenett-Stirnband der Heilung",
       "en": "Br'aaxskin Headband of Healing",
       "fr": "Bandeau de soigneur en cuir de br'aax",
@@ -16050,7 +16050,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Sandals of Healing",
+      "cn": "狞豹革治愈凉鞋",
       "de": "Br'aaxleder-Sandalen der Heilung",
       "en": "Br'aaxskin Sandals of Healing",
       "fr": "Sandales de soigneur en cuir de br'aax",
@@ -16071,7 +16071,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Headband of Casting",
+      "cn": "狞豹革咏咒头带",
       "de": "Sarsenett-Stirnband der Magie",
       "en": "Br'aaxskin Headband of Casting",
       "fr": "Bandeau d'incantateur en cuir de br'aax",
@@ -16092,7 +16092,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Sandals of Casting",
+      "cn": "狞豹革咏咒凉鞋",
       "de": "Br'aaxleder-Sandalen der Magie",
       "en": "Br'aaxskin Sandals of Casting",
       "fr": "Sandales d'incantateur en cuir de br'aax",
@@ -16113,7 +16113,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Trousers of Fending",
+      "cn": "嵌齿象革御敌软甲裤",
       "de": "Gomphotheriumleder-Hose der Verteidigung",
       "en": "Gomphotherium Trousers of Fending",
       "fr": "Pantalon de protecteur en cuir de gomphotherium",
@@ -16134,7 +16134,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Trousers of Maiming",
+      "cn": "嵌齿象革制敌软甲裤",
       "de": "Gomphotheriumleder-Hose des Verstümmelns",
       "en": "Gomphotherium Trousers of Maiming",
       "fr": "Pantalon d'abatteur en cuir de gomphotherium",
@@ -16155,7 +16155,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Thorned Harness of Striking",
+      "cn": "嵌齿象革强袭钉刺格斗服",
       "de": "Gomphotheriumleder-Dornengurtzeug des Schlagens",
       "en": "Gomphotherium Thorned Harness of Striking",
       "fr": "Harnais épineux d'agresseur en cuir de gomphotherium",
@@ -16176,7 +16176,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Brais of Striking",
+      "cn": "嵌齿象革强袭衬裤",
       "de": "Gomphotheriumleder-Braies des Schlagens",
       "en": "Gomphotherium Brais of Striking",
       "fr": "Brailles d'agresseur en cuir de gomphotherium",
@@ -16197,7 +16197,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Boots of Striking",
+      "cn": "嵌齿象革强袭筒靴",
       "de": "Gomphotheriumleder-Stiefel des Schlagens",
       "en": "Gomphotherium Boots of Striking",
       "fr": "Bottes d'agresseur en cuir de gomphotherium",
@@ -16218,7 +16218,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Thornvest of Aiming",
+      "cn": "嵌齿象革精准钉刺坎肩",
       "de": "Gomphotheriumleder-Dornenweste des Zielens",
       "en": "Gomphotherium Thornvest of Aiming",
       "fr": "Gilet épineux de pisteur en cuir de gomphotherium",
@@ -16239,7 +16239,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Brais of Aiming",
+      "cn": "嵌齿象革精准衬裤",
       "de": "Gomphotheriumleder-Braies des Zielens",
       "en": "Gomphotherium Brais of Aiming",
       "fr": "Brailles de pisteur en cuir de gomphotherium",
@@ -16260,7 +16260,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Boots of Aiming",
+      "cn": "嵌齿象革精准筒靴",
       "de": "Gomphotheriumleder-Stiefel des Zielens",
       "en": "Gomphotherium Boots of Aiming",
       "fr": "Bottes de pisteur en cuir de gomphotherium",
@@ -16281,7 +16281,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Trousers of Scouting",
+      "cn": "嵌齿象革游击软甲裤",
       "de": "Gomphotheriumleder-Hose des Spähens",
       "en": "Gomphotherium Trousers of Scouting",
       "fr": "Pantalon d'éclaireur en cuir de gomphotherium",
@@ -16302,7 +16302,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Thornvest of Healing",
+      "cn": "嵌齿象革治愈钉刺坎肩",
       "de": "Gomphotheriumleder-Dornenweste der Heilung",
       "en": "Gomphotherium Thornvest of Healing",
       "fr": "Gilet épineux de soigneur en cuir de gomphotherium",
@@ -16323,7 +16323,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Brais of Healing",
+      "cn": "嵌齿象革治愈衬裤",
       "de": "Gomphotheriumleder-Braies der Heilung",
       "en": "Gomphotherium Brais of Healing",
       "fr": "Brailles de soigneur en cuir de gomphotherium",
@@ -16344,7 +16344,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Boots of Healing",
+      "cn": "嵌齿象革治愈筒靴",
       "de": "Gomphotheriumleder-Stiefel der Heilung",
       "en": "Gomphotherium Boots of Healing",
       "fr": "Bottes de soigneur en cuir de gomphotherium",
@@ -16365,7 +16365,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Thornvest of Casting",
+      "cn": "嵌齿象革咏咒钉刺坎肩",
       "de": "Gomphotheriumleder-Dornenweste der Magie",
       "en": "Gomphotherium Thornvest of Casting",
       "fr": "Gilet épineux d'incantateur en cuir de gomphotherium",
@@ -16386,7 +16386,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Brais of Casting",
+      "cn": "嵌齿象革咏咒手套",
       "de": "Gomphotheriumleder-Braies der Magie",
       "en": "Gomphotherium Brais of Casting",
       "fr": "Brailles d'incantateur en cuir de gomphotherium",
@@ -16407,7 +16407,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Boots of Casting",
+      "cn": "嵌齿象革咏咒筒靴",
       "de": "Gomphotheriumleder-Stiefel der Magie",
       "en": "Gomphotherium Boots of Casting",
       "fr": "Bottes d'incantateur en cuir de gomphotherium",
@@ -16428,7 +16428,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Gargantuaskin Trousers of Fending",
+      "cn": "卡冈图亚革御敌软甲裤",
       "de": "Gargantualeder-Hose der Verteidigung",
       "en": "Gargantuaskin Trousers of Fending",
       "fr": "Pantalon de protecteur en cuir de gargantua",
@@ -16449,7 +16449,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Gargantuaskin Trousers of Maiming",
+      "cn": "卡冈图亚革制敌软甲裤",
       "de": "Gargantualeder-Hose des Verstümmelns",
       "en": "Gargantuaskin Trousers of Maiming",
       "fr": "Pantalon d'abatteur en cuir de gargantua",
@@ -16470,7 +16470,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Gargantuaskin Jacket of Striking",
+      "cn": "卡冈图亚革强袭短衣",
       "de": "Gargantualeder-Jacke des Schlagens",
       "en": "Gargantuaskin Jacket of Striking",
       "fr": "Jaque d'agresseur en cuir de gargantua",
@@ -16491,7 +16491,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Gargantuaskin Trousers of Striking",
+      "cn": "卡冈图亚革强袭软甲裤",
       "de": "Gargantualeder-Hose des Schlagens",
       "en": "Gargantuaskin Trousers of Striking",
       "fr": "Pantalon d'agresseur en cuir de gargantua",
@@ -16512,7 +16512,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Gargantuaskin Shoes of Healing",
+      "cn": "卡冈图亚革治愈皮靴",
       "de": "Gargantualeder-Schuhe der Heilung",
       "en": "Gargantuaskin Shoes of Healing",
       "fr": "Chaussures de soigneur en cuir de gargantua",
@@ -16533,7 +16533,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Gargantuaskin Shoes of Casting",
+      "cn": "卡冈图亚革咏咒皮靴",
       "de": "Gargantualeder-Schuhe der Magie",
       "en": "Gargantuaskin Shoes of Casting",
       "fr": "Chaussures d'incantateur en cuir de gargantua",
@@ -16554,7 +16554,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Fingerless Gloves",
+      "cn": "银狼革半指护手",
       "de": "Schakalleder-Fingerlinge",
       "en": "Loboskin Fingerless Gloves",
       "fr": "Gants sans doigts en cuir de loup argenté",
@@ -16575,7 +16575,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Shoes",
+      "cn": "银狼革皮靴",
       "de": "Schakalleder-Schuhe",
       "en": "Loboskin Shoes",
       "fr": "Chaussures en cuir de loup argenté",
@@ -16596,7 +16596,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Coat",
+      "cn": "银狼革外套",
       "de": "Schneebaumwoll-Mantel",
       "en": "Loboskin Coat",
       "fr": "Manteau en cuir de loup argenté",
@@ -16617,7 +16617,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Gloves",
+      "cn": "银狼革手套",
       "de": "Schakalleder-Handschuhe",
       "en": "Loboskin Gloves",
       "fr": "Gants en cuir de loup argenté",
@@ -16638,7 +16638,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Boots",
+      "cn": "银狼革长靴",
       "de": "Schakalleder-Stiefel",
       "en": "Loboskin Boots",
       "fr": "Bottes en cuir de loup argenté",
@@ -16659,7 +16659,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Halfgloves of Crafting",
+      "cn": "狞豹革巧匠半指手套",
       "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
       "en": "Br'aaxskin Halfgloves of Crafting",
       "fr": "Mitaines des créations en cuir de br'aax",
@@ -16680,7 +16680,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Workboots of Crafting",
+      "cn": "狞豹革巧匠工作靴",
       "de": "Br'aaxleder-Arbeitsstiefel des Handwerks",
       "en": "Br'aaxskin Workboots of Crafting",
       "fr": "Bottes de travail des créations en cuir de br'aax",
@@ -16701,7 +16701,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Halfgloves of Gathering",
+      "cn": "狞豹革大地半指护手",
       "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
       "en": "Br'aaxskin Halfgloves of Gathering",
       "fr": "Mitaines des ressources en cuir de br'aax",
@@ -16722,7 +16722,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Boots of Gathering",
+      "cn": "狞豹革大地工作靴",
       "de": "Br'aaxleder-Stiefel des Eifers",
       "en": "Br'aaxskin Boots of Gathering",
       "fr": "Bottes des ressources en cuir de br'aax",
@@ -16743,7 +16743,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Fingerless Gloves of Crafting",
+      "cn": "嵌齿象革巧匠半指手套",
       "de": "Gomphotheriumleder-Fingerlinge des Handwerks",
       "en": "Gomphotherium Fingerless Gloves of Crafting",
       "fr": "Gants sans doigts des créations en cuir de gomphotherium",
@@ -16764,7 +16764,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Boots",
+      "cn": "嵌齿象革巧匠长靴",
       "de": "Gomphotheriumleder-Stiefel des Handwerks",
       "en": "Gomphotherium Boots",
       "fr": "Bottes des créations en cuir de gomphotherium",
@@ -16785,7 +16785,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Doublet of Gathering",
+      "cn": "嵌齿象革大地工作坎肩",
       "de": "Rroneeksergen-Wams des Eifers",
       "en": "Gomphotherium Doublet of Gathering",
       "fr": "Gilet doublet des ressources en cuir de gomphotherium",
@@ -16806,7 +16806,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Halfgloves of Gathering",
+      "cn": "嵌齿象革大地半指护手",
       "de": "Gomphotheriumleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
       "en": "Gomphotherium Halfgloves of Gathering",
       "fr": "Mitaines des ressources en cuir de gomphotherium",
@@ -16827,7 +16827,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Boots of Gathering",
+      "cn": "嵌齿象革大地工作靴",
       "de": "Gomphotheriumleder-Stiefel des Eifers",
       "en": "Gomphotherium Boots of Gathering",
       "fr": "Bottes des ressources en cuir de gomphotherium",
@@ -16848,7 +16848,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Gargantuaskin Halfgloves of Crafting",
+      "cn": "卡冈图亚革巧匠半指手套",
       "de": "Gargantualeder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
       "en": "Gargantuaskin Halfgloves of Crafting",
       "fr": "Mitaines des créations en cuir de gargantua",
@@ -16869,7 +16869,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Gargantuaskin Hat of Gathering",
+      "cn": "卡冈图亚革大地工作帽",
       "de": "Gargantualeder-Hut des Eifers",
       "en": "Gargantuaskin Hat of Gathering",
       "fr": "Chapeau des ressources en cuir de gargantua",
@@ -16890,7 +16890,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Gargantuaskin Fingerless Gloves of Gathering",
+      "cn": "卡冈图亚革大地半指护手",
       "de": "Paar Gargantualeder-Fingerlinge des Eifers",
       "en": "Gargantuaskin Fingerless Gloves of Gathering",
       "fr": "Gants sans doigts des ressources en cuir de gargantua",
@@ -16911,7 +16911,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Earrings",
+      "cn": "嵌齿象革耳坠",
       "de": "Gomphotheriumleder-Ohrringe",
       "en": "Gomphotherium Earrings",
       "fr": "Boucles d'oreilles en cuir de gomphotherium",
@@ -16932,7 +16932,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Necklace",
+      "cn": "嵌齿象革项链",
       "de": "Gomphotheriumleder-Halsband",
       "en": "Gomphotherium Necklace",
       "fr": "Collier en cuir de gomphotherium",
@@ -16953,7 +16953,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Wristband",
+      "cn": "嵌齿象革手环",
       "de": "Gomphotheriumleder-Armband",
       "en": "Gomphotherium Wristband",
       "fr": "Poignet en cuir de gomphotherium",
@@ -16974,7 +16974,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Ring",
+      "cn": "嵌齿象革指环",
       "de": "Gomphotheriumleder-Ring",
       "en": "Gomphotherium Ring",
       "fr": "Bague en cuir de gomphotherium",
@@ -16995,7 +16995,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Royal Leather Sofa",
+      "cn": "高级皮革沙发",
       "de": "Königliches Ledersofa",
       "en": "Royal Leather Sofa",
       "fr": "Canapé royal en cuir",
@@ -33459,7 +33459,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Handcrafted Cover Components",
+      "cn": "全新的装订部件",
       "de": "Basis-Einbandkomponente",
       "en": "Handcrafted Cover Components",
       "fr": "Composant de reliure toute neuve",
@@ -33480,7 +33480,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Pelupelu Cover Components",
+      "cn": "佩鲁佩鲁族样式的装订部件",
       "de": "Pelupelu-Einbandkomponente",
       "en": "Pelupelu Cover Components",
       "fr": "Composant de reliure à la mode des Pelupelu",
@@ -33501,7 +33501,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Moblin Cover Components",
+      "cn": "莫布林族样式的装订部件",
       "de": "Moblin-Einbandkomponente",
       "en": "Moblin Cover Components",
       "fr": "Composant de reliure à la mode des Mobelins",
@@ -33522,7 +33522,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Mamool Ja Cover Components",
+      "cn": "辉鳞族样式的装订部件",
       "de": "Mamool Ja-Einbandkomponente",
       "en": "Mamool Ja Cover Components",
       "fr": "Composant de reliure à la mode des Mamool Ja",
@@ -33543,7 +33543,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Yok Huy Cover",
+      "cn": "尤卡巨人族样式的封面",
       "de": "Yok Huy-Einband",
       "en": "Yok Huy Cover",
       "fr": "Reliure à la mode des Yok Huy",
@@ -33564,7 +33564,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Tonawawtan Cover Components",
+      "cn": "迎曦之民样式的装订部件",
       "de": "Tonawawta-Einbandkomponente",
       "en": "Tonawawtan Cover Components",
       "fr": "Reliure à la mode des Tonawawta",
@@ -33585,7 +33585,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Loboskin Fingerless Gloves",
+      "cn": "收藏用银狼革半指护手",
       "de": "Schakalleder-Fingerlinge (Sammlerstück)",
       "en": "Rarefied Loboskin Fingerless Gloves",
       "fr": "Gants sans doigts en cuir de loup argenté collectionnables",
@@ -33606,7 +33606,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Crocodileskin Leggings",
+      "cn": "收藏用锤头鳄护腿",
       "de": "Hammerhaidilleder-Stiefel (Sammlerstück)",
       "en": "Rarefied Crocodileskin Leggings",
       "fr": "Jambières en cuir de croco-marteau collectionnables",
@@ -33627,7 +33627,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Br'aaxskin Armlets",
+      "cn": "收藏用狞豹革护臂",
       "de": "Br'aaxleder-Armreife (Sammlerstück)",
       "en": "Rarefied Br'aaxskin Armlets",
       "fr": "Brassards en cuir de br'aax collectionnables",
@@ -33648,7 +33648,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied Gomphotherium Brais",
+      "cn": "收藏用嵌齿象革衬裤",
       "de": "Gomphotheriumleder-Braies (Sammlerstück)",
       "en": "Rarefied Gomphotherium Brais",
       "fr": "Brailles en cuir de gomphotherium collectionnables",
@@ -33669,7 +33669,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Gargantuaskin Trousers",
+      "cn": "收藏用卡冈图亚革软甲裤",
       "de": "Gargantualeder-Hose (Sammlerstück)",
       "en": "Rarefied Gargantuaskin Trousers",
       "fr": "Pantalon en cuir de gargantua collectionnable",
@@ -33690,7 +33690,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Gargantuaskin Hat",
+      "cn": "收藏用卡冈图亚革帽",
       "de": "Gargantualeder-Hut (Sammlerstück)",
       "en": "Rarefied Gargantuaskin Hat",
       "fr": "Chapeau en cuir de gargantua collectionnable",
@@ -34005,7 +34005,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Turali Trader's Shoes",
+      "cn": "图拉尔商人皮鞋",
       "de": "Turalische Händlerschuhe",
       "en": "Turali Trader's Shoes",
       "fr": "Chaussures de commerçant turalien",
@@ -34026,7 +34026,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Turali Traveler's Shoes",
+      "cn": "图拉尔旅行者皮鞋",
       "de": "Turalische Reiseschuhe",
       "en": "Turali Traveler's Shoes",
       "fr": "Chaussures de voyageur turalien",

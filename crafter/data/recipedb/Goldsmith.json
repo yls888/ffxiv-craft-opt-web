@@ -21741,7 +21741,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ingot",
+      "cn": "混金锭",
       "de": "Lar-Barren",
       "en": "Lar Ingot",
       "fr": "Lingot de lar",
@@ -21762,7 +21762,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite",
+      "cn": "河岸石",
       "de": "Ihuykanit",
       "en": "Ihuykanite",
       "fr": "Ihuykanite",
@@ -21783,7 +21783,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl",
+      "cn": "粉绿柱石",
       "de": "Rosenberyll",
       "en": "Pink Beryl",
       "fr": "Béryl rose",
@@ -21804,7 +21804,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Ingot",
+      "cn": "白黄金锭",
       "de": "Weißgold-Barren",
       "en": "White Gold Ingot",
       "fr": "Lingot d'or blanc",
@@ -21825,7 +21825,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star",
+      "cn": "黑星石",
       "de": "Schwarzstern",
       "en": "Black Star",
       "fr": "Étoile sombre",
@@ -21846,7 +21846,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Glaive",
+      "cn": "混金大刀",
       "de": "Lar-Gleve",
       "en": "Lar Glaive",
       "fr": "Gladius en lar",
@@ -21867,7 +21867,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Longbow",
+      "cn": "混金长弓",
       "de": "Lar-Langbogen",
       "en": "Lar Longbow",
       "fr": "Arc long en lar",
@@ -21888,7 +21888,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Cane",
+      "cn": "混金牧杖",
       "de": "Lar-Stock",
       "en": "Lar Cane",
       "fr": "Canne en lar",
@@ -21909,7 +21909,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Rod",
+      "cn": "混金法杖",
       "de": "Lar-Stab",
       "en": "Lar Rod",
       "fr": "Sceptre en lar",
@@ -21930,7 +21930,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Star Globe",
+      "cn": "混金天球仪",
       "de": "Lar-Sternenglobus",
       "en": "Lar Star Globe",
       "fr": "Globe céleste en lar",
@@ -21951,7 +21951,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Rapier",
+      "cn": "混金刺剑",
       "de": "Lar-Rapier",
       "en": "Lar Rapier",
       "fr": "Rapière en lar",
@@ -21972,7 +21972,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Pendulums",
+      "cn": "混金振空摆",
       "de": "Lar-Perpendikel",
       "en": "Lar Pendulums",
       "fr": "Pendules en lar",
@@ -21993,7 +21993,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Headgear of Fending",
+      "cn": "混金御敌头甲",
       "de": "Lar-Kopfbedeckung der Verteidigung",
       "en": "Lar Headgear of Fending",
       "fr": "Protège-tête de protecteur en lar",
@@ -22014,7 +22014,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Headgear of Maiming",
+      "cn": "混金制敌头甲",
       "de": "Lar-Kopfbedeckung des Verstümmelns",
       "en": "Lar Headgear of Maiming",
       "fr": "Protège-tête d'abatteur en lar",
@@ -22035,7 +22035,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ring of Fending",
+      "cn": "混金御敌指环",
       "de": "Lar-Ring der Verteidigung",
       "en": "Lar Ring of Fending",
       "fr": "Bague de protecteur en lar",
@@ -22056,7 +22056,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ring of Slaying",
+      "cn": "混金强攻指环",
       "de": "Lar-Ring des Schlachtens",
       "en": "Lar Ring of Slaying",
       "fr": "Bague d'attaquant en lar",
@@ -22077,7 +22077,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ring of Aiming",
+      "cn": "混金精准指环",
       "de": "Lar-Ring des Zielens",
       "en": "Lar Ring of Aiming",
       "fr": "Bague de pisteur en lar",
@@ -22098,7 +22098,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ring of Healing",
+      "cn": "混金治愈指环",
       "de": "Lar-Ring der Heilung",
       "en": "Lar Ring of Healing",
       "fr": "Bague de soigneur en lar",
@@ -22119,7 +22119,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ring of Casting",
+      "cn": "混金咏咒指环",
       "de": "Lar-Ring der Magie",
       "en": "Lar Ring of Casting",
       "fr": "Bague d'incantateur en lar",
@@ -22140,7 +22140,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Knives",
+      "cn": "钌金匕首",
       "de": "Ruthenium-Messer",
       "en": "Ruthenium Knives",
       "fr": "Couteaux en ruthénium",
@@ -22161,7 +22161,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Torquetum",
+      "cn": "钌金黄道仪",
       "de": "Ruthenium-Torquetum",
       "en": "Ruthenium Torquetum",
       "fr": "Torquetum en ruthénium",
@@ -22182,7 +22182,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Tuck",
+      "cn": "钌金刺剑",
       "de": "Ruthenium-Estoc",
       "en": "Ruthenium Tuck",
       "fr": "Estoc en ruthénium",
@@ -22203,7 +22203,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Folding Fans",
+      "cn": "钌金折扇",
       "de": "Ruthenium-Faltfächer",
       "en": "Ruthenium Folding Fans",
       "fr": "Éventails pliables en ruthénium",
@@ -22224,7 +22224,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Circlet of Fending",
+      "cn": "河岸石御敌头冠",
       "de": "Ihuykanit-Stirnreif der Verteidigung",
       "en": "Ihuykanite Circlet of Fending",
       "fr": "Diadème de protecteur en ihuykanite",
@@ -22245,7 +22245,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Circlet of Maiming",
+      "cn": "河岸石制敌头冠",
       "de": "Ihuykanit-Stirnreif des Verstümmelns",
       "en": "Ihuykanite Circlet of Maiming",
       "fr": "Diadème d'abatteur en ihuykanite",
@@ -22266,7 +22266,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Earring of Fending",
+      "cn": "河岸石御敌耳坠",
       "de": "Ihuykanit-Ohrring der Verteidigung",
       "en": "Ihuykanite Earring of Fending",
       "fr": "Boucle d'oreille de protecteur en ihuykanite",
@@ -22287,7 +22287,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Earring of Slaying",
+      "cn": "河岸石强攻耳坠",
       "de": "Ihuykanit-Ohrring des Schlachtens",
       "en": "Ihuykanite Earring of Slaying",
       "fr": "Boucle d'oreille d'attaquant en ihuykanite",
@@ -22308,7 +22308,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Earring of Aiming",
+      "cn": "河岸石精准耳坠",
       "de": "Ihuykanit-Ohrring des Zielens",
       "en": "Ihuykanite Earring of Aiming",
       "fr": "Boucle d'oreille de pisteur en ihuykanite",
@@ -22329,7 +22329,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Earring of Healing",
+      "cn": "河岸石治愈耳坠",
       "de": "Ihuykanit-Ohrring der Heilung",
       "en": "Ihuykanite Earring of Healing",
       "fr": "Boucle d'oreille de soigneur en ihuykanite",
@@ -22350,7 +22350,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Earring of Casting",
+      "cn": "河岸石咏咒耳坠",
       "de": "Ihuykanit-Ohrring der Magie",
       "en": "Ihuykanite Earring of Casting",
       "fr": "Boucle d'oreille d'incantateur en ihuykanite",
@@ -22371,7 +22371,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Choker of Fending",
+      "cn": "河岸石御敌项环",
       "de": "Ihuykanit-Halsberge der Verteidigung",
       "en": "Ihuykanite Choker of Fending",
       "fr": "Ras de cou de protecteur en ihuykanite",
@@ -22392,7 +22392,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Choker of Slaying",
+      "cn": "河岸石强攻项环",
       "de": "Ihuykanit-Halsberge des Schlachtens",
       "en": "Ihuykanite Choker of Slaying",
       "fr": "Ras de cou d'attaquant en ihuykanite",
@@ -22413,7 +22413,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Choker of Aiming",
+      "cn": "河岸石精准项环",
       "de": "Ihuykanit-Halsberge des Zielens",
       "en": "Ihuykanite Choker of Aiming",
       "fr": "Ras de cou de pisteur en ihuykanite",
@@ -22434,7 +22434,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Choker of Healing",
+      "cn": "河岸石治愈项环",
       "de": "Ihuykanit-Halsberge der Heilung",
       "en": "Ihuykanite Choker of Healing",
       "fr": "Ras de cou de soigneur en ihuykanite",
@@ -22455,7 +22455,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Choker of Casting",
+      "cn": "河岸石咏咒项环",
       "de": "Ihuykanit-Halsberge der Magie",
       "en": "Ihuykanite Choker of Casting",
       "fr": "Ras de cou d'incantateur en ihuykanite",
@@ -22476,7 +22476,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Bracelet of Fending",
+      "cn": "河岸石御敌手镯",
       "de": "Ihuykanit-Armband der Verteidigung",
       "en": "Ihuykanite Bracelet of Fending",
       "fr": "Bracelet de protecteur en ihuykanite",
@@ -22497,7 +22497,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Bracelet of Slaying",
+      "cn": "河岸石强攻手镯",
       "de": "Ihuykanit-Armband des Schlachtens",
       "en": "Ihuykanite Bracelet of Slaying",
       "fr": "Bracelet d'attaquant en ihuykanite",
@@ -22518,7 +22518,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Bracelet of Aiming",
+      "cn": "河岸石精准手镯",
       "de": "Ihuykanit-Armband des Zielens",
       "en": "Ihuykanite Bracelet of Aiming",
       "fr": "Bracelet de pisteur en ihuykanite",
@@ -22539,7 +22539,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Bracelet of Healing",
+      "cn": "河岸石治愈手镯",
       "de": "Ihuykanit-Armband der Heilung",
       "en": "Ihuykanite Bracelet of Healing",
       "fr": "Bracelet de soigneur en ihuykanite",
@@ -22560,7 +22560,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ihuykanite Bracelet of Casting",
+      "cn": "河岸石咏咒手镯",
       "de": "Ihuykanit-Armband der Magie",
       "en": "Ihuykanite Bracelet of Casting",
       "fr": "Bracelet d'incantateur en ihuykanite",
@@ -22581,7 +22581,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Ring of Fending",
+      "cn": "河岸石御敌指环",
       "de": "Ihuykanit-Ring der Verteidigung",
       "en": "Ihuykanite Ring of Fending",
       "fr": "Bague de protecteur en ihuykanite",
@@ -22602,7 +22602,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Ring of Slaying",
+      "cn": "河岸石强攻指环",
       "de": "Ihuykanit-Ring des Schlachtens",
       "en": "Ihuykanite Ring of Slaying",
       "fr": "Bague d'attaquant en ihuykanite",
@@ -22623,7 +22623,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Ring of Aiming",
+      "cn": "河岸石精准指环",
       "de": "Ihuykanit-Ring des Zielens",
       "en": "Ihuykanite Ring of Aiming",
       "fr": "Bague de pisteur en ihuykanite",
@@ -22644,7 +22644,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Ring of Healing",
+      "cn": "河岸石治愈指环",
       "de": "Ihuykanit-Ring der Heilung",
       "en": "Ihuykanite Ring of Healing",
       "fr": "Bague de soigneur en ihuykanite",
@@ -22665,7 +22665,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ihuykanite Ring of Casting",
+      "cn": "河岸石咏咒指环",
       "de": "Ihuykanit-Ring der Magie",
       "en": "Ihuykanite Ring of Casting",
       "fr": "Bague d'incantateur en ihuykanite",
@@ -22686,7 +22686,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Planisphere",
+      "cn": "钴钨天星盘",
       "de": "Wolfram-Koboldeisen-Planisphäre",
       "en": "Cobalt Tungsten Planisphere",
       "fr": "Planisphère en alliage de cobalt-tungstène",
@@ -22707,7 +22707,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Tuck",
+      "cn": "钴钨刺剑",
       "de": "Wolfram-Koboldeisen-Estoc",
       "en": "Cobalt Tungsten Tuck",
       "fr": "Estoc en alliage de cobalt-tungstène",
@@ -22728,7 +22728,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Pendulums",
+      "cn": "钴钨振空摆",
       "de": "Wolfram-Koboldeisen-Perpendikel",
       "en": "Cobalt Tungsten Pendulums",
       "fr": "Pendules en alliage de cobalt-tungstène",
@@ -22749,7 +22749,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Halfgloves of Healing",
+      "cn": "粉绿柱石治愈半指手套",
       "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
       "en": "Pink Beryl Halfgloves of Healing",
       "fr": "Mitaines de soigneur en béryl rose",
@@ -22770,7 +22770,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Halfgloves of Casting",
+      "cn": "粉绿柱石咏咒半指手套",
       "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
       "en": "Pink Beryl Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en béryl rose",
@@ -22791,7 +22791,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Earrings of Fending",
+      "cn": "粉绿柱石御敌耳坠",
       "de": "Rosenberyll-Ohrringe der Verteidigung",
       "en": "Pink Beryl Earrings of Fending",
       "fr": "Boucles d'oreilles de protecteur en béryl rose",
@@ -22812,7 +22812,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Earrings of Slaying",
+      "cn": "粉绿柱石强攻耳坠",
       "de": "Rosenberyll-Ohrringe des Schlachtens",
       "en": "Pink Beryl Earrings of Slaying",
       "fr": "Boucles d'oreilles d'attaquant en béryl rose",
@@ -22833,7 +22833,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Earrings of Aiming",
+      "cn": "粉绿柱石精准耳坠",
       "de": "Rosenberyll-Ohrringe des Zielens",
       "en": "Pink Beryl Earrings of Aiming",
       "fr": "Boucles d'oreilles de pisteur en béryl rose",
@@ -22854,7 +22854,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Earrings of Healing",
+      "cn": "粉绿柱石治愈耳坠",
       "de": "Rosenberyll-Ohrringe der Heilung",
       "en": "Pink Beryl Earrings of Healing",
       "fr": "Boucles d'oreilles de soigneur en béryl rose",
@@ -22875,7 +22875,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Earrings of Casting",
+      "cn": "粉绿柱石咏咒耳坠",
       "de": "Rosenberyll-Ohrringe der Magie",
       "en": "Pink Beryl Earrings of Casting",
       "fr": "Boucles d'oreilles d'incantateur en béryl rose",
@@ -22896,7 +22896,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Bracelet of Fending",
+      "cn": "粉绿柱石御敌手镯",
       "de": "Rosenberyll-Armband der Verteidigung",
       "en": "Pink Beryl Bracelet of Fending",
       "fr": "Bracelet de protecteur en béryl rose",
@@ -22917,7 +22917,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Bracelet of Slaying",
+      "cn": "粉绿柱石强攻手镯",
       "de": "Rosenberyll-Armband des Schlachtens",
       "en": "Pink Beryl Bracelet of Slaying",
       "fr": "Bracelet d'attaquant en béryl rose",
@@ -22938,7 +22938,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Bracelet of Aiming",
+      "cn": "粉绿柱石精准手镯",
       "de": "Rosenberyll-Armband des Zielens",
       "en": "Pink Beryl Bracelet of Aiming",
       "fr": "Bracelet de pisteur en béryl rose",
@@ -22959,7 +22959,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Bracelet of Healing",
+      "cn": "粉绿柱石治愈手镯",
       "de": "Rosenberyll-Armband der Heilung",
       "en": "Pink Beryl Bracelet of Healing",
       "fr": "Bracelet de soigneur en béryl rose",
@@ -22980,7 +22980,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Pink Beryl Bracelet of Casting",
+      "cn": "粉绿柱石咏咒手镯",
       "de": "Rosenberyll-Armband der Magie",
       "en": "Pink Beryl Bracelet of Casting",
       "fr": "Bracelet d'incantateur en béryl rose",
@@ -23001,7 +23001,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Pink Beryl Ring of Fending",
+      "cn": "粉绿柱石御敌指环",
       "de": "Rosenberyll-Ring der Verteidigung",
       "en": "Pink Beryl Ring of Fending",
       "fr": "Bague de protecteur en béryl rose",
@@ -23022,7 +23022,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Pink Beryl Ring of Slaying",
+      "cn": "粉绿柱石强攻指环",
       "de": "Rosenberyll-Ring des Schlachtens",
       "en": "Pink Beryl Ring of Slaying",
       "fr": "Bague d'attaquant en béryl rose",
@@ -23043,7 +23043,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Pink Beryl Ring of Aiming",
+      "cn": "粉绿柱石精准指环",
       "de": "Rosenberyll-Ring des Zielens",
       "en": "Pink Beryl Ring of Aiming",
       "fr": "Bague de pisteur en béryl rose",
@@ -23064,7 +23064,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Pink Beryl Ring of Healing",
+      "cn": "粉绿柱石治愈指环",
       "de": "Rosenberyll-Ring der Heilung",
       "en": "Pink Beryl Ring of Healing",
       "fr": "Bague de soigneur en béryl rose",
@@ -23085,7 +23085,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Pink Beryl Ring of Casting",
+      "cn": "粉绿柱石咏咒指环",
       "de": "Rosenberyll-Ring der Magie",
       "en": "Pink Beryl Ring of Casting",
       "fr": "Bague d'incantateur en béryl rose",
@@ -23106,7 +23106,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Astrometer",
+      "cn": "白黄金量天仪",
       "de": "Weißgold-Astrometer",
       "en": "White Gold Astrometer",
       "fr": "Planisphère en or blanc",
@@ -23127,7 +23127,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Foil",
+      "cn": "白黄金花剑",
       "de": "Weißgold-Florett",
       "en": "White Gold Foil",
       "fr": "Fleuret en or blanc",
@@ -23148,7 +23148,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Syrinxi",
+      "cn": "白黄金注射管",
       "de": "Weißgold-Syrinxi",
       "en": "White Gold Syrinxi",
       "fr": "Syrinx en or blanc",
@@ -23169,7 +23169,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Halfmask of Maiming",
+      "cn": "白黄金强攻半假面",
       "de": "Weißgold-Halbmaske des Verstümmelns",
       "en": "White Gold Halfmask of Maiming",
       "fr": "Demi-masque d'abatteur en or blanc",
@@ -23190,7 +23190,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Mask of Aiming",
+      "cn": "白黄金精准面具",
       "de": "Weißgold-Maske des Zielens",
       "en": "White Gold Mask of Aiming",
       "fr": "Masque de pisteur en or blanc",
@@ -23211,7 +23211,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Halfmask of Scouting",
+      "cn": "白黄金游击半假面",
       "de": "Weißgold-Halbmaske des Spähens",
       "en": "White Gold Halfmask of Scouting",
       "fr": "Demi-masque d'éclaireur en or blanc",
@@ -23232,7 +23232,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Visor of Healing",
+      "cn": "白黄金治愈眼罩",
       "de": "Weißgold-Visier der Heilung",
       "en": "White Gold Visor of Healing",
       "fr": "Visière de soigneur en or blanc",
@@ -23253,7 +23253,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Earrings of Fending",
+      "cn": "白黄金御敌耳坠",
       "de": "Weißgold-Ohrringe der Verteidigung",
       "en": "White Gold Earrings of Fending",
       "fr": "Boucles d'oreilles de protecteur en or blanc",
@@ -23274,7 +23274,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Earrings of Slaying",
+      "cn": "白黄金强攻耳坠",
       "de": "Weißgold-Ohrringe des Schlachtens",
       "en": "White Gold Earrings of Slaying",
       "fr": "Boucles d'oreilles d'attaquant en or blanc",
@@ -23295,7 +23295,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Earrings of Aiming",
+      "cn": "白黄金精准耳坠",
       "de": "Weißgold-Ohrringe des Zielens",
       "en": "White Gold Earrings of Aiming",
       "fr": "Boucles d'oreilles de pisteur en or blanc",
@@ -23316,7 +23316,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Earrings of Healing",
+      "cn": "白黄金治愈耳坠",
       "de": "Weißgold-Ohrringe der Heilung",
       "en": "White Gold Earrings of Healing",
       "fr": "Boucles d'oreilles de soigneur en or blanc",
@@ -23337,7 +23337,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Earrings of Casting",
+      "cn": "白黄金咏咒耳坠",
       "de": "Weißgold-Ohrringe der Magie",
       "en": "White Gold Earrings of Casting",
       "fr": "Boucles d'oreilles d'incantateur en or blanc",
@@ -23358,7 +23358,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Choker of Fending",
+      "cn": "白黄金御敌项环",
       "de": "Weißgold-Halsberge der Verteidigung",
       "en": "White Gold Choker of Fending",
       "fr": "Ras de cou de protecteur en or blanc",
@@ -23379,7 +23379,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Choker of Slaying",
+      "cn": "白黄金强攻项环",
       "de": "Weißgold-Halsberge des Schlachtens",
       "en": "White Gold Choker of Slaying",
       "fr": "Ras de cou d'attaquant en or blanc",
@@ -23400,7 +23400,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Choker of Aiming",
+      "cn": "白黄金精准项环",
       "de": "Weißgold-Halsberge des Zielens",
       "en": "White Gold Choker of Aiming",
       "fr": "Ras de cou de pisteur en or blanc",
@@ -23421,7 +23421,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Choker of Healing",
+      "cn": "白黄金治愈项环",
       "de": "Weißgold-Halsberge der Heilung",
       "en": "White Gold Choker of Healing",
       "fr": "Ras de cou de soigneur en or blanc",
@@ -23442,7 +23442,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Choker of Casting",
+      "cn": "白黄金咏咒项环",
       "de": "Weißgold-Halsberge der Magie",
       "en": "White Gold Choker of Casting",
       "fr": "Ras de cou d'incantateur en or blanc",
@@ -23463,7 +23463,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Amulet of Fending",
+      "cn": "白黄金御敌护身手镯",
       "de": "Weißgold-Amulett der Verteidigung",
       "en": "White Gold Amulet of Fending",
       "fr": "Amulette de protecteur en or blanc",
@@ -23484,7 +23484,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Amulet of Slaying",
+      "cn": "白黄金强攻护身手镯",
       "de": "Weißgold-Amulett des Schlachtens",
       "en": "White Gold Amulet of Slaying",
       "fr": "Amulette d'attaquant en or blanc",
@@ -23505,7 +23505,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Amulet of Aiming",
+      "cn": "白黄金精准护身手镯",
       "de": "Weißgold-Amulett des Zielens",
       "en": "White Gold Amulet of Aiming",
       "fr": "Amulette de pisteur en or blanc",
@@ -23526,7 +23526,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Amulet of Healing",
+      "cn": "白黄金治愈护身手镯",
       "de": "Weißgold-Amulett der Heilung",
       "en": "White Gold Amulet of Healing",
       "fr": "Amulette de soigneur en or blanc",
@@ -23547,7 +23547,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "White Gold Amulet of Casting",
+      "cn": "白黄金咏咒护身手镯",
       "de": "Weißgold-Amulett der Magie",
       "en": "White Gold Amulet of Casting",
       "fr": "Amulette d'incantateur en or blanc",
@@ -23568,7 +23568,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Ring of Fending",
+      "cn": "白黄金御敌指环",
       "de": "Weißgold-Ring der Verteidigung",
       "en": "White Gold Ring of Fending",
       "fr": "Bague de protecteur en or blanc",
@@ -23589,7 +23589,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Ring of Slaying",
+      "cn": "白黄金强攻指环",
       "de": "Weißgold-Ring des Schlachtens",
       "en": "White Gold Ring of Slaying",
       "fr": "Bague d'attaquant en or blanc",
@@ -23610,7 +23610,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Ring of Aiming",
+      "cn": "白黄金精准指环",
       "de": "Weißgold-Ring des Zielens",
       "en": "White Gold Ring of Aiming",
       "fr": "Bague de pisteur en or blanc",
@@ -23631,7 +23631,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Ring of Healing",
+      "cn": "白黄金治愈指环",
       "de": "Weißgold-Ring der Heilung",
       "en": "White Gold Ring of Healing",
       "fr": "Bague de soigneur en or blanc",
@@ -23652,7 +23652,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Ring of Casting",
+      "cn": "白黄金咏咒指环",
       "de": "Weißgold-Ring der Magie",
       "en": "White Gold Ring of Casting",
       "fr": "Bague d'incantateur en or blanc",
@@ -23673,7 +23673,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Rod",
+      "cn": "卡扎纳尔法杖",
       "de": "Ra'Kaznar-Stab",
       "en": "Ra'Kaznar Rod",
       "fr": "Sceptre de Ra'Kaznar",
@@ -23694,7 +23694,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Orrery",
+      "cn": "卡扎纳尔太阳仪",
       "de": "Ra'Kaznar-Orrery",
       "en": "Ra'Kaznar Orrery",
       "fr": "Planétaire de Ra'Kaznar",
@@ -23715,7 +23715,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Hanger",
+      "cn": "卡扎纳尔重刺剑",
       "de": "Ra'Kaznar-Degen",
       "en": "Ra'Kaznar Hanger",
       "fr": "Ballante de Ra'Kaznar",
@@ -23736,7 +23736,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Wings",
+      "cn": "卡扎纳尔飞翼",
       "de": "Ra'Kaznar-Schwingen",
       "en": "Ra'Kaznar Wings",
       "fr": "Ailes de Ra'Kaznar",
@@ -23757,7 +23757,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Black Star Headgear of Striking",
+      "cn": "黑星石强袭头甲",
       "de": "Schwarzstern-Kopfbedeckung des Schlagens",
       "en": "Black Star Headgear of Striking",
       "fr": "Protège-tête d'agresseur en étoile sombre",
@@ -23778,7 +23778,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Black Star Headgear of Aiming",
+      "cn": "黑星石精准头甲",
       "de": "Schwarzstern-Kopfbedeckung des Zielens",
       "en": "Black Star Headgear of Aiming",
       "fr": "Protège-tête de pisteur en étoile sombre",
@@ -23799,7 +23799,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Black Star Visor of Scouting",
+      "cn": "黑星石游击开面罩盔",
       "de": "Schwarzstern-Visier des Spähens",
       "en": "Black Star Visor of Scouting",
       "fr": "Visière d'éclaireur en étoile sombre",
@@ -23820,7 +23820,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Black Star Mask of Healing",
+      "cn": "黑星石治愈口罩",
       "de": "Schwarzstern-Maske der Heilung",
       "en": "Black Star Mask of Healing",
       "fr": "Masque de soigneur en étoile sombre",
@@ -23841,7 +23841,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Black Star Mask of Casting",
+      "cn": "黑星石咏咒口罩",
       "de": "Schwarzstern-Maske der Magie",
       "en": "Black Star Mask of Casting",
       "fr": "Masque d'incantateur en étoile sombre",
@@ -23862,7 +23862,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ear Cuff of Fending",
+      "cn": "黑星石御敌耳夹",
       "de": "Schwarzstern-Ohrring der Verteidigung",
       "en": "Black Star Ear Cuff of Fending",
       "fr": "Bague d'oreille de protecteur en étoile sombre",
@@ -23883,7 +23883,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ear Cuff of Slaying",
+      "cn": "黑星石强攻耳夹",
       "de": "Schwarzstern-Ohrring des Schlachtens",
       "en": "Black Star Ear Cuff of Slaying",
       "fr": "Bague d'oreille d'attaquant en étoile sombre",
@@ -23904,7 +23904,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ear Cuff of Aiming",
+      "cn": "黑星石精准耳夹",
       "de": "Schwarzstern-Ohrring des Zielens",
       "en": "Black Star Ear Cuff of Aiming",
       "fr": "Bague d'oreille de pisteur en étoile sombre",
@@ -23925,7 +23925,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ear Cuff of Healing",
+      "cn": "黑星石治愈耳夹",
       "de": "Schwarzstern-Ohrring der Heilung",
       "en": "Black Star Ear Cuff of Healing",
       "fr": "Bague d'oreille de soigneur en étoile sombre",
@@ -23946,7 +23946,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ear Cuff of Casting",
+      "cn": "黑星石咏咒耳夹",
       "de": "Schwarzstern-Ohrring der Magie",
       "en": "Black Star Ear Cuff of Casting",
       "fr": "Bague d'oreille d'incantateur en étoile sombre",
@@ -23967,7 +23967,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Choker of Fending",
+      "cn": "黑星石御敌项环",
       "de": "Schwarzstern-Halsberge der Verteidigung",
       "en": "Black Star Choker of Fending",
       "fr": "Ras de cou de protecteur en étoile sombre",
@@ -23988,7 +23988,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Choker of Slaying",
+      "cn": "黑星石强攻项环",
       "de": "Schwarzstern-Halsberge des Schlachtens",
       "en": "Black Star Choker of Slaying",
       "fr": "Ras de cou d'attaquant en étoile sombre",
@@ -24009,7 +24009,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Choker of Aiming",
+      "cn": "黑星石精准项环",
       "de": "Schwarzstern-Halsberge des Zielens",
       "en": "Black Star Choker of Aiming",
       "fr": "Ras de cou de pisteur en étoile sombre",
@@ -24030,7 +24030,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Choker of Healing",
+      "cn": "黑星石治愈项环",
       "de": "Schwarzstern-Halsberge der Heilung",
       "en": "Black Star Choker of Healing",
       "fr": "Ras de cou de soigneur en étoile sombre",
@@ -24051,7 +24051,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Choker of Casting",
+      "cn": "黑星石咏咒项环",
       "de": "Schwarzstern-Halsberge der Magie",
       "en": "Black Star Choker of Casting",
       "fr": "Ras de cou d'incantateur en étoile sombre",
@@ -24072,7 +24072,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Bracelet of Fending",
+      "cn": "黑星石御敌手镯",
       "de": "Schwarzstern-Armreif der Verteidigung",
       "en": "Black Star Bracelet of Fending",
       "fr": "Bracelet de protecteur en étoile sombre",
@@ -24093,7 +24093,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Bracelet of Slaying",
+      "cn": "黑星石强攻手镯",
       "de": "Schwarzstern-Armreif des Schlachtens",
       "en": "Black Star Bracelet of Slaying",
       "fr": "Bracelet d'attaquant en étoile sombre",
@@ -24114,7 +24114,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Bracelet of Aiming",
+      "cn": "黑星石精准手镯",
       "de": "Schwarzstern-Armreif des Zielens",
       "en": "Black Star Bracelet of Aiming",
       "fr": "Bracelet de pisteur en étoile sombre",
@@ -24135,7 +24135,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Bracelet of Healing",
+      "cn": "黑星石治愈手镯",
       "de": "Schwarzstern-Armreif der Heilung",
       "en": "Black Star Bracelet of Healing",
       "fr": "Bracelet de soigneur en étoile sombre",
@@ -24156,7 +24156,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Bracelet of Casting",
+      "cn": "黑星石咏咒手镯",
       "de": "Schwarzstern-Armreif der Magie",
       "en": "Black Star Bracelet of Casting",
       "fr": "Bracelet d'incantateur en étoile sombre",
@@ -24177,7 +24177,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ring of Fending",
+      "cn": "黑星石御敌指环",
       "de": "Schwarzstern-Ring der Verteidigung",
       "en": "Black Star Ring of Fending",
       "fr": "Bague de protecteur en étoile sombre",
@@ -24198,7 +24198,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ring of Slaying",
+      "cn": "黑星石强攻指环",
       "de": "Schwarzstern-Ring des Schlachtens",
       "en": "Black Star Ring of Slaying",
       "fr": "Bague d'attaquant en étoile sombre",
@@ -24219,7 +24219,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ring of Aiming",
+      "cn": "黑星石精准指环",
       "de": "Schwarzstern-Ring des Zielens",
       "en": "Black Star Ring of Aiming",
       "fr": "Bague de pisteur en étoile sombre",
@@ -24240,7 +24240,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ring of Healing",
+      "cn": "黑星石治愈指环",
       "de": "Schwarzstern-Ring der Heilung",
       "en": "Black Star Ring of Healing",
       "fr": "Bague de soigneur en étoile sombre",
@@ -24261,7 +24261,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Black Star Ring of Casting",
+      "cn": "黑星石咏咒指环",
       "de": "Schwarzstern-Ring der Magie",
       "en": "Black Star Ring of Casting",
       "fr": "Bague d'incantateur en étoile sombre",
@@ -24282,7 +24282,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Needle",
+      "cn": "混金缝针",
       "de": "Lar-Nadel",
       "en": "Lar Needle",
       "fr": "Aiguille en lar",
@@ -24303,7 +24303,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Needle",
+      "cn": "钴钨缝针",
       "de": "Wolfram-Koboldeisen-Nadel",
       "en": "Cobalt Tungsten Needle",
       "fr": "Aiguille en alliage de cobalt-tungstène",
@@ -24324,7 +24324,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "White Gold Needle",
+      "cn": "白黄金缝针",
       "de": "Weißgold-Nadel",
       "en": "White Gold Needle",
       "fr": "Aiguille en or blanc",
@@ -24345,7 +24345,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Needle",
+      "cn": "卡扎纳尔缝针",
       "de": "Ra'Kaznar-Nadel",
       "en": "Ra'Kaznar Needle",
       "fr": "Aiguille de Ra'Kaznar",
@@ -24366,7 +24366,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ear Cuffs",
+      "cn": "混金耳夹",
       "de": "Lar-Ohrringe",
       "en": "Lar Ear Cuffs",
       "fr": "Bagues d'oreilles en lar",
@@ -24387,7 +24387,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Choker",
+      "cn": "混金项环",
       "de": "Lar-Halberge",
       "en": "Lar Choker",
       "fr": "Ras de cou en lar",
@@ -24408,7 +24408,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Bracelets",
+      "cn": "混金手镯",
       "de": "Lar-Armbänder",
       "en": "Lar Bracelets",
       "fr": "Bracelet en lar",
@@ -24429,7 +24429,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Lar Ring",
+      "cn": "混金指环",
       "de": "Lar-Ring",
       "en": "Lar Ring",
       "fr": "Bague en lar",
@@ -24450,7 +24450,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Black Star Earrings of Crafting",
+      "cn": "黑星石巧匠耳坠",
       "de": "Schwarzstern-Ohrringe des Handwerks",
       "en": "Black Star Earrings of Crafting",
       "fr": "Boucles d'oreilles des créations en étoile sombre",
@@ -24471,7 +24471,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Black Star Scarf of Crafting",
+      "cn": "黑星石巧匠围巾",
       "de": "Schwarzstern-Schal des Handwerks",
       "en": "Black Star Scarf of Crafting",
       "fr": "Foulard des créations en étoile sombre",
@@ -24492,7 +24492,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Black Star Bracelets of Crafting",
+      "cn": "黑星石巧匠手镯",
       "de": "Schwarzstern-Armreife des Handwerks",
       "en": "Black Star Bracelets of Crafting",
       "fr": "Bracelets des créations en étoile sombre",
@@ -24513,7 +24513,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Black Star Earrings of Gathering",
+      "cn": "黑星石大地耳环",
       "de": "Schwarzstern-Ohrringe des Eifers",
       "en": "Black Star Earrings of Gathering",
       "fr": "Boucles d'oreilles des ressources en étoile sombre",
@@ -24555,7 +24555,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Sharlayan Reflecting Pool",
+      "cn": "萨雷安反射水池",
       "de": "Sharlayanisches Schimmerbecken",
       "en": "Sharlayan Reflecting Pool",
       "fr": "Bassin-miroir sharlayanais",
@@ -24576,7 +24576,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Seafade Interior Wall",
+      "cn": "淡蓝内墙",
       "de": "Wolkenmeer-Innenwand ",
       "en": "Seafade Interior Wall",
       "fr": "Revêtement mural en dégradés de bleus océan",
@@ -40788,7 +40788,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Reed Scythe",
+      "cn": "芦苇镰刀",
       "de": "Schilfsense",
       "en": "Reed Scythe",
       "fr": "Faux à roseaux",
@@ -40809,7 +40809,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Tortilla Press",
+      "cn": "玉米薄饼压制机",
       "de": "Tortillapresse",
       "en": "Tortilla Press",
       "fr": "Presse à tortilla",
@@ -40830,7 +40830,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Lightweight Lantern",
+      "cn": "旅行提灯",
       "de": "Leichtgewichtige Laterne",
       "en": "Lightweight Lantern",
       "fr": "Lanterne de voyage",
@@ -40851,7 +40851,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Ceremonial Censer",
+      "cn": "冥想用香炉",
       "de": "Zeremonielles Räuchergefäß",
       "en": "Ceremonial Censer",
       "fr": "Encensoir de méditation",
@@ -40872,7 +40872,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Fulcrum",
+      "cn": "交换用的天平轴",
       "de": "Drehachse",
       "en": "Fulcrum",
       "fr": "Fléau de balance à plateaux",
@@ -40893,7 +40893,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Solar Reflector",
+      "cn": "金煌采火器",
       "de": "Solarreflektor",
       "en": "Solar Reflector",
       "fr": "Vasque sacrée en or flamboyant",
@@ -40914,7 +40914,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Lar Longbow",
+      "cn": "收藏用混金长弓",
       "de": "Lar-Langbogen (Sammlerstück)",
       "en": "Rarefied Lar Longbow",
       "fr": "Arc long en lar collectionnable",
@@ -40935,7 +40935,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Ihuykanite Circlet",
+      "cn": "收藏用生息头冠",
       "de": "Ihuykanit-Stirnreif (Sammlerstück)",
       "en": "Rarefied Ihuykanite Circlet",
       "fr": "Diadème en ihuykanite collectionnable",
@@ -40956,7 +40956,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Cobalt Tungsten Tuck",
+      "cn": "收藏用钴钨刺剑",
       "de": "Wolfram-Koboldeisen-Estoc (Sammlerstück)",
       "en": "Rarefied Cobalt Tungsten Tuck",
       "fr": "Estoc en alliage de cobalt-tungstène collectionnable",
@@ -40977,7 +40977,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied White Gold Choker",
+      "cn": "收藏用白黄金项环",
       "de": "Weißgold-Halsberge (Sammlerstück)",
       "en": "Rarefied White Gold Choker",
       "fr": "Ras de cou en or blanc collectionnable",
@@ -40998,7 +40998,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Ra'Kaznar Orrery",
+      "cn": "收藏用卡扎纳尔太阳仪",
       "de": "Ra'Kaznar-Orrery (Sammlerstück)",
       "en": "Rarefied Ra'Kaznar Orrery",
       "fr": "Planétaire de Ra'Kaznar collectionnable",
@@ -41019,7 +41019,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Black Star Earrings",
+      "cn": "收藏用黑星石耳坠",
       "de": "Schwarzstern-Ohrringe (Sammlerstück)",
       "en": "Rarefied Black Star Earrings",
       "fr": "Boucles d'oreilles en étoile sombre collectionnables",
@@ -41481,7 +41481,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Skyruin Barding",
+      "cn": "艳翼蛇鸟装甲",
       "de": "Valigarmanda-Rossharnisch",
       "en": "Skyruin Barding",
       "fr": "Barde de Valigarmanda",

@@ -16239,7 +16239,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Ingot",
+      "cn": "奥阔铬铁锭",
       "de": "Bergchromeisen-Barren",
       "en": "Mountain Chromite Ingot",
       "fr": "Lingot de chromite d'Urqopacha",
@@ -16260,7 +16260,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Ingot",
+      "cn": "钌金锭",
       "de": "Ruthenium-Barren",
       "en": "Ruthenium Ingot",
       "fr": "Lingot de ruthénium",
@@ -16281,7 +16281,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Ingot",
+      "cn": "钴钨锭",
       "de": "Wolfram-Koboldeisenerz-Barren",
       "en": "Cobalt Tungsten Ingot",
       "fr": "Lingot d'alliage de cobalt-tungstène",
@@ -16302,7 +16302,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Nugget",
+      "cn": "钛金锭",
       "de": "Titangoldnugget",
       "en": "Titanium Gold Nugget",
       "fr": "Pépite de titane aurifère",
@@ -16323,7 +16323,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Ingot",
+      "cn": "卡扎纳尔锭",
       "de": "Ra'Kaznar-Barren",
       "en": "Ra'Kaznar Ingot",
       "fr": "Lingot de Ra'Kaznar",
@@ -16344,7 +16344,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Kilij",
+      "cn": "奥阔铬铁曲剑",
       "de": "Bergchromeisen-Kilidsch",
       "en": "Mountain Chromite Kilij",
       "fr": "Kilij en chromite d'Urqopacha",
@@ -16365,7 +16365,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Fists",
+      "cn": "奥阔铬铁拳套",
       "de": "Bergchromeisen-Fäuste",
       "en": "Mountain Chromite Fists",
       "fr": "Poings en chromite d'Urqopacha",
@@ -16386,7 +16386,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Battleaxe",
+      "cn": "奥阔铬铁战斧",
       "de": "Bergchromeisen-Kriegsaxt",
       "en": "Mountain Chromite Battleaxe",
       "fr": "Hache de combat en chromite d'Urqopacha",
@@ -16407,7 +16407,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Daggers",
+      "cn": "奥阔铬铁小刀",
       "de": "Bergchromeisen-Dolche",
       "en": "Mountain Chromite Daggers",
       "fr": "Dagues en chromite d'Urqopacha",
@@ -16428,7 +16428,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Guillotine",
+      "cn": "奥阔铬铁断头剑",
       "de": "Bergchromeisen-Guillotine",
       "en": "Mountain Chromite Guillotine",
       "fr": "Fendoir en chromite d'Urqopacha",
@@ -16449,7 +16449,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Musketoon",
+      "cn": "奥阔铬铁火枪",
       "de": "Bergchromeisen-Muskete",
       "en": "Mountain Chromite Musketoon",
       "fr": "Mousqueton en chromite d'Urqopacha",
@@ -16470,7 +16470,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Blade",
+      "cn": "奥阔铬铁武士刀",
       "de": "Bergchromeisen-Klinge",
       "en": "Mountain Chromite Blade",
       "fr": "Lame en chromite d'Urqopacha",
@@ -16491,7 +16491,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Bayonet",
+      "cn": "奥阔铬铁刺刀",
       "de": "Bergchromeisen-Bajonett",
       "en": "Mountain Chromite Bayonet",
       "fr": "Baïonnette en chromite d'Urqopacha",
@@ -16512,7 +16512,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Chakrams",
+      "cn": "奥阔铬铁圆月轮",
       "de": "Bergchromeisen-Chakrams",
       "en": "Mountain Chromite Chakrams",
       "fr": "Chakrams en chromite d'Urqopacha",
@@ -16533,7 +16533,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite War Scythe",
+      "cn": "奥阔铬铁战镰",
       "de": "Bergchromeisen-Kriegssense",
       "en": "Mountain Chromite War Scythe",
       "fr": "Faux de guerre en chromite d'Urqopacha",
@@ -16554,7 +16554,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Twinfangs",
+      "cn": "奥阔铬铁双牙",
       "de": "Bergchromeisen-Zwillingsfänge",
       "en": "Mountain Chromite Twinfangs",
       "fr": "Crochets jumeaux en chromite d'Urqopacha",
@@ -16575,7 +16575,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Scimitar",
+      "cn": "钌金弯刀",
       "de": "Ruthenium-Scimitar",
       "en": "Ruthenium Scimitar",
       "fr": "Cimeterre en ruthénium",
@@ -16596,7 +16596,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Tonfas",
+      "cn": "钌金旋棍",
       "de": "Ruthenium-Tonfas",
       "en": "Ruthenium Tonfas",
       "fr": "Tonfas en ruthénium",
@@ -16617,7 +16617,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium War Axe",
+      "cn": "钌金战斧",
       "de": "Ruthenium-Kriegsaxt",
       "en": "Ruthenium War Axe",
       "fr": "Hache de guerre en ruthénium",
@@ -16638,7 +16638,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium Greatsword",
+      "cn": "钌金巨剑",
       "de": "Ruthenium-Großschwert",
       "en": "Ruthenium Greatsword",
       "fr": "Grande épée en ruthénium",
@@ -16659,7 +16659,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ruthenium-barreled Musketoon",
+      "cn": "钌金火枪",
       "de": "Ruthenium-Muskete",
       "en": "Ruthenium-barreled Musketoon",
       "fr": "Mousqueton en ruthénium",
@@ -16680,7 +16680,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Blade",
+      "cn": "钌金武士刀",
       "de": "Ruthenium-Klinge",
       "en": "Ruthenium Blade",
       "fr": "Lame en ruthénium",
@@ -16701,7 +16701,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Gunblade",
+      "cn": "钌金枪刃",
       "de": "Ruthenium-Revolver<SoftHyphen/>klinge",
       "en": "Ruthenium Gunblade",
       "fr": "Pistolame en ruthénium",
@@ -16722,7 +16722,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium War Scythe",
+      "cn": "钌金战镰",
       "de": "Ruthenium-Kriegssense",
       "en": "Ruthenium War Scythe",
       "fr": "Faux de guerre en ruthénium",
@@ -16743,7 +16743,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ruthenium Twinfangs",
+      "cn": "钌金双牙",
       "de": "Ruthenium-Zwillingsfänge",
       "en": "Ruthenium Twinfangs",
       "fr": "Crochets jumeaux en ruthénium",
@@ -16764,7 +16764,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Scimitar",
+      "cn": "钴钨弯刀",
       "de": "Wolfram-Koboldeisen-Scimitar",
       "en": "Cobalt Tungsten Scimitar",
       "fr": "Cimeterre en alliage de cobalt-tungstène",
@@ -16785,7 +16785,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Knuckles",
+      "cn": "钴钨指虎",
       "de": "Wolfram-Koboldeisen-Schlagringe",
       "en": "Cobalt Tungsten Knuckles",
       "fr": "Poings en alliage de cobalt-tungstène",
@@ -16806,7 +16806,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Axe",
+      "cn": "钴钨战斧",
       "de": "Wolfram-Koboldeisen-Axt",
       "en": "Cobalt Tungsten Axe",
       "fr": "Hache en alliage de cobalt-tungstène",
@@ -16827,7 +16827,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Khukuri",
+      "cn": "钴钨屠刀",
       "de": "Wolfram-Koboldeisen-Khukuri",
       "en": "Cobalt Tungsten Khukuri",
       "fr": "Khukuris en alliage de cobalt-tungstène",
@@ -16848,7 +16848,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Guillotine",
+      "cn": "钴钨断头剑",
       "de": "Wolfram-Koboldeisen-Guillotine",
       "en": "Cobalt Tungsten Guillotine",
       "fr": "Fendoir en alliage de cobalt-tungstène",
@@ -16869,7 +16869,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Handgonne",
+      "cn": "钴钨手炮",
       "de": "Wolfram-Koboldeisen-Donnerbüchse",
       "en": "Cobalt Tungsten Handgonne",
       "fr": "Haquebute en alliage de cobalt-tungstène",
@@ -16890,7 +16890,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Blade",
+      "cn": "钴钨武士刀",
       "de": "Wolfram-Koboldeisen-Klinge",
       "en": "Cobalt Tungsten Blade",
       "fr": "Lame en alliage de cobalt-tungstène",
@@ -16911,7 +16911,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Sawback",
+      "cn": "钴钨锯刃",
       "de": "Wolfram-Koboldeisen-Manasäge",
       "en": "Cobalt Tungsten Sawback",
       "fr": "Couteau de combat en alliage de cobalt-tungstène",
@@ -16932,7 +16932,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Glaives",
+      "cn": "钴钨轮刃",
       "de": "Wolfram-Koboldeisen-Todesringe",
       "en": "Cobalt Tungsten Glaives",
       "fr": "Gladius en alliage de cobalt-tungstène",
@@ -16953,7 +16953,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten War Scythe",
+      "cn": "钴钨战镰",
       "de": "Wolfram-Koboldeisen-Kriegssense",
       "en": "Cobalt Tungsten War Scythe",
       "fr": "Faux de guerre en alliage de cobalt-tungstène",
@@ -16974,7 +16974,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Diamondbacks",
+      "cn": "钴钨钻纹蛇刀",
       "de": "Wolfram-Koboldeisen-Zwillingsfänge",
       "en": "Cobalt Tungsten Diamondbacks",
       "fr": "Écraseurs en alliage de cobalt-tungstène",
@@ -16995,7 +16995,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Falchion",
+      "cn": "钛金弯刃刀",
       "de": "Titangold-Falchion",
       "en": "Titanium Gold Falchion",
       "fr": "Fauchon en titane aurifère",
@@ -17016,7 +17016,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Claws",
+      "cn": "钛金利爪",
       "de": "Titangold-Klauen",
       "en": "Titanium Gold Claws",
       "fr": "Griffes en titane aurifère",
@@ -17037,7 +17037,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Battleaxe",
+      "cn": "钛金战斧",
       "de": "Titangold-Kriegsaxt",
       "en": "Titanium Gold Battleaxe",
       "fr": "Hache de combat en titane aurifère",
@@ -17058,7 +17058,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Knives",
+      "cn": "钛金匕首",
       "de": "Titangold-Messer",
       "en": "Titanium Gold Knives",
       "fr": "Couteaux en titane aurifère",
@@ -17079,7 +17079,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Greatsword",
+      "cn": "钛金巨剑",
       "de": "Titangold-Großschwert",
       "en": "Titanium Gold Greatsword",
       "fr": "Grande épée en titane aurifère",
@@ -17100,7 +17100,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Pistol",
+      "cn": "钛金手枪",
       "de": "Titangold-Pistole",
       "en": "Titanium Gold Pistol",
       "fr": "Pistolet en titane aurifère",
@@ -17121,7 +17121,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Blade",
+      "cn": "钛金武士刀",
       "de": "Titangold-Klinge",
       "en": "Titanium Gold Blade",
       "fr": "Lame en titane aurifère",
@@ -17142,7 +17142,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Gunblade",
+      "cn": "钛金枪刃",
       "de": "Titangold-Revolver<SoftHyphen/>klinge",
       "en": "Titanium Gold Gunblade",
       "fr": "Pistolame en titane aurifère",
@@ -17163,7 +17163,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold War Quoits",
+      "cn": "钛金战轮",
       "de": "Titangold-Wurfringe",
       "en": "Titanium Gold War Quoits",
       "fr": "Quoits de guerre en titane aurifère",
@@ -17184,7 +17184,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Sickle",
+      "cn": "钛金夺命镰",
       "de": "Titangold-Sichel",
       "en": "Titanium Gold Sickle",
       "fr": "Faucille en titane aurifère",
@@ -17205,7 +17205,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Titanium Gold Saberfangs",
+      "cn": "钛金双军刀",
       "de": "Titangold-Zwillingsfänge",
       "en": "Titanium Gold Saberfangs",
       "fr": "Sabres jumeaux en titane aurifère",
@@ -17226,7 +17226,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Katzbalger",
+      "cn": "卡扎纳尔斗剑",
       "de": "Ra'Kaznar-Katzbalger",
       "en": "Ra'Kaznar Katzbalger",
       "fr": "Katzbalger de Ra'Kaznar",
@@ -17247,7 +17247,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Tonfas",
+      "cn": "卡扎纳尔旋棍",
       "de": "Ra'Kaznar-Tonfas",
       "en": "Ra'Kaznar Tonfas",
       "fr": "Tonfas de Ra'Kaznar",
@@ -17268,7 +17268,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Labrys",
+      "cn": "卡扎纳尔双刃斧",
       "de": "Ra'Kaznar-Labrys",
       "en": "Ra'Kaznar Labrys",
       "fr": "Labrys de Ra'Kaznar",
@@ -17289,7 +17289,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Bow",
+      "cn": "卡扎纳尔复合弓",
       "de": "Ra'Kaznar-Bogen",
       "en": "Ra'Kaznar Bow",
       "fr": "Arc de Ra'Kaznar",
@@ -17310,7 +17310,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Daggers",
+      "cn": "卡扎纳尔小刀",
       "de": "Ra'Kaznar-Dolche",
       "en": "Ra'Kaznar Daggers",
       "fr": "Dagues de Ra'Kaznar",
@@ -17331,7 +17331,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Greatsword",
+      "cn": "卡扎纳尔巨剑",
       "de": "Ra'Kaznar-Großschwert",
       "en": "Ra'Kaznar Greatsword",
       "fr": "Grande épée de Ra'Kaznar",
@@ -17352,7 +17352,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Blunderbuss",
+      "cn": "卡扎纳尔雷火炮",
       "de": "Ra'Kaznar-Espingole",
       "en": "Ra'Kaznar Blunderbuss",
       "fr": "Tromblon de Ra'Kaznar",
@@ -17373,7 +17373,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Samurai Blade",
+      "cn": "卡扎纳尔武士刀",
       "de": "Ra'Kaznar-Samuraiklinge",
       "en": "Ra'Kaznar Samurai Blade",
       "fr": "Lame de samouraï de Ra'Kaznar",
@@ -17394,7 +17394,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Gunblade",
+      "cn": "卡扎纳尔枪刃",
       "de": "Ra'Kaznar-Revolver<SoftHyphen/>klinge",
       "en": "Ra'Kaznar Gunblade",
       "fr": "Pistolame de Ra'Kaznar",
@@ -17415,7 +17415,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Chakrams",
+      "cn": "卡扎纳尔圆月轮",
       "de": "Ra'Kaznar-Chakrams",
       "en": "Ra'Kaznar Chakrams",
       "fr": "Chakrams de Ra'Kaznar",
@@ -17436,7 +17436,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar War Scythe",
+      "cn": "卡扎纳尔战镰",
       "de": "Ra'Kaznar-Kriegssense",
       "en": "Ra'Kaznar War Scythe",
       "fr": "Faux de guerre de Ra'Kaznar",
@@ -17457,7 +17457,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Ra'Kaznar Twinfangs",
+      "cn": "卡扎纳尔双牙",
       "de": "Ra'Kaznar-Zwillingsfänge",
       "en": "Ra'Kaznar Twinfangs",
       "fr": "Crochets jumeaux de Ra'Kaznar",
@@ -17478,7 +17478,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Saw",
+      "cn": "奥阔铬铁手锯",
       "de": "Bergchromeisen-Säge",
       "en": "Mountain Chromite Saw",
       "fr": "Scie en chromite d'Urqopacha",
@@ -17499,7 +17499,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Cross-pein Hammer",
+      "cn": "奥阔铬铁横头锤",
       "de": "Bergchromeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Mountain Chromite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en chromite d'Urqopacha",
@@ -17520,7 +17520,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Raising Hammer",
+      "cn": "奥阔铬铁圆头锤",
       "de": "Bergchromeisen-Schlichthammer",
       "en": "Mountain Chromite Raising Hammer",
       "fr": "Marteau de batteur en chromite d'Urqopacha",
@@ -17541,7 +17541,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Lapidary Hammer",
+      "cn": "奥阔铬铁工艺锤",
       "de": "Bergchromeisen-Juwelierhammer",
       "en": "Mountain Chromite Lapidary Hammer",
       "fr": "Marteau de lapidaire en chromite d'Urqopacha",
@@ -17562,7 +17562,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Creasing Knife",
+      "cn": "奥阔铬铁制革刀",
       "de": "Bergchromeisen-Rundmesser",
       "en": "Mountain Chromite Creasing Knife",
       "fr": "Couteau de tanneur en chromite d'Urqopacha",
@@ -17583,7 +17583,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Pickaxe",
+      "cn": "奥阔铬铁鹤嘴锄",
       "de": "Bergchromeisen-Spitzhacke",
       "en": "Mountain Chromite Pickaxe",
       "fr": "Pioche en chromite d'Urqopacha",
@@ -17604,7 +17604,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Hatchet",
+      "cn": "奥阔铬铁手斧",
       "de": "Bergchromeisen-Handbeil",
       "en": "Mountain Chromite Hatchet",
       "fr": "Hachette en chromite d'Urqopacha",
@@ -17625,7 +17625,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Claw Hammer",
+      "cn": "奥阔铬铁羊角锤",
       "de": "Bergchromeisen-Klauenhammer",
       "en": "Mountain Chromite Claw Hammer",
       "fr": "Marteau arrache-clou en chromite d'Urqopacha",
@@ -17646,7 +17646,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite File",
+      "cn": "奥阔铬铁锉刀",
       "de": "Bergchromeisen-Feile",
       "en": "Mountain Chromite File",
       "fr": "Lime en chromite d'Urqopacha",
@@ -17667,7 +17667,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Pliers",
+      "cn": "奥阔铬铁手钳",
       "de": "Bergchromeisen-Zange",
       "en": "Mountain Chromite Pliers",
       "fr": "Tenailles en chromite d'Urqopacha",
@@ -17688,7 +17688,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Awl",
+      "cn": "奥阔铬铁平斩",
       "de": "Bergchromeisen-Ahle",
       "en": "Mountain Chromite Awl",
       "fr": "Alêne en chromite d'Urqopacha",
@@ -17709,7 +17709,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Mortar",
+      "cn": "奥阔铬铁研钵",
       "de": "Bergchromeisen-Mörser",
       "en": "Mountain Chromite Mortar",
       "fr": "Mortier en chromite d'Urqopacha",
@@ -17730,7 +17730,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Culinary Knife",
+      "cn": "奥阔铬铁厨刀",
       "de": "Bergchromeisen-Küchenmesser",
       "en": "Mountain Chromite Culinary Knife",
       "fr": "Couteau de cuisine en chromite d'Urqopacha",
@@ -17751,7 +17751,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Maul",
+      "cn": "奥阔铬铁碎石锤",
       "de": "Bergchromeisen-Vorschlaghammer",
       "en": "Mountain Chromite Maul",
       "fr": "Maillet en chromite d'Urqopacha",
@@ -17772,7 +17772,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Mountain Chromite Garden Scythe",
+      "cn": "奥阔铬铁园艺镰",
       "de": "Bergchromeisen-Gartensense",
       "en": "Mountain Chromite Garden Scythe",
       "fr": "Faux de jardinage en chromite d'Urqopacha",
@@ -17793,7 +17793,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Saw",
+      "cn": "钴钨手锯",
       "de": "Wolfram-Koboldeisen-Säge",
       "en": "Cobalt Tungsten Saw",
       "fr": "Scie en alliage de cobalt-tungstène",
@@ -17814,7 +17814,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Cross-pein Hammer",
+      "cn": "钴钨横头锤",
       "de": "Wolfram-Koboldeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Cobalt Tungsten Cross-pein Hammer",
       "fr": "Marteau à panne croisée en alliage de cobalt-tungstène",
@@ -17835,7 +17835,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Raising Hammer",
+      "cn": "钴钨圆头锤",
       "de": "Wolfram-Koboldeisen-Schlichthammer",
       "en": "Cobalt Tungsten Raising Hammer",
       "fr": "Marteau de batteur en alliage de cobalt-tungstène",
@@ -17856,7 +17856,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Lapidary Hammer",
+      "cn": "钴钨工艺锤",
       "de": "Wolfram-Koboldeisen-Juwelierhammer",
       "en": "Cobalt Tungsten Lapidary Hammer",
       "fr": "Marteau de lapidaire en alliage de cobalt-tungstène",
@@ -17877,7 +17877,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Creasing Knife",
+      "cn": "钴钨制革刀",
       "de": "Wolfram-Koboldeisen-Rundmesser",
       "en": "Cobalt Tungsten Creasing Knife",
       "fr": "Couteau de tanneur en alliage de cobalt-tungstène",
@@ -17898,7 +17898,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Pickaxe",
+      "cn": "钴钨鹤嘴锄",
       "de": "Wolfram-Koboldeisen-Spitzhacke",
       "en": "Cobalt Tungsten Pickaxe",
       "fr": "Pioche en alliage de cobalt-tungstène",
@@ -17919,7 +17919,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Cobalt Tungsten Hatchet",
+      "cn": "钴钨手斧",
       "de": "Wolfram-Koboldeisen-Handbeil",
       "en": "Cobalt Tungsten Hatchet",
       "fr": "Hachette en alliage de cobalt-tungstène",
@@ -17940,7 +17940,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Claw Hammer",
+      "cn": "钴钨羊角锤",
       "de": "Wolfram-Koboldeisen-Klauenhammer",
       "en": "Cobalt Tungsten Claw Hammer",
       "fr": "Marteau arrache-clou en alliage de cobalt-tungstène",
@@ -17961,7 +17961,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten File",
+      "cn": "钴钨锉刀",
       "de": "Wolfram-Koboldeisen-Feile",
       "en": "Cobalt Tungsten File",
       "fr": "Lime en alliage de cobalt-tungstène",
@@ -17982,7 +17982,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Pliers",
+      "cn": "钴钨手钳",
       "de": "Wolfram-Koboldeisen-Zange",
       "en": "Cobalt Tungsten Pliers",
       "fr": "Tenailles en alliage de cobalt-tungstène",
@@ -18003,7 +18003,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Awl",
+      "cn": "钴钨平斩",
       "de": "Wolfram-Koboldeisen-Ahle",
       "en": "Cobalt Tungsten Awl",
       "fr": "Alêne en alliage de cobalt-tungstène",
@@ -18024,7 +18024,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Mortar",
+      "cn": "钴钨研钵",
       "de": "Wolfram-Koboldeisen-Mörser",
       "en": "Cobalt Tungsten Mortar",
       "fr": "Mortier en alliage de cobalt-tungstène",
@@ -18045,7 +18045,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Culinary Knife",
+      "cn": "钴钨厨刀",
       "de": "Wolfram-Koboldeisen-Küchenmesser",
       "en": "Cobalt Tungsten Culinary Knife",
       "fr": "Couteau de cuisine en alliage de cobalt-tungstène",
@@ -18066,7 +18066,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Maul",
+      "cn": "钴钨碎石锤",
       "de": "Wolfram-Koboldeisen-Vorschlaghammer",
       "en": "Cobalt Tungsten Maul",
       "fr": "Maillet en alliage de cobalt-tungstène",
@@ -18087,7 +18087,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Cobalt Tungsten Garden Scythe",
+      "cn": "钴钨园艺镰",
       "de": "Wolfram-Koboldeisen-Gartensense",
       "en": "Cobalt Tungsten Garden Scythe",
       "fr": "Faux de jardinage en alliage de cobalt-tungstène",
@@ -18108,7 +18108,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Saw",
+      "cn": "钛金手锯",
       "de": "Titangold-Säge",
       "en": "Titanium Gold Saw",
       "fr": "Scie en titane aurifère",
@@ -18129,7 +18129,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Cross-pein Hammer",
+      "cn": "钛金横头锤",
       "de": "Titangold-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Titanium Gold Cross-pein Hammer",
       "fr": "Marteau à panne croisée en titane aurifère",
@@ -18150,7 +18150,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Raising Hammer",
+      "cn": "钛金圆头锤",
       "de": "Titangold-Schlichthammer",
       "en": "Titanium Gold Raising Hammer",
       "fr": "Marteau de batteur en titane aurifère",
@@ -18171,7 +18171,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Lapidary Hammer",
+      "cn": "钛金工艺锤",
       "de": "Titangold-Juwelierhammer",
       "en": "Titanium Gold Lapidary Hammer",
       "fr": "Marteau de lapidaire en titane aurifère",
@@ -18192,7 +18192,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Creasing Knife",
+      "cn": "钛金制革刀",
       "de": "Titangold-Rundmesser",
       "en": "Titanium Gold Creasing Knife",
       "fr": "Couteau de tanneur en titane aurifère",
@@ -18213,7 +18213,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Pickaxe",
+      "cn": "钛金鹤嘴锄",
       "de": "Titangold-Spitzhacke",
       "en": "Titanium Gold Pickaxe",
       "fr": "Pioche en titane aurifère",
@@ -18234,7 +18234,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Hatchet",
+      "cn": "钛金手斧",
       "de": "Titangold-Handbeil",
       "en": "Titanium Gold Hatchet",
       "fr": "Hachette en titane aurifère",
@@ -18255,7 +18255,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Claw Hammer",
+      "cn": "钛金羊角锤",
       "de": "Titangold-Klauenhammer",
       "en": "Titanium Gold Claw Hammer",
       "fr": "Marteau arrache-clou en titane aurifère",
@@ -18276,7 +18276,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold File",
+      "cn": "钛金锉刀",
       "de": "Titangold-Feile",
       "en": "Titanium Gold File",
       "fr": "Lime en titane aurifère",
@@ -18297,7 +18297,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Pliers",
+      "cn": "钛金手钳",
       "de": "Titangold-Zange",
       "en": "Titanium Gold Pliers",
       "fr": "Tenailles en titane aurifère",
@@ -18318,7 +18318,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Awl",
+      "cn": "克拉洛胡桃木平斩",
       "de": "Titangold-Ahle",
       "en": "Titanium Gold Awl",
       "fr": "Alêne en titane aurifère",
@@ -18339,7 +18339,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Mortar",
+      "cn": "钛金研钵",
       "de": "Titangold-Mörser",
       "en": "Titanium Gold Mortar",
       "fr": "Mortier en titane aurifère",
@@ -18360,7 +18360,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Culinary Knife",
+      "cn": "钛金厨刀",
       "de": "Titangold-Küchenmesser",
       "en": "Titanium Gold Culinary Knife",
       "fr": "Couteau de cuisine en titane aurifère",
@@ -18381,7 +18381,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Maul",
+      "cn": "钛金碎石锤",
       "de": "Titangold-Vorschlaghammer",
       "en": "Titanium Gold Maul",
       "fr": "Maillet en titane aurifère",
@@ -18402,7 +18402,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Titanium Gold Garden Scythe",
+      "cn": "钛金园艺镰",
       "de": "Titangold-Gartensense",
       "en": "Titanium Gold Garden Scythe",
       "fr": "Faux de jardinage en titane aurifère",
@@ -18423,7 +18423,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Saw",
+      "cn": "卡扎纳尔手锯",
       "de": "Ra'Kaznar-Säge",
       "en": "Ra'Kaznar Saw",
       "fr": "Scie de Ra'Kaznar",
@@ -18444,7 +18444,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Cross-pein Hammer",
+      "cn": "卡扎纳尔横头锤",
       "de": "Ra'Kaznar-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
       "en": "Ra'Kaznar Cross-pein Hammer",
       "fr": "Marteau à panne croisée de Ra'Kaznar",
@@ -18465,7 +18465,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Raising Hammer",
+      "cn": "卡扎纳尔圆头锤",
       "de": "Ra'Kaznar-Schlichthammer",
       "en": "Ra'Kaznar Raising Hammer",
       "fr": "Marteau de batteur de Ra'Kaznar",
@@ -18486,7 +18486,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Lapidary Hammer",
+      "cn": "卡扎纳尔工艺锤",
       "de": "Ra'Kaznar-Juwelierhammer",
       "en": "Ra'Kaznar Lapidary Hammer",
       "fr": "Marteau de lapidaire de Ra'Kaznar",
@@ -18507,7 +18507,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Round Knife",
+      "cn": "卡扎纳尔圆革刀",
       "de": "Ra'Kaznar-Rundmesser",
       "en": "Ra'Kaznar Round Knife",
       "fr": "Couteau arrondi de Ra'Kaznar",
@@ -18528,7 +18528,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Pickaxe",
+      "cn": "卡扎纳尔鹤嘴锄",
       "de": "Ra'Kaznar-Spitzhacke",
       "en": "Ra'Kaznar Pickaxe",
       "fr": "Pioche de Ra'Kaznar",
@@ -18549,7 +18549,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Ra'Kaznar Hatchet",
+      "cn": "卡扎纳尔手斧",
       "de": "Ra'Kaznar-Handbeil",
       "en": "Ra'Kaznar Hatchet",
       "fr": "Hachette de Ra'Kaznar",
@@ -18570,7 +18570,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Claw Hammer",
+      "cn": "卡扎纳尔羊角锤",
       "de": "Ra'Kaznar-Klauenhammer",
       "en": "Ra'Kaznar Claw Hammer",
       "fr": "Marteau arrache-clou de Ra'Kaznar",
@@ -18591,7 +18591,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar File",
+      "cn": "卡扎纳尔锉刀",
       "de": "Ra'Kaznar-Feile",
       "en": "Ra'Kaznar File",
       "fr": "Lime de Ra'Kaznar",
@@ -18612,7 +18612,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Pliers",
+      "cn": "卡扎纳尔手钳",
       "de": "Ra'Kaznar-Zange",
       "en": "Ra'Kaznar Pliers",
       "fr": "Tenailles de Ra'Kaznar",
@@ -18633,7 +18633,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Awl",
+      "cn": "卡扎纳尔平斩",
       "de": "Ra'Kaznar-Ahle",
       "en": "Ra'Kaznar Awl",
       "fr": "Alêne de Ra'Kaznar",
@@ -18654,7 +18654,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Mortar",
+      "cn": "卡扎纳尔研钵",
       "de": "Ra'Kaznar-Mörser",
       "en": "Ra'Kaznar Mortar",
       "fr": "Mortier de Ra'Kaznar",
@@ -18675,7 +18675,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Culinary Knife",
+      "cn": "卡扎纳尔厨刀",
       "de": "Ra'Kaznar-Küchenmesser",
       "en": "Ra'Kaznar Culinary Knife",
       "fr": "Couteau de cuisine de Ra'Kaznar",
@@ -18696,7 +18696,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Maul",
+      "cn": "卡扎纳尔碎石锤",
       "de": "Ra'Kaznar-Vorschlaghammer",
       "en": "Ra'Kaznar Maul",
       "fr": "Maillet de Ra'Kaznar",
@@ -18717,7 +18717,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Ra'Kaznar Garden Scythe",
+      "cn": "卡扎纳尔园艺镰",
       "de": "Ra'Kaznar-Gartensense",
       "en": "Ra'Kaznar Garden Scythe",
       "fr": "Faux de jardinage de Ra'Kaznar",
@@ -18738,7 +18738,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "High Durium Twinfangs",
+      "cn": "辉翠双牙",
       "de": "Edeldurium-Zwillingsfänge",
       "en": "High Durium Twinfangs",
       "fr": "Crochets jumeaux en durium noble",
@@ -18759,7 +18759,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Bismuth Twinfangs",
+      "cn": "铋金双牙",
       "de": "Bismut-Zwillingsfänge",
       "en": "Bismuth Twinfangs",
       "fr": "Crochets jumeaux en bismuth",
@@ -18780,7 +18780,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Manganese Twinfangs",
+      "cn": "锰钢双牙",
       "de": "Mangan-Zwillingsfänge",
       "en": "Manganese Twinfangs",
       "fr": "Crochets jumeaux en manganèse",
@@ -18801,7 +18801,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Magitek Twinfangs",
+      "cn": "球粒陨石魔导双牙",
       "de": "Chondrit-Magitek-Zwillingsfänge",
       "en": "Chondrite Magitek Twinfangs",
       "fr": "Crochets jumeaux magitek en chondrite",
@@ -34803,7 +34803,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Reed Scythe",
+      "cn": "芦苇镰刀",
       "de": "Schilfsense",
       "en": "Reed Scythe",
       "fr": "Faux à roseaux",
@@ -34824,7 +34824,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Tortilla Press",
+      "cn": "玉米薄饼压制机",
       "de": "Tortillapresse",
       "en": "Tortilla Press",
       "fr": "Presse à tortilla",
@@ -34845,7 +34845,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Lightweight Lantern",
+      "cn": "旅行提灯",
       "de": "Leichtgewichtige Laterne",
       "en": "Lightweight Lantern",
       "fr": "Lanterne de voyage",
@@ -34866,7 +34866,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Ceremonial Censer",
+      "cn": "冥想用香炉",
       "de": "Zeremonielles Räuchergefäß",
       "en": "Ceremonial Censer",
       "fr": "Encensoir de méditation",
@@ -34887,7 +34887,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Fulcrum",
+      "cn": "交换用的天平轴",
       "de": "Drehachse",
       "en": "Fulcrum",
       "fr": "Fléau de balance à plateaux",
@@ -34908,7 +34908,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Solar Reflector",
+      "cn": "金煌采火器",
       "de": "Solarreflektor",
       "en": "Solar Reflector",
       "fr": "Vasque sacrée en or flamboyant",
@@ -34929,7 +34929,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Mountain Chromite Fists",
+      "cn": "收藏用奥阔铬铁拳套",
       "de": "Bergchromeisen-Fäuste (Sammlerstück)",
       "en": "Rarefied Mountain Chromite Fists",
       "fr": "Poings en chromite d'Urqopacha collectionnables",
@@ -34950,7 +34950,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Ruthenium War Axe",
+      "cn": "收藏用钌金战斧",
       "de": "Ruthenium-Kriegsaxt (Sammlerstück)",
       "en": "Rarefied Ruthenium War Axe",
       "fr": "Hache de guerre en ruthénium collectionnable",
@@ -34971,7 +34971,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Cobalt Tungsten Scimitars",
+      "cn": "收藏用钴钨弯刀",
       "de": "Wolfram-Koboldeisen-Scimitar (Sammlerstück)",
       "en": "Rarefied Cobalt Tungsten Scimitars",
       "fr": "Cimeterre en alliage de cobalt-tungstène collectionnable",
@@ -34992,7 +34992,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied Titanium Gold Mortar",
+      "cn": "收藏用钛金研钵",
       "de": "Titangold-Mörser (Sammlerstück)",
       "en": "Rarefied Titanium Gold Mortar",
       "fr": "Mortier en titane aurifère collectionnable",
@@ -35013,7 +35013,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Ra'Kaznar War Scythe",
+      "cn": "收藏用卡扎纳尔战镰",
       "de": "Ra'Kaznar-Kriegssense (Sammlerstück)",
       "en": "Rarefied Ra'Kaznar War Scythe",
       "fr": "Faux de guerre de Ra'Kaznar collectionnable",
@@ -35034,7 +35034,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Ra'Kaznar Round Knife",
+      "cn": "收藏用卡扎纳尔圆革刀",
       "de": "Ra'Kaznar-Rundmesser (Sammlerstück)",
       "en": "Rarefied Ra'Kaznar Round Knife",
       "fr": "Couteau arrondi de Ra'Kaznar collectionnable",

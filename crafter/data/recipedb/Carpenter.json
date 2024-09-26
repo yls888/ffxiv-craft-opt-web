@@ -13068,7 +13068,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Lumber",
+      "cn": "五加木木材",
       "de": "Ginseng-Bauholz",
       "en": "Ginseng Lumber",
       "fr": "Madrier de ginseng",
@@ -13089,7 +13089,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ceiba Lumber",
+      "cn": "木棉木材",
       "de": "Ceiba-Bauholz",
       "en": "Ceiba Lumber",
       "fr": "Madrier de ceiba",
@@ -13110,7 +13110,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Lumber",
+      "cn": "深红木木材",
       "de": "Dunkelmahagoni-Bauholz",
       "en": "Dark Mahogany Lumber",
       "fr": "Madrier d'acajou sombre",
@@ -13131,7 +13131,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Lumber",
+      "cn": "相思木木材",
       "de": "Akazien-Bauholz",
       "en": "Acacia Lumber",
       "fr": "Madrier d'acacia turalien",
@@ -13152,7 +13152,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Claro Walnut Lumber",
+      "cn": "克拉洛胡桃木木材",
       "de": "Clarowalnuss-Bauholz",
       "en": "Claro Walnut Lumber",
       "fr": "Madrier de noyer noir",
@@ -13173,7 +13173,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Earring of Fending",
+      "cn": "五加木御敌耳坠",
       "de": "Ginseng-Ohrring der Verteidigung",
       "en": "Ginseng Earring of Fending",
       "fr": "Boucle d'oreille de protecteur en ginseng",
@@ -13194,7 +13194,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Earring of Slaying",
+      "cn": "五加木强攻耳坠",
       "de": "Ginseng-Ohrring des Schlachtens",
       "en": "Ginseng Earring of Slaying",
       "fr": "Boucle d'oreille d'attaquant en ginseng",
@@ -13215,7 +13215,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Earring of Aiming",
+      "cn": "五加木精准耳坠",
       "de": "Ginseng-Ohrring des Zielens",
       "en": "Ginseng Earring of Aiming",
       "fr": "Boucle d'oreille de pisteur en ginseng",
@@ -13236,7 +13236,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Earring of Healing",
+      "cn": "五加木治愈耳坠",
       "de": "Ginseng-Ohrring der Heilung",
       "en": "Ginseng Earring of Healing",
       "fr": "Boucle d'oreille de soigneur en ginseng",
@@ -13257,7 +13257,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Earring of Casting",
+      "cn": "五加木咏咒耳坠",
       "de": "Ginseng-Ohrring der Magie",
       "en": "Ginseng Earring of Casting",
       "fr": "Boucle d'oreille d'incantateur en ginseng",
@@ -13278,7 +13278,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ceiba Spear",
+      "cn": "木棉长枪",
       "de": "Ceiba-Speer",
       "en": "Ceiba Spear",
       "fr": "Hast en ceiba",
@@ -13299,7 +13299,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ceiba Longbow",
+      "cn": "木棉长弓",
       "de": "Ceiba-Langbogen",
       "en": "Ceiba Longbow",
       "fr": "Arc long en ceiba",
@@ -13320,7 +13320,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ceiba Crook",
+      "cn": "木棉手杖",
       "de": "Ceiba-Stock",
       "en": "Ceiba Crook",
       "fr": "Crosse en ceiba",
@@ -13341,7 +13341,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ceiba Staff",
+      "cn": "木棉咒杖",
       "de": "Ceiba-Stab",
       "en": "Ceiba Staff",
       "fr": "Bâton en ceiba",
@@ -13362,7 +13362,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Ceiba Wings",
+      "cn": "木棉飞翼",
       "de": "Ceiba-Schwingen",
       "en": "Ceiba Wings",
       "fr": "Ailes en ceiba",
@@ -13383,7 +13383,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Spear",
+      "cn": "深红木长枪",
       "de": "Dunkelmahagoni-Lanze",
       "en": "Dark Mahogany Spear",
       "fr": "Hast en acajou sombre",
@@ -13404,7 +13404,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Longbow",
+      "cn": "深红木长弓",
       "de": "Dunkelmahagoni-Langbogen",
       "en": "Dark Mahogany Longbow",
       "fr": "Arc long en acajou sombre",
@@ -13425,7 +13425,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Cane",
+      "cn": "深红木牧杖",
       "de": "Dunkelmahagoni-Stock",
       "en": "Dark Mahogany Cane",
       "fr": "Canne en acajou sombre",
@@ -13446,7 +13446,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Rod",
+      "cn": "深红木法杖",
       "de": "Dunkelmahagoni-Stab",
       "en": "Dark Mahogany Rod",
       "fr": "Sceptre en acajou sombre",
@@ -13467,7 +13467,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Necklace of Fending",
+      "cn": "深红木御敌项链",
       "de": "Dunkelmahagoni-Halsband der Verteidigung",
       "en": "Dark Mahogany Necklace of Fending",
       "fr": "Collier de protecteur en acajou sombre",
@@ -13488,7 +13488,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Necklace of Slaying",
+      "cn": "深红木强攻项链",
       "de": "Dunkelmahagoni-Halsband des Schlachtens",
       "en": "Dark Mahogany Necklace of Slaying",
       "fr": "Collier d'attaquant en acajou sombre",
@@ -13509,7 +13509,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Necklace of Aiming",
+      "cn": "深红木精准项链",
       "de": "Dunkelmahagoni-Halsband des Zielens",
       "en": "Dark Mahogany Necklace of Aiming",
       "fr": "Collier de pisteur en acajou sombre",
@@ -13530,7 +13530,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Necklace of Healing",
+      "cn": "深红木治愈项链",
       "de": "Dunkelmahagoni-Halsband der Heilung",
       "en": "Dark Mahogany Necklace of Healing",
       "fr": "Collier de soigneur en acajou sombre",
@@ -13551,7 +13551,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Necklace of Casting",
+      "cn": "深红木咏咒项链",
       "de": "Dunkelmahagoni-Halsband der Magie",
       "en": "Dark Mahogany Necklace of Casting",
       "fr": "Collier d'incantateur en acajou sombre",
@@ -13572,7 +13572,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Fork",
+      "cn": "相思木战叉",
       "de": "Akazien-Kriegsgabel",
       "en": "Acacia Fork",
       "fr": "Fourche en acacia turalien",
@@ -13593,7 +13593,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Longbow",
+      "cn": "相思木长弓",
       "de": "Akazien-Langbogen",
       "en": "Acacia Longbow",
       "fr": "Arc long en acacia turalien",
@@ -13614,7 +13614,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Acacia Signum",
+      "cn": "相思木符杖",
       "de": "Akazien-Signum",
       "en": "Acacia Signum",
       "fr": "Signum en acacia turalien",
@@ -13635,7 +13635,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Acacia Rod",
+      "cn": "相思木法杖",
       "de": "Akazien-Stab",
       "en": "Acacia Rod",
       "fr": "Sceptre en acacia turalien",
@@ -13656,7 +13656,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Claro Walnut Spear",
+      "cn": "克拉洛胡桃木长枪",
       "de": "Clarowalnuss-Speer",
       "en": "Claro Walnut Spear",
       "fr": "Hast en noyer noir",
@@ -13677,7 +13677,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Claro Walnut Cane",
+      "cn": "克拉洛胡桃木牧杖",
       "de": "Clarowalnuss-Stock",
       "en": "Claro Walnut Cane",
       "fr": "Canne en noyer noir",
@@ -13698,7 +13698,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Fishing Rod",
+      "cn": "五加木钓竿",
       "de": "Ginseng-Angelrute",
       "en": "Ginseng Fishing Rod",
       "fr": "Canne à pêche en ginseng",
@@ -13719,7 +13719,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Grinding Wheel",
+      "cn": "五加木砂轮机",
       "de": "Ginseng-Schleifrad",
       "en": "Ginseng Grinding Wheel",
       "fr": "Meule en ginseng",
@@ -13740,7 +13740,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Spinning Wheel",
+      "cn": "五加木纺车",
       "de": "Ginseng-Spinnrad",
       "en": "Ginseng Spinning Wheel",
       "fr": "Rouet en ginseng",
@@ -13761,7 +13761,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Dark Mahogany Fishing Rod",
+      "cn": "深红木钓竿",
       "de": "Dunkelmahagoni-Angelrute",
       "en": "Dark Mahogany Fishing Rod",
       "fr": "Canne à pêche en acajou sombre",
@@ -13782,7 +13782,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Grinding Wheel",
+      "cn": "深红木砂轮机",
       "de": "Dunkelmahagoni-Schleifrad",
       "en": "Dark Mahogany Grinding Wheel",
       "fr": "Meule en acajou sombre",
@@ -13803,7 +13803,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Spinning Wheel",
+      "cn": "深红木纺车",
       "de": "Dunkelmahagoni-Spinnrad",
       "en": "Dark Mahogany Spinning Wheel",
       "fr": "Rouet en acajou sombre",
@@ -13824,7 +13824,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Acacia Fishing Rod",
+      "cn": "相思木钓竿",
       "de": "Akazien-Angelrute",
       "en": "Acacia Fishing Rod",
       "fr": "Canne à pêche en acacia turalien",
@@ -13845,7 +13845,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Acacia Grinding Wheel",
+      "cn": "相思木砂轮机",
       "de": "Akazien-Schleifrad",
       "en": "Acacia Grinding Wheel",
       "fr": "Meule en acacia turalien",
@@ -13866,7 +13866,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Acacia Spinning Wheel",
+      "cn": "相思木纺车",
       "de": "Akazien-Spinnrad",
       "en": "Acacia Spinning Wheel",
       "fr": "Rouet en acacia turalien",
@@ -13887,7 +13887,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Claro Walnut Fishing Rod",
+      "cn": "克拉洛胡桃木钓竿",
       "de": "Clarowalnuss-Angelrute",
       "en": "Claro Walnut Fishing Rod",
       "fr": "Canne à pêche en noyer noir",
@@ -13908,7 +13908,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Claro Walnut Grinding Wheel",
+      "cn": "克拉洛胡桃木砂轮机",
       "de": "Clarowalnuss-Schleifrad",
       "en": "Claro Walnut Grinding Wheel",
       "fr": "Meule en noyer noir",
@@ -13929,7 +13929,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Claro Walnut Spinning Wheel",
+      "cn": "克拉洛胡桃木纺车",
       "de": "Clarowalnuss-Spinnrad",
       "en": "Claro Walnut Spinning Wheel",
       "fr": "Rouet en noyer noir",
@@ -13950,7 +13950,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Claro Walnut Sandals of Crafting",
+      "cn": "克拉洛胡桃木巧匠凉鞋",
       "de": "Clarowalnuss-Sandalen des Handwerks",
       "en": "Claro Walnut Sandals of Crafting",
       "fr": "Sandales des créations en noyer noir",
@@ -13971,7 +13971,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Claro Walnut Sandals of Gathering",
+      "cn": "克拉洛胡桃木大地凉鞋",
       "de": "Clarowalnuss-Sandalen des Eifers",
       "en": "Claro Walnut Sandals of Gathering",
       "fr": "Sandales des ressources en noyer noir",
@@ -13992,7 +13992,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Earrings",
+      "cn": "五加木耳环",
       "de": "Ginseng-Ohrringe",
       "en": "Ginseng Earrings",
       "fr": "Boucles d'oreilles en ginseng",
@@ -14013,7 +14013,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Necklace",
+      "cn": "五加木项链",
       "de": "Ginseng-Halsband",
       "en": "Ginseng Necklace",
       "fr": "Collier en ginseng",
@@ -14034,7 +14034,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Bracelet",
+      "cn": "五加木手镯",
       "de": "Ginseng-Armband",
       "en": "Ginseng Bracelet",
       "fr": "Bracelet en ginseng",
@@ -14055,7 +14055,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Ring",
+      "cn": "五加木指环",
       "de": "Ginseng-Ring",
       "en": "Ginseng Ring",
       "fr": "Bague en ginseng",
@@ -14076,7 +14076,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Earrings",
+      "cn": "相思木耳环",
       "de": "Akazien-Ohrringe",
       "en": "Acacia Earrings",
       "fr": "Boucles d'oreilles en acacia turalien",
@@ -14097,7 +14097,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Necklace",
+      "cn": "相思木项链",
       "de": "Akazien-Halsband",
       "en": "Acacia Necklace",
       "fr": "Collier en acacia turalien",
@@ -14118,7 +14118,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Bracelet",
+      "cn": "相思木手镯",
       "de": "Akazien-Armband",
       "en": "Acacia Bracelet",
       "fr": "Bracelet en acacia turalien",
@@ -14139,7 +14139,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Ring",
+      "cn": "相思木指环",
       "de": "Akazien-Ring",
       "en": "Acacia Ring",
       "fr": "Bague en acacia turalien",
@@ -14160,7 +14160,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Claro Walnut Necklace of Gathering",
+      "cn": "克拉洛胡桃木大地项链",
       "de": "Clarowalnuss-Halsband des Eifers",
       "en": "Claro Walnut Necklace of Gathering",
       "fr": "Collier des ressources en noyer noir",
@@ -14181,7 +14181,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Claro Walnut Bracelet of Gathering",
+      "cn": "克拉洛胡桃木大地手环",
       "de": "Clarowalnuss-Armreif des Eifers",
       "en": "Claro Walnut Bracelet of Gathering",
       "fr": "Bracelet des ressources en noyer noir",
@@ -14202,7 +14202,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Tomestool",
+      "cn": "阅读凳子",
       "de": "Leseratten-Stuhl",
       "en": "Tomestool",
       "fr": "Tabouret de bibliophile",
@@ -14223,7 +14223,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Wall Cabinet",
+      "cn": "墙面收藏柜",
       "de": "Wandschrank",
       "en": "Wall Cabinet",
       "fr": "Cabinet mural",
@@ -14265,7 +14265,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Kitchen Cabinet",
+      "cn": "厨房橱柜",
       "de": "Küchenschrank",
       "en": "Kitchen Cabinet",
       "fr": "Placard de cuisine",
@@ -14286,7 +14286,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Slovenly Chair",
+      "cn": "杂乱的椅子",
       "de": "Abgenutzter Stuhl",
       "en": "Slovenly Chair",
       "fr": "Chaise négligée",
@@ -14328,7 +14328,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Twintop Table",
+      "cn": "双台面桌子",
       "de": "Doppelablagen-Tisch",
       "en": "Twintop Table",
       "fr": "Table à double plateau",
@@ -14349,7 +14349,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Stargazing Deck",
+      "cn": "观星平台",
       "de": "Terrasse des Sterndeuters",
       "en": "Stargazing Deck",
       "fr": "Terrasse d'observation céleste",
@@ -14370,7 +14370,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Wooden Garden Gate",
+      "cn": "木制庭院门",
       "de": "Hölzernes Gartentor",
       "en": "Wooden Garden Gate",
       "fr": "Portail de jardin en bois",
@@ -27243,7 +27243,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Handcrafted Cover Components",
+      "cn": "全新的装订部件",
       "de": "Basis-Einbandkomponente",
       "en": "Handcrafted Cover Components",
       "fr": "Composant de reliure toute neuve",
@@ -27264,7 +27264,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Pelupelu Cover Components",
+      "cn": "佩鲁佩鲁族样式的装订部件",
       "de": "Pelupelu-Einbandkomponente",
       "en": "Pelupelu Cover Components",
       "fr": "Composant de reliure à la mode des Pelupelu",
@@ -27285,7 +27285,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Moblin Cover Components",
+      "cn": "莫布林族样式的装订部件",
       "de": "Moblin-Einbandkomponente",
       "en": "Moblin Cover Components",
       "fr": "Composant de reliure à la mode des Mobelins",
@@ -27306,7 +27306,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Mamool Ja Cover Components",
+      "cn": "辉鳞族样式的装订部件",
       "de": "Mamool Ja-Einbandkomponente",
       "en": "Mamool Ja Cover Components",
       "fr": "Composant de reliure à la mode des Mamool Ja",
@@ -27327,7 +27327,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Yok Huy Cover",
+      "cn": "尤卡巨人族样式的封面",
       "de": "Yok Huy-Einband",
       "en": "Yok Huy Cover",
       "fr": "Reliure à la mode des Yok Huy",
@@ -27348,7 +27348,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Tonawawtan Cover Components",
+      "cn": "迎曦之民样式的装订部件",
       "de": "Tonawawta-Einbandkomponente",
       "en": "Tonawawtan Cover Components",
       "fr": "Reliure à la mode des Tonawawta",
@@ -27369,7 +27369,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Ginseng Earrings",
+      "cn": "收藏用五加木耳坠",
       "de": "Ginseng-Ohrringe (Sammlerstück)",
       "en": "Rarefied Ginseng Earrings",
       "fr": "Boucles d'oreilles en ginseng collectionnables",
@@ -27390,7 +27390,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Ceiba Spear",
+      "cn": "收藏用木棉长枪",
       "de": "Ceiba-Speer (Sammlerstück)",
       "en": "Rarefied Ceiba Spear",
       "fr": "Hast en ceiba collectionnable",
@@ -27411,7 +27411,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Dark Mahogany Necklace",
+      "cn": "收藏用深红木项链",
       "de": "Dunkelmahagoni-Halsband (Sammlerstück)",
       "en": "Rarefied Dark Mahogany Necklace",
       "fr": "Collier en acajou sombre collectionnable",
@@ -27432,7 +27432,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied Acacia Rod",
+      "cn": "收藏用相思木法杖",
       "de": "Akazien-Stab (Sammlerstück)",
       "en": "Rarefied Acacia Rod",
       "fr": "Sceptre en acacia turalien collectionnable",
@@ -27453,7 +27453,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Claro Walnut Grinding Wheel",
+      "cn": "收藏用克拉洛胡桃木砂轮机",
       "de": "Clarowalnuss-Schleifrad (Sammlerstück)",
       "en": "Rarefied Claro Walnut Grinding Wheel",
       "fr": "Meule en noyer noir collectionnable",
@@ -27474,7 +27474,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Claro Walnut Fishing Rod",
+      "cn": "收藏用克拉洛钓竿",
       "de": "Clarowalnuss-Angelrute (Sammlerstück)",
       "en": "Rarefied Claro Walnut Fishing Rod",
       "fr": "Canne à pêche en noyer noir collectionnable",

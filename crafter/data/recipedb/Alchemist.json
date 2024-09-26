@@ -12648,7 +12648,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Grade 1 Gemsap of Strength",
+      "cn": "刚力之宝水",
       "de": "Juwelenlösung der Stärke I",
       "en": "Grade 1 Gemsap of Strength",
       "fr": "Eau prodigieuse de force I",
@@ -12669,7 +12669,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Grade 1 Gemsap of Dexterity",
+      "cn": "巧力之宝水",
       "de": "Juwelenlösung der Geschicklichkeit I",
       "en": "Grade 1 Gemsap of Dexterity",
       "fr": "Eau prodigieuse de dextérité I",
@@ -12690,7 +12690,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Grade 1 Gemsap of Vitality",
+      "cn": "耐力之宝水",
       "de": "Juwelenlösung der Konstitution I",
       "en": "Grade 1 Gemsap of Vitality",
       "fr": "Eau prodigieuse de vitalité I",
@@ -12711,7 +12711,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Grade 1 Gemsap of Intelligence",
+      "cn": "智力之宝水",
       "de": "Juwelenlösung der Intelligenz I",
       "en": "Grade 1 Gemsap of Intelligence",
       "fr": "Eau prodigieuse d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
@@ -12732,7 +12732,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Grade 1 Gemsap of Mind",
+      "cn": "意力之宝水",
       "de": "Juwelenlösung der Willenskraft I",
       "en": "Grade 1 Gemsap of Mind",
       "fr": "Eau prodigieuse d'esprit I",
@@ -12753,7 +12753,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Growth Formula Lambda",
+      "cn": "植物成长剂11型",
       "de": "Wachstumsformel Lambda",
       "en": "Growth Formula Lambda",
       "fr": "Formule de croissance lambda",
@@ -12774,7 +12774,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Tungsten Ink",
+      "cn": "重钨墨水",
       "de": "Magische Wolframtinte",
       "en": "Tungsten Ink",
       "fr": "Encre de tungstène enchantée",
@@ -12795,7 +12795,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Magnesia Whetstone",
+      "cn": "氧化镁砥石",
       "de": "Magnesium-Wetzstein",
       "en": "Magnesia Whetstone",
       "fr": "Pierre à aiguiser en magnésium",
@@ -12816,7 +12816,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Sanctified Water",
+      "cn": "大圣水",
       "de": "Gesegnetes Wasser",
       "en": "Sanctified Water",
       "fr": "Eau sacrale",
@@ -12837,7 +12837,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Grade 1 Gemdraught of Strength",
+      "cn": "刚力之宝药",
       "de": "Juwelenremedium der Stärke I",
       "en": "Grade 1 Gemdraught of Strength",
       "fr": "Philtre prodigieux de force I",
@@ -12858,7 +12858,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Grade 1 Gemdraught of Dexterity",
+      "cn": "巧力之宝药",
       "de": "Juwelenremedium der Geschicklichkeit I",
       "en": "Grade 1 Gemdraught of Dexterity",
       "fr": "Philtre prodigieux de dextérité I",
@@ -12879,7 +12879,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Grade 1 Gemdraught of Vitality",
+      "cn": "耐力之宝药",
       "de": "Juwelenremedium der Konstitution I",
       "en": "Grade 1 Gemdraught of Vitality",
       "fr": "Philtre prodigieux de vitalité I",
@@ -12900,7 +12900,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Grade 1 Gemdraught of Intelligence",
+      "cn": "智力之宝药",
       "de": "Juwelenremedium der Intelligenz I",
       "en": "Grade 1 Gemdraught of Intelligence",
       "fr": "Philtre prodigieux d'in<SoftHyphen/>tel<SoftHyphen/>li<SoftHyphen/>gence I",
@@ -12921,7 +12921,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Grade 1 Gemdraught of Mind",
+      "cn": "意力之宝药",
       "de": "Juwelenremedium der Willenskraft I",
       "en": "Grade 1 Gemdraught of Mind",
       "fr": "Philtre prodigieux d'esprit I",
@@ -12942,7 +12942,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Competent Craftsman's Tisane",
+      "cn": "名匠药液",
       "de": "Kräutertee für behände Handwerker",
       "en": "Competent Craftsman's Tisane",
       "fr": "Sérum de virtuosité",
@@ -12963,7 +12963,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Commanding Craftsman's Tisane",
+      "cn": "巨匠药液",
       "de": "Kräutertee für hehre Handwerker",
       "en": "Commanding Craftsman's Tisane",
       "fr": "Sérum de maîtrise",
@@ -12984,7 +12984,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Cunning Craftsman's Tisane",
+      "cn": "魔匠药液",
       "de": "Kräutertee für herausragende Handwerker",
       "en": "Cunning Craftsman's Tisane",
       "fr": "Sérum de capacité",
@@ -13005,7 +13005,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Grimoire",
+      "cn": "银狼革魔导书",
       "de": "Schakalleder-Grimoire",
       "en": "Loboskin Grimoire",
       "fr": "Grimoire en cuir de loup argenté",
@@ -13026,7 +13026,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Loboskin Codex",
+      "cn": "银狼革魔导典",
       "de": "Schakalleder-Kodex",
       "en": "Loboskin Codex",
       "fr": "Codex en cuir de loup argenté",
@@ -13047,7 +13047,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ginseng Angle Brush",
+      "cn": "五加木斜角笔",
       "de": "Ginseng-Schrägpinsel",
       "en": "Ginseng Angle Brush",
       "fr": "Pinceau biseauté en ginseng",
@@ -13068,7 +13068,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Index",
+      "cn": "锤头鳄革魔导书",
       "de": "Hammerhaidilleder-Index",
       "en": "Crocodileskin Index",
       "fr": "Index en cuir de croco-marteau",
@@ -13089,7 +13089,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Crocodileskin Codex",
+      "cn": "锤头鳄革魔导典",
       "de": "Hammerhaidilleder-Kodex",
       "en": "Crocodileskin Codex",
       "fr": "Codex en cuir de croco-marteau",
@@ -13110,7 +13110,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Ceiba Round Brush",
+      "cn": "木棉圆笔",
       "de": "Ceiba-Rundpinsel",
       "en": "Ceiba Round Brush",
       "fr": "Pinceau rond en ceiba",
@@ -13131,7 +13131,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Br'aaxskin Grimoire",
+      "cn": "狞豹革魔导书",
       "de": "Br'aaxleder-Grimoire",
       "en": "Br'aaxskin Grimoire",
       "fr": "Grimoire en cuir de br'aax",
@@ -13152,7 +13152,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Br'aaxskin Codex",
+      "cn": "狞豹革魔导典",
       "de": "Br'aaxleder-Kodex",
       "en": "Br'aaxskin Codex",
       "fr": "Codex en cuir de br'aax",
@@ -13173,7 +13173,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Dark Mahogany Round Brush",
+      "cn": "深红木圆笔",
       "de": "Dunkelmahagoni-Rundpinsel",
       "en": "Dark Mahogany Round Brush",
       "fr": "Pinceau rond en acajou sombre",
@@ -13194,7 +13194,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Gomphotherium Grimoire",
+      "cn": "嵌齿象革魔导书",
       "de": "Gomphotheriumleder-Grimoire",
       "en": "Gomphotherium Grimoire",
       "fr": "Grimoire en cuir de gomphotherium",
@@ -13215,7 +13215,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Gomphotherium Codex",
+      "cn": "嵌齿象革魔导典",
       "de": "Gomphotheriumleder-Kodex",
       "en": "Gomphotherium Codex",
       "fr": "Codex en cuir de gomphotherium",
@@ -13236,7 +13236,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Acacia Round Brush",
+      "cn": "相思木圆笔",
       "de": "Akazien-Rundpinsel",
       "en": "Acacia Round Brush",
       "fr": "Pinceau rond en acacia turalien",
@@ -13257,7 +13257,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Book of Ra'Kaznar",
+      "cn": "卡扎纳尔之书",
       "de": "Ra'Kaznar-Grimoire",
       "en": "Book of Ra'Kaznar",
       "fr": "Livre de Ra'Kaznar",
@@ -13278,7 +13278,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Word of Ra'Kaznar",
+      "cn": "卡扎纳尔之典",
       "de": "Ra'Kaznar-Kodex",
       "en": "Word of Ra'Kaznar",
       "fr": "Parole de Ra'Kaznar",
@@ -13299,7 +13299,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Claro Walnut Flat Brush",
+      "cn": "克拉洛胡桃木平笔",
       "de": "Clarowalnuss-Flachpinsel",
       "en": "Claro Walnut Flat Brush",
       "fr": "Pinceau plat en noyer noir",
@@ -13320,7 +13320,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Red Sunflower Corsage",
+      "cn": "红色向日葵头花",
       "de": "Rote Sonnenblumen-Haarspange",
       "en": "Red Sunflower Corsage",
       "fr": "Barrette tournesols rouges",
@@ -13341,7 +13341,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Blue Sunflower Corsage",
+      "cn": "蓝色向日葵头花",
       "de": "Blaue Sonnenblumen-Haarspange",
       "en": "Blue Sunflower Corsage",
       "fr": "Barrette tournesols bleus",
@@ -13362,7 +13362,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Yellow Sunflower Corsage",
+      "cn": "黄色向日葵头花",
       "de": "Gelbe Sonnenblumen-Haarspange",
       "en": "Yellow Sunflower Corsage",
       "fr": "Barrette tournesols jaunes",
@@ -13383,7 +13383,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Green Sunflower Corsage",
+      "cn": "绿色向日葵头花",
       "de": "Grüne Sonnenblumen-Haarspange",
       "en": "Green Sunflower Corsage",
       "fr": "Barrette tournesols verts",
@@ -13404,7 +13404,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Orange Sunflower Corsage",
+      "cn": "橙色向日葵头花",
       "de": "Orange Sonnenblumen-Haarspange",
       "en": "Orange Sunflower Corsage",
       "fr": "Barrette tournesols orange",
@@ -13425,7 +13425,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Purple Sunflower Corsage",
+      "cn": "紫色向日葵头花",
       "de": "Violette Sonnenblumen-Haarspange",
       "en": "Purple Sunflower Corsage",
       "fr": "Barrette tournesols violets",
@@ -13446,7 +13446,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "White Sunflower Corsage",
+      "cn": "白色向日葵头花",
       "de": "Weiße Sonnenblumen-Haarspange",
       "en": "White Sunflower Corsage",
       "fr": "Barrette tournesols blancs",
@@ -13467,7 +13467,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Black Sunflower Corsage",
+      "cn": "黑色向日葵头花",
       "de": "Schwarze Sonnenblumen-Haarspange",
       "en": "Black Sunflower Corsage",
       "fr": "Barrette tournesols noirs",
@@ -13488,7 +13488,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Rainbow Sunflower Corsage",
+      "cn": "混色向日葵头花",
       "de": "Mehrfarbige Sonnenblumen-Haarspange",
       "en": "Rainbow Sunflower Corsage",
       "fr": "Barrette tournesols multicolores",
@@ -13509,7 +13509,7 @@
     "level": 520,
     "maxQuality": 5700,
     "name": {
-      "cn": "Palm Round Brush",
+      "cn": "棕榈圆笔",
       "de": "Palmen-Rundpinsel",
       "en": "Palm Round Brush",
       "fr": "Pinceau rond en palmier",
@@ -13530,7 +13530,7 @@
     "level": 530,
     "maxQuality": 6600,
     "name": {
-      "cn": "Red Pine Flat Brush",
+      "cn": "红松木圆笔",
       "de": "Rotkiefer-Flachpinsel",
       "en": "Red Pine Flat Brush",
       "fr": "Pinceau plat en pin sylvestre",
@@ -13551,7 +13551,7 @@
     "level": 540,
     "maxQuality": 6800,
     "name": {
-      "cn": "Ironwood Filbert Brush",
+      "cn": "铁木椭圆笔",
       "de": "Eisenholz-Filbertpinsel",
       "en": "Ironwood Filbert Brush",
       "fr": "Pinceau filbert en bois de fer",
@@ -13572,7 +13572,7 @@
     "level": 550,
     "maxQuality": 7000,
     "name": {
-      "cn": "Chondrite Magitek Paintbrush",
+      "cn": "球粒陨石魔导画笔",
       "de": "Chondrit-Magitek-Malerpinsel",
       "en": "Chondrite Magitek Paintbrush",
       "fr": "Pinceau magitek en chondrite",
@@ -13593,7 +13593,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Wisteria Ceiling Lamp",
+      "cn": "紫藤吊灯",
       "de": "Glyziniendeckenlampe",
       "en": "Wisteria Ceiling Lamp",
       "fr": "Lustre glycine",
@@ -27369,7 +27369,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Cherimoya Juice",
+      "cn": "冷园果汁",
       "de": "Cherimoya-Saft",
       "en": "Cherimoya Juice",
       "fr": "Jus de cherimoya",
@@ -27390,7 +27390,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Fermented Aloe Juice",
+      "cn": "发酵芦荟汁",
       "de": "Vergorener Aloe-Saft",
       "en": "Fermented Aloe Juice",
       "fr": "Jus d'aloès fermenté",
@@ -27411,7 +27411,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Ja Tiika Juice",
+      "cn": "深绿果汁",
       "de": "Ja Tiika-Bananensaft",
       "en": "Ja Tiika Juice",
       "fr": "Jus de bananes turquoise",
@@ -27432,7 +27432,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Prickly Pear Juice",
+      "cn": "腌刺梨果汁",
       "de": "Kaktorfeigensaft",
       "en": "Prickly Pear Juice",
       "fr": "Jus anti-gueule de bois",
@@ -27453,7 +27453,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Kukuru Pulp Juice",
+      "cn": "可可果肉果汁",
       "de": "Kukuru-Manschsaft",
       "en": "Kukuru Pulp Juice",
       "fr": "Jus de pulpe de kukuru",
@@ -27474,7 +27474,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Boonewa Soda",
+      "cn": "布涅瓦发泡水",
       "de": "Boonewa-Saftschorle",
       "en": "Boonewa Soda",
       "fr": "Soda boonewa",
@@ -27495,7 +27495,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Loboskin Grimoire",
+      "cn": "收藏用银狼革魔导书",
       "de": "Schakalleder-Grimoire (Sammlerstück)",
       "en": "Rarefied Loboskin Grimoire",
       "fr": "Grimoire en cuir de loup argenté collectionnable",
@@ -27516,7 +27516,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Gemsap of Dexterity",
+      "cn": "收藏用巧力之宝水",
       "de": "Juwelenlösung der Geschicklichkeit (Sammlerstück)",
       "en": "Rarefied Gemsap of Dexterity",
       "fr": "Eau prodigieuse de dextérité collectionnable",
@@ -27537,7 +27537,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Br'aaxskin Codex",
+      "cn": "收藏用狞豹革魔导典",
       "de": "Br'aaxleder-Kodex (Sammlerstück)",
       "en": "Rarefied Br'aaxskin Codex",
       "fr": "Codex en cuir de br'aax collectionnable",
@@ -27558,7 +27558,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied Cunning Craftsman's Tisane",
+      "cn": "收藏用魔匠药液",
       "de": "Fachwissen-Kräutermischung (Sammlerstück)",
       "en": "Rarefied Cunning Craftsman's Tisane",
       "fr": "Sérum de capacité collectionnable",
@@ -27579,7 +27579,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Gemdraught of Vitality",
+      "cn": "收藏用耐力之宝药",
       "de": "Juwelenremedium der Konstitution (Sammlerstück)",
       "en": "Rarefied Gemdraught of Vitality",
       "fr": "Philtre prodigieux de vitalité collectionnable",
@@ -27600,7 +27600,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Claro Walnut Flat Brush",
+      "cn": "收藏用克拉洛胡桃木平笔",
       "de": "Clarowalnuss-Flachpinsel (Sammlerstück)",
       "en": "Rarefied Claro Walnut Flat Brush",
       "fr": "Pinceau plat en noyer noir collectionnable",
@@ -27894,7 +27894,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "The Skyruin Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：天灾",
       "de": "Notenrolle von „The Skyruin“",
       "en": "The Skyruin Orchestrion Roll",
       "fr": "Rouleau “The Skyruin”",
@@ -27915,7 +27915,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Seeking Purpose Orchestrion Roll",
+      "cn": "管弦乐琴乐谱：存在的理由",
       "de": "Notenrolle von „Seeking Purpose“",
       "en": "Seeking Purpose Orchestrion Roll",
       "fr": "Rouleau “Seeking Purpose”",

@@ -1,7 +1,7 @@
-# 《最终幻想14》生产模拟器 v7.05 Beta
+# 《最终幻想14》生产模拟器 v7.05
 本项目是一个分支项目，主要针对《最终幻想14》国服和国际服的内容，对生产模拟器（FFXIV Crafting Optimizer）进行汉化、优化和修改。
 
-国服、国际服通用项目（适配游戏客户端 国际服 v7.05 (测试中) / 国服 v6.57）：[访问地址](https://yyyy.games/crafter/)
+国服、国际服通用项目（适配游戏客户端 国际服 v7.05 / 国服 v7.0）：[访问地址](https://yyyy.games/crafter/)
 
 # FFXIV Crafting Optimizer Website
 

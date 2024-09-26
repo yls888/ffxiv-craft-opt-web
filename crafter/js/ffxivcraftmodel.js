@@ -338,7 +338,6 @@ function ApplyModifiers(s, action, condition) {
         }
     }
 
-
     // Effects modifying durability cost
     var durabilityCost = action.durabilityCost;
 
@@ -573,12 +572,10 @@ function UpdateEffectCounters(s, action, condition, successProbability) {
     if (AllActions.innerQuiet.shortName in s.effects.countUps) {
         if (isActionEq(action, AllActions.preparatoryTouch)) {
             s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
-        }
-        else if (isActionEq(action, AllActions.refinedTouch)) {
+        } else if (isActionEq(action, AllActions.refinedTouch)) {
             if (s.action === AllActions.basicTouch.shortName) {
                 s.effects.countUps[AllActions.innerQuiet.shortName] += 2;
-            }
-            else {
+            } else {
                 s.effects.countUps[AllActions.innerQuiet.shortName] += 1;
             }
         }
@@ -1631,28 +1628,28 @@ function clone(x) {
             }
         }
         switch (_typeof(x)) {
-            case 'object':
-                var newObject = Object.create(Object.getPrototypeOf(x));
-                seen[x] = newObject;
-                for (var p in x) {
-                    newObject[p] = _clone(x[p]);
-                }
-                return newObject;
-            case 'array':
-                var newArray = [];
-                seen[x] = newArray;
-                for (var pp in x) {
-                    newArray[pp] = _clone(x[pp]);
-                }
-                return newArray;
-            case 'number':
-                return x;
-            case 'string':
-                return x;
-            case 'boolean':
-                return x;
-            default:
-                return x;
+        case 'object':
+            var newObject = Object.create(Object.getPrototypeOf(x));
+            seen[x] = newObject;
+            for (var p in x) {
+                newObject[p] = _clone(x[p]);
+            }
+            return newObject;
+        case 'array':
+            var newArray = [];
+            seen[x] = newArray;
+            for (var pp in x) {
+                newArray[pp] = _clone(x[pp]);
+            }
+            return newArray;
+        case 'number':
+            return x;
+        case 'string':
+            return x;
+        case 'boolean':
+            return x;
+        default:
+            return x;
         }
     }
     return _clone(x);
@@ -1699,6 +1696,16 @@ var LevelTable = {
     88: 550,
     89: 555,
     90: 560,
+    91: 650,
+    92: 653,
+    93: 656,
+    94: 660,
+    95: 665,
+    96: 670,
+    97: 675,
+    98: 680,
+    99: 685,
+    100: 690,
 };
 
 var SuggestedCraftsmanship = {

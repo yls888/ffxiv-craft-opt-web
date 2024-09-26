@@ -7251,7 +7251,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Cooking Mezcal",
+      "cn": "梅斯卡料酒",
       "de": "Kochmezcal",
       "en": "Cooking Mezcal",
       "fr": "Mezcal de cuisine",
@@ -7272,7 +7272,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Ut'ohmu Chili Sauce",
+      "cn": "乌托姆辣酱",
       "de": "Ut'ohmu-Chilisoße",
       "en": "Ut'ohmu Chili Sauce",
       "fr": "Sauce chili d'Ut'ohmu",
@@ -7293,7 +7293,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Mountain Salt",
+      "cn": "高山食盐",
       "de": "Gebirgssalz",
       "en": "Mountain Salt",
       "fr": "Sel de table des montagnes",
@@ -7314,7 +7314,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Royal Maple Syrup",
+      "cn": "高级枫糖浆",
       "de": "Königsahornsirup",
       "en": "Royal Maple Syrup",
       "fr": "Sirop d'érable royal",
@@ -7335,7 +7335,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Turali Corn Oil",
+      "cn": "图拉尔玉米油",
       "de": "Tural-Maisöl",
       "en": "Turali Corn Oil",
       "fr": "Huile de maïs turalien",
@@ -7356,7 +7356,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Whipped Cream",
+      "cn": "泡沫奶油",
       "de": "Schlagrahm",
       "en": "Whipped Cream",
       "fr": "Crème fouettée",
@@ -7377,7 +7377,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Boiled Alpaca Steak",
+      "cn": "炖煮羊驼肉排",
       "de": "Alpakafleischpfanne",
       "en": "Boiled Alpaca Steak",
       "fr": "Steak d'alpaga bouilli",
@@ -7398,7 +7398,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Omelette Rice",
+      "cn": "蛋包饭",
       "de": "Omuraisu",
       "en": "Omelette Rice",
       "fr": "Omurice",
@@ -7419,7 +7419,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Shrimp Cocktail",
+      "cn": "酱汁蘸虾",
       "de": "Krabbencocktail",
       "en": "Shrimp Cocktail",
       "fr": "Cocktail de crevettes",
@@ -7440,7 +7440,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Mezcal-marinated Swampmonk",
+      "cn": "梅斯卡香煎沼泽鬼鱼肉",
       "de": "Marinierter Sumpfmönch",
       "en": "Mezcal-marinated Swampmonk",
       "fr": "Steak de moine des marécages au mezcal",
@@ -7461,7 +7461,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "Grilled Urqotrout",
+      "cn": "盐烤奥阔鳟",
       "de": "Gegrillte Urqo-Forelle",
       "en": "Grilled Urqotrout",
       "fr": "Truite pacha grillée",
@@ -7482,7 +7482,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Royal Toast",
+      "cn": "高级吐司",
       "de": "Toast Royale",
       "en": "Royal Toast",
       "fr": "Toast au sirop royal",
@@ -7503,7 +7503,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Banana Ponzecake",
+      "cn": "香蕉星磅蛋糕",
       "de": "Bananen-Ponzenkuchen",
       "en": "Banana Ponzecake",
       "fr": "Quatre-quarts à la banane",
@@ -7524,7 +7524,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Maple Teriyaki",
+      "cn": "照烧枫糖鸡肉",
       "de": "Ahorn-Teriyaki",
       "en": "Maple Teriyaki",
       "fr": "Poulet à la sauce teriyaki royale",
@@ -7545,7 +7545,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Spaghetti al Olio e Peperoncino",
+      "cn": "双油风味拌细面",
       "de": "Olio e Peperoncino",
       "en": "Spaghetti al Olio e Peperoncino",
       "fr": "Pâtes aux piments à l'huile",
@@ -7566,7 +7566,7 @@
     "level": 660,
     "maxQuality": 9400,
     "name": {
-      "cn": "Sweetmuffin",
+      "cn": "纸杯甜松糕",
       "de": "Süßer Muffin",
       "en": "Sweetmuffin",
       "fr": "Muffin moelleux",
@@ -7587,7 +7587,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Gateau Au Chocolat",
+      "cn": "巧克力奶油蛋糕",
       "de": "Gâteau au Chocolat",
       "en": "Gateau Au Chocolat",
       "fr": "Gâteau au chocolat",
@@ -7608,7 +7608,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Turali Pineapple Ponzecake",
+      "cn": "图拉尔菠萝蛋糕",
       "de": "Turalischer Ananas-Ponzenkuchen",
       "en": "Turali Pineapple Ponzecake",
       "fr": "Gâteau à l'ananas turalien",
@@ -7629,7 +7629,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Tacos Al Pastor",
+      "cn": "牧羊人夹饼",
       "de": "Tacos al pastor",
       "en": "Tacos Al Pastor",
       "fr": "Tacos al pastor",
@@ -7650,7 +7650,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Creamy Hot Chocolate",
+      "cn": "奶油热巧克力",
       "de": "Heiße Schokolade mit Sahne",
       "en": "Creamy Hot Chocolate",
       "fr": "Tasse de chocolat viennois",
@@ -7671,7 +7671,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Tart Turali Tart",
+      "cn": "图拉尔水果挞",
       "de": "Turalisches Fruchttörtchen",
       "en": "Tart Turali Tart",
       "fr": "Tarte aux fruits turaliens",
@@ -7692,7 +7692,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Wild Banana Blend",
+      "cn": "野生香蕉果昔",
       "de": "Wildbananen-Smoothie",
       "en": "Wild Banana Blend",
       "fr": "Jus onctueux de banane sauvage",
@@ -7713,7 +7713,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Tender Shortcake",
+      "cn": "圆扇刺梨蛋糕",
       "de": "Wolkenkuchen",
       "en": "Tender Shortcake",
       "fr": "Shortcake moelleux",
@@ -7734,7 +7734,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Salmon Jerky",
+      "cn": "鲑鱼干",
       "de": "Getrockneter Lachs",
       "en": "Salmon Jerky",
       "fr": "Tranches de saumon séché",
@@ -7755,7 +7755,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Nasi Goreng",
+      "cn": "酱炒饭",
       "de": "Nasi Goreng",
       "en": "Nasi Goreng",
       "fr": "Nasi goreng",
@@ -7776,7 +7776,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Roast Rroneek",
+      "cn": "烤犎牛肉",
       "de": "Gebratenes Rroneek",
       "en": "Roast Rroneek",
       "fr": "Rôti de rroneek",
@@ -7797,7 +7797,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Mesquite Juice",
+      "cn": "牧豆树豆汁",
       "de": "Mesquite-Saft",
       "en": "Mesquite Juice",
       "fr": "Jus de haricot mesquite",
@@ -7818,7 +7818,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Fruit and Aloe Jelly",
+      "cn": "芦荟水果冻",
       "de": "Aloe-Fruchtgelee",
       "en": "Fruit and Aloe Jelly",
       "fr": "Gelée à l'aloès et aux fruits forestiers",
@@ -7839,7 +7839,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Driftwood Catfish Pie",
+      "cn": "鲶鱼派",
       "de": "Treibholz-Katfischpastete",
       "en": "Driftwood Catfish Pie",
       "fr": "Tourte au poisson-chat",
@@ -7860,7 +7860,7 @@
     "level": 680,
     "maxQuality": 11000,
     "name": {
-      "cn": "Acqua Pazza",
+      "cn": "番茄水煮鱼",
       "de": "Acqua Pazza",
       "en": "Acqua Pazza",
       "fr": "Acqua pazza",
@@ -7881,7 +7881,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rroneek Steak",
+      "cn": "犎牛牛排",
       "de": "Rroneek-Steak",
       "en": "Rroneek Steak",
       "fr": "Steak de rroneek",
@@ -7902,7 +7902,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Stuffed Peppers",
+      "cn": "酿柿子椒",
       "de": "Gefüllte Paprika",
       "en": "Stuffed Peppers",
       "fr": "Poivrons farcis",
@@ -7923,7 +7923,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Tacos de Carne Asada",
+      "cn": "烤牛肉夹饼",
       "de": "Tacos mit Carne Asada",
       "en": "Tacos de Carne Asada",
       "fr": "Tacos de carne asada",
@@ -7944,7 +7944,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Mesquite Soup",
+      "cn": "牧豆树豆汤",
       "de": "Mesquite-Suppe",
       "en": "Mesquite Soup",
       "fr": "Soupe de haricots mesquite",
@@ -7965,7 +7965,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Creamy Alpaca Pasta",
+      "cn": "羊驼奶油面",
       "de": "Sahnige Alpaka-Spaghetti",
       "en": "Creamy Alpaca Pasta",
       "fr": "Pâtes crêmeuses à l'alpaga",
@@ -7986,7 +7986,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Broccoli and Spinach Saute",
+      "cn": "西蓝花炒菠菜",
       "de": "Sautiertes grünes Gemüse",
       "en": "Broccoli and Spinach Saute",
       "fr": "Sauté aux légumes verts",
@@ -8007,7 +8007,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Vegetable Soup",
+      "cn": "蔬菜汤",
       "de": "Gemüsesuppe",
       "en": "Vegetable Soup",
       "fr": "Soupe de légumes",
@@ -8028,7 +8028,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "Mug of Cocoa",
+      "cn": "巧克力马克杯",
       "de": "Kakaotasse",
       "en": "Mug of Cocoa",
       "fr": "Tasse de chocolat chaud",
@@ -12522,7 +12522,7 @@
     "level": 380,
     "maxQuality": 6100,
     "name": {
-      "cn": "僧厥茄子镶肉",
+      "cn": "僧厥镶茄子",
       "de": "Patlican Imam Bayildi",
       "en": "Imam Bayildi",
       "fr": "Patlican imam bayildi",
@@ -17478,7 +17478,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "Cherimoya Juice",
+      "cn": "冷园果汁",
       "de": "Cherimoya-Saft",
       "en": "Cherimoya Juice",
       "fr": "Jus de cherimoya",
@@ -17499,7 +17499,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "Fermented Aloe Juice",
+      "cn": "发酵芦荟汁",
       "de": "Vergorener Aloe-Saft",
       "en": "Fermented Aloe Juice",
       "fr": "Jus d'aloès fermenté",
@@ -17520,7 +17520,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Ja Tiika Juice",
+      "cn": "深绿果汁",
       "de": "Ja Tiika-Bananensaft",
       "en": "Ja Tiika Juice",
       "fr": "Jus de bananes turquoise",
@@ -17541,7 +17541,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "Prickly Pear Juice",
+      "cn": "腌刺梨果汁",
       "de": "Kaktorfeigensaft",
       "en": "Prickly Pear Juice",
       "fr": "Jus anti-gueule de bois",
@@ -17562,7 +17562,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "Kukuru Pulp Juice",
+      "cn": "可可果肉果汁",
       "de": "Kukuru-Manschsaft",
       "en": "Kukuru Pulp Juice",
       "fr": "Jus de pulpe de kukuru",
@@ -17583,7 +17583,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "Boonewa Soda",
+      "cn": "布涅瓦发泡水",
       "de": "Boonewa-Saftschorle",
       "en": "Boonewa Soda",
       "fr": "Soda boonewa",
@@ -17604,7 +17604,7 @@
     "level": 650,
     "maxQuality": 8200,
     "name": {
-      "cn": "Rarefied Boiled Alpaca Steak",
+      "cn": "收藏用炖煮羊驼肉排",
       "de": "Alpakafleischpfanne (Sammlerstück)",
       "en": "Rarefied Boiled Alpaca Steak",
       "fr": "Steak d'alpaga bouilli collectionnable",
@@ -17625,7 +17625,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "Rarefied Banana Ponzecake",
+      "cn": "收藏用香蕉星磅蛋糕",
       "de": "Bananen-Ponzenkuchen (Sammlerstück)",
       "en": "Rarefied Banana Ponzecake",
       "fr": "Quatre-quarts à la banane collectionnable",
@@ -17646,7 +17646,7 @@
     "level": 665,
     "maxQuality": 9800,
     "name": {
-      "cn": "Rarefied Turali Pineapple Ponzecake",
+      "cn": "收藏用图拉尔菠萝蛋糕",
       "de": "Tural-Ananaskuchen (Sammlerstück)",
       "en": "Rarefied Turali Pineapple Ponzecake",
       "fr": "Gâteau à l'ananas turalien collectionnable",
@@ -17667,7 +17667,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "Rarefied Salmon Jerky",
+      "cn": "收藏用鲑鱼干",
       "de": "Getrockneter Lachs (Sammlerstück)",
       "en": "Rarefied Salmon Jerky",
       "fr": "Tranches de saumon séché collectionnable",
@@ -17688,7 +17688,7 @@
     "level": 685,
     "maxQuality": 11400,
     "name": {
-      "cn": "Rarefied Stuffed Peppers",
+      "cn": "收藏用酿柿子椒",
       "de": "Gefüllte Paprikas (Sammlerstück)",
       "en": "Rarefied Stuffed Peppers",
       "fr": "Poivrons farcis collectionnables",
@@ -17709,7 +17709,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rarefied Tacos de Carne Asada",
+      "cn": "收藏用烤牛肉夹饼",
       "de": "Tacos de Carne Asada (Sammlerstück)",
       "en": "Rarefied Tacos de Carne Asada",
       "fr": "Tacos de carne asada collectionnables",
