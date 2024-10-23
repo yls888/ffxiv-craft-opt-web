@@ -16302,7 +16302,7 @@
     "level": 670,
     "maxQuality": 10200,
     "name": {
-      "cn": "钛金锭",
+      "cn": "钛金块",
       "de": "Titangoldnugget",
       "en": "Titanium Gold Nugget",
       "fr": "Pépite de titane aurifère",
@@ -18318,7 +18318,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "克拉洛胡桃木平斩",
+      "cn": "钛金平斩",
       "de": "Titangold-Ahle",
       "en": "Titanium Gold Awl",
       "fr": "Alêne en titane aurifère",
@@ -34887,7 +34887,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "交换用的天平轴",
+      "cn": "替换用的中轴",
       "de": "Drehachse",
       "en": "Fulcrum",
       "fr": "Fléau de balance à plateaux",

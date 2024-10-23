@@ -13278,7 +13278,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "木棉长枪",
+      "cn": "木棉木长枪",
       "de": "Ceiba-Speer",
       "en": "Ceiba Spear",
       "fr": "Hast en ceiba",
@@ -13299,7 +13299,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "木棉长弓",
+      "cn": "木棉木长弓",
       "de": "Ceiba-Langbogen",
       "en": "Ceiba Longbow",
       "fr": "Arc long en ceiba",
@@ -13320,7 +13320,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "木棉手杖",
+      "cn": "木棉木手杖",
       "de": "Ceiba-Stock",
       "en": "Ceiba Crook",
       "fr": "Crosse en ceiba",
@@ -13341,7 +13341,7 @@
     "level": 653,
     "maxQuality": 8600,
     "name": {
-      "cn": "木棉咒杖",
+      "cn": "木棉木咒杖",
       "de": "Ceiba-Stab",
       "en": "Ceiba Staff",
       "fr": "Bâton en ceiba",
@@ -13362,7 +13362,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "木棉飞翼",
+      "cn": "木棉木飞翼",
       "de": "Ceiba-Schwingen",
       "en": "Ceiba Wings",
       "fr": "Ailes en ceiba",
@@ -27390,7 +27390,7 @@
     "level": 656,
     "maxQuality": 9000,
     "name": {
-      "cn": "收藏用木棉长枪",
+      "cn": "收藏用木棉木长枪",
       "de": "Ceiba-Speer (Sammlerstück)",
       "en": "Rarefied Ceiba Spear",
       "fr": "Hast en ceiba collectionnable",
