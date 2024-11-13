@@ -25626,7 +25626,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Scutum",
+      "cn": "旧日王国步兵盾",
       "de": "Altkönigreich-Turmschild",
       "en": "Archeo Kingdom Scutum",
       "fr": "Scutum de l'ancien royaume",
@@ -25647,7 +25647,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Helm of Fending",
+      "cn": "旧日王国御敌头盔",
       "de": "Altkönigreich-Helm der Verteidigung",
       "en": "Archeo Kingdom Helm of Fending",
       "fr": "Casque de protecteur de l'ancien royaume",
@@ -25668,7 +25668,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Cuirass of Fending",
+      "cn": "旧日王国御敌胸甲",
       "de": "Altkönigreich-Kürass der Verteidigung",
       "en": "Archeo Kingdom Cuirass of Fending",
       "fr": "Cuirasse de protecteur de l'ancien royaume",
@@ -25689,7 +25689,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Vambraces of Fending",
+      "cn": "旧日王国御敌臂甲",
       "de": "Altkönigreich-Unterarmschienen der Verteidigung",
       "en": "Archeo Kingdom Vambraces of Fending",
       "fr": "Canons d'avant-bras de protecteur de l'ancien royaume",
@@ -25710,7 +25710,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Sabatons of Fending",
+      "cn": "旧日王国御敌铠靴",
       "de": "Altkönigreich-Bärlatschen der Verteidigung",
       "en": "Archeo Kingdom Sabatons of Fending",
       "fr": "Sabatons de protecteur de l'ancien royaume",
@@ -25731,7 +25731,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Helm of Maiming",
+      "cn": "旧日王国制敌头盔",
       "de": "Altkönigreich-Helm des Verstümmelns",
       "en": "Archeo Kingdom Helm of Maiming",
       "fr": "Casque d'abatteur de l'ancien royaume",
@@ -25752,7 +25752,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Cuirass of Maiming",
+      "cn": "旧日王国制敌胸甲",
       "de": "Altkönigreich-Kürass des Verstümmelns",
       "en": "Archeo Kingdom Cuirass of Maiming",
       "fr": "Cuirasse d'abatteur de l'ancien royaume",
@@ -25773,7 +25773,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Vambraces of Maiming",
+      "cn": "旧日王国制敌臂甲",
       "de": "Altkönigreich-Unterarmschienen des Verstümmelns",
       "en": "Archeo Kingdom Vambraces of Maiming",
       "fr": "Canons d'avant-bras d'abatteur de l'ancien royaume",
@@ -25794,7 +25794,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Sabatons of Maiming",
+      "cn": "旧日王国制敌铠靴",
       "de": "Altkönigreich-Bärlatschen des Verstümmelns",
       "en": "Archeo Kingdom Sabatons of Maiming",
       "fr": "Sabatons d'abatteur de l'ancien royaume",
@@ -25815,7 +25815,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Sabatons of Aiming",
+      "cn": "旧日王国精准铠靴",
       "de": "Altkönigreich-Bärlatschen des Zielens",
       "en": "Archeo Kingdom Sabatons of Aiming",
       "fr": "Sabatons de pisteur de l'ancien royaume",
@@ -25836,7 +25836,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Sabatons of Scouting",
+      "cn": "旧日王国游击铠靴",
       "de": "Altkönigreich-Bärlatschen des Spähens",
       "en": "Archeo Kingdom Sabatons of Scouting",
       "fr": "Sabatons d'éclaireur de l'ancien royaume",
@@ -25857,7 +25857,7 @@
     "level": 710,
     "maxQuality": 12000,
     "name": {
-      "cn": "Maraging Steel Ingot",
+      "cn": "马登时效钢锭",
       "de": "Maraging-Stahlbarren",
       "en": "Maraging Steel Ingot",
       "fr": "Lingot d'acier maraging",

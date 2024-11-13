@@ -33459,7 +33459,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "全新的装订部件",
+      "cn": "全新的装帧部件",
       "de": "Basis-Einbandkomponente",
       "en": "Handcrafted Cover Components",
       "fr": "Composant de reliure toute neuve",
@@ -33480,7 +33480,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "佩鲁佩鲁族样式的装订部件",
+      "cn": "佩鲁佩鲁族样式的装帧部件",
       "de": "Pelupelu-Einbandkomponente",
       "en": "Pelupelu Cover Components",
       "fr": "Composant de reliure à la mode des Pelupelu",
@@ -33501,7 +33501,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "莫布林族样式的装订部件",
+      "cn": "莫布林族样式的装帧部件",
       "de": "Moblin-Einbandkomponente",
       "en": "Moblin Cover Components",
       "fr": "Composant de reliure à la mode des Mobelins",
@@ -33522,7 +33522,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "辉鳞族样式的装订部件",
+      "cn": "辉鳞族样式的装帧部件",
       "de": "Mamool Ja-Einbandkomponente",
       "en": "Mamool Ja Cover Components",
       "fr": "Composant de reliure à la mode des Mamool Ja",
@@ -33564,7 +33564,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "迎曦之民样式的装订部件",
+      "cn": "迎曦之民样式的装帧部件",
       "de": "Tonawawta-Einbandkomponente",
       "en": "Tonawawtan Cover Components",
       "fr": "Reliure à la mode des Tonawawta",
@@ -33711,7 +33711,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Armguards of Striking",
+      "cn": "旧日王国强袭护臂",
       "de": "Altkönigreich-Armschützer des Schlagens",
       "en": "Archeo Kingdom Armguards of Striking",
       "fr": "Garde-bras d'agresseur de l'ancien royaume",
@@ -33732,7 +33732,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Shoes of Striking",
+      "cn": "旧日王国强袭皮鞋",
       "de": "Altkönigreich-Schuhe des Schlagens",
       "en": "Archeo Kingdom Shoes of Striking",
       "fr": "Chaussures d'agresseur de l'ancien royaume",
@@ -33753,7 +33753,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Gloves of Aiming",
+      "cn": "旧日王国精准手套",
       "de": "Altkönigreich-Handschuhe des Zielens",
       "en": "Archeo Kingdom Gloves of Aiming",
       "fr": "Gants de pisteur de l'ancien royaume",
@@ -33774,7 +33774,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Armguards of Scouting",
+      "cn": "旧日王国游击护臂",
       "de": "Altkönigreich-Armschützer des Spähens",
       "en": "Archeo Kingdom Armguards of Scouting",
       "fr": "Garde-bras d'éclaireur de l'ancien royaume",
@@ -33795,7 +33795,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Gloves of Healing",
+      "cn": "旧日王国治愈手套",
       "de": "Altkönigreich-Handschuhe der Heilung",
       "en": "Archeo Kingdom Gloves of Healing",
       "fr": "Gants de soigneur de l'ancien royaume",
@@ -33816,7 +33816,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Shoes of Healing",
+      "cn": "旧日王国治愈皮鞋",
       "de": "Altkönigreich-Schuhe der Heilung",
       "en": "Archeo Kingdom Shoes of Healing",
       "fr": "Chaussures de soigneur de l'ancien royaume",
@@ -33837,7 +33837,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Armguards of Casting",
+      "cn": "旧日王国咏咒护臂",
       "de": "Altkönigreich-Armschützer der Magie",
       "en": "Archeo Kingdom Armguards of Casting",
       "fr": "Garde-bras d'incantateur de l'ancien royaume",
@@ -33858,7 +33858,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Shoes of Casting",
+      "cn": "旧日王国咏咒皮鞋",
       "de": "Altkönigreich-Schuhe der Magie",
       "en": "Archeo Kingdom Shoes of Casting",
       "fr": "Chaussures d'incantateur de l'ancien royaume",
@@ -33879,7 +33879,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Choker of Fending",
+      "cn": "旧日王国御敌项环",
       "de": "Altkönigreich-Halsberge der Verteidigung",
       "en": "Archeo Kingdom Choker of Fending",
       "fr": "Ras de cou de protecteur de l'ancien royaume",
@@ -33900,7 +33900,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Choker of Slaying",
+      "cn": "旧日王国强攻项环",
       "de": "Altkönigreich-Halsberge des Schlachtens",
       "en": "Archeo Kingdom Choker of Slaying",
       "fr": "Ras de cou d'attaquant de l'ancien royaume",
@@ -33921,7 +33921,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Choker of Aiming",
+      "cn": "旧日王国精准项环",
       "de": "Altkönigreich-Halsberge des Zielens",
       "en": "Archeo Kingdom Choker of Aiming",
       "fr": "Ras de cou de pisteur de l'ancien royaume",
@@ -33942,7 +33942,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Choker of Healing",
+      "cn": "旧日王国治愈项环",
       "de": "Altkönigreich-Halsberge der Heilung",
       "en": "Archeo Kingdom Choker of Healing",
       "fr": "Ras de cou de soigneur de l'ancien royaume",
@@ -33963,7 +33963,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Choker of Casting",
+      "cn": "旧日王国咏咒项环",
       "de": "Altkönigreich-Halsberge der Magie",
       "en": "Archeo Kingdom Choker of Casting",
       "fr": "Ras de cou d'incantateur de l'ancien royaume",
@@ -33984,7 +33984,7 @@
     "level": 710,
     "maxQuality": 12000,
     "name": {
-      "cn": "Purussaurus Leather",
+      "cn": "普鲁斯鳄革",
       "de": "Purussaurus-Leder",
       "en": "Purussaurus Leather",
       "fr": "Cuir de purussaurus",
@@ -34047,7 +34047,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Scientist's Gloves",
+      "cn": "科学家手套",
       "de": "Wissenschaftler-Handschuhe",
       "en": "Scientist's Gloves",
       "fr": "Gants de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
@@ -34068,7 +34068,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Scientist's Boots",
+      "cn": "科学家短靴",
       "de": "Wissenschaftler-Stiefeletten",
       "en": "Scientist's Boots",
       "fr": "Bottes de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",

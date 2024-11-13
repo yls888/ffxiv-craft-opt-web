@@ -18171,7 +18171,7 @@
     "level": 675,
     "maxQuality": 10600,
     "name": {
-      "cn": "犎牛哔叽巧匠无檐帽",
+      "cn": "犎牛哔叽巧匠皮帽",
       "de": "Rroneeksergen-Kappe des Handwerks",
       "en": "Rroneek Serge Cap of Crafting",
       "fr": "Casquette des créations en serge de rroneek",
@@ -35055,7 +35055,7 @@
     "level": 560,
     "maxQuality": 4320,
     "name": {
-      "cn": "全新的装订部件",
+      "cn": "全新的装帧部件",
       "de": "Basis-Einbandkomponente",
       "en": "Handcrafted Cover Components",
       "fr": "Composant de reliure toute neuve",
@@ -35076,7 +35076,7 @@
     "level": 656,
     "maxQuality": 5400,
     "name": {
-      "cn": "佩鲁佩鲁族样式的装订部件",
+      "cn": "佩鲁佩鲁族样式的装帧部件",
       "de": "Pelupelu-Einbandkomponente",
       "en": "Pelupelu Cover Components",
       "fr": "Composant de reliure à la mode des Pelupelu",
@@ -35097,7 +35097,7 @@
     "level": 665,
     "maxQuality": 5880,
     "name": {
-      "cn": "莫布林族样式的装订部件",
+      "cn": "莫布林族样式的装帧部件",
       "de": "Moblin-Einbandkomponente",
       "en": "Moblin Cover Components",
       "fr": "Composant de reliure à la mode des Mobelins",
@@ -35118,7 +35118,7 @@
     "level": 680,
     "maxQuality": 6600,
     "name": {
-      "cn": "辉鳞族样式的装订部件",
+      "cn": "辉鳞族样式的装帧部件",
       "de": "Mamool Ja-Einbandkomponente",
       "en": "Mamool Ja Cover Components",
       "fr": "Composant de reliure à la mode des Mamool Ja",
@@ -35160,7 +35160,7 @@
     "level": 690,
     "maxQuality": 7200,
     "name": {
-      "cn": "迎曦之民样式的装订部件",
+      "cn": "迎曦之民样式的装帧部件",
       "de": "Tonawawta-Einbandkomponente",
       "en": "Tonawawtan Cover Components",
       "fr": "Reliure à la mode des Tonawawta",
@@ -35307,7 +35307,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Fending",
+      "cn": "旧日王国御敌护膝裤",
       "de": "Altkönigreich-Knieschützer der Verteidigung",
       "en": "Archeo Kingdom Poleyns of Fending",
       "fr": "Genouillères de protecteur de l'ancien royaume",
@@ -35328,7 +35328,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Maiming",
+      "cn": "旧日王国制敌护膝裤",
       "de": "Altkönigreich-Knieschützer des Verstümmelns",
       "en": "Archeo Kingdom Poleyns of Maiming",
       "fr": "Genouillères d'abatteur de l'ancien royaume",
@@ -35349,7 +35349,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Jacket of Striking",
+      "cn": "旧日王国强袭上衣",
       "de": "Altkönigreich-Jacke des Schlagens",
       "en": "Archeo Kingdom Jacket of Striking",
       "fr": "Jaque d'agresseur de l'ancien royaume",
@@ -35370,7 +35370,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Striking",
+      "cn": "旧日王国强袭护膝裤",
       "de": "Altkönigreich-Knieschützer des Schlagens",
       "en": "Archeo Kingdom Poleyns of Striking",
       "fr": "Genouillères d'agresseur de l'ancien royaume",
@@ -35391,7 +35391,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Jacket of Aiming",
+      "cn": "旧日王国精准上衣",
       "de": "Altkönigreich-Jacke des Zielens",
       "en": "Archeo Kingdom Jacket of Aiming",
       "fr": "Jaque de pisteur de l'ancien royaume",
@@ -35412,7 +35412,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Aiming",
+      "cn": "旧日王国精准护膝裤",
       "de": "Altkönigreich-Knieschützer des Zielens",
       "en": "Archeo Kingdom Poleyns of Aiming",
       "fr": "Genouillères de pisteur de l'ancien royaume",
@@ -35433,7 +35433,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Jacket of Scouting",
+      "cn": "旧日王国游击上衣",
       "de": "Altkönigreich-Jacke des Spähens",
       "en": "Archeo Kingdom Jacket of Scouting",
       "fr": "Jaque d'éclaireur de l'ancien royaume",
@@ -35454,7 +35454,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Scouting",
+      "cn": "旧日王国游击护膝裤",
       "de": "Altkönigreich-Knieschützer des Spähens",
       "en": "Archeo Kingdom Poleyns of Scouting",
       "fr": "Genouillères d'éclaireur de l'ancien royaume",
@@ -35475,7 +35475,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Coat of Healing",
+      "cn": "旧日王国治愈外套",
       "de": "Altkönigreich-Mantel der Heilung",
       "en": "Archeo Kingdom Coat of Healing",
       "fr": "Manteau de soigneur de l'ancien royaume",
@@ -35496,7 +35496,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Healing",
+      "cn": "旧日王国治愈护膝裤",
       "de": "Altkönigreich-Knieschützer der Heilung",
       "en": "Archeo Kingdom Poleyns of Healing",
       "fr": "Genouillères de soigneur de l'ancien royaume",
@@ -35517,7 +35517,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Coat of Casting",
+      "cn": "旧日王国咏咒外套",
       "de": "Altkönigreich-Mantel der Magie",
       "en": "Archeo Kingdom Coat of Casting",
       "fr": "Manteau d'incantateur de l'ancien royaume",
@@ -35538,7 +35538,7 @@
     "level": 710,
     "maxQuality": 16500,
     "name": {
-      "cn": "Archeo Kingdom Poleyns of Casting",
+      "cn": "旧日王国咏咒护膝裤",
       "de": "Altkönigreich-Knieschützer der Magie",
       "en": "Archeo Kingdom Poleyns of Casting",
       "fr": "Genouillères d'incantateur de l'ancien royaume",
@@ -35559,7 +35559,7 @@
     "level": 710,
     "maxQuality": 12000,
     "name": {
-      "cn": "Blackseed Cotton Cloth",
+      "cn": "海岛棉布",
       "de": "Schwarzbaumwollstoff",
       "en": "Blackseed Cotton Cloth",
       "fr": "Étoffe de coton des îles",
@@ -35643,7 +35643,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Scientist's Coat",
+      "cn": "科学家大衣",
       "de": "Wissenschaftler-Mantel",
       "en": "Scientist's Coat",
       "fr": "Manteau de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
@@ -35664,7 +35664,7 @@
     "level": 700,
     "maxQuality": 12000,
     "name": {
-      "cn": "Scientist's Breeches",
+      "cn": "科学家马裤",
       "de": "Wissenschaftler-Reiterhose",
       "en": "Scientist's Breeches",
       "fr": "Braies de scien<SoftHyphen/>ti<SoftHyphen/>fi<SoftHyphen/>que",
