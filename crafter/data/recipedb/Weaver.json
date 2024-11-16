@@ -28,7 +28,7 @@
     "maxQuality": 88,
     "name": {
       "cn": "草布",
-      "de": "Na<SoftHyphen/>tur<SoftHyphen/>be<SoftHyphen/>las<SoftHyphen/>se<SoftHyphen/>ner Hanf",
+      "de": "Naturbelassener Hanf",
       "en": "Undyed Hempen Cloth",
       "fr": "Étoffe de chanvre",
       "ja": "草布"
@@ -49,7 +49,7 @@
     "maxQuality": 110,
     "name": {
       "cn": "草布半指手套",
-      "de": "Hanf-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Hanf-Kurzfingerhandschuhe",
       "en": "Hempen Halfgloves",
       "fr": "Mitaines",
       "ja": "ハーフグローブ"
@@ -553,7 +553,7 @@
     "maxQuality": 190,
     "name": {
       "cn": "草布工作手套",
-      "de": "Hanf-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Hanf-Arbeitshandschuhe",
       "en": "Hempen Work Gloves",
       "fr": "Gants de travail",
       "ja": "ワークグローブ"
@@ -1120,7 +1120,7 @@
     "maxQuality": 330,
     "name": {
       "cn": "棉布裤袜",
-      "de": "Baum<SoftHyphen/>woll-Chaus<SoftHyphen/>ses",
+      "de": "Baumwoll-Chausses",
       "en": "Cotton Chausses",
       "fr": "Chausses en coton",
       "ja": "コットンショース"
@@ -1141,7 +1141,7 @@
     "maxQuality": 330,
     "name": {
       "cn": "棉布紧身裤",
-      "de": "Baum<SoftHyphen/>woll<SoftHyphen/>strumpf<SoftHyphen/>hose",
+      "de": "Baumwollstrumpfhose",
       "en": "Cotton Tights",
       "fr": "Collants en coton",
       "ja": "コットンタイツ"
@@ -1204,7 +1204,7 @@
     "maxQuality": 360,
     "name": {
       "cn": "棉布半指手套",
-      "de": "Baum<SoftHyphen/>woll-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Baumwoll-Kurzfingerhandschuhe",
       "en": "Cotton Halfgloves",
       "fr": "Mitaines en coton",
       "ja": "コットンハーフグローブ"
@@ -1561,7 +1561,7 @@
     "maxQuality": 510,
     "name": {
       "cn": "棉布工作手套",
-      "de": "Baumwoll-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Baumwoll-Arbeitshandschuhe",
       "en": "Cotton Work Gloves",
       "fr": "Gants de travail en coton",
       "ja": "コットンワークグローブ"
@@ -1792,7 +1792,7 @@
     "maxQuality": 504,
     "name": {
       "cn": "棉绒",
-      "de": "Na<SoftHyphen/>tur<SoftHyphen/>be<SoftHyphen/>las<SoftHyphen/>se<SoftHyphen/>ner Samt",
+      "de": "Naturbelassener Samt",
       "en": "Undyed Velveteen",
       "fr": "Étoffe de veloutine",
       "ja": "別珍"
@@ -1897,7 +1897,7 @@
     "maxQuality": 630,
     "name": {
       "cn": "棉绒半指手套",
-      "de": "Samt-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Samt-Kurzfingerhandschuhe",
       "en": "Velveteen Halfgloves",
       "fr": "Mitaines en veloutine",
       "ja": "ベルベティーンハーフグローブ"
@@ -2317,7 +2317,7 @@
     "maxQuality": 850,
     "name": {
       "cn": "棉绒工作手套",
-      "de": "Samt-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Samt-Arbeitshandschuhe",
       "en": "Velveteen Work Gloves",
       "fr": "Gants de travail en veloutine",
       "ja": "ベルベティーンワークグローブ"
@@ -2548,7 +2548,7 @@
     "maxQuality": 1000,
     "name": {
       "cn": "亚麻半指手套",
-      "de": "Leinen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Leinen-Kurzfingerhandschuhe",
       "en": "Linen Halfgloves",
       "fr": "Mitaines en lin",
       "ja": "リネンハーフグローブ"
@@ -2653,7 +2653,7 @@
     "maxQuality": 1110,
     "name": {
       "cn": "亚麻紧身裤",
-      "de": "Lei<SoftHyphen/>nen<SoftHyphen/>strumpf<SoftHyphen/>hose",
+      "de": "Leinenstrumpfhose",
       "en": "Linen Tights",
       "fr": "Collants en lin",
       "ja": "リネンタイツ"
@@ -3430,7 +3430,7 @@
     "maxQuality": 1580,
     "name": {
       "cn": "呢绒半指手套",
-      "de": "Woll-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Woll-Kurzfingerhandschuhe",
       "en": "Woolen Halfgloves",
       "fr": "Mitaines en laine",
       "ja": "ウールハーフグローブ"
@@ -3451,7 +3451,7 @@
     "maxQuality": 1580,
     "name": {
       "cn": "呢绒工作手套",
-      "de": "Woll-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Woll-Arbeitshandschuhe",
       "en": "Woolen Work Gloves",
       "fr": "Gants de travail en laine",
       "ja": "ウールワークグローブ"
@@ -3829,7 +3829,7 @@
     "maxQuality": 1700,
     "name": {
       "cn": "纤维半指手套",
-      "de": "Filz-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Filz-Kurzfingerhandschuhe",
       "en": "Felt Halfgloves",
       "fr": "Mitaines en feutre",
       "ja": "フェルトハーフグローブ"
@@ -3892,7 +3892,7 @@
     "maxQuality": 1760,
     "name": {
       "cn": "纤维工作手套",
-      "de": "Filz-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Filz-Arbeitshandschuhe",
       "en": "Felt Work Gloves",
       "fr": "Gants de travail en feutre",
       "ja": "フェルトワークグローブ"
@@ -7693,7 +7693,7 @@
     "maxQuality": 2070,
     "name": {
       "cn": "虹布游击半指手套",
-      "de": "Regenbogen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Spähens",
+      "de": "Regenbogen-Kurzfingerhandschuhe des Spähens",
       "en": "Rainbow Halfgloves of Scouting",
       "fr": "Mitaines d'éclaireur en étoffe arc-en-ciel",
       "ja": "レインボークロス・スカウトハーフグローブ"
@@ -7966,7 +7966,7 @@
     "maxQuality": 2280,
     "name": {
       "cn": "青麻治愈半手套",
-      "de": "Ramien-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
+      "de": "Ramien-Kurzfingerhandschuhe der Heilung",
       "en": "Ramie Halfgloves of Healing",
       "fr": "Mitaines de soigneur en ramie",
       "ja": "ラミー・ヒーラーハーフグローブ"
@@ -8239,7 +8239,7 @@
     "maxQuality": 2280,
     "name": {
       "cn": "青麻咏咒半手套",
-      "de": "Ramien-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Ramien-Kurzfingerhandschuhe der Magie",
       "en": "Ramie Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en ramie",
       "ja": "ラミー・キャスターハーフグローブ"
@@ -8764,7 +8764,7 @@
     "maxQuality": 2210,
     "name": {
       "cn": "圣虹布工作手套",
-      "de": "Heilige Regenbogen-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Heilige Regenbogen-Arbeitshandschuhe",
       "en": "Holy Rainbow Work Gloves",
       "fr": "Gants de travail en étoffe arc-en-ciel sacrée",
       "ja": "ホーリーレインボー・ワークグローブ"
@@ -11263,7 +11263,7 @@
     "maxQuality": 3600,
     "name": {
       "cn": "哔叽工作手套",
-      "de": "Sergen-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Sergen-Arbeitshandschuhe",
       "en": "Serge Work Gloves",
       "fr": "Gants de travail en serge",
       "ja": "サージワークグローブ"
@@ -17668,7 +17668,7 @@
     "maxQuality": 10200,
     "name": {
       "cn": "犎牛哔叽精准半指手套",
-      "de": "Rroneeksergen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Zielens",
+      "de": "Rroneeksergen-Kurzfingerhandschuhe des Zielens",
       "en": "Rroneek Serge Halfgloves of Aiming",
       "fr": "Mitaines de pisteur en serge de rroneek",
       "ja": "ロネークサージ・レンジャーハーフグローブ"
@@ -17689,7 +17689,7 @@
     "maxQuality": 10200,
     "name": {
       "cn": "犎牛哔叽治愈半指手套",
-      "de": "Rroneeksergen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
+      "de": "Rroneeksergen-Kurzfingerhandschuhe der Heilung",
       "en": "Rroneek Serge Halfgloves of Healing",
       "fr": "Mitaines de soigneur en serge de rroneek",
       "ja": "ロネークサージ・ヒーラーハーフグローブ"
@@ -17710,7 +17710,7 @@
     "maxQuality": 10200,
     "name": {
       "cn": "犎牛哔叽咏咒半指手套",
-      "de": "Rroneeksergen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Rroneeksergen-Kurzfingerhandschuhe der Magie",
       "en": "Rroneek Serge Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en serge de rroneek",
       "ja": "ロネークサージ・キャスターハーフグローブ"
@@ -20713,7 +20713,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "部队罩衣",
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schaftswappenrock",
+      "de": "Gesellschaftswappenrock",
       "en": "Company Tabard",
       "fr": "Tabard de compagnie libre",
       "ja": "カンパニータバード"
@@ -21406,7 +21406,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "珍木大师皮帽",
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Kappe",
+      "de": "Schreinermeister-Kappe",
       "en": "Millmaster's Cap",
       "fr": "Casquette d'expert de l'établi",
       "ja": "ミルマスターキャップ"
@@ -21427,7 +21427,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "珍木大师围裙",
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Schürze",
+      "de": "Schreinermeister-Schürze",
       "en": "Millmaster's Apron",
       "fr": "Tablier d'expert de l'établi",
       "ja": "ミルマスターエプロン"
@@ -21448,7 +21448,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "珍木大师工作裤",
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Beinlinge",
+      "de": "Schreinermeister-Beinlinge",
       "en": "Millmaster's Slops",
       "fr": "Trousses d'expert de l'établi",
       "ja": "ミルマスタースロップ"
@@ -25753,7 +25753,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -25774,7 +25774,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -25942,7 +25942,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "真麻强袭半指手套",
-      "de": "Reinleinen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens",
+      "de": "Reinleinen-Kurzfingerhandschuhe des Schlagens",
       "en": "True Linen Halfgloves of Striking",
       "fr": "Mitaines d'agresseur en lin hingashien",
       "ja": "トゥルーリネン・ストライカーハーフグローブ"

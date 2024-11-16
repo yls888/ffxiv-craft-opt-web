@@ -469,7 +469,7 @@
     "maxQuality": 230,
     "name": {
       "cn": "业余耐热手套",
-      "de": "Laien-Schmie<SoftHyphen/>de<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Laien-Schmiedehandschuhe",
       "en": "Amateur's Smithing Gloves",
       "fr": "Gants de forgeron d'amateur",
       "ja": "アマチュアスミスグローブ"
@@ -1834,7 +1834,7 @@
     "maxQuality": 1000,
     "name": {
       "cn": "骷髅眼罩",
-      "de": "To<SoftHyphen/>ten<SoftHyphen/>kopf-Au<SoftHyphen/>gen<SoftHyphen/>klap<SoftHyphen/>pe",
+      "de": "Totenkopf-Augenklappe",
       "en": "Skull Eyepatch",
       "fr": "Cache-œil tête de mort",
       "ja": "スカルアイパッチ"
@@ -2212,7 +2212,7 @@
     "maxQuality": 1340,
     "name": {
       "cn": "野猪革长靴",
-      "de": "Kei<SoftHyphen/>ler<SoftHyphen/>le<SoftHyphen/>der-Knie<SoftHyphen/>stie<SoftHyphen/>fel",
+      "de": "Keilerleder-Kniestiefel",
       "en": "Boarskin Thighboots",
       "fr": "Cuissardes en cuir de sanglier",
       "ja": "ボアサイブーツ"
@@ -2254,7 +2254,7 @@
     "maxQuality": 1400,
     "name": {
       "cn": "野猪革耐热手套",
-      "de": "Keilerleder-Schmie<SoftHyphen/>de<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Keilerleder-Schmiedehandschuhe",
       "en": "Boarskin Smithy's Gloves",
       "fr": "Gants de forgeron en cuir de sanglier",
       "ja": "ボアスミスグローブ"
@@ -2800,7 +2800,7 @@
     "maxQuality": 1640,
     "name": {
       "cn": "盗龙革耐热手套",
-      "de": "Raptorleder-Schmie<SoftHyphen/>de<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Raptorleder-Schmiedehandschuhe",
       "en": "Raptorskin Smithy's Gloves",
       "fr": "Gants de forgeron en cuir de raptor",
       "ja": "ラプトルスミスグローブ"
@@ -2926,7 +2926,7 @@
     "maxQuality": 1340,
     "name": {
       "cn": "古典耐热手套",
-      "de": "Restaurierte Schmie<SoftHyphen/>de<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Restaurierte Schmiedehandschuhe",
       "en": "Vintage Smithy's Gloves",
       "fr": "Gants de forgeron de collection",
       "ja": "ヴィンテージスミスグローブ"
@@ -5236,7 +5236,7 @@
     "maxQuality": 670,
     "name": {
       "cn": "雇员柜台",
-      "de": "Gehilfen<SoftHyphen/>schalter",
+      "de": "Gehilfenschalter",
       "en": "Retainer Counter",
       "fr": "Comptoir de servant",
       "ja": "リテイナーカウンター"
@@ -6601,7 +6601,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "长颈驼革半指手套",
-      "de": "Dhalmelleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "de": "Dhalmelleder-Kurzfingerhandschuhe des Handwerks",
       "en": "Dhalmelskin Halfgloves of Crafting",
       "fr": "Mitaines en cuir de dhalmel",
       "ja": "ダルメルハーフグローブ"
@@ -7966,7 +7966,7 @@
     "maxQuality": 2880,
     "name": {
       "cn": "牛鬼革强袭半指手套",
-      "de": "Gyukileder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens",
+      "de": "Gyukileder-Kurzfingerhandschuhe des Schlagens",
       "en": "Gyuki Leather Halfgloves of Striking",
       "fr": "Mitaines d'agresseur en cuir de gyuki",
       "ja": "ギュウキ・ストライカーハーフグローブ"
@@ -8071,7 +8071,7 @@
     "maxQuality": 2880,
     "name": {
       "cn": "牛鬼革游击半指手套",
-      "de": "Gyukileder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Spähens",
+      "de": "Gyukileder-Kurzfingerhandschuhe des Spähens",
       "en": "Gyuki Leather Halfgloves of Scouting",
       "fr": "Mitaines d'éclaireur en cuir de gyuki",
       "ja": "ギュウキ・スカウトハーフグローブ"
@@ -9121,7 +9121,7 @@
     "maxQuality": 2790,
     "name": {
       "cn": "迦迦纳怪鸟革半指手套",
-      "de": "Gaganaleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Gaganaleder-Kurzfingerhandschuhe",
       "en": "Gaganaskin Halfgloves",
       "fr": "Mitaines en cuir de gagana",
       "ja": "ガガナハーフグローブ"
@@ -12418,7 +12418,7 @@
     "maxQuality": 1110,
     "name": {
       "cn": "改良型野猪革长靴",
-      "de": "Bearbeitete Kei<SoftHyphen/>ler<SoftHyphen/>le<SoftHyphen/>der-Knie<SoftHyphen/>stie<SoftHyphen/>fel",
+      "de": "Bearbeitete Keilerleder-Kniestiefel",
       "en": "Altered Boarskin Thighboots",
       "fr": "Cuissardes en cuir de sanglier réinventées",
       "ja": "オルタード・ボアサイブーツ"
@@ -14329,7 +14329,7 @@
     "maxQuality": 6700,
     "name": {
       "cn": "赛加羚羊革大地手套",
-      "de": "Saigaleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "de": "Saigaleder-Kurzfingerhandschuhe des Eifers",
       "en": "Saigaskin Halfgloves of Gathering",
       "fr": "Mitaines des ressources en cuir de saïga",
       "ja": "サイガ・ギャザラーハーフグローブ"
@@ -14455,7 +14455,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "蛇牛革巧匠半指手套",
-      "de": "Ophiotaurosleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "de": "Ophiotaurosleder-Kurzfingerhandschuhe des Handwerks",
       "en": "Ophiotauroskin Halfgloves of Crafting",
       "fr": "Mitaines des créations en cuir d'ophiotauros",
       "ja": "オピオタウロス・クラフターハーフグローブ"
@@ -14497,7 +14497,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "蛇牛革大地半指手套",
-      "de": "Ophiotaurosleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "de": "Ophiotaurosleder-Kurzfingerhandschuhe des Eifers",
       "en": "Ophiotauroskin Halfgloves of Gathering",
       "fr": "Mitaines des ressources en cuir d'ophiotauros",
       "ja": "オピオタウロス・ギャザラーハーフグローブ"
@@ -16660,7 +16660,7 @@
     "maxQuality": 9800,
     "name": {
       "cn": "狞豹革巧匠半指手套",
-      "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "de": "Br'aaxleder-Kurzfingerhandschuhe des Handwerks",
       "en": "Br'aaxskin Halfgloves of Crafting",
       "fr": "Mitaines des créations en cuir de br'aax",
       "ja": "ブラーシャ・クラフターハーフグローブ"
@@ -16702,7 +16702,7 @@
     "maxQuality": 9800,
     "name": {
       "cn": "狞豹革大地半指护手",
-      "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "de": "Br'aaxleder-Kurzfingerhandschuhe des Eifers",
       "en": "Br'aaxskin Halfgloves of Gathering",
       "fr": "Mitaines des ressources en cuir de br'aax",
       "ja": "ブラーシャ・ギャザラーハーフグローブ"
@@ -16807,7 +16807,7 @@
     "maxQuality": 10600,
     "name": {
       "cn": "嵌齿象革大地半指护手",
-      "de": "Gomphotheriumleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "de": "Gomphotheriumleder-Kurzfingerhandschuhe des Eifers",
       "en": "Gomphotherium Halfgloves of Gathering",
       "fr": "Mitaines des ressources en cuir de gomphotherium",
       "ja": "ゴンフォテリウム・ギャザラーハーフグローブ"
@@ -16849,7 +16849,7 @@
     "maxQuality": 12000,
     "name": {
       "cn": "卡冈图亚革巧匠半指手套",
-      "de": "Gargantualeder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "de": "Gargantualeder-Kurzfingerhandschuhe des Handwerks",
       "en": "Gargantuaskin Halfgloves of Crafting",
       "fr": "Mitaines des créations en cuir de gargantua",
       "ja": "ガルガンチュア・クラフターハーフグローブ"
@@ -19411,7 +19411,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "部队帽",
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schaftshut",
+      "de": "Gesellschaftshut",
       "en": "Company Hat",
       "fr": "Chapeau de compagnie libre",
       "ja": "カンパニーハット"
@@ -20272,7 +20272,7 @@
     "maxQuality": 2630,
     "name": {
       "cn": "安菲瑟龙革半指手套",
-      "de": "Schlangenleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "de": "Schlangenleder-Kurzfingerhandschuhe des Handwerks",
       "en": "Serpentskin Halfgloves of Crafting",
       "fr": "Mitaines en cuir d'amphiptère",
       "ja": "アンフィプテレハーフグローブ"
@@ -20587,7 +20587,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "珍木大师手套",
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Handschuhe",
+      "de": "Schreinermeister-Handschuhe",
       "en": "Millmaster's Gloves",
       "fr": "Gants d'expert de l'établi",
       "ja": "ミルマスターグローブ"
@@ -20608,7 +20608,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "珍木大师工作靴",
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Arbeitsstiefel",
+      "de": "Schreinermeister-Arbeitsstiefel",
       "en": "Millmaster's Workboots",
       "fr": "Bottes de travail d'expert de l'établi",
       "ja": "ミルマスターワークブーツ"
@@ -20692,7 +20692,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "戎甲大师工作手套",
-      "de": "Rüstungsschmiedemeister-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Rüstungsschmiedemeister-Arbeitshandschuhe",
       "en": "Hammermaster's Work Gloves",
       "fr": "Gants de travail d'expert de la fonderie",
       "ja": "ハンマーマスターワークグローブ"
@@ -25207,7 +25207,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -25228,7 +25228,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -27223,7 +27223,7 @@
     "maxQuality": 7900,
     "name": {
       "cn": "中庸咏咒半手套",
-      "de": "Manufaktur-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Manufaktur-Kurzfingerhandschuhe der Magie",
       "en": "Facet Halfgloves of Casting",
       "fr": "Mitaines d'incantateur de la halle",
       "ja": "ミーン・キャスターハーフグローブ"
@@ -31297,7 +31297,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "收藏用蛇牛革半手套",
-      "de": "Ophiotaurosleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he (Sammlerstück)",
+      "de": "Ophiotaurosleder-Kurzfingerhandschuhe (Sammlerstück)",
       "en": "Rarefied Ophiotauroskin Halfgloves",
       "fr": "Mitaines en cuir d'ophiotauros collectionnables",
       "ja": "収集用のオピオタウロス・ハーフグローブ"
@@ -31486,7 +31486,7 @@
     "maxQuality": 12800,
     "name": {
       "cn": "条约巧匠半指手套",
-      "de": "Paktschließer-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Handwerks",
+      "de": "Paktschließer-Kurzfingerhandschuhe des Handwerks",
       "en": "Pactmaker's Halfgloves of Crafting",
       "fr": "Mitaines des créations des associés",
       "ja": "パクトメーカー・クラフターハーフグローブ"
@@ -31528,7 +31528,7 @@
     "maxQuality": 12800,
     "name": {
       "cn": "条约大地手套",
-      "de": "Paktschließer-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "de": "Paktschließer-Kurzfingerhandschuhe des Eifers",
       "en": "Pactmaker's Gloves of Gathering",
       "fr": "Gants des ressources des associés",
       "ja": "パクトメーカー・ギャザラーグローブ"
@@ -34132,7 +34132,7 @@
     "maxQuality": 17600,
     "name": {
       "cn": "Everseeker's Gloves of Gathering",
-      "de": "Immersuch-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "de": "Immersuch-Arbeitshandschuhe des Eifers",
       "en": "Everseeker's Gloves of Gathering",
       "fr": "Gants de travail des ressources de bourlingueur invétéré",
       "ja": "エバーシーク・ギャザラーワークグローブ"

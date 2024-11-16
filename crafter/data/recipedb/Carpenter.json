@@ -1267,7 +1267,7 @@
     "maxQuality": 900,
     "name": {
       "cn": "梣木骑兵弓",
-      "de": "Eschen-Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Eschen-Kavalleriebogen",
       "en": "Ash Cavalry Bow",
       "fr": "Arc de cavalerie en frêne",
       "ja": "アッシュキャバルリーボウ"
@@ -1477,7 +1477,7 @@
     "maxQuality": 1160,
     "name": {
       "cn": "秘银骑兵弓",
-      "de": "Mithril-Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Mithril-Kavalleriebogen",
       "en": "Mythril Cavalry Bow",
       "fr": "Arc de cavalerie en mithril",
       "ja": "ミスリルキャバルリーボウ"
@@ -1792,7 +1792,7 @@
     "maxQuality": 1275,
     "name": {
       "cn": "钴铁骑兵弓",
-      "de": "Koboldeisen-Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Koboldeisen-Kavalleriebogen",
       "en": "Cobalt Cavalry Bow",
       "fr": "Arc revêtu de cobalt",
       "ja": "コバルトクラッドボウ"
@@ -5467,7 +5467,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "雇员文件柜",
-      "de": "Gehilfen<SoftHyphen/>kommode",
+      "de": "Gehilfenkommode",
       "en": "Retainer Cartonnier",
       "fr": "Cartonnier de servant",
       "ja": "リテイナーカルトニエ"
@@ -19600,7 +19600,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -19621,7 +19621,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -25249,7 +25249,7 @@
     "maxQuality": 10920,
     "name": {
       "cn": "古典风格骑兵弓",
-      "de": "Klassischer Ka<SoftHyphen/>val<SoftHyphen/>le<SoftHyphen/>rie<SoftHyphen/>bo<SoftHyphen/>gen",
+      "de": "Klassischer Kavalleriebogen",
       "en": "Classical Cavalry Bow",
       "fr": "Arc de cavalerie classique",
       "ja": "クラシカル・キャバルリーボウ"

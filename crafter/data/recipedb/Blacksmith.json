@@ -112,7 +112,7 @@
     "maxQuality": 120,
     "name": {
       "cn": "青铜战斧",
-      "de": "Bron<SoftHyphen/>ze<SoftHyphen/>streit<SoftHyphen/>axt",
+      "de": "Bronzestreitaxt",
       "en": "Bronze War Axe",
       "fr": "Hache de guerre",
       "ja": "ウォーアクス"
@@ -217,7 +217,7 @@
     "maxQuality": 150,
     "name": {
       "cn": "青铜横头锤",
-      "de": "Bronze-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Bronze-Kreuzschlaghammer",
       "en": "Bronze Cross-pein Hammer",
       "fr": "Marteau à panne croisée",
       "ja": "クロスペインハンマー"
@@ -511,7 +511,7 @@
     "maxQuality": 250,
     "name": {
       "cn": "业余横头锤",
-      "de": "Laien-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Laien-Kreuzschlaghammer",
       "en": "Amateur's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'amateur",
       "ja": "アマチュア・クロスペインハンマー"
@@ -1078,7 +1078,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "黑铁横头锤",
-      "de": "Ei<SoftHyphen/>sen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Eisen-Kreuzschlaghammer",
       "en": "Iron Cross-pein Hammer",
       "fr": "Marteau à panne croisée en fer",
       "ja": "アイアン・クロスペインハンマー"
@@ -1246,7 +1246,7 @@
     "maxQuality": 510,
     "name": {
       "cn": "黑铁鹤嘴锄",
-      "de": "Ei<SoftHyphen/>sen<SoftHyphen/>spitz<SoftHyphen/>ha<SoftHyphen/>cke",
+      "de": "Eisenspitzhacke",
       "en": "Iron Pickaxe",
       "fr": "Pioche en fer",
       "ja": "アイアンピック"
@@ -1414,7 +1414,7 @@
     "maxQuality": 540,
     "name": {
       "cn": "新来者横头锤",
-      "de": "Anfänger-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Anfänger-Kreuzschlaghammer",
       "en": "Initiate's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'initié",
       "ja": "イニシエート・クロスペインハンマー"
@@ -1876,7 +1876,7 @@
     "maxQuality": 690,
     "name": {
       "cn": "黑铁鸟嘴锤",
-      "de": "Krä<SoftHyphen/>hen<SoftHyphen/>schna<SoftHyphen/>bel<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Krähenschnabelhammer",
       "en": "Crowsbeak Hammer",
       "fr": "Marteau corbeau",
       "ja": "クロウビークハンマー"
@@ -2107,7 +2107,7 @@
     "maxQuality": 600,
     "name": {
       "cn": "加重鸟嘴锤",
-      "de": "Schwerer Krä<SoftHyphen/>hen<SoftHyphen/>schna<SoftHyphen/>bel<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Schwerer Krähenschnabelhammer",
       "en": "Heavy Crowsbeak Hammer",
       "fr": "Marteau corbeau lourd",
       "ja": "ヘヴィ・クロウビークハンマー"
@@ -2401,7 +2401,7 @@
     "maxQuality": 950,
     "name": {
       "cn": "白钢横头锤",
-      "de": "Stahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Stahl-Kreuzschlaghammer",
       "en": "Steel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en acier",
       "ja": "スチール・クロスペインハンマー"
@@ -2569,7 +2569,7 @@
     "maxQuality": 1050,
     "name": {
       "cn": "白钢鸟嘴锤",
-      "de": "Stahl-Krä<SoftHyphen/>hen<SoftHyphen/>schna<SoftHyphen/>bel<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Stahl-Krähenschnabelhammer",
       "en": "Steel Crowsbeak Hammer",
       "fr": "Marteau corbeau en acier",
       "ja": "スチールビークハンマー"
@@ -3724,7 +3724,7 @@
     "maxQuality": 1520,
     "name": {
       "cn": "钴铁横头锤",
-      "de": "Koboldeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Koboldeisen-Kreuzschlaghammer",
       "en": "Cobalt Cross-pein Hammer",
       "fr": "Marteau à panne croisée en cobalt",
       "ja": "コバルト・クロスペインハンマー"
@@ -6937,7 +6937,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "白钛横头锤",
-      "de": "Titan-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Titan-Kreuzschlaghammer",
       "en": "Titanium Cross-pein Hammer",
       "fr": "Marteau à panne croisée en titane",
       "ja": "チタン・クロスペインハンマー"
@@ -8785,7 +8785,7 @@
     "maxQuality": 2790,
     "name": {
       "cn": "硬钢横头锤",
-      "de": "Edelstahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edelstahl-Kreuzschlaghammer",
       "en": "High Steel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en acier noble",
       "ja": "ハイスチール・クロスペインハンマー"
@@ -9415,7 +9415,7 @@
     "maxQuality": 3240,
     "name": {
       "cn": "玉钢横头锤",
-      "de": "Domastahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Domastahl-Kreuzschlaghammer",
       "en": "Doman Steel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en acier domien",
       "ja": "ドマスチール・クロスペインハンマー"
@@ -10591,7 +10591,7 @@
     "maxQuality": 3763,
     "name": {
       "cn": "深金枪刃",
-      "de": "Dunkelgold-Revolver<SoftHyphen/>klinge",
+      "de": "Dunkelgold-Revolverklinge",
       "en": "Deepgold Gunblade",
       "fr": "Pistolame en or incarnat",
       "ja": "ディープゴールド・ガンブレード"
@@ -10906,7 +10906,7 @@
     "maxQuality": 4000,
     "name": {
       "cn": "灵青枪刃",
-      "de": "Seelenazurit-Revolver<SoftHyphen/>klinge",
+      "de": "Seelenazurit-Revolverklinge",
       "en": "Bluespirit Gunblade",
       "fr": "Pistolame en azuresprit",
       "ja": "ブルースピリット・ガンブレード"
@@ -11347,7 +11347,7 @@
     "maxQuality": 3763,
     "name": {
       "cn": "深金横头锤",
-      "de": "Dunkelgold-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Dunkelgold-Kreuzschlaghammer",
       "en": "Deepgold Cross-pein Hammer",
       "fr": "Marteau à panne croisée en or incarnat",
       "ja": "ディープゴールド・クロスペインハンマー"
@@ -11662,7 +11662,7 @@
     "maxQuality": 4100,
     "name": {
       "cn": "灵青横头锤",
-      "de": "Seelenazurit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Seelenazurit-Kreuzschlaghammer",
       "en": "Bluespirit Cross-pein Hammer",
       "fr": "Marteau à panne croisée en azuresprit",
       "ja": "ブルースピリット・クロスペインハンマー"
@@ -11977,7 +11977,7 @@
     "maxQuality": 4300,
     "name": {
       "cn": "钛铜横头锤",
-      "de": "Titanbronze-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Titanbronze-Kreuzschlaghammer",
       "en": "Titanbronze Lump Hammer",
       "fr": "Massette en bronze titané",
       "ja": "チタンブロンズ・ランプハンマー"
@@ -12292,7 +12292,7 @@
     "maxQuality": 4600,
     "name": {
       "cn": "矮人银横头锤",
-      "de": "Edelmithril-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edelmithril-Kreuzschlaghammer",
       "en": "Dwarven Mythril Cross-pein Hammer",
       "fr": "Marteau à panne croisée en mithril noble",
       "ja": "ハイミスリル・クロスペインハンマー"
@@ -12586,7 +12586,7 @@
     "maxQuality": 2790,
     "name": {
       "cn": "硬钢枪刃",
-      "de": "Edelstahl-Revolver<SoftHyphen/>klinge",
+      "de": "Edelstahl-Revolverklinge",
       "en": "High Steel Gunblade",
       "fr": "Pistolame en acier noble",
       "ja": "ハイスチール・ガンブレード"
@@ -12670,7 +12670,7 @@
     "maxQuality": 3060,
     "name": {
       "cn": "卸铁枪刃",
-      "de": "Domaeisen-Revolver<SoftHyphen/>klinge",
+      "de": "Domaeisen-Revolverklinge",
       "en": "Doman Iron Gunblade",
       "fr": "Pistolame en fer domien",
       "ja": "ドマアイアン・ガンブレード"
@@ -12712,7 +12712,7 @@
     "maxQuality": 3240,
     "name": {
       "cn": "玉钢枪刃",
-      "de": "Domastahl-Revolver<SoftHyphen/>klinge",
+      "de": "Domastahl-Revolverklinge",
       "en": "Doman Steel Gunblade",
       "fr": "Pistolame en acier domien",
       "ja": "ドマスチール・ガンブレード"
@@ -12754,7 +12754,7 @@
     "maxQuality": 3420,
     "name": {
       "cn": "钼钢枪刃",
-      "de": "Molybdän-Revolver<SoftHyphen/>klinge",
+      "de": "Molybdän-Revolverklinge",
       "en": "Molybdenum Gunblade",
       "fr": "Pistolame en molybdène",
       "ja": "モリブデンガンブレード"
@@ -13699,7 +13699,7 @@
     "maxQuality": 6600,
     "name": {
       "cn": "铋金枪刃",
-      "de": "Bismut-Revolver<SoftHyphen/>klinge",
+      "de": "Bismut-Revolverklinge",
       "en": "Bismuth Gunblade",
       "fr": "Pistolame en bismuth",
       "ja": "ビスマスガンブレード"
@@ -14203,7 +14203,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "辉翠银横头锤",
-      "de": "Edeldurium-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edeldurium-Kreuzschlaghammer",
       "en": "High Durium Cross-pein Hammer",
       "fr": "Marteau à panne croisée en durium noble",
       "ja": "ハイダリウム・クロスペインハンマー"
@@ -14518,7 +14518,7 @@
     "maxQuality": 6700,
     "name": {
       "cn": "铋金横头锤",
-      "de": "Bismut-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Bismut-Kreuzschlaghammer",
       "en": "Bismuth Cross-pein Hammer",
       "fr": "Marteau à panne croisée en bismuth",
       "ja": "ビスマス・クロスペインハンマー"
@@ -14833,7 +14833,7 @@
     "maxQuality": 6900,
     "name": {
       "cn": "锰钢横头锤",
-      "de": "Mangan-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Mangan-Kreuzschlaghammer",
       "en": "Manganese Cross-pein Hammer",
       "fr": "Marteau à panne croisée en manganèse",
       "ja": "マンガン・クロスペインハンマー"
@@ -15148,7 +15148,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "球粒陨石横头锤",
-      "de": "Chondrit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Chondrit-Kreuzschlaghammer",
       "en": "Chondrite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en chondrite",
       "ja": "コンドライト・クロスペインハンマー"
@@ -16702,7 +16702,7 @@
     "maxQuality": 9000,
     "name": {
       "cn": "钌金枪刃",
-      "de": "Ruthenium-Revolver<SoftHyphen/>klinge",
+      "de": "Ruthenium-Revolverklinge",
       "en": "Ruthenium Gunblade",
       "fr": "Pistolame en ruthénium",
       "ja": "ルテニウム・ガンブレード"
@@ -17143,7 +17143,7 @@
     "maxQuality": 10200,
     "name": {
       "cn": "钛金枪刃",
-      "de": "Titangold-Revolver<SoftHyphen/>klinge",
+      "de": "Titangold-Revolverklinge",
       "en": "Titanium Gold Gunblade",
       "fr": "Pistolame en titane aurifère",
       "ja": "ゴールドチタン・ガンブレード"
@@ -17395,7 +17395,7 @@
     "maxQuality": 11000,
     "name": {
       "cn": "卡扎纳尔枪刃",
-      "de": "Ra'Kaznar-Revolver<SoftHyphen/>klinge",
+      "de": "Ra'Kaznar-Revolverklinge",
       "en": "Ra'Kaznar Gunblade",
       "fr": "Pistolame de Ra'Kaznar",
       "ja": "カザナル・ガンブレード"
@@ -17500,7 +17500,7 @@
     "maxQuality": 8200,
     "name": {
       "cn": "奥阔铬铁横头锤",
-      "de": "Bergchromeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Bergchromeisen-Kreuzschlaghammer",
       "en": "Mountain Chromite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en chromite d'Urqopacha",
       "ja": "オルコクロマイト・クロスペインハンマー"
@@ -17815,7 +17815,7 @@
     "maxQuality": 9800,
     "name": {
       "cn": "钴钨横头锤",
-      "de": "Wolfram-Koboldeisen-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Wolfram-Koboldeisen-Kreuzschlaghammer",
       "en": "Cobalt Tungsten Cross-pein Hammer",
       "fr": "Marteau à panne croisée en alliage de cobalt-tungstène",
       "ja": "コバルトタングステン・クロスペインハンマー"
@@ -18130,7 +18130,7 @@
     "maxQuality": 10600,
     "name": {
       "cn": "钛金横头锤",
-      "de": "Titangold-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Titangold-Kreuzschlaghammer",
       "en": "Titanium Gold Cross-pein Hammer",
       "fr": "Marteau à panne croisée en titane aurifère",
       "ja": "ゴールドチタン・クロスペインハンマー"
@@ -18445,7 +18445,7 @@
     "maxQuality": 12000,
     "name": {
       "cn": "卡扎纳尔横头锤",
-      "de": "Ra'Kaznar-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ra'Kaznar-Kreuzschlaghammer",
       "en": "Ra'Kaznar Cross-pein Hammer",
       "fr": "Marteau à panne croisée de Ra'Kaznar",
       "ja": "カザナル・クロスペインハンマー"
@@ -21154,7 +21154,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金横头锤",
-      "de": "Adamantit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Adamantit-Kreuzschlaghammer",
       "en": "Adamantite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en adamantium",
       "ja": "アダマン・クロスペインハンマー"
@@ -21490,7 +21490,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "珍木大师手锯",
-      "de": "Schrei<SoftHyphen/>ner<SoftHyphen/>mei<SoftHyphen/>ster-Säge",
+      "de": "Schreinermeister-Säge",
       "en": "Millmaster's Saw",
       "fr": "Scie d'expert de l'établi",
       "ja": "ミルマスターソー"
@@ -22645,7 +22645,7 @@
     "maxQuality": 3390,
     "name": {
       "cn": "光银横头锤",
-      "de": "Edelmythrit-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Edelmythrit-Kreuzschlaghammer",
       "en": "High Mythrite Cross-pein Hammer",
       "fr": "Marteau à panne croisée en mithrite noble",
       "ja": "ハイミスライト・クロスペインハンマー"
@@ -24031,7 +24031,7 @@
     "maxQuality": 1881,
     "name": {
       "cn": "小型锤",
-      "de": "Maßgefertigter Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Maßgefertigter Kreuzschlaghammer",
       "en": "Custom-made Hammer",
       "fr": "Marteau de précision",
       "ja": "小ぶりなハンマー"
@@ -24430,7 +24430,7 @@
     "maxQuality": 4800,
     "name": {
       "cn": "阿拉米格横头锤",
-      "de": "Mhigischer Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Mhigischer Kreuzschlaghammer",
       "en": "Ala Mhigan Cross-pein Hammer",
       "fr": "Marteau à panne croisée mhigois",
       "ja": "アラミガン・クロスペインハンマー"
@@ -24724,7 +24724,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -24745,7 +24745,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -25774,7 +25774,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "夜钢横头锤",
-      "de": "Nachtstahl-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Nachtstahl-Kreuzschlaghammer",
       "en": "Nightsteel Cross-pein Hammer",
       "fr": "Marteau à panne croisée en noctacier",
       "ja": "ナイトスチール・クロスペインハンマー"
@@ -27307,7 +27307,7 @@
     "maxQuality": 7900,
     "name": {
       "cn": "中庸横头锤",
-      "de": "Manufaktur-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Manufaktur-Kreuzschlaghammer",
       "en": "Facet Cross-pein Hammer",
       "fr": "Marteau à panne croisée de la halle",
       "ja": "ミーン・クロスペインハンマー"
@@ -28441,7 +28441,7 @@
     "maxQuality": 8500,
     "name": {
       "cn": "唯美横头锤",
-      "de": "Ästhetischer Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ästhetischer Kreuzschlaghammer",
       "en": "Aesthete's Cross-pein Hammer",
       "fr": "Marteau à panne croisée esthétique",
       "ja": "エースセチック・クロスペインハンマー"
@@ -29617,7 +29617,7 @@
     "maxQuality": 4200,
     "name": {
       "cn": "收藏用灵青枪刃",
-      "de": "Seelenazurit-Revolver<SoftHyphen/>klinge (Sammlerstück)",
+      "de": "Seelenazurit-Revolverklinge (Sammlerstück)",
       "en": "Rarefied Bluespirit Gunblade",
       "fr": "Pistolame en azuresprit collectionnable",
       "ja": "収集用のブルースピリット・ガンブレード"
@@ -30646,7 +30646,7 @@
     "maxQuality": 9500,
     "name": {
       "cn": "总督枪刃",
-      "de": "Exarchen-Revolver<SoftHyphen/>klinge",
+      "de": "Exarchen-Revolverklinge",
       "en": "Exarchic Gunblade",
       "fr": "Pistolame de l'exarchat",
       "ja": "エクサークガンブレード"
@@ -31318,7 +31318,7 @@
     "maxQuality": 6900,
     "name": {
       "cn": "收藏用锰钢横头锤",
-      "de": "Mangan-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer (Sammlerstück)",
+      "de": "Mangan-Kreuzschlaghammer (Sammlerstück)",
       "en": "Rarefied Manganese Cross-pein Hammer",
       "fr": "Marteau à panne croisée en manganèse collectionnable",
       "ja": "収集用のマンガン・クロスペインハンマー"
@@ -31633,7 +31633,7 @@
     "maxQuality": 10920,
     "name": {
       "cn": "古典风格枪刃",
-      "de": "Klassische Revolver<SoftHyphen/>klinge",
+      "de": "Klassische Revolverklinge",
       "en": "Classical Gunblade",
       "fr": "Pistolame classique",
       "ja": "クラシカル・ガンブレード"
@@ -31864,7 +31864,7 @@
     "maxQuality": 12800,
     "name": {
       "cn": "条约横头锤",
-      "de": "Paktschließer-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Paktschließer-Kreuzschlaghammer",
       "en": "Pactmaker's Cross-pein Hammer",
       "fr": "Marteau à panne croisée des associés",
       "ja": "パクトメーカー・クロスペインハンマー"
@@ -32158,7 +32158,7 @@
     "maxQuality": 3300,
     "name": {
       "cn": "圆桌之枪刃",
-      "de": "Revolver<SoftHyphen/>klinge der Runde",
+      "de": "Revolverklinge der Runde",
       "en": "Gunblade of the Round",
       "fr": "Pistolame de la Table ronde",
       "ja": "ガンブレード・オブ・ラウンド"
@@ -33544,7 +33544,7 @@
     "maxQuality": 12900,
     "name": {
       "cn": "研究者横头锤",
-      "de": "Ermittler-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Ermittler-Kreuzschlaghammer",
       "en": "Indagator's Cross-pein Hammer",
       "fr": "Marteau à panne croisée d'indagator",
       "ja": "インダガトル・クロスペインハンマー"
@@ -34216,7 +34216,7 @@
     "maxQuality": 14040,
     "name": {
       "cn": "继业者枪刃",
-      "de": "Diadochen-Revolver<SoftHyphen/>klinge",
+      "de": "Diadochen-Revolverklinge",
       "en": "Diadochos Gunblade",
       "fr": "Pistolame de diadoque",
       "ja": "ディアドコス・ガンブレード"
@@ -35182,7 +35182,7 @@
     "maxQuality": 16500,
     "name": {
       "cn": "旧日王国枪刃",
-      "de": "Altkönigreich-Revolver<SoftHyphen/>klinge",
+      "de": "Altkönigreich-Revolverklinge",
       "en": "Archeo Kingdom Gunblade",
       "fr": "Pistolame de l'ancien royaume",
       "ja": "オールドキングダム・ガンブレード"
@@ -35308,7 +35308,7 @@
     "maxQuality": 17600,
     "name": {
       "cn": "Everseeker's Cross-pein Hammer",
-      "de": "Immersuch-Kreuz<SoftHyphen/>schlag<SoftHyphen/>ham<SoftHyphen/>mer",
+      "de": "Immersuch-Kreuzschlaghammer",
       "en": "Everseeker's Cross-pein Hammer",
       "fr": "Marteau à panne croisée de bourlingueur invétéré",
       "ja": "エバーシーク・クロスペインハンマー"
@@ -35770,7 +35770,7 @@
     "maxQuality": 7900,
     "name": {
       "cn": "Adamant Gunblade",
-      "de": "Zeta-Diamantyn-Revolver<SoftHyphen/>klinge",
+      "de": "Zeta-Diamantyn-Revolverklinge",
       "en": "Adamant Gunblade",
       "fr": "Pistolame adamantine",
       "ja": "アダマンティン・ガンブレード"

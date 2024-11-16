@@ -847,7 +847,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "黄铜头冠（日长石）",
-      "de": "Sonnenstein-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Sonnenstein-Messingstirnreif",
       "en": "Brass Circlet (Sunstone)",
       "fr": "Diadème en laiton (pierre de soleil)",
       "ja": "ブラスサークレット(サンストーン)"
@@ -868,7 +868,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "黄铜头冠（赛黄晶）",
-      "de": "Danburit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Danburit-Messingstirnreif",
       "en": "Brass Circlet (Danburite)",
       "fr": "Diadème en laiton (danburite)",
       "ja": "ブラスサークレット(ダンビュライト)"
@@ -889,7 +889,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "黄铜头冠（萤石）",
-      "de": "Fluorit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Fluorit-Messingstirnreif",
       "en": "Brass Circlet (Fluorite)",
       "fr": "Diadème en laiton (fluorine)",
       "ja": "ブラスサークレット(フローライト)"
@@ -910,7 +910,7 @@
     "maxQuality": 480,
     "name": {
       "cn": "黄铜头冠（榍石）",
-      "de": "Titanit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Titanit-Messingstirnreif",
       "en": "Brass Circlet (Sphene)",
       "fr": "Diadème en laiton (sphène)",
       "ja": "ブラスサークレット(スフェーン)"
@@ -931,7 +931,7 @@
     "maxQuality": 480,
     "name": {
       "cn": "黄铜头冠（孔雀石）",
-      "de": "Malachit-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Malachit-Messingstirnreif",
       "en": "Brass Circlet (Malachite)",
       "fr": "Diadème en laiton (malachite)",
       "ja": "ブラスサークレット(マラカイト)"
@@ -952,7 +952,7 @@
     "maxQuality": 480,
     "name": {
       "cn": "黄铜头冠（天青石）",
-      "de": "Lapislazuli-Mes<SoftHyphen/>sing<SoftHyphen/>stirn<SoftHyphen/>reif",
+      "de": "Lapislazuli-Messingstirnreif",
       "en": "Brass Circlet (Lapis Lazuli)",
       "fr": "Diadème en laiton (lapis-lazuli)",
       "ja": "ブラスサークレット(ラピスラズリ)"
@@ -2674,7 +2674,7 @@
     "maxQuality": 787,
     "name": {
       "cn": "熏银咒杖",
-      "de": "Prunk-Sil<SoftHyphen/>ber<SoftHyphen/>zep<SoftHyphen/>ter",
+      "de": "Prunk-Silberzepter",
       "en": "Decorated Silver Scepter",
       "fr": "Sceptre en argent orné",
       "ja": "シルバーセプターDX"
@@ -3913,7 +3913,7 @@
     "maxQuality": 1520,
     "name": {
       "cn": "龟甲骨拳",
-      "de": "Schild<SoftHyphen/>patt-Ho<SoftHyphen/>ras",
+      "de": "Schildpatt-Horas",
       "en": "Tortoiseshell Hora",
       "fr": "Hora tortue",
       "ja": "トータスホラ"
@@ -8722,7 +8722,7 @@
     "maxQuality": 1105,
     "name": {
       "cn": "水晶画内墙",
-      "de": "Buntkristall-Wand<SoftHyphen/>verklei<SoftHyphen/>dung",
+      "de": "Buntkristall-Wandverkleidung",
       "en": "Stained Crystal Interior Wall",
       "fr": "Revêtement mural en vitrail",
       "ja": "ステンドクリスタル・インナーウォール"
@@ -22750,7 +22750,7 @@
     "maxQuality": 9400,
     "name": {
       "cn": "粉绿柱石治愈半指手套",
-      "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Heilung",
+      "de": "Br'aaxleder-Kurzfingerhandschuhe der Heilung",
       "en": "Pink Beryl Halfgloves of Healing",
       "fr": "Mitaines de soigneur en béryl rose",
       "ja": "ピンクベリル・ヒーラーハーフグローブ"
@@ -22771,7 +22771,7 @@
     "maxQuality": 9400,
     "name": {
       "cn": "粉绿柱石咏咒半指手套",
-      "de": "Br'aaxleder-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Magie",
+      "de": "Br'aaxleder-Kurzfingerhandschuhe der Magie",
       "en": "Pink Beryl Halfgloves of Casting",
       "fr": "Mitaines d'incantateur en béryl rose",
       "ja": "ピンクベリル・キャスターハーフグローブ"
@@ -31738,7 +31738,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -31759,7 +31759,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"

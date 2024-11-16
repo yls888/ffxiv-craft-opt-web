@@ -2842,7 +2842,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "绿洲内墙",
-      "de": "Oasen-Wand<SoftHyphen/>verklei<SoftHyphen/>dung",
+      "de": "Oasen-Wandverkleidung",
       "en": "Oasis Interior Wall",
       "fr": "Revêtement mural thanalanais",
       "ja": "ザナラーン・インナーウォール"
@@ -4186,7 +4186,7 @@
     "maxQuality": 2500,
     "name": {
       "cn": "1级军功以太转轮",
-      "de": "Rad der Ge<SoftHyphen/>sell<SoftHyphen/>schaft I",
+      "de": "Rad der Gesellschaft I",
       "en": "Grade 1 Wheel of Company",
       "fr": "Tour du mérite I",
       "ja": "軍功のエーテリアルホイールG1"
@@ -4354,7 +4354,7 @@
     "maxQuality": 2500,
     "name": {
       "cn": "1级耐久以太转轮",
-      "de": "Rad der Bes<SoftHyphen/>tändig<SoftHyphen/>keit I",
+      "de": "Rad der Beständigkeit I",
       "en": "Grade 1 Wheel of Permanence",
       "fr": "Tour de la rémanence I",
       "ja": "耐久のエーテリアルホイールG1"
@@ -19936,7 +19936,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -19957,7 +19957,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"

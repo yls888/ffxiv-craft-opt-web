@@ -2905,7 +2905,7 @@
     "maxQuality": 850,
     "name": {
       "cn": "1级速度饲料",
-      "de": "Futter: Ge<SoftHyphen/>schwindig<SoftHyphen/>keit I",
+      "de": "Futter: Geschwindigkeit I",
       "en": "Grade 1 Feed - Speed Blend",
       "fr": "Fourrage spécial vitesse I",
       "ja": "スピードフォダーG1"
@@ -2926,7 +2926,7 @@
     "maxQuality": 2500,
     "name": {
       "cn": "2级速度饲料",
-      "de": "Futter: Ge<SoftHyphen/>schwindig<SoftHyphen/>keit II",
+      "de": "Futter: Geschwindigkeit II",
       "en": "Grade 2 Feed - Speed Blend",
       "fr": "Fourrage spécial vitesse II",
       "ja": "スピードフォダーG2"
@@ -11452,7 +11452,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -11473,7 +11473,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"

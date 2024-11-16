@@ -91,7 +91,7 @@
     "maxQuality": 120,
     "name": {
       "cn": "青铜蒸馏器",
-      "de": "Kupfer-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Kupfer-Destillierkolben",
       "en": "Bronze Alembic",
       "fr": "Alambic",
       "ja": "アレンビック"
@@ -259,7 +259,7 @@
     "maxQuality": 230,
     "name": {
       "cn": "业余蒸馏器",
-      "de": "Laien-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Laien-Destillierkolben",
       "en": "Amateur's Alembic",
       "fr": "Alambic d'amateur",
       "ja": "アマチュアアレンビック"
@@ -469,7 +469,7 @@
     "maxQuality": 330,
     "name": {
       "cn": "青铜手铠",
-      "de": "Bronze-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Bronze-Panzerhandschuhe",
       "en": "Bronze Gauntlets",
       "fr": "Gantelets",
       "ja": "ガントレット"
@@ -553,7 +553,7 @@
     "maxQuality": 270,
     "name": {
       "cn": "黄铜蒸馏器",
-      "de": "Messing-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Messing-Destillierkolben",
       "en": "Brass Alembic",
       "fr": "Alambic en laiton",
       "ja": "ブラスアレンビック"
@@ -637,7 +637,7 @@
     "maxQuality": 450,
     "name": {
       "cn": "新来者蒸馏器",
-      "de": "Anfänger-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Anfänger-Destillierkolben",
       "en": "Initiate's Alembic",
       "fr": "Alambic d'initié",
       "ja": "イニシエートアレンビック"
@@ -679,7 +679,7 @@
     "maxQuality": 480,
     "name": {
       "cn": "黑铁铠靴",
-      "de": "Ei<SoftHyphen/>sen-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Eisen-Bärlatschen",
       "en": "Iron Sabatons",
       "fr": "Sabatons en fer",
       "ja": "アイアンサバトン"
@@ -721,7 +721,7 @@
     "maxQuality": 510,
     "name": {
       "cn": "黑铁手铠",
-      "de": "Ei<SoftHyphen/>sen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Eisen-Panzerhandschuhe",
       "en": "Iron Gauntlets",
       "fr": "Gantelets en fer",
       "ja": "アイアンガントレット"
@@ -763,7 +763,7 @@
     "maxQuality": 510,
     "name": {
       "cn": "黑铁头盔",
-      "de": "Ei<SoftHyphen/>sen<SoftHyphen/>sturm<SoftHyphen/>hau<SoftHyphen/>be",
+      "de": "Eisensturmhaube",
       "en": "Iron Celata",
       "fr": "Celata en fer",
       "ja": "アイアンチェラータ"
@@ -889,7 +889,7 @@
     "maxQuality": 600,
     "name": {
       "cn": "黑铁蒸馏器",
-      "de": "Eisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Eisen-Destillierkolben",
       "en": "Iron Alembic",
       "fr": "Alambic en fer",
       "ja": "アイアンアレンビック"
@@ -1057,7 +1057,7 @@
     "maxQuality": 660,
     "name": {
       "cn": "黑铁重手铠",
-      "de": "Schwere Ei<SoftHyphen/>sen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Eisen-Panzerhandschuhe",
       "en": "Heavy Iron Gauntlets",
       "fr": "Gantelets lourds en fer",
       "ja": "ヘヴィアイアンガントレット"
@@ -1120,7 +1120,7 @@
     "maxQuality": 517,
     "name": {
       "cn": "特制蒸馏器",
-      "de": "Konischer De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Konischer Destillierkolben",
       "en": "Conical Alembic",
       "fr": "Alambic conique",
       "ja": "コニカルアレンビック"
@@ -1288,7 +1288,7 @@
     "maxQuality": 800,
     "name": {
       "cn": "白钢蒸馏器",
-      "de": "Stahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Stahl-Destillierkolben",
       "en": "Steel Alembic",
       "fr": "Alambic en acier",
       "ja": "スチールアレンビック"
@@ -1330,7 +1330,7 @@
     "maxQuality": 850,
     "name": {
       "cn": "白钢手铠",
-      "de": "Stahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Stahl-Panzerhandschuhe",
       "en": "Steel Gauntlets",
       "fr": "Gantelets en acier",
       "ja": "スチールガントレット"
@@ -1561,7 +1561,7 @@
     "maxQuality": 750,
     "name": {
       "cn": "镶银小圆盾",
-      "de": "Prunk<SoftHyphen/>faust<SoftHyphen/>schild",
+      "de": "Prunkfaustschild",
       "en": "Decorated Buckler",
       "fr": "Rondache ornée",
       "ja": "デコレーテッドバックラー"
@@ -1603,7 +1603,7 @@
     "maxQuality": 1050,
     "name": {
       "cn": "白银蒸馏器",
-      "de": "Silber-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Silber-Destillierkolben",
       "en": "Silver Alembic",
       "fr": "Alambic en argent",
       "ja": "シルバーアレンビック"
@@ -1645,7 +1645,7 @@
     "maxQuality": 1050,
     "name": {
       "cn": "白钢重手铠",
-      "de": "Schwere Stahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Stahl-Panzerhandschuhe",
       "en": "Heavy Steel Gauntlets",
       "fr": "Gantelets lourds en acier",
       "ja": "ヘヴィスチールガントレット"
@@ -1939,7 +1939,7 @@
     "maxQuality": 1400,
     "name": {
       "cn": "秘银蒸馏器",
-      "de": "Mithril-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mithril-Destillierkolben",
       "en": "Mythril Alembic",
       "fr": "Alambic en mithril",
       "ja": "ミスリルアレンビック"
@@ -2527,7 +2527,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "热能蒸馏器",
-      "de": "Thermo-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Thermo-Destillierkolben",
       "en": "Thermal Alembic",
       "fr": "Alambic thermique",
       "ja": "サーマルアレンビック"
@@ -2548,7 +2548,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "钴铁手铠",
-      "de": "Koboldeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Koboldeisen-Panzerhandschuhe",
       "en": "Cobalt Gauntlets",
       "fr": "Gantelets en cobalt",
       "ja": "コバルトガントレット"
@@ -2569,7 +2569,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "钴铁胸甲",
-      "de": "Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen<SoftHyphen/>kü<SoftHyphen/>rass",
+      "de": "Koboldeisenkürass",
       "en": "Cobalt Cuirass",
       "fr": "Cuirasse en cobalt",
       "ja": "コバルトキュイラス"
@@ -2590,7 +2590,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "钴铁铠靴",
-      "de": "Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Koboldeisen-Bärlatschen",
       "en": "Cobalt Sabatons",
       "fr": "Sabatons en cobalt",
       "ja": "コバルトサバトン"
@@ -2611,7 +2611,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "钴铁头盔",
-      "de": "Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen-Sturm<SoftHyphen/>hau<SoftHyphen/>be",
+      "de": "Koboldeisen-Sturmhaube",
       "en": "Cobalt Celata",
       "fr": "Celata en cobalt",
       "ja": "コバルトチェラータ"
@@ -2737,7 +2737,7 @@
     "maxQuality": 1340,
     "name": {
       "cn": "秘银手铠",
-      "de": "Mi<SoftHyphen/>thril-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Mithril-Panzerhandschuhe",
       "en": "Mythril Gauntlets",
       "fr": "Gantelets en mithril",
       "ja": "ミスリルガントレット"
@@ -2779,7 +2779,7 @@
     "maxQuality": 1340,
     "name": {
       "cn": "秘银铠靴",
-      "de": "Mi<SoftHyphen/>thril-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Mithril-Bärlatschen",
       "en": "Mythril Sabatons",
       "fr": "Sabatons en mithril",
       "ja": "ミスリルサバトン"
@@ -2842,7 +2842,7 @@
     "maxQuality": 1140,
     "name": {
       "cn": "绿金蒸馏器",
-      "de": "Elektrum-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Elektrum-Destillierkolben",
       "en": "Electrum Alembic",
       "fr": "Alambic en électrum",
       "ja": "エレクトラムアレンビック"
@@ -2884,7 +2884,7 @@
     "maxQuality": 1580,
     "name": {
       "cn": "秘银重手铠",
-      "de": "Schwermithril-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwermithril-Panzerhandschuhe",
       "en": "High Mythril Gauntlets",
       "fr": "Gantelets lourds en mithril",
       "ja": "ヘヴィミスリルガントレット"
@@ -3367,7 +3367,7 @@
     "maxQuality": 2200,
     "name": {
       "cn": "民兵手铠",
-      "de": "Miliz-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Miliz-Panzerhandschuhe",
       "en": "Militia Gauntlets",
       "fr": "Gantelets de milicien",
       "ja": "ミリシアガントレット"
@@ -3598,7 +3598,7 @@
     "maxQuality": 2500,
     "name": {
       "cn": "玄钢重手铠",
-      "de": "Schwere Dun<SoftHyphen/>kel<SoftHyphen/>stahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Dunkelstahl-Panzerhandschuhe",
       "en": "Heavy Darksteel Gauntlets",
       "fr": "Gantelets lourds en sombracier",
       "ja": "ヘヴィ・ダークスチールガントレット"
@@ -4102,7 +4102,7 @@
     "maxQuality": 940,
     "name": {
       "cn": "部队储物柜",
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schaftstruhe",
+      "de": "Gesellschaftstruhe",
       "en": "Company Chest",
       "fr": "Coffre de compagnie libre",
       "ja": "カンパニーチェスト"
@@ -4543,7 +4543,7 @@
     "maxQuality": 880,
     "name": {
       "cn": "金属内墙",
-      "de": "Metall-Wand<SoftHyphen/>verklei<SoftHyphen/>dung",
+      "de": "Metall-Wandverkleidung",
       "en": "Metal Interior Wall",
       "fr": "Revêtement mural métallique",
       "ja": "メタルインナーウォール"
@@ -4942,7 +4942,7 @@
     "maxQuality": 2070,
     "name": {
       "cn": "灵银御敌手铠",
-      "de": "Mythrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Mythrit-Panzerhandschuhe der Verteidigung",
       "en": "Mythrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en mithrite",
       "ja": "ミスライトディフェンダーガントレット"
@@ -4963,7 +4963,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "白钛御敌手铠",
-      "de": "Titan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Titan-Panzerhandschuhe der Verteidigung",
       "en": "Titanium Gauntlets of Fending",
       "fr": "Gantelets de protecteur en titane",
       "ja": "チタンディフェンダーガントレット"
@@ -5005,7 +5005,7 @@
     "maxQuality": 2560,
     "name": {
       "cn": "精金御敌手铠",
-      "de": "Adamantit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Adamantit-Panzerhandschuhe der Verteidigung",
       "en": "Adamantite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en adamantium",
       "ja": "アダマンディフェンダーガントレット"
@@ -5299,7 +5299,7 @@
     "maxQuality": 2070,
     "name": {
       "cn": "灵银制敌手铠",
-      "de": "Mythrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Mythrit-Panzerhandschuhe des Verstümmelns",
       "en": "Mythrite Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en mithrite",
       "ja": "ミスライトスレイヤーガントレット"
@@ -5362,7 +5362,7 @@
     "maxQuality": 2560,
     "name": {
       "cn": "精金制敌手铠",
-      "de": "Adamantit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Adamantit-Panzerhandschuhe des Verstümmelns",
       "en": "Adamantite Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en adamantium",
       "ja": "アダマンスレイヤーガントレット"
@@ -5719,7 +5719,7 @@
     "maxQuality": 2140,
     "name": {
       "cn": "灵银蒸馏器",
-      "de": "Mythrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mythrit-Destillierkolben",
       "en": "Mythrite Alembic",
       "fr": "Alambic en mithrite",
       "ja": "ミスライトアレンビック"
@@ -5740,7 +5740,7 @@
     "maxQuality": 2280,
     "name": {
       "cn": "硬银蒸馏器",
-      "de": "Hartsilber-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Hartsilber-Destillierkolben",
       "en": "Hardsilver Alembic",
       "fr": "Alambic en durargent",
       "ja": "ハードシルバーアレンビック"
@@ -5761,7 +5761,7 @@
     "maxQuality": 2490,
     "name": {
       "cn": "白钛蒸馏器",
-      "de": "Titan-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Titan-Destillierkolben",
       "en": "Titanium Alembic",
       "fr": "Alambic en titane",
       "ja": "チタンアレンビック"
@@ -6244,7 +6244,7 @@
     "maxQuality": 2970,
     "name": {
       "cn": "硬钢御敌手铠",
-      "de": "Edelstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Edelstahl-Panzerhandschuhe der Verteidigung",
       "en": "High Steel Gauntlets of Fending",
       "fr": "Gantelets de protecteur en acier noble",
       "ja": "ハイスチール・ディフェンダーガントレット"
@@ -6328,7 +6328,7 @@
     "maxQuality": 2970,
     "name": {
       "cn": "硬钢制敌手铠",
-      "de": "Edelstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Edelstahl-Panzerhandschuhe des Verstümmelns",
       "en": "High Steel Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en acier noble",
       "ja": "ハイスチール・スレイヤーガントレット"
@@ -6412,7 +6412,7 @@
     "maxQuality": 3060,
     "name": {
       "cn": "卸铁御敌手铠",
-      "de": "Domaeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Domaeisen-Panzerhandschuhe der Verteidigung",
       "en": "Doman Iron Gauntlets of Fending",
       "fr": "Gantelets de protecteur en fer domien",
       "ja": "ドマアイアン・ディフェンダーガントレット"
@@ -6475,7 +6475,7 @@
     "maxQuality": 3060,
     "name": {
       "cn": "卸铁制敌手铠",
-      "de": "Domaeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Domaeisen-Panzerhandschuhe des Verstümmelns",
       "en": "Doman Iron Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en fer domien",
       "ja": "ドマアイアン・スレイヤーガントレット"
@@ -6580,7 +6580,7 @@
     "maxQuality": 3240,
     "name": {
       "cn": "玉钢御敌手铠",
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Domastahl-Panzerhandschuhe der Verteidigung",
       "en": "Doman Steel Gauntlets of Fending",
       "fr": "Gantelets de protecteur en acier domien",
       "ja": "ドマスチール・ディフェンダーガントレット"
@@ -6664,7 +6664,7 @@
     "maxQuality": 3240,
     "name": {
       "cn": "玉钢制敌手铠",
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Domastahl-Panzerhandschuhe des Verstümmelns",
       "en": "Doman Steel Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en acier domien",
       "ja": "ドマスチール・スレイヤーガントレット"
@@ -6706,7 +6706,7 @@
     "maxQuality": 3240,
     "name": {
       "cn": "玉钢强袭手铠",
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens",
+      "de": "Domastahl-Panzerhandschuhe des Schlagens",
       "en": "Doman Steel Gauntlets of Striking",
       "fr": "Gantelets d'agresseur en acier domien",
       "ja": "ドマスチール・ストライカーガントレット"
@@ -6748,7 +6748,7 @@
     "maxQuality": 3240,
     "name": {
       "cn": "玉钢游击手铠",
-      "de": "Domastahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Spähens",
+      "de": "Domastahl-Panzerhandschuhe des Spähens",
       "en": "Doman Steel Gauntlets of Scouting",
       "fr": "Gantelets d'éclaireur en acier domien",
       "ja": "ドマスチール・スカウトガントレット"
@@ -6937,7 +6937,7 @@
     "maxQuality": 2790,
     "name": {
       "cn": "硬钢蒸馏器",
-      "de": "Edelstahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edelstahl-Destillierkolben",
       "en": "High Steel Thermal Alembic",
       "fr": "Alambic thermique en acier noble",
       "ja": "ハイスチール・サーマルアレンビック"
@@ -6979,7 +6979,7 @@
     "maxQuality": 3150,
     "name": {
       "cn": "卸铁蒸馏器",
-      "de": "Domaeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Domaeisen-Destillierkolben",
       "en": "Doman Iron Alembic",
       "fr": "Alambic en fer domien",
       "ja": "ドマアイアンアレンビック"
@@ -7021,7 +7021,7 @@
     "maxQuality": 3330,
     "name": {
       "cn": "玉钢蒸馏器",
-      "de": "Domastahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Domastahl-Destillierkolben",
       "en": "Doman Steel Alembic",
       "fr": "Alambic en acier domien",
       "ja": "ドマスチールアレンビック"
@@ -7063,7 +7063,7 @@
     "maxQuality": 3600,
     "name": {
       "cn": "钼钢蒸馏器",
-      "de": "Molybdän-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Molybdän-Destillierkolben",
       "en": "Molybdenum Alembic",
       "fr": "Alambic en molybdène",
       "ja": "モリブデンアレンビック"
@@ -7630,7 +7630,7 @@
     "maxQuality": 3763,
     "name": {
       "cn": "深金御敌手铠",
-      "de": "Dunkelgold-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Dunkelgold-Panzerhandschuhe der Verteidigung",
       "en": "Deepgold Gauntlets of Fending",
       "fr": "Gantelets de protecteur en or incarnat",
       "ja": "ディープゴールド・ディフェンダーガントレット"
@@ -7798,7 +7798,7 @@
     "maxQuality": 3800,
     "name": {
       "cn": "深金制敌手铠",
-      "de": "Dunkelgold-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Dunkelgold-Panzerhandschuhe des Verstümmelns",
       "en": "Deepgold Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en or incarnat",
       "ja": "ディープゴールド・スレイヤーガントレット"
@@ -7903,7 +7903,7 @@
     "maxQuality": 4000,
     "name": {
       "cn": "灵青御敌手铠",
-      "de": "Seelenazurit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Seelenazurit-Panzerhandschuhe der Verteidigung",
       "en": "Bluespirit Gauntlets of Fending",
       "fr": "Gantelets de protecteur en azuresprit",
       "ja": "ブルースピリット・ディフェンダーガントレット"
@@ -7987,7 +7987,7 @@
     "maxQuality": 4000,
     "name": {
       "cn": "灵青制敌手铠",
-      "de": "Seelenazurit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Seelenazurit-Panzerhandschuhe des Verstümmelns",
       "en": "Bluespirit Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en azuresprit",
       "ja": "ブルースピリット・スレイヤーガントレット"
@@ -8344,7 +8344,7 @@
     "maxQuality": 3763,
     "name": {
       "cn": "深金蒸馏器",
-      "de": "Dunkelgold-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Dunkelgold-Destillierkolben",
       "en": "Deepgold Alembic",
       "fr": "Alambic en or incarnat",
       "ja": "ディープゴールド・アレンビック"
@@ -8386,7 +8386,7 @@
     "maxQuality": 4100,
     "name": {
       "cn": "灵青蒸馏器",
-      "de": "Seelenazurit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Seelenazurit-Destillierkolben",
       "en": "Bluespirit Alembic",
       "fr": "Alambic en azuresprit",
       "ja": "ブルースピリットアレンビック"
@@ -8428,7 +8428,7 @@
     "maxQuality": 4300,
     "name": {
       "cn": "钛铜蒸馏器",
-      "de": "Titanbronze-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Titanbronze-Destillierkolben",
       "en": "Titanbronze Alembic",
       "fr": "Alambic en bronze titané",
       "ja": "チタンブロンズアレンビック"
@@ -8470,7 +8470,7 @@
     "maxQuality": 4600,
     "name": {
       "cn": "矮人银蒸馏器",
-      "de": "Edelmithril-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edelmithril-Destillierkolben",
       "en": "Dwarven Mythril Alembic",
       "fr": "Alambic en mithril noble",
       "ja": "ハイミスリルアレンビック"
@@ -8680,7 +8680,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "改良型钴铁胸甲",
-      "de": "Bearbeiteter Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen<SoftHyphen/>kü<SoftHyphen/>rass",
+      "de": "Bearbeiteter Koboldeisenkürass",
       "en": "Altered Cobalt Cuirass",
       "fr": "Cuirasse en cobalt réinventée",
       "ja": "オルタード・コバルトキュイラス"
@@ -8701,7 +8701,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "改良型钴铁手铠",
-      "de": "Bearbeitete Koboldeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he ",
+      "de": "Bearbeitete Koboldeisen-Panzerhandschuhe ",
       "en": "Altered Cobalt Gauntlets",
       "fr": "Gantelets réinventés",
       "ja": "オルタード・コバルトガントレット"
@@ -8722,7 +8722,7 @@
     "maxQuality": 2000,
     "name": {
       "cn": "改良型钴铁铠靴",
-      "de": "Bearbeitete Ko<SoftHyphen/>bold<SoftHyphen/>ei<SoftHyphen/>sen-Bär<SoftHyphen/>lat<SoftHyphen/>schen",
+      "de": "Bearbeitete Koboldeisen-Bärlatschen",
       "en": "Altered Cobalt Sabatons",
       "fr": "Sabatons réinventés",
       "ja": "オルタード・コバルトサバトン"
@@ -9268,7 +9268,7 @@
     "maxQuality": 5700,
     "name": {
       "cn": "辉翠银御敌手铠",
-      "de": "Edeldurium-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Edeldurium-Panzerhandschuhe der Verteidigung",
       "en": "High Durium Gauntlets of Fending",
       "fr": "Gantelets de protecteur en durium noble",
       "ja": "ハイダリウム・ディフェンダーガントレット"
@@ -9331,7 +9331,7 @@
     "maxQuality": 5700,
     "name": {
       "cn": "辉翠银制敌手铠",
-      "de": "Edeldurium-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Edeldurium-Panzerhandschuhe des Verstümmelns",
       "en": "High Durium Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en durium noble",
       "ja": "ハイダリウム・スレイヤーガントレット"
@@ -9709,7 +9709,7 @@
     "maxQuality": 6800,
     "name": {
       "cn": "锰钢贝希摩斯王手铠",
-      "de": "König-Behemoth-Mangan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "König-Behemoth-Mangan-Panzerhandschuhe",
       "en": "Manganese Gauntlets of the Behemoth King",
       "fr": "Gantelets du roi béhémoth en manganèse",
       "ja": "マンガン・キングベヒーモスガントレット"
@@ -9793,7 +9793,7 @@
     "maxQuality": 6800,
     "name": {
       "cn": "锰钢贝希摩斯女王手铠",
-      "de": "Königin-Behemoth-Mangan-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Königin-Behemoth-Mangan-Panzerhandschuhe",
       "en": "Manganese Gauntlets of the Behemoth Queen",
       "fr": "Gantelets de la reine béhémoth en manganèse",
       "ja": "マンガン・クィーンベヒーモスガントレット"
@@ -10045,7 +10045,7 @@
     "maxQuality": 7000,
     "name": {
       "cn": "球粒陨石御敌手铠",
-      "de": "Chondrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Chondrit-Panzerhandschuhe der Verteidigung",
       "en": "Chondrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en chondrite",
       "ja": "コンドライト・ディフェンダーガントレット"
@@ -10255,7 +10255,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "辉翠银蒸馏器",
-      "de": "Edeldurium-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edeldurium-Destillierkolben",
       "en": "High Durium Alembic",
       "fr": "Alambic en durium noble",
       "ja": "ハイダリウム・アレンビック"
@@ -10297,7 +10297,7 @@
     "maxQuality": 6700,
     "name": {
       "cn": "铋金蒸馏器",
-      "de": "Bismut-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Bismut-Destillierkolben",
       "en": "Bismuth Alembic",
       "fr": "Alambic en bismuth",
       "ja": "ビスマス・アレンビック"
@@ -10339,7 +10339,7 @@
     "maxQuality": 6900,
     "name": {
       "cn": "锰钢蒸馏器",
-      "de": "Mangan-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mangan-Destillierkolben",
       "en": "Manganese Alembic",
       "fr": "Alambic en manganèse",
       "ja": "マンガン・アレンビック"
@@ -10381,7 +10381,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "球粒陨石蒸馏器",
-      "de": "Chondrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Chondrit-Destillierkolben",
       "en": "Chondrite Alembic",
       "fr": "Alambic en chondrite",
       "ja": "コンドライト・アレンビック"
@@ -11662,7 +11662,7 @@
     "maxQuality": 11000,
     "name": {
       "cn": "卡扎纳尔御敌手铠",
-      "de": "Ra'Kaznar-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Ra'Kaznar-Panzerhandschuhe der Verteidigung",
       "en": "Ra'Kaznar Gauntlets of Fending",
       "fr": "Gantelets de protecteur de Ra'Kaznar",
       "ja": "カザナル・ディフェンダーガントレット"
@@ -11746,7 +11746,7 @@
     "maxQuality": 11000,
     "name": {
       "cn": "卡扎纳尔制敌手铠",
-      "de": "Ra'Kaznar-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Ra'Kaznar-Panzerhandschuhe des Verstümmelns",
       "en": "Ra'Kaznar Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de Ra'Kaznar",
       "ja": "カザナル・スレイヤーガントレット"
@@ -11914,7 +11914,7 @@
     "maxQuality": 8200,
     "name": {
       "cn": "奥阔铬铁蒸馏器",
-      "de": "Bergchromeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Bergchromeisen-Destillierkolben",
       "en": "Mountain Chromite Alembic",
       "fr": "Alambic en chromite d'Urqopacha",
       "ja": "オルコクロマイト・アレンビック"
@@ -11956,7 +11956,7 @@
     "maxQuality": 9800,
     "name": {
       "cn": "钴钨蒸馏器",
-      "de": "Wolfram-Koboldeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Wolfram-Koboldeisen-Destillierkolben",
       "en": "Cobalt Tungsten Alembic",
       "fr": "Alambic en alliage de cobalt-tungstène",
       "ja": "コバルトタングステン・アレンビック"
@@ -11998,7 +11998,7 @@
     "maxQuality": 10600,
     "name": {
       "cn": "钛金蒸馏器",
-      "de": "Titangold-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Titangold-Destillierkolben",
       "en": "Titanium Gold Alembic",
       "fr": "Alambic en titane aurifère",
       "ja": "ゴールドチタン・アレンビック"
@@ -12040,7 +12040,7 @@
     "maxQuality": 12000,
     "name": {
       "cn": "卡扎纳尔蒸馏器",
-      "de": "Ra'Kaznar-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Ra'Kaznar-Destillierkolben",
       "en": "Ra'Kaznar Alembic",
       "fr": "Alambic de Ra'Kaznar",
       "ja": "カザナル・アレンビック"
@@ -12586,7 +12586,7 @@
     "maxQuality": 2750,
     "name": {
       "cn": "钨钢重手铠",
-      "de": "Schwere Wolfram-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Schwere Wolfram-Panzerhandschuhe",
       "en": "Heavy Wolfram Gauntlets",
       "fr": "Gantelets lourds en tungstène",
       "ja": "ヘヴィウォルフラムガントレット"
@@ -12691,7 +12691,7 @@
     "maxQuality": 2750,
     "name": {
       "cn": "钨钢手铠",
-      "de": "Wolfram-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Wolfram-Panzerhandschuhe",
       "en": "Wolfram Gauntlets",
       "fr": "Gantelets en tungstène",
       "ja": "ウォルフラムガントレット"
@@ -13930,7 +13930,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "乌兹手铠",
-      "de": "Wootz-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he",
+      "de": "Wootz-Panzerhandschuhe",
       "en": "Wootz Gauntlets",
       "fr": "Gantelets en wootz",
       "ja": "ウーツガントレット"
@@ -14035,7 +14035,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "部队纹章盾",
-      "de": "Ge<SoftHyphen/>sell<SoftHyphen/>schafts-Wappenschild",
+      "de": "Gesellschafts-Wappenschild",
       "en": "Company Escutcheon",
       "fr": "Escuchon de compagnie libre",
       "ja": "カンパニーエスカッシャン"
@@ -14182,7 +14182,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "重精金御敌手铠",
-      "de": "Schwere Adamantit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Schwere Adamantit-Panzerhandschuhe der Verteidigung",
       "en": "Heavy Adamantite Gauntlets of Fending",
       "fr": "Gantelets de protecteur lourds en adamantium",
       "ja": "ヘヴィ・アダマンディフェンダーガントレット"
@@ -14413,7 +14413,7 @@
     "maxQuality": 2700,
     "name": {
       "cn": "精金蒸馏器",
-      "de": "Adamantit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Adamantit-Destillierkolben",
       "en": "Adamantite Alembic",
       "fr": "Alambic en adamantium",
       "ja": "アダマンアレンビック"
@@ -14686,7 +14686,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "炼真大师蒸馏器",
-      "de": "Labormeister-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Labormeister-Destillierkolben",
       "en": "Cauldronmaster's Alembic",
       "fr": "Alambic d'expert des mixtures",
       "ja": "コルドロンマスターアレンビック"
@@ -14791,7 +14791,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "空贼御敌手铠",
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Luftpiraten-Panzerhandschuhe der Verteidigung",
       "en": "Sky Pirate's Gauntlets of Fending",
       "fr": "Gantelets de protecteur de pirate des cieux",
       "ja": "スカイパイレーツ・ディフェンダーガントレット"
@@ -14854,7 +14854,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "空贼制敌手铠",
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Luftpiraten-Panzerhandschuhe des Verstümmelns",
       "en": "Sky Pirate's Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de pirate des cieux",
       "ja": "スカイパイレーツ・スレイヤーガントレット"
@@ -14938,7 +14938,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "亚拉戈重手铠（复制品）",
-      "de": "Schwere allagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he (Replik)",
+      "de": "Schwere allagische Panzerhandschuhe (Replik)",
       "en": "Replica Heavy Allagan Gauntlets",
       "fr": "Répliques de gantelets lourds allagois",
       "ja": "レプリカ・ヘヴィアラガンガントレット"
@@ -15295,7 +15295,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "亚拉戈高位御敌手铠（复制品）",
-      "de": "Hochallagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung (Replik)",
+      "de": "Hochallagische Panzerhandschuhe der Verteidigung (Replik)",
       "en": "Replica High Allagan Gauntlets of Fending",
       "fr": "Répliques de gantelets de protecteur haut-allagois",
       "ja": "レプリカ・ハイアラガン・ディフェンダーガントレット"
@@ -15379,7 +15379,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "亚拉戈高位制敌手铠（复制品）",
-      "de": "Hochallagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns (Replik)",
+      "de": "Hochallagische Panzerhandschuhe des Verstümmelns (Replik)",
       "en": "Replica High Allagan Gauntlets of Maiming",
       "fr": "Répliques de gantelets d'abatteur haut-allagois",
       "ja": "レプリカ・ハイアラガン・スレイヤーガントレット"
@@ -15463,7 +15463,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "亚拉戈高位强袭手铠（复制品）",
-      "de": "Hochallagische Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Schlagens (Replik)",
+      "de": "Hochallagische Panzerhandschuhe des Schlagens (Replik)",
       "en": "Replica High Allagan Gauntlets of Striking",
       "fr": "Répliques de gantelets d'agresseur haut-allagois",
       "ja": "レプリカ・ハイアラガン・ストライカーガントレット"
@@ -15610,7 +15610,7 @@
     "maxQuality": 3300,
     "name": {
       "cn": "光银御敌手铠",
-      "de": "Edelmythrit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Edelmythrit-Panzerhandschuhe der Verteidigung",
       "en": "High Mythrite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en mithrite noble",
       "ja": "ハイミスライト・ディフェンダーガントレット"
@@ -16240,7 +16240,7 @@
     "maxQuality": 2900,
     "name": {
       "cn": "龙神御敌手铠（复制品）",
-      "de": "Drachengott-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung (Replik)",
+      "de": "Drachengott-Panzerhandschuhe der Verteidigung (Replik)",
       "en": "Replica Dreadwyrm Gauntlets of Fending",
       "fr": "Répliques de gantelets de protecteur du Dragon-dieu",
       "ja": "レプリカ・バハムート・ディフェンダーガントレット"
@@ -16429,7 +16429,7 @@
     "maxQuality": 3390,
     "name": {
       "cn": "光银蒸馏器",
-      "de": "Edelmythrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Edelmythrit-Destillierkolben",
       "en": "High Mythrite Alembic",
       "fr": "Alambic en mithrite noble",
       "ja": "ハイミスライトアレンビック"
@@ -16576,7 +16576,7 @@
     "maxQuality": 3800,
     "name": {
       "cn": "重合金御敌手铠",
-      "de": "Schwermetall-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Schwermetall-Panzerhandschuhe der Verteidigung",
       "en": "Heavy Metal Gauntlets of Fending",
       "fr": "Gantelets de protecteur en alliage de tungstène",
       "ja": "ヘヴィアロイ・ディフェンダーガントレット"
@@ -16660,7 +16660,7 @@
     "maxQuality": 3800,
     "name": {
       "cn": "重合金制敌手铠",
-      "de": "Schwermetall-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Schwermetall-Panzerhandschuhe des Verstümmelns",
       "en": "Heavy Metal Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en alliage de tungstène",
       "ja": "ヘヴィアロイ・スレイヤーガントレット"
@@ -17479,7 +17479,7 @@
     "maxQuality": 4800,
     "name": {
       "cn": "铬铁御敌手铠",
-      "de": "Chromeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Chromeisen-Panzerhandschuhe der Verteidigung",
       "en": "Chromite Gauntlets of Fending",
       "fr": "Gantelets de protecteur en chromite",
       "ja": "クロマイトディフェンダーガントレット"
@@ -17542,7 +17542,7 @@
     "maxQuality": 4800,
     "name": {
       "cn": "铬铁制敌手铠",
-      "de": "Chromeisen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Chromeisen-Panzerhandschuhe des Verstümmelns",
       "en": "Chromite Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en chromite",
       "ja": "クロマイトスレイヤーガントレット"
@@ -17605,7 +17605,7 @@
     "maxQuality": 4800,
     "name": {
       "cn": "阿拉米格蒸馏器",
-      "de": "Mhigischer De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Mhigischer Destillierkolben",
       "en": "Ala Mhigan Alembic",
       "fr": "Alambic mhigois",
       "ja": "アラミガンアレンビック"
@@ -17815,7 +17815,7 @@
     "maxQuality": 1188,
     "name": {
       "cn": "解放军的军需品部件",
-      "de": "Komponente eines Stücks Be<SoftHyphen/>freiungs<SoftHyphen/>armee-Ausrüstung",
+      "de": "Komponente eines Stücks Befreiungsarmee-Ausrüstung",
       "en": "Resistance Materiel Component",
       "fr": "Composant de provisions pour l'armée de libération",
       "ja": "解放軍の軍需品部材"
@@ -17836,7 +17836,7 @@
     "maxQuality": 2376,
     "name": {
       "cn": "解放军的军需品",
-      "de": "Rucksack für die Be<SoftHyphen/>freiungs<SoftHyphen/>armee",
+      "de": "Rucksack für die Befreiungsarmee",
       "en": "Resistance Materiel",
       "fr": "Provisions pour l'armée de libération",
       "ja": "解放軍の軍需品"
@@ -17941,7 +17941,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "夜钢御敌手铠",
-      "de": "Nachtstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Nachtstahl-Panzerhandschuhe der Verteidigung",
       "en": "Nightsteel Gauntlets of Fending",
       "fr": "Gantelets de protecteur en noctacier",
       "ja": "ナイトスチール・ディフェンダーガントレット"
@@ -18025,7 +18025,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "夜钢制敌手铠",
-      "de": "Nachtstahl-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Nachtstahl-Panzerhandschuhe des Verstümmelns",
       "en": "Nightsteel Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur en noctacier",
       "ja": "ナイトスチール・スレイヤーガントレット"
@@ -18907,7 +18907,7 @@
     "maxQuality": 5200,
     "name": {
       "cn": "夜钢蒸馏器",
-      "de": "Nachtstahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Nachtstahl-Destillierkolben",
       "en": "Nightsteel Alembic",
       "fr": "Alambic en noctacier",
       "ja": "ナイトスチールアレンビック"
@@ -19558,7 +19558,7 @@
     "maxQuality": 7900,
     "name": {
       "cn": "中庸御敌手铠",
-      "de": "Manufaktur-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Manufaktur-Panzerhandschuhe der Verteidigung",
       "en": "Facet Gauntlets of Fending",
       "fr": "Gantelets de protecteur de la halle",
       "ja": "ミーン・ディフェンダーガントレット"
@@ -19642,7 +19642,7 @@
     "maxQuality": 7900,
     "name": {
       "cn": "中庸制敌手铠",
-      "de": "Manufaktur-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Manufaktur-Panzerhandschuhe des Verstümmelns",
       "en": "Facet Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de la halle",
       "ja": "ミーン・スレイヤーガントレット"
@@ -19873,7 +19873,7 @@
     "maxQuality": 7900,
     "name": {
       "cn": "中庸蒸馏器",
-      "de": "Manufaktur-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Manufaktur-Destillierkolben",
       "en": "Facet Alembic",
       "fr": "Alambic de la halle",
       "ja": "ミーン・アレンビック"
@@ -20167,7 +20167,7 @@
     "maxQuality": 2790,
     "name": {
       "cn": "空贼御敌手铠（复制品）",
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung (Replik)",
+      "de": "Luftpiraten-Panzerhandschuhe der Verteidigung (Replik)",
       "en": "Replica Sky Pirate's Gauntlets of Fending",
       "fr": "Répliques de gantelets de protecteur de pirate des cieux",
       "ja": "レプリカ・スカイパイレーツ・ディフェンダーガントレット"
@@ -20230,7 +20230,7 @@
     "maxQuality": 2790,
     "name": {
       "cn": "空贼制敌手铠（复制品）",
-      "de": "Luftpiraten-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns (Replik)",
+      "de": "Luftpiraten-Panzerhandschuhe des Verstümmelns (Replik)",
       "en": "Replica Sky Pirate's Gauntlets of Maiming",
       "fr": "Répliques de gantelets d'abatteur de pirate des cieux",
       "ja": "レプリカ・スカイパイレーツ・スレイヤーガントレット"
@@ -20503,7 +20503,7 @@
     "maxQuality": 6480,
     "name": {
       "cn": "第二期重建用的蒸馏器",
-      "de": "Genist-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Genist-Destillierkolben",
       "en": "Grade 2 Skybuilders' Still",
       "fr": "Alambic de restauration (2e phase)",
       "ja": "第二次復興用の蒸留器"
@@ -20734,7 +20734,7 @@
     "maxQuality": 8500,
     "name": {
       "cn": "伊修加德新型御敌手铠",
-      "de": "Neo-Ishgarder Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Neo-Ishgarder Panzerhandschuhe der Verteidigung",
       "en": "Neo-Ishgardian Gauntlets of Fending",
       "fr": "Gantelets de protecteur néo-ishgardais",
       "ja": "ネオイシュガルディアン・ディフェンダーガントレット"
@@ -20965,7 +20965,7 @@
     "maxQuality": 8500,
     "name": {
       "cn": "唯美蒸馏器",
-      "de": "Ästhetischer De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Ästhetischer Destillierkolben",
       "en": "Aesthete's Alembic",
       "fr": "Alambic esthétique",
       "ja": "エースセチック・アレンビック"
@@ -21364,7 +21364,7 @@
     "maxQuality": 2880,
     "name": {
       "cn": "收藏用硬钢蒸馏器",
-      "de": "Edelstahl-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Edelstahl-Destillierkolben (Sammlerstück)",
       "en": "Rarefied High Steel Thermal Alembic",
       "fr": "Alambic thermique en acier noble collectionnable",
       "ja": "収集用のハイスチール・サーマルアレンビック"
@@ -21511,7 +21511,7 @@
     "maxQuality": 4200,
     "name": {
       "cn": "收藏用灵青手铠",
-      "de": "Seelenazurit-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he (Sammlerstück)",
+      "de": "Seelenazurit-Panzerhandschuhe (Sammlerstück)",
       "en": "Rarefied Bluespirit Gauntlets",
       "fr": "Gantelets en azuresprit collectionnables",
       "ja": "収集用のブルースピリットガントレット"
@@ -22225,7 +22225,7 @@
     "maxQuality": 4600,
     "name": {
       "cn": "收藏用矮人银蒸馏器",
-      "de": "Edelmithril-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Edelmithril-Destillierkolben (Sammlerstück)",
       "en": "Rarefied Mythril Alembic",
       "fr": "Alambic en mithril noble collectionnable",
       "ja": "収集用のハイミスリルアレンビック"
@@ -22351,7 +22351,7 @@
     "maxQuality": 15474,
     "name": {
       "cn": "第四期重建用的特供部队储物柜",
-      "de": "Sonderbestellte Himmelsang-Ge<SoftHyphen/>sell<SoftHyphen/>schaftstruhe",
+      "de": "Sonderbestellte Himmelsang-Gesellschaftstruhe",
       "en": "Grade 4 Artisanal Skybuilders' Company Chest",
       "fr": "Coffre de compagnie libre sur commande de restauration (4e phase)",
       "ja": "第四次復興用の特注カンパニーチェスト"
@@ -22435,7 +22435,7 @@
     "maxQuality": 9500,
     "name": {
       "cn": "总督御敌手铠",
-      "de": "Exarchen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Exarchen-Panzerhandschuhe der Verteidigung",
       "en": "Exarchic Gauntlets of Fending",
       "fr": "Gantelets de protecteur de l'exarchat",
       "ja": "エクサーク・ディフェンダーガントレット"
@@ -22519,7 +22519,7 @@
     "maxQuality": 9500,
     "name": {
       "cn": "总督制敌手铠",
-      "de": "Exarchen-Pan<SoftHyphen/>zer<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Exarchen-Panzerhandschuhe des Verstümmelns",
       "en": "Exarchic Gauntlets of Maiming",
       "fr": "Gantelets d'abatteur de l'exarchat",
       "ja": "エクサーク・スレイヤーガントレット"
@@ -23422,7 +23422,7 @@
     "maxQuality": 7200,
     "name": {
       "cn": "收藏用球粒陨石蒸馏器",
-      "de": "Chondrit-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Chondrit-Destillierkolben (Sammlerstück)",
       "en": "Rarefied Chondrite Alembic",
       "fr": "Alambic en chondrite collectionnable",
       "ja": "収集用のコンドライトアレンビック"
@@ -23611,7 +23611,7 @@
     "maxQuality": 12800,
     "name": {
       "cn": "条约蒸馏器",
-      "de": "Paktschließer-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Paktschließer-Destillierkolben",
       "en": "Pactmaker's Alembic",
       "fr": "Alambic des associés",
       "ja": "パクトメーカー・アレンビック"
@@ -24661,7 +24661,7 @@
     "maxQuality": 12900,
     "name": {
       "cn": "研究者蒸馏器",
-      "de": "Ermittler-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Ermittler-Destillierkolben",
       "en": "Indagator's Alembic",
       "fr": "Alambic d'indagator",
       "ja": "インダガトル・アレンビック"
@@ -24829,7 +24829,7 @@
     "maxQuality": 14040,
     "name": {
       "cn": "继业者御敌半指手套",
-      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he der Verteidigung",
+      "de": "Diadochen-Kurzfingerhandschuhe der Verteidigung",
       "en": "Diadochos Halfgloves of Fending",
       "fr": "Mitaines de protecteur de diadoque",
       "ja": "ディアドコス・ディフェンダーハーフグローブ"
@@ -24871,7 +24871,7 @@
     "maxQuality": 14040,
     "name": {
       "cn": "继业者制敌半指手套",
-      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Verstümmelns",
+      "de": "Diadochen-Kurzfingerhandschuhe des Verstümmelns",
       "en": "Diadochos Halfgloves of Maiming",
       "fr": "Mitaines d'abatteur de diadoque",
       "ja": "ディアドコス・スレイヤーハーフグローブ"
@@ -24913,7 +24913,7 @@
     "maxQuality": 14040,
     "name": {
       "cn": "继业者精准半指手套",
-      "de": "Diadochen-Kurz<SoftHyphen/>fin<SoftHyphen/>ger<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Zielens",
+      "de": "Diadochen-Kurzfingerhandschuhe des Zielens",
       "en": "Diadochos Halfgloves of Aiming",
       "fr": "Mitaines de pisteur de diadoque",
       "ja": "ディアドコス・レンジャーハーフグローブ"
@@ -25522,7 +25522,7 @@
     "maxQuality": 8200,
     "name": {
       "cn": "收藏用奥阔铬铁蒸馏器",
-      "de": "Bergchromeisen-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben (Sammlerstück)",
+      "de": "Bergchromeisen-Destillierkolben (Sammlerstück)",
       "en": "Rarefied Mountain Chromite Alembic",
       "fr": "Alambic en chromite d'Urqopacha collectionnable",
       "ja": "収集用のオルコクロマイト・アレンビック"
@@ -25984,7 +25984,7 @@
     "maxQuality": 17600,
     "name": {
       "cn": "Everseeker's Alembic",
-      "de": "Immersuch-De<SoftHyphen/>stil<SoftHyphen/>lier<SoftHyphen/>kol<SoftHyphen/>ben",
+      "de": "Immersuch-Destillierkolben",
       "en": "Everseeker's Alembic",
       "fr": "Alambic de bourlingueur invétéré",
       "ja": "エバーシーク・アレンビック"
