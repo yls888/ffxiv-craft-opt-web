@@ -18277,7 +18277,7 @@
     "maxQuality": 12000,
     "name": {
       "cn": "落雷绢巧匠无檐帽",
-      "de": "Donnersteppenseiden-Kappedes Handwerks",
+      "de": "Donnersteppenseiden-Kappe des Handwerks",
       "en": "Thunderyards Silk Cap of Crafting",
       "fr": "Casquette des créations en soie des Prés fulgurants",
       "ja": "サンダーヤードシルク・クラフターキャップ"
@@ -18394,6 +18394,48 @@
     "recipeId": 6233,
     "stars": 0,
     "suggestedCraftsmanship": 3876
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Frilly Curtains",
+      "de": "Entzückender Rüschenvorhang",
+      "en": "Frilly Curtains",
+      "fr": "Rideau coquet à dentelle",
+      "ja": "プリティーフリルカーテン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6246,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Indoor Awning",
+      "de": "Zimmer-Markise",
+      "en": "Indoor Awning",
+      "fr": "Store d'intérieur",
+      "ja": "インドア・オーニング"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6256,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 30,
@@ -35675,6 +35717,195 @@
     "qualityDivider": 150,
     "qualityModifier": 75,
     "recipeId": 35945,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Top of Crafting",
+      "de": "Immersuch-Oberteil des Handwerks",
+      "en": "Everseeker's Top of Crafting",
+      "fr": "Haut-de-corps des créations de bourlingueur invétéré",
+      "ja": "エバーシーク・クラフタートップス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35981,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Armguards of Crafting",
+      "de": "Immersuch-Armschützer des Handwerks",
+      "en": "Everseeker's Armguards of Crafting",
+      "fr": "Garde-bras des créations de bourlingueur invétéré",
+      "ja": "エバーシーク・クラフターアームガード"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35982,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Slops of Crafting",
+      "de": "Immersuch-Beinlinge des Handwerks",
+      "en": "Everseeker's Slops of Crafting",
+      "fr": "Trousses des créations de bourlingueur invétéré",
+      "ja": "エバーシーク・クラフタースロップ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35983,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Coat of Gathering",
+      "de": "Immersuch-Mantel des Eifers",
+      "en": "Everseeker's Coat of Gathering",
+      "fr": "Manteau des ressources de bourlingueur invétéré",
+      "ja": "エバーシーク・ギャザラーコート"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35986,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Kecks of Gathering",
+      "de": "Immersuch-Kecks des Eifers",
+      "en": "Everseeker's Kecks of Gathering",
+      "fr": "Bénard des ressources de bourlingueur invétéré",
+      "ja": "エバーシーク・ギャザラーケクス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35988,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Wintertide Trapper's Hat",
+      "de": "Winterliche Wollkappe",
+      "en": "Wintertide Trapper's Hat",
+      "fr": "Chapka hivernale",
+      "ja": "ウィンタータイド・ボアキャップ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36037,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Wintertide Blouson",
+      "de": "Winterlicher Blouson",
+      "en": "Wintertide Blouson",
+      "fr": "Blouson hivernal",
+      "ja": "ウィンタータイド・ブルゾン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36038,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Wintertide Culottes",
+      "de": "Winterliche Weithose",
+      "en": "Wintertide Culottes",
+      "fr": "Pantalon large hivernal",
+      "ja": "ウィンタータイド・ワイドパンツ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36039,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Wintertide Sheath Skirt",
+      "de": "Winterlicher Rock",
+      "en": "Wintertide Sheath Skirt",
+      "fr": "Jupe crayon hivernale",
+      "ja": "ウィンタータイド・タイトスカート"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36041,
     "stars": 1,
     "suggestedCraftsmanship": 4352
   }

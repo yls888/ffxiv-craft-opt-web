@@ -1345,5 +1345,35 @@
       "fr": "Steak de rroneek",
       "ja": "ロネークステーキ"
     }
+  },
+  {
+    "craftsmanship_percent": 4,
+    "craftsmanship_value": 120,
+    "cp_percent": 21,
+    "cp_value": 76,
+    "hq": false,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.720】Ceviche",
+      "de": "Ceviche",
+      "en": "Ceviche",
+      "fr": "Ceviche",
+      "ja": "セビーチェ"
+    }
+  },
+  {
+    "craftsmanship_percent": 5,
+    "craftsmanship_value": 150,
+    "cp_percent": 26,
+    "cp_value": 96,
+    "hq": true,
+    "id": "7b95acdf229",
+    "name": {
+      "cn": "【ilv.720】Ceviche",
+      "de": "Ceviche",
+      "en": "Ceviche",
+      "fr": "Ceviche",
+      "ja": "セビーチェ"
+    }
   }
 ]

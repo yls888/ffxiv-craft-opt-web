@@ -427,7 +427,7 @@
     "maxQuality": 210,
     "name": {
       "cn": "鞣革护腿",
-      "de": "Lederleggins",
+      "de": "Lederstiefel",
       "en": "Leather Leggings",
       "fr": "Jambières",
       "ja": "レギンス"
@@ -1036,7 +1036,7 @@
     "maxQuality": 480,
     "name": {
       "cn": "山羊革护腿",
-      "de": "Steinbockleder-Leggins",
+      "de": "Steinbockleder-Stiefel",
       "en": "Goatskin Leggings",
       "fr": "Jambières en cuir de bouquetin",
       "ja": "アルドゴートレギンス"
@@ -5698,7 +5698,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "长颈驼革强袭护腿",
-      "de": "Dhalmelleder-Leggins des Schlagens",
+      "de": "Dhalmelleder-Stiefel des Schlagens",
       "en": "Dhalmelskin Leggings of Striking",
       "fr": "Jambières d'agresseur en cuir de dhalmel",
       "ja": "ダルメルストライカーレギンス"
@@ -6118,7 +6118,7 @@
     "maxQuality": 2350,
     "name": {
       "cn": "长颈驼革游击护腿",
-      "de": "Dhalmelleder-Leggins des Spähens",
+      "de": "Dhalmelleder-Stiefel des Spähens",
       "en": "Dhalmelskin Leggings of Scouting",
       "fr": "Jambières d'éclaireur en cuir de dhalmel",
       "ja": "ダルメルスカウトレギンス"
@@ -10234,7 +10234,7 @@
     "maxQuality": 3763,
     "name": {
       "cn": "斯剑虎革制敌护腿",
-      "de": "Smilodonleder-Leggins des Verstümmelns",
+      "de": "Smilodonleder-Stiefel des Verstümmelns",
       "en": "Smilodonskin Leggings of Maiming",
       "fr": "Jambières d'abatteur en cuir de smilodon",
       "ja": "スミロドンスレイヤーレギンス"
@@ -17010,6 +17010,27 @@
     "suggestedCraftsmanship": 3876
   },
   {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Patchwork Sofa",
+      "de": "Lederflicken-Sofa",
+      "en": "Patchwork Sofa",
+      "fr": "Canapé en cuir bigarré",
+      "ja": "パッチワーク・レザーソファ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6248,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -23548,7 +23569,7 @@
     "maxQuality": 3800,
     "name": {
       "cn": "半熊革强袭护腿",
-      "de": "Hemicyonleder-Leggins des Schlagens",
+      "de": "Hemicyonleder-Stiefel des Schlagens",
       "en": "Hemiskin Leggings of Striking",
       "fr": "Jambières d'agresseur en cuir d'hemicyon",
       "ja": "ヘミキオン・ストライカーレギンス"
@@ -23611,7 +23632,7 @@
     "maxQuality": 3800,
     "name": {
       "cn": "半熊革精准护腿",
-      "de": "Hemicyonleder-Leggins des Zielens",
+      "de": "Hemicyonleder-Stiefel des Zielens",
       "en": "Hemiskin Leggings of Aiming",
       "fr": "Jambières de pisteur en cuir d'hemicyon",
       "ja": "ヘミキオン・レンジャーレギンス"
@@ -23674,7 +23695,7 @@
     "maxQuality": 3800,
     "name": {
       "cn": "半熊革游击护腿",
-      "de": "Hemicyonleder-Leggins des Spähens",
+      "de": "Hemicyonleder-Stiefel des Spähens",
       "en": "Hemiskin Leggings of Scouting",
       "fr": "Jambières d'éclaireur en cuir d'hemicyon",
       "ja": "ヘミキオン・スカウトレギンス"
@@ -34079,6 +34100,90 @@
     "qualityDivider": 150,
     "qualityModifier": 75,
     "recipeId": 35946,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Workboots of Crafting",
+      "de": "Immersuch-Arbeitsstiefel des Handwerks",
+      "en": "Everseeker's Workboots of Crafting",
+      "fr": "Bottes de travail des créations de bourlingueur invétéré",
+      "ja": "エバーシーク・クラフターワークブーツ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35984,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Gloves of Gathering",
+      "de": "Immersuch-Ar<SoftHyphen/>beits<SoftHyphen/>hand<SoftHyphen/>schu<SoftHyphen/>he des Eifers",
+      "en": "Everseeker's Gloves of Gathering",
+      "fr": "Gants de travail des ressources de bourlingueur invétéré",
+      "ja": "エバーシーク・ギャザラーワークグローブ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35987,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Shoes of Gathering",
+      "de": "Immersuch-Schuhe des Eifers",
+      "en": "Everseeker's Shoes of Gathering",
+      "fr": "Chaussures des ressources de bourlingueur invétéré",
+      "ja": "エバーシーク・ギャザラーシューズ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35989,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Wintertide Shoes",
+      "de": "Winterliche Schuhe",
+      "en": "Wintertide Shoes",
+      "fr": "Chaussures hivernales",
+      "ja": "ウィンタータイド・シューズ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36040,
     "stars": 1,
     "suggestedCraftsmanship": 4352
   }

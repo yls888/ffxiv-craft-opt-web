@@ -13384,7 +13384,7 @@
     "maxQuality": 9800,
     "name": {
       "cn": "深红木长枪",
-      "de": "Dunkelmahagoni-Lanze",
+      "de": "Dunkelmahagoni-Speer",
       "en": "Dark Mahogany Spear",
       "fr": "Hast en acajou sombre",
       "ja": "ダークマホガニー・スピア"
@@ -14383,6 +14383,174 @@
     "recipeId": 6232,
     "stars": 0,
     "suggestedCraftsmanship": 3876
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Botanical Loft",
+      "de": "Empore im botanischen Stil",
+      "en": "Botanical Loft",
+      "fr": "Mezzanine végétale",
+      "ja": "ボタニカルロフト"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6247,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Imitation Closet",
+      "de": "Schranktür-Imitation",
+      "en": "Imitation Closet",
+      "fr": "Imitiation de penderie",
+      "ja": "イミテーション・クローゼットドア"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6251,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Rail-and-stile Partition",
+      "de": "Offene Partition",
+      "en": "Rail-and-stile Partition",
+      "fr": "Partition ouverte",
+      "ja": "オープン・パーティション"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6254,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Tea Caddy Cabinet",
+      "de": "Teedosenregal",
+      "en": "Tea Caddy Cabinet",
+      "fr": "Étagère à thé",
+      "ja": "ティーキャディ・シェルフ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6255,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Cushioned Bench",
+      "de": "Sofabank",
+      "en": "Cushioned Bench",
+      "fr": "Banc confortable",
+      "ja": "クッションベンチ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6257,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Tropical Canopy Bed",
+      "de": "Tropisches Himmelbett",
+      "en": "Tropical Canopy Bed",
+      "fr": "Lit à baldaquin tropical",
+      "ja": "トロピカル・キャノピーベッド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6258,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Far Eastern Gazebo",
+      "de": "Fernöstlicher Pavillon ",
+      "en": "Far Eastern Gazebo",
+      "fr": "Pavillon de jardin oriental",
+      "ja": "東方東屋"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6259,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Royal Bed",
+      "de": "Königliches Bett",
+      "en": "Royal Bed",
+      "fr": "Lit royal",
+      "ja": "ロイヤルベッド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6260,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 30,
@@ -27676,5 +27844,68 @@
     "recipeId": 35907,
     "stars": 2,
     "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Fishing Rod",
+      "de": "Immersuch-Angelrute",
+      "en": "Everseeker's Fishing Rod",
+      "fr": "Canne à pêche de bourlingueur invétéré",
+      "ja": "エバーシーク・フィッシングロッド"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35969,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Grinding Wheel",
+      "de": "Immersuch-Schleifrad",
+      "en": "Everseeker's Grinding Wheel",
+      "fr": "Meule de bourlingueur invétéré",
+      "ja": "エバーシーク・グラインディングホイール"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35973,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Spinning Wheel",
+      "de": "Immersuch-Spinnrad",
+      "en": "Everseeker's Spinning Wheel",
+      "fr": "Rouet de bourlingueur invétéré",
+      "ja": "エバーシーク・スピニングホイール"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35975,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
   }
 ]

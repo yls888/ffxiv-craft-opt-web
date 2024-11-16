@@ -24388,7 +24388,7 @@
     "maxQuality": 8200,
     "name": {
       "cn": "混金项环",
-      "de": "Lar-Halberge",
+      "de": "Lar-Halsberge",
       "en": "Lar Choker",
       "fr": "Ras de cou en lar",
       "ja": "ラァー・チョーカー"
@@ -24538,7 +24538,7 @@
       "de": "Il Mheg-Laube",
       "en": "Il Mheg Arbor",
       "fr": "Tonnelle d'Il Mheg",
-      "ja": "イルメグ・アーバー"
+      "ja": "イル・メグ・アーバー"
     },
     "progressDivider": 158,
     "progressModifier": 100,
@@ -24589,6 +24589,27 @@
     "recipeId": 6235,
     "stars": 0,
     "suggestedCraftsmanship": 3876
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Wood-fired Range",
+      "de": "Holzofen",
+      "en": "Wood-fired Range",
+      "fr": "Poêle à bois",
+      "ja": "ウッドファイアオーブン"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6245,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 30,
@@ -41515,5 +41536,152 @@
     "recipeId": 35942,
     "stars": 1,
     "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Needle",
+      "de": "Immersuch-Nadel",
+      "en": "Everseeker's Needle",
+      "fr": "Aiguille de bourlingueur invétéré",
+      "ja": "エバーシーク・ニードル"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35964,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Headgear of Crafting",
+      "de": "Immersuch-Kopfmontur des Handwerks",
+      "en": "Everseeker's Headgear of Crafting",
+      "fr": "Couvre-chef des créations de bourlingueur invétéré",
+      "ja": "エバーシーク・クラフターヘッドマウント"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35980,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Everseeker's Goggles of Gathering",
+      "de": "Immersuch-Schutzbrille des Eifers",
+      "en": "Everseeker's Goggles of Gathering",
+      "fr": "Lunettes des ressources de bourlingueur invétéré",
+      "ja": "エバーシーク・ギャザラーゴーグル"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35985,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Adamant Cane",
+      "de": "Zeta-Diamantyn-Stock",
+      "en": "Adamant Cane",
+      "fr": "Canne adamantine",
+      "ja": "アダマンティン・ケーン"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 36049,
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Adamant Rod",
+      "de": "Zeta-Diamantyn-Stab",
+      "en": "Adamant Rod",
+      "fr": "Sceptre adamantin",
+      "ja": "アダマンティン・ロッド"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 36050,
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Adamant Planisphere",
+      "de": "Zeta-Diamantyn-Planisphäre",
+      "en": "Adamant Planisphere",
+      "fr": "Planisphère adamantin",
+      "ja": "アダマンティン・プラニスフィア"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 36053,
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Adamant Hanger",
+      "de": "Zeta-Diamantyn-Degen",
+      "en": "Adamant Hanger",
+      "fr": "Ballante adamantine",
+      "ja": "アダマンティン・ハンガー"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 36055,
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
   }
 ]

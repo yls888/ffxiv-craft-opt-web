@@ -13608,6 +13608,216 @@
     "suggestedCraftsmanship": 3876
   },
   {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Red Cattleya Corsage",
+      "de": "Rote Cattleya-Haarspange",
+      "en": "Red Cattleya Corsage",
+      "fr": "Barrette cattleyas rouge",
+      "ja": "カトレアオーナメント:レッド"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6236,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Blue Cattleya Corsage",
+      "de": "Blaue Cattleya-Haarspange",
+      "en": "Blue Cattleya Corsage",
+      "fr": "Barrette cattleyas bleu",
+      "ja": "カトレアオーナメント:ブルー"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6237,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Yellow Cattleya Corsage",
+      "de": "Gelbe Cattleya-Haarspange",
+      "en": "Yellow Cattleya Corsage",
+      "fr": "Barrette cattleyas jaune",
+      "ja": "カトレアオーナメント:イエロー"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6238,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Green Cattleya Corsage",
+      "de": "Grüne Cattleya-Haarspange",
+      "en": "Green Cattleya Corsage",
+      "fr": "Barrette cattleyas vert",
+      "ja": "カトレアオーナメント:グリーン"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6239,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Orange Cattleya Corsage",
+      "de": "Orange Cattleya-Haarspange",
+      "en": "Orange Cattleya Corsage",
+      "fr": "Barrette cattleyas orange",
+      "ja": "カトレアオーナメント:オレンジ"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6240,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Purple Cattleya Corsage",
+      "de": "Violette Cattleya-Haarspange",
+      "en": "Purple Cattleya Corsage",
+      "fr": "Barrette cattleyas violet",
+      "ja": "カトレアオーナメント:パープル"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6241,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "White Cattleya Corsage",
+      "de": "Weiße Cattleya-Haarspange",
+      "en": "White Cattleya Corsage",
+      "fr": "Barrette cattleyas blanc",
+      "ja": "カトレアオーナメント:ホワイト"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6242,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Black Cattleya Corsage",
+      "de": "Schwarze Cattleya-Haarspange",
+      "en": "Black Cattleya Corsage",
+      "fr": "Barrette cattleyas noir",
+      "ja": "カトレアオーナメント:ブラック"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6243,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 85,
+    "difficulty": 3000,
+    "durability": 80,
+    "level": 535,
+    "maxQuality": 6700,
+    "name": {
+      "cn": "Rainbow Cattleya Corsage",
+      "de": "Mehrfarbige Cattleya-Haarspange",
+      "en": "Rainbow Cattleya Corsage",
+      "fr": "Barrette cattleyas multicolores",
+      "ja": "カトレアオーナメント:ブレンド"
+    },
+    "progressDivider": 125,
+    "progressModifier": 100,
+    "qualityDivider": 109,
+    "qualityModifier": 100,
+    "recipeId": 6244,
+    "stars": 0,
+    "suggestedCraftsmanship": 2549
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Grassy Rug",
+      "de": "Steppen-Teppich",
+      "en": "Grassy Rug",
+      "fr": "Tapis herbacé",
+      "ja": "グラスランド・ラグ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6250,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
     "baseLevel": 30,
     "difficulty": 51,
     "durability": 70,
@@ -21988,10 +22198,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2050,
+    "difficulty": 2152,
     "durability": 70,
     "level": 450,
-    "maxQuality": 7900,
+    "maxQuality": 9480,
     "name": {
       "cn": "魔咒手稿",
       "de": "Galdrabok",
@@ -22009,10 +22219,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2050,
+    "difficulty": 2152,
     "durability": 70,
     "level": 450,
-    "maxQuality": 7900,
+    "maxQuality": 9480,
     "name": {
       "cn": "实用主义",
       "de": "Pragmatik",
@@ -22639,10 +22849,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2800,
+    "difficulty": 3500,
     "durability": 70,
     "level": 480,
-    "maxQuality": 8500,
+    "maxQuality": 11900,
     "name": {
       "cn": "伊修加德新型魔导书",
       "de": "Neo-Ishgarder Grimoire",
@@ -22660,10 +22870,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 2800,
+    "difficulty": 3500,
     "durability": 70,
     "level": 480,
-    "maxQuality": 8500,
+    "maxQuality": 11900,
     "name": {
       "cn": "伊修加德新型魔导典",
       "de": "Neo-Ishgarder Kodex",
@@ -24340,10 +24550,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 3600,
+    "difficulty": 5580,
     "durability": 70,
     "level": 510,
-    "maxQuality": 9500,
+    "maxQuality": 19000,
     "name": {
       "cn": "总督魔导书",
       "de": "Exarchen-Grimoire",
@@ -24361,10 +24571,10 @@
   },
   {
     "baseLevel": 80,
-    "difficulty": 3600,
+    "difficulty": 5580,
     "durability": 70,
     "level": 510,
-    "maxQuality": 9500,
+    "maxQuality": 19000,
     "name": {
       "cn": "总督魔导典",
       "de": "Exarchen-Kodex",
@@ -27928,5 +28138,110 @@
     "recipeId": 35936,
     "stars": 1,
     "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 3783,
+    "durability": 35,
+    "level": 720,
+    "maxQuality": 12848,
+    "name": {
+      "cn": "Optical Nanofiber",
+      "de": "Optische Nanofasern",
+      "en": "Optical Nanofiber",
+      "fr": "Nanofibres optiques",
+      "ja": "オプティカルナノファイバー"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35957,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Paved in Solitude Orchestrion Roll",
+      "de": "Notenrolle von „Paved in Solitude“",
+      "en": "Paved in Solitude Orchestrion Roll",
+      "fr": "Rouleau “Paved in Solitude”",
+      "ja": "オーケストリオン譜:ひとつの路"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36035,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 70,
+    "level": 700,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Paved with Resolve Orchestrion Roll",
+      "de": "Notenrolle von „Paved with Resolve“",
+      "en": "Paved with Resolve Orchestrion Roll",
+      "fr": "Rouleau “Paved with Resolve”",
+      "ja": "オーケストリオン譜:ふたりの路"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 36036,
+    "stars": 1,
+    "suggestedCraftsmanship": 4352
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Adamant Index",
+      "de": "Zeta-Diamantyn-Index",
+      "en": "Adamant Index",
+      "fr": "Index adamantin",
+      "ja": "アダマンティン・インデックス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 36051,
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
+  },
+  {
+    "baseLevel": 80,
+    "difficulty": 2050,
+    "durability": 70,
+    "level": 450,
+    "maxQuality": 7900,
+    "name": {
+      "cn": "Adamant Codex",
+      "de": "Zeta-Diamantyn-Kodex",
+      "en": "Adamant Codex",
+      "fr": "Codex adamantin",
+      "ja": "アダマンティン・コーデックス"
+    },
+    "progressDivider": 110,
+    "progressModifier": 80,
+    "qualityDivider": 90,
+    "qualityModifier": 70,
+    "recipeId": 36052,
+    "stars": 2,
+    "suggestedCraftsmanship": 2140
   }
 ]

@@ -7589,7 +7589,7 @@
     "name": {
       "cn": "巧克力奶油蛋糕",
       "de": "Gâteau au Chocolat",
-      "en": "Gateau Au Chocolat",
+      "en": "Gateau au Chocolat",
       "fr": "Gâteau au chocolat",
       "ja": "ガトーショコラ"
     },
@@ -8041,6 +8041,48 @@
     "recipeId": 6228,
     "stars": 0,
     "suggestedCraftsmanship": 3876
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Popoto Chips",
+      "de": "Frittierte Toffelscheiben",
+      "en": "Popoto Chips",
+      "fr": "Popotos chips",
+      "ja": "ポポトチップス"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6249,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 6600,
+    "durability": 80,
+    "level": 690,
+    "maxQuality": 12000,
+    "name": {
+      "cn": "Kugane-yaki",
+      "de": "Kuganeyaki",
+      "en": "Kugane-yaki",
+      "fr": "Kuganeyaki",
+      "ja": "クガネ焼"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 6253,
+    "stars": 0,
+    "suggestedCraftsmanship": 4207
   },
   {
     "baseLevel": 30,
@@ -17932,5 +17974,47 @@
     "recipeId": 35932,
     "stars": 2,
     "suggestedCraftsmanship": 4740
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Ceviche",
+      "de": "Ceviche",
+      "en": "Ceviche",
+      "fr": "Ceviche",
+      "ja": "セビーチェ"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35990,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 100,
+    "difficulty": 8050,
+    "durability": 70,
+    "level": 720,
+    "maxQuality": 17600,
+    "name": {
+      "cn": "Cloudsail Meuniere",
+      "de": "Wolkensegler nach Müllerinart",
+      "en": "Cloudsail Meuniere",
+      "fr": "Voilier à la meunière",
+      "ja": "セイルフィッシュムニエル"
+    },
+    "progressDivider": 170,
+    "progressModifier": 90,
+    "qualityDivider": 150,
+    "qualityModifier": 75,
+    "recipeId": 35991,
+    "stars": 2,
+    "suggestedCraftsmanship": 4780
   }
 ]
