@@ -10046,7 +10046,7 @@
     "name": {
       "cn": "红色蝴蝶兰耳饰",
       "de": "Roter Mondorchideen-Ohrring",
-      "en": "Red Moth Orchid Corsage",
+      "en": "Red Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon rouge",
       "ja": "胡蝶蘭耳飾り:紅"
     },
@@ -10067,7 +10067,7 @@
     "name": {
       "cn": "蓝色蝴蝶兰耳饰",
       "de": "Blauer Mondorchideen-Ohrring",
-      "en": "Blue Moth Orchid Corsage",
+      "en": "Blue Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon bleue",
       "ja": "胡蝶蘭耳飾り:蒼"
     },
@@ -10088,7 +10088,7 @@
     "name": {
       "cn": "黄色蝴蝶兰耳饰",
       "de": "Gelber Mondorchideen-Ohrring",
-      "en": "Yellow Moth Orchid Corsage",
+      "en": "Yellow Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon jaune",
       "ja": "胡蝶蘭耳飾り:黄"
     },
@@ -10109,7 +10109,7 @@
     "name": {
       "cn": "绿色蝴蝶兰耳饰",
       "de": "Grüner Mondorchideen-Ohrring",
-      "en": "Green Moth Orchid Corsage",
+      "en": "Green Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon verte",
       "ja": "胡蝶蘭耳飾り:翠"
     },
@@ -10130,7 +10130,7 @@
     "name": {
       "cn": "橙色蝴蝶兰耳饰",
       "de": "Oranger Mondorchideen-Ohrring",
-      "en": "Orange Moth Orchid Corsage",
+      "en": "Orange Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon orange",
       "ja": "胡蝶蘭耳飾り:橙"
     },
@@ -10151,7 +10151,7 @@
     "name": {
       "cn": "紫色蝴蝶兰耳饰",
       "de": "Violetter Mondorchideen-Ohrring",
-      "en": "Purple Moth Orchid Corsage",
+      "en": "Purple Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon violette",
       "ja": "胡蝶蘭耳飾り:紫"
     },
@@ -10172,7 +10172,7 @@
     "name": {
       "cn": "白色蝴蝶兰耳饰",
       "de": "Weißer Mondorchideen-Ohrring",
-      "en": "White Moth Orchid Corsage",
+      "en": "White Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon blanche",
       "ja": "胡蝶蘭耳飾り:白"
     },
@@ -10193,7 +10193,7 @@
     "name": {
       "cn": "黑色蝴蝶兰耳饰",
       "de": "Schwarzer Mondorchideen-Ohrring",
-      "en": "Black Moth Orchid Corsage",
+      "en": "Black Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon noire",
       "ja": "胡蝶蘭耳飾り:黒"
     },
@@ -10214,7 +10214,7 @@
     "name": {
       "cn": "混色蝴蝶兰耳饰",
       "de": "Bunter Mondorchideen-Ohrring",
-      "en": "Rainbow Moth Orchid Corsage",
+      "en": "Rainbow Moth Orchid Earring",
       "fr": "Boucle d'oreille orchidée papillon multicolore",
       "ja": "胡蝶蘭耳飾り:彩"
     },
@@ -28159,6 +28159,111 @@
     "recipeId": 35957,
     "stars": 2,
     "suggestedCraftsmanship": 4780
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3500,
+    "durability": 60,
+    "level": 560,
+    "maxQuality": 5760,
+    "name": {
+      "cn": "Rail Grindstone",
+      "de": "Eisenbahner-Schleifrad",
+      "en": "Rail Grindstone",
+      "fr": "Table d'usinage pour locomotive",
+      "ja": "新車両の研磨道具"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 36023,
+    "stars": 0,
+    "suggestedCraftsmanship": 2805
+  },
+  {
+    "baseLevel": 90,
+    "difficulty": 3700,
+    "durability": 60,
+    "level": 570,
+    "maxQuality": 5920,
+    "name": {
+      "cn": "Plush Carriage Seating",
+      "de": "Polsterbank",
+      "en": "Plush Carriage Seating",
+      "fr": "Banquette de train confortable",
+      "ja": "快適な座席シート"
+    },
+    "progressDivider": 130,
+    "progressModifier": 90,
+    "qualityDivider": 115,
+    "qualityModifier": 80,
+    "recipeId": 36024,
+    "stars": 1,
+    "suggestedCraftsmanship": 2924
+  },
+  {
+    "baseLevel": 91,
+    "difficulty": 4000,
+    "durability": 60,
+    "level": 650,
+    "maxQuality": 6560,
+    "name": {
+      "cn": "Map Printing Essentials",
+      "de": "Kartendruckutensil",
+      "en": "Map Printing Essentials",
+      "fr": "Articles d'impression",
+      "ja": "案内地図の印刷用具"
+    },
+    "progressDivider": 143,
+    "progressModifier": 100,
+    "qualityDivider": 123,
+    "qualityModifier": 100,
+    "recipeId": 36025,
+    "stars": 0,
+    "suggestedCraftsmanship": 3366
+  },
+  {
+    "baseLevel": 92,
+    "difficulty": 4250,
+    "durability": 60,
+    "level": 653,
+    "maxQuality": 6880,
+    "name": {
+      "cn": "Engineer's Supply Kit",
+      "de": "Eisenbahner-Werkzeugkiste",
+      "en": "Engineer's Supply Kit",
+      "fr": "Caisse à outils pro<SoftHyphen/>fes<SoftHyphen/>sion<SoftHyphen/>nels",
+      "ja": "技師用の必須用具"
+    },
+    "progressDivider": 146,
+    "progressModifier": 100,
+    "qualityDivider": 126,
+    "qualityModifier": 100,
+    "recipeId": 36026,
+    "stars": 0,
+    "suggestedCraftsmanship": 3485
+  },
+  {
+    "baseLevel": 93,
+    "difficulty": 4500,
+    "durability": 60,
+    "level": 656,
+    "maxQuality": 7200,
+    "name": {
+      "cn": "Railroad Repair Kit",
+      "de": "Gleisreparaturset",
+      "en": "Railroad Repair Kit",
+      "fr": "Portion de voie ferrée pour la rénovation",
+      "ja": "線路復旧用の資材"
+    },
+    "progressDivider": 149,
+    "progressModifier": 100,
+    "qualityDivider": 129,
+    "qualityModifier": 100,
+    "recipeId": 36027,
+    "stars": 0,
+    "suggestedCraftsmanship": 3587
   },
   {
     "baseLevel": 100,
