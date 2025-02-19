@@ -14391,7 +14391,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Botanical Loft",
+      "cn": "园艺夹层楼板",
       "de": "Empore im botanischen Stil",
       "en": "Botanical Loft",
       "fr": "Mezzanine végétale",
@@ -14412,7 +14412,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Imitation Closet",
+      "cn": "仿制衣柜门",
       "de": "Schranktür-Imitation",
       "en": "Imitation Closet",
       "fr": "Imitiation de penderie",
@@ -14433,7 +14433,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Rail-and-stile Partition",
+      "cn": "槛框隔离墙",
       "de": "Offene Partition",
       "en": "Rail-and-stile Partition",
       "fr": "Partition ouverte",
@@ -14454,7 +14454,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Tea Caddy Cabinet",
+      "cn": "茶罐柜",
       "de": "Teedosenregal",
       "en": "Tea Caddy Cabinet",
       "fr": "Étagère à thé",
@@ -14475,7 +14475,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Cushioned Bench",
+      "cn": "靠垫长椅",
       "de": "Sofabank",
       "en": "Cushioned Bench",
       "fr": "Banc confortable",
@@ -14496,7 +14496,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Tropical Canopy Bed",
+      "cn": "热带风情四柱床",
       "de": "Tropisches Himmelbett",
       "en": "Tropical Canopy Bed",
       "fr": "Lit à baldaquin tropical",
@@ -14517,7 +14517,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Far Eastern Gazebo",
+      "cn": "东方东屋",
       "de": "Fernöstlicher Pavillon ",
       "en": "Far Eastern Gazebo",
       "fr": "Pavillon de jardin oriental",
@@ -14538,7 +14538,7 @@
     "level": 690,
     "maxQuality": 12000,
     "name": {
-      "cn": "Royal Bed",
+      "cn": "王室睡床",
       "de": "Königliches Bett",
       "en": "Royal Bed",
       "fr": "Lit royal",
@@ -27852,7 +27852,7 @@
     "level": 720,
     "maxQuality": 17600,
     "name": {
-      "cn": "Everseeker's Fishing Rod",
+      "cn": "探求永恒钓竿",
       "de": "Immersuch-Angelrute",
       "en": "Everseeker's Fishing Rod",
       "fr": "Canne à pêche de bourlingueur invétéré",
@@ -27873,7 +27873,7 @@
     "level": 720,
     "maxQuality": 17600,
     "name": {
-      "cn": "Everseeker's Grinding Wheel",
+      "cn": "探求永恒砂轮机",
       "de": "Immersuch-Schleifrad",
       "en": "Everseeker's Grinding Wheel",
       "fr": "Meule de bourlingueur invétéré",
@@ -27894,7 +27894,7 @@
     "level": 720,
     "maxQuality": 17600,
     "name": {
-      "cn": "Everseeker's Spinning Wheel",
+      "cn": "探求永恒纺车",
       "de": "Immersuch-Spinnrad",
       "en": "Everseeker's Spinning Wheel",
       "fr": "Rouet de bourlingueur invétéré",
