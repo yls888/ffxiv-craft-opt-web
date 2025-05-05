@@ -44,13 +44,13 @@
     return promise;
   };
 
-  RecipeLibraryService.prototype.recipeForClassByName = function (lang, cls, name) {
+  RecipeLibraryService.prototype.recipeForClassByName = function (lang, cls, name, recipeId) {
     if (!angular.isDefined(lang)) lang = 'en';
     return this.recipesForClass(lang, cls).then(
       function (recipes) {
         for (var i = 0; i < recipes.length; i++) {
           var recipe = recipes[i];
-          if (recipe.name == name) {
+          if (recipe.recipeId == recipeId) {
             return recipe;
           }
         }

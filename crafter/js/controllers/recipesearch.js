@@ -59,7 +59,7 @@
       });
     }
 
-    function recipeSelected(name) {
+    function recipeSelected(name, recipeId) {
       // force menu to close and search field to lose focus
       // improves behaviour on touch devices
       var root = document.getElementById('recipe-menu-root');
@@ -69,7 +69,7 @@
       document.getElementById('recipe-search-text').blur();
 
       var cls = $scope.recipe.cls;
-      var p = angular.copy(_recipeLibrary.recipeForClassByName($translate.use(), cls, name));
+      var p = angular.copy(_recipeLibrary.recipeForClassByName($translate.use(), cls, name, recipeId));
       p.then(function (recipe) {
         recipe = angular.copy(recipe);
         recipe.cls = cls;

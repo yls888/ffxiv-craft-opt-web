@@ -48,8 +48,8 @@
               </li>
               <li ng-hide="recipeSearch.loading" ng-repeat="r in recipeSearch.list | orderBy:recipeSearch.order"
                 ng-class="{active: $index === recipeSearch.selected}" id="recipeSearchElement{{$index}}"
-                ng-mouseover="recipeSearch.selected=$index" ng-click="recipeSelected(r.name)">
-                <a ng-click="recipeSelected(r.name)">[{{r.baseLevel}}{{'*'.repeat(r.stars)}}] {{r.name}}</a>
+                ng-mouseover="recipeSearch.selected=$index" ng-click="recipeSelected(r.name, r.recipeId)">
+                <a ng-click="recipeSelected(r.name, r.recipeId)">[{{r.baseLevel}}{{'*'.repeat(r.stars)}}] {{r.name}}</a>
               </li>
             </ul>
           </div>
